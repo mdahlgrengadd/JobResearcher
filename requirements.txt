@@ -1,5 +1,5 @@
 streamlit 
 pandas 
 plotly
-wordcloud==1.9.2
-matplotlib==3.8.2
+wordcloud
+matplotlib
