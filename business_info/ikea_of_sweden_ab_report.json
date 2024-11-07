@@ -1,0 +1,182 @@
+{
+  "company_info": {
+    "name": "IKEA of Sweden AB",
+    "descriptions": [
+      "IKEA of Sweden develops the IKEA range for stores and customers worldwide",
+      "IKEA of Sweden is responsible for developing the IKEA range and making it available to stores and customers worldwide"
+    ],
+    "industries": [
+      "Retail, Home Furnishing"
+    ],
+    "locations": [
+      "Malmö"
+    ],
+    "skills": [
+      "CI/CD",
+      "Fastify",
+      "Go",
+      "Postgres DB",
+      "GitHub",
+      "CDK",
+      "Web technologies",
+      "Software development principles",
+      "C#",
+      "TypeScript",
+      "MongoDB",
+      "GitHub Actions",
+      "GCP",
+      "Linux",
+      ".NET",
+      "Java",
+      "DevOps",
+      "Terraform",
+      "React.js",
+      "CloudFormation",
+      "Cloud services",
+      "Docker",
+      "Full-stack development",
+      "Node.js",
+      "Azure Cosmos DB",
+      "AWS"
+    ],
+    "job_titles": [
+      "Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av IKEA of Sweden AB\n\n1. Företagets storlek och antal anställda:\n- Lokaliserat i Älmhult, Sverige\n- Approximately 2,000 anställda på denna specifika plats [Källa: Dun & Bradstreet]\n\n2. Omsättning och finansiell information:\n- Genererar ca $941.59 miljoner i försäljning [Källa: Dun & Bradstreet]\n- Inter IKEA Group nådde totala intäkter på 29.1 miljarder EUR [Källa: Inter IKEA Group Performance]\n\n3. Företagets värdegrund och kultur:\n- Grundat 1943 av Ingvar Kamprad\n- Fokus på kostnadeffektivitet och globalt samarbete\n- Utvecklar IKEA-sortimentet för butiker världen över\n\n4. Huvudsakliga produkter/tjänster:\n- Utveckling av möbel- och heminredningssortiment\n- Möbelproduktion genom dotterbolaget Swedwood\n- Global produktutveckling och tillgängliggörande för butiker och kunder\n\n5. Teknisk stack och kompetensområden:\nEftersökta tekniska kompetenser inkluderar:\n- Programmeringsspråk: Go, C#, TypeScript, Java, Node.js\n- Databaser: Postgres, MongoDB, Azure Cosmos DB\n- Molntjänster: GCP, AWS, Azure\n- DevOps-verktyg: CI/CD, Docker, Terraform, GitHub Actions\n- Webbutveckling: React.js, Web technologies\n- Infrastruktur: CDK, CloudFormation, Linux\n\n6. Nyliga nyheter/utveckling:\n- Fortsatt global expansion\n- 422 butiker i över 50 marknader\n- Pågående digitalisering och teknologisk utveckling\n\n[Källor: Wikipedia, Forbes, Dun & Bradstreet, Inter IKEA Group, jobbannonser]",
+  "search_results": [
+    {
+      "title": "IKEA - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IKEA",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Although <strong>IKEA</strong> originated in <strong>Sweden</strong>, their household products and furniture products are manufactured in many different countries, in order to achieve cost efficiency. For most of its products, the final assembly is performed by the end-user (consumer). Swedwood, an <strong>IKEA</strong> subsidiary, produces all of the <strong>company</strong>&#x27;s wood-based products, with the largest Swedwood factory located in Southern Poland. According to the subsidiary, over 16,000 <strong>employees</strong> ...",
+      "page_age": "2024-11-06T10:49:04",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/IKEA",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › IKEA"
+      },
+      "age": "15 hours ago"
+    },
+    {
+      "title": "IKEA | Company Overview & News",
+      "url": "https://www.forbes.com/companies/ikea/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>IKEA</strong> was founded in <strong>Sweden</strong> in 1943 by 17-year-old Ingvar Kamprad. <strong>IKEA</strong> operates 422 stores in more than 50 markets. Nearly 70% of the stores located in",
+      "profile": {
+        "name": "IKEA",
+        "url": "https://www.forbes.com/companies/ikea/",
+        "long_name": "forbes.com",
+        "img": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "forbes.com",
+        "hostname": "www.forbes.com",
+        "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+        "path": "› companies  › ikea"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/p5MiQUX0cOzOBLT4BLM6nZdbnGutbRXIrwAZVfQ95s0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9yYmVzLmNvbS9u/by1waWMv",
+        "original": "https://www.forbes.com/no-pic/",
+        "logo": false
+      }
+    },
+    {
+      "title": "IKEA of Sweden AB Company Profile | Älmhult, Kronoberg, Sweden | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.ikea_of_sweden_ab.3ec0c03ec59461b8a88a8dc30f83507e.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "IKEA of Sweden AB has 2,000 employees at this location and generates <strong>$941.59 million</strong> in sales (USD).",
+      "profile": {
+        "name": "Dnb",
+        "url": "https://www.dnb.com/business-directory/company-profiles.ikea_of_sweden_ab.3ec0c03ec59461b8a88a8dc30f83507e.html",
+        "long_name": "dnb.com",
+        "img": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dnb.com",
+        "hostname": "www.dnb.com",
+        "favicon": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8",
+        "path": "  › home  › business directory  › administrative and support and waste management and remediation services  › administrative and support services  › business support services  › sweden  › kronoberg  › älmhult"
+      }
+    },
+    {
+      "title": "Company IKEA of Sweden AB in Älmhult -revenue, balance sheet, financial results - / | verif.com",
+      "url": "https://www.verif.com/en/company/IKEA-of-Sweden-AB-263d36819b4199e0e8181cd61beca87cab75e6292d91888da1b2540630f9ee52/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Get in one click every <strong>information</strong> <strong>on</strong> <strong>IKEA</strong> <strong>of</strong> <strong>Sweden</strong> <strong>AB</strong> : <strong>Revenue</strong>, leaders, balance sheet, financial key numbers",
+      "profile": {
+        "name": "IKEA of Sweden AB",
+        "url": "https://www.verif.com/en/company/IKEA-of-Sweden-AB-263d36819b4199e0e8181cd61beca87cab75e6292d91888da1b2540630f9ee52/",
+        "long_name": "verif.com",
+        "img": "https://imgs.search.brave.com/J9LoIpypdgyVIb4sSm9bgsJzz8m2D2OLe6i7k-nawiQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFlNzc2OGUx/M2I5M2UzMmQ1YmYy/NTQ2MjYwY2RmY2M2/MmZmMmVmYTdmMjZh/YTc4NTU4MGViY2Ew/ZDVmZTM3My93d3cu/dmVyaWYuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "verif.com",
+        "hostname": "www.verif.com",
+        "favicon": "https://imgs.search.brave.com/J9LoIpypdgyVIb4sSm9bgsJzz8m2D2OLe6i7k-nawiQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFlNzc2OGUx/M2I5M2UzMmQ1YmYy/NTQ2MjYwY2RmY2M2/MmZmMmVmYTdmMjZh/YTc4NTU4MGViY2Ew/ZDVmZTM3My93d3cu/dmVyaWYuY29tLw",
+        "path": "› en  › company  › IKEA-of-Sweden-AB-263d36819b4199e0e8181cd61beca87cab75e6292d91888da1b2540630f9ee52"
+      }
+    },
+    {
+      "title": "Performance - Inter IKEA Group",
+      "url": "https://www.inter.ikea.com/en/performance",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "IKEA franchisees purchase products from Inter IKEA Group companies and pay a franchisee fee based on retail sales. Inter IKEA Group itself reached total revenues of <strong>EUR 29.1 billion</strong> (including wholesale sales to retailers, franchise fees and the retail sales of the IKEA Delft store) and a net ...",
+      "profile": {
+        "name": "Ikea",
+        "url": "https://www.inter.ikea.com/en/performance",
+        "long_name": "inter.ikea.com",
+        "img": "https://imgs.search.brave.com/qyR6uSoXYOnpxt_yfLdpaBmILButE6-BQlGkehMKGao/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzNhMWFlNDA4/OTk0NjgzZTkxN2Iy/M2M0NzY1M2QxZWQy/MmVhYjQ3MmFmZmJl/MmRhMzQ0NmFjMjg3/NDE5ZGJiMy93d3cu/aW50ZXIuaWtlYS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "inter.ikea.com",
+        "hostname": "www.inter.ikea.com",
+        "favicon": "https://imgs.search.brave.com/qyR6uSoXYOnpxt_yfLdpaBmILButE6-BQlGkehMKGao/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzNhMWFlNDA4/OTk0NjgzZTkxN2Iy/M2M0NzY1M2QxZWQy/MmVhYjQ3MmFmZmJl/MmRhMzQ0NmFjMjg3/NDE5ZGJiMy93d3cu/aW50ZXIuaWtlYS5j/b20v",
+        "path": "› en  › performance"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/4J6cCpO8GFWDZndQC-bObhVXbBMdKwjoMy7b3E43E5U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aW50ZXIuaWtlYS5j/b20vLS9tZWRpYS9p/bnRlcmlrZWEvaG9t/ZXBhZ2Vfbm92X2lu/dGVyaWtlYWNvbV9i/YW5uZXJfcGgxODQ4/MTAtYTE3NWYyZjAv/aG9tZXBhZ2Vfbm92/X2ludGVyaWtlYWNv/bV9iYW5uZXJfcGgx/ODQ4MTAtYTE3NWYy/ZjAtZGVza3RvcC1i/YW5uZXItaW1hZ2Uu/cG5nP3Jldj00NjQw/MWRmMTkzMjI0Yjk5/OWY4ODJjYTZjYmM2/YjVmYyZzY19sYW5n/PWVu",
+        "original": "https://www.inter.ikea.com/-/media/interikea/homepage_nov_interikeacom_banner_ph184810-a175f2f0/homepage_nov_interikeacom_banner_ph184810-a175f2f0-desktop-banner-image.png?rev=46401df193224b999f882ca6cbc6b5fc&sc_lang=en",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:40:26.874004"
+}

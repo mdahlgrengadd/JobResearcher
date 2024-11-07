@@ -1,0 +1,166 @@
+{
+  "company_info": {
+    "name": "SJ AB",
+    "descriptions": [
+      "Järnvägsbolag som fokuserar på innovation och utveckling inom tågtransport"
+    ],
+    "industries": [
+      "Transport"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Switching",
+      "DNS",
+      "WAN-design",
+      "Azure",
+      "Routing",
+      "Nätverksteknik",
+      "Terraform",
+      "Bicep"
+    ],
+    "job_titles": [
+      "Network Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av SJ AB\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Mellan 3,000-4,500 medarbetare [Källa: Dun & Bradstreet, ZoomInfo]\n- Lokalisering: Stockholm, Sverige\n\n2. Omsättning och finansiell information\n- Årlig omsättning: Aproximativt 7,8 miljarder SEK \n- Intäkter varierade mellan 8-9,34 miljarder SEK under senare år [Källa: Statista]\n\n3. Företagets verksamhet\n- Bransch: Järnvägstransport\n- Fokus: Hållbara tågresor inom Sverige \n- Marknadsledande tågoperatör som sammanlänkar Sverige\n\n4. Huvudsakliga produkter/tjänster\n- Passagerartransport mellan städer\n- Hållbara tågresor\n\n5. Teknisk kompetens\nTeknisk stack inkluderar:\n- Nätverk: Switching, DNS, WAN-design, Routing\n- Molnplattformar: Azure\n- Infrastructure as Code: Terraform, Bicep\n- Analysverktyg: Google Analytics, Adobe Audience Manager\n\n6. Teknologier\n- Adobe Audience Manager\n- Google Analytics  \n- Office 365\n\nAnmärkning: Sammanställd från multiple källor med begränsad detaljnivå.",
+  "search_results": [
+    {
+      "title": "SJ AB - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/sj-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>SJ</strong> is a Swedish train operator that offers sustainable travel, both independently and in collaboration with others.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/sj-ab",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › sj-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/WWh0wRlYCJIf2cKfHhV_B9kXHg9TFUQVpN3ir7L3E7M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3YxNTA1NTQwODMw/L3dnZ2N5YnZ3MWto/bXBubXBjYmpuLnBu/Zw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1505540830/wggcybvw1khmpnmpcbjn.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "SJ AB Company Profile | Stockholm, Stockholm, Sweden | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.sj_ab.0275cf8230a719666087dbfcf55263c6.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "SJ AB has 3,000 total employees across all of its locations and generates <strong>0 million</strong> in sales (USD). There are 44 companies in the SJ AB corporate family. D&amp;B Hoovers provides sales leads and sales intelligence data on over 12<strong>0 million</strong> companies like SJ AB around the world, including contacts, ...",
+      "profile": {
+        "name": "Dnb",
+        "url": "https://www.dnb.com/business-directory/company-profiles.sj_ab.0275cf8230a719666087dbfcf55263c6.html",
+        "long_name": "dnb.com",
+        "img": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dnb.com",
+        "hostname": "www.dnb.com",
+        "favicon": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8",
+        "path": "  › home  › business directory  › transportation services  › urban transit systems  › sweden  › stockholm"
+      }
+    },
+    {
+      "title": "SJ AB - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/sj-ab/507398134",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The group has a turnover of approximately <strong>BSEK 7,8</strong> and employs 4,500 people. As the market leading train operating company SJ links Sweden toge... Read More ... The technologies that are used by SJ AB are: Adobe Audience Manager, Adobe Activation, Google Analytics, Office 365",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/sj-ab/507398134",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › sj-ab  › 507398134"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/veqoGpGrMRb6dqJBY7BZPolVATiukL2z85kjzjd0cZE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvc2ou/c2U",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/sj.se",
+        "logo": false
+      }
+    },
+    {
+      "title": "SJ AB: annual profit 2012-2019 | Statista",
+      "url": "https://www.statista.com/statistics/767601/annual-profit-of-sj-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Revenue, also known as sales or turnover, is another important key figure for companies. While the profit of SJ AB fluctuated during the last years, the revenue increased first to approximately <strong>9.34 billion Swedish kronor as of 2016</strong>, before dropping to less than eight billion Swedish kronor ...",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/767601/annual-profit-of-sj-ab/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› statistics  › 767601  › annual-profit-of-sj-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/h7Xq0SYNuUGF-Ysa9gBE8EY_dNUZdAn25r3CAZ88diA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzc2/NTAwMC83Njc2MDEt/YmxhbmstMzU1LnBu/Zw",
+        "original": "https://cdn.statcdn.com/Statistic/765000/767601-blank-355.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "SJ AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/SJ-AB-117132",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>SJ</strong> <strong>AB</strong> - Passenger rail transport, interurban",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/SJ-AB-117132",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › SJ-AB-117132"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:09:51.535511"
+}

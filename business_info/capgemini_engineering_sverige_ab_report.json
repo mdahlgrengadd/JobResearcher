@@ -1,0 +1,240 @@
+{
+  "company_info": {
+    "name": "Capgemini Engineering Sverige AB",
+    "descriptions": [
+      "Engineering and technology consulting company"
+    ],
+    "industries": [
+      "Engineering Consulting",
+      "Technology Consulting"
+    ],
+    "locations": [
+      "Stockholm",
+      "Gothenburg"
+    ],
+    "skills": [
+      "Automotive communication protocols",
+      "Embedded Systems",
+      "C++",
+      "C/C++ programming",
+      "Embedded Linux",
+      "JTAG debugging",
+      "Test automation",
+      "Automated testing",
+      "CI/CD pipelines",
+      "Container Technology",
+      "Python",
+      "RTOS",
+      "Linux",
+      "AWS"
+    ],
+    "job_titles": [
+      "AUTOSAR - Software Engineer",
+      "Automotive Verification and Validation Engineer",
+      "Embedded Systems Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Capgemini Engineering Sverige AB:\n\n1. Företagets storlek och antal anställda\n- En del av Capgemini Group\n- Globalt har Capgemini Engineering över 55,000 ingenjörer och forskare [Capgemini webbplats]\n- Verksamma i mer än 37 kontor globalt [Wikipedia]\n\n2. Omsättning och finansiell information\n- Capgemini Group rapporterade globala intäkter på €16 miljarder år 2020 [Jobylon]\n- Tidigare Altran Group förvärvades av Capgemini 2020 [Jobylon]\n\n3. Företagets kultur\n- Fokus på innovation och teknisk utveckling\n- Global expertis inom tekniska konsulttjänster\n\n4. Huvudsakliga produkter/tjänster\n- Engineering och teknisk konsultverksamhet\n- Digitala och mjukvaruteknologier\n- Agila utvecklingsplattformar\n- Forsknings- och utvecklingstjänster\n\n5. Teknisk kompetens och kompetensområden\nTeknisk stack:\n- Programmering: C++, C, Python\n- System: Embedded Systems, Linux, RTOS\n- Molntjänster: AWS\n- Test: Test automation, CI/CD pipelines\n\n6. Geografisk närvaro\n- Kontor i Stockholm och Göteborg\n- Branschfokus: Automotive, teknikutveckling\n\nKälla: Jobbannonser, Capgemini webbplats, Wikipedia, Largestcompanies.com",
+  "search_results": [
+    {
+      "title": "Capgemini - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capgemini",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Located in more than 37 offices globally, <strong>Capgemini</strong> Invent includes more than 10,000 <strong>employees</strong>. These include staff from frog design, which was acquired as part of the deal whereby Altran became <strong>Capgemini</strong> <strong>Engineering</strong>, and now operates as &quot;frog, part of <strong>Capgemini</strong> Invent.&quot;",
+      "page_age": "2024-10-30T06:43:18",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capgemini",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Services",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#Services"
+          },
+          {
+            "type": "button_result",
+            "title": "Management",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#Management"
+          },
+          {
+            "type": "button_result",
+            "title": "Capgemini and the public sector in France",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#Capgemini_and_the_public_sector_in_France"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Capgemini"
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Capgemini Engineering Sverige AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/Altran-Sverige-AB-29583",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Capgemini</strong> <strong>Engineering</strong> <strong>Sverige</strong> <strong>AB</strong> - Computer consultancy activities",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/Altran-Sverige-AB-29583",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › Altran-Sverige-AB-29583"
+      }
+    },
+    {
+      "title": "Capgemini Engineering Sverige AB | Jobylon",
+      "url": "https://emp.jobylon.com/companies/2289-capgemini-engineering-sverige-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The Group reported in 2020 global revenues of <strong>€16 billion</strong>. ... 2015Altran Group launches new company strategy - Ignition. The strategy united the countries within Altran Group and was the starting point of a successful period of growth. 2020Capgemini Group acquires Altran Group and its 50,000 ...",
+      "profile": {
+        "name": "Jobylon",
+        "url": "https://emp.jobylon.com/companies/2289-capgemini-engineering-sverige-ab/",
+        "long_name": "emp.jobylon.com",
+        "img": "https://imgs.search.brave.com/Y4OPKE8uGJtdR6qswEqEVFLWqRnV89z9bbvBp-PVFd0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQ2M2MwZWJj/NDM2NGI1M2M2NzUw/NGNiYTE5MDM0MDFi/YTZiZWIzNTM1YmEw/Mjk2MDIwMmYyNTMw/ZmJjNzc1My9lbXAu/am9ieWxvbi5jb20v"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "emp.jobylon.com",
+        "hostname": "emp.jobylon.com",
+        "favicon": "https://imgs.search.brave.com/Y4OPKE8uGJtdR6qswEqEVFLWqRnV89z9bbvBp-PVFd0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQ2M2MwZWJj/NDM2NGI1M2M2NzUw/NGNiYTE5MDM0MDFi/YTZiZWIzNTM1YmEw/Mjk2MDIwMmYyNTMw/ZmJjNzc1My9lbXAu/am9ieWxvbi5jb20v",
+        "path": "› companies  › 2289-capgemini-engineering-sverige-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/ABKqK2bz662fzduInlRyR4gdKnGbbDOasSKkGiezvNo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1ldS5qb2J5bG9u/LmNvbS9DQUNIRS9h/c3NldHNfbWVkaWEv/Y29tcGFuaWVzLzIy/ODkvdGVzdC1taWwu/ZjUxYjIyOGUvMjYw/NzA3ZjNmZDg4ZjFk/YTUxY2M5NDI4MjQ1/MTZlNjguanBn",
+        "original": "https://media-eu.jobylon.com/CACHE/assets_media/companies/2289/test-mil.f51b228e/260707f3fd88f1da51cc942824516e68.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Capgemini Engineering - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The company was helped by the ... as the 1992 acquisition of GERPI, based in Rennes. By the end of that year, Altran&#x27;s revenues had reached <strong>76.5 million euros</strong>....",
+      "page_age": "2024-09-19T04:07:48",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Organization and activities",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Organization_and_activities"
+          },
+          {
+            "type": "button_result",
+            "title": "Worldwide presences",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Worldwide_presences"
+          },
+          {
+            "type": "button_result",
+            "title": "Research and Innovation",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Research_and_Innovation"
+          },
+          {
+            "type": "button_result",
+            "title": "Pro bono work",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Pro_bono_work"
+          },
+          {
+            "type": "button_result",
+            "title": "Financial data",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Financial_data"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Capgemini_Engineering"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/stoDw40bW086eGNFKHI1-DX-T4cBLgXcXu6hcS6SlHs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFmL0FsdHJhbi5z/dmc",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Altran.svg",
+        "logo": true
+      },
+      "age": "September 19, 2024"
+    },
+    {
+      "title": "Pioneering new horizons with Capgemini Engineering",
+      "url": "https://www.capgemini.com/us-en/about-us/who-we-are/our-brands/capgemini-engineering/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We bring them global expertise and capabilities, cutting-edge technologies in digital and software, agile engineering platforms, and an industrialized delivery model. With <strong>more than 55,000</strong> engineers and scientists across the globe, we unleash the potential of R&amp;D and innovation to help companies ...",
+      "page_age": "2022-07-05T09:01:41",
+      "profile": {
+        "name": "Capgemini USA",
+        "url": "https://www.capgemini.com/us-en/about-us/who-we-are/our-brands/capgemini-engineering/",
+        "long_name": "capgemini.com",
+        "img": "https://imgs.search.brave.com/4rEABDz0DHetrpo6cdio3BgrffdksOG1s1U2BBwzmuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhNzMxNWJj/NTcwMTQyYzhlMGJk/YjY3NmU1NDE3NGFk/YzY3ZDk5MDMyYjNi/ODVhNmYwM2I2NzQx/N2QxZDY5My93d3cu/Y2FwZ2VtaW5pLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "capgemini.com",
+        "hostname": "www.capgemini.com",
+        "favicon": "https://imgs.search.brave.com/4rEABDz0DHetrpo6cdio3BgrffdksOG1s1U2BBwzmuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhNzMxNWJj/NTcwMTQyYzhlMGJk/YjY3NmU1NDE3NGFk/YzY3ZDk5MDMyYjNi/ODVhNmYwM2I2NzQx/N2QxZDY5My93d3cu/Y2FwZ2VtaW5pLmNv/bS8",
+        "path": "  › home  › about us  › who we are  › our brands  › capgemini engineering"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/2VB4XjyxP3iOHdRC2XBKbvV8atyUb7hdJXDGPMlEAAA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FwZ2VtaW5pLmNv/bS91cy1lbi93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMzAv/MjAyMi8wNy9DYXBn/ZW1pbmlfQ2FyZWVy/c19FbmdpbmVlcmlu/Zy0yLWUxNjQ0NTA1/MDQxOTIxLmpwZw",
+        "original": "https://www.capgemini.com/us-en/wp-content/uploads/sites/30/2022/07/Capgemini_Careers_Engineering-2-e1644505041921.jpg",
+        "logo": false
+      },
+      "age": "July 5, 2022"
+    }
+  ],
+  "generated_date": "2024-11-07T02:55:08.535032"
+}

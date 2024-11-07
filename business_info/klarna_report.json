@@ -1,0 +1,188 @@
+{
+  "company_info": {
+    "name": "Klarna",
+    "descriptions": [
+      "A fintech company aiming to liberate humanity from time spent managing purchases and finances"
+    ],
+    "industries": [
+      "Financial Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "CI/CD",
+      "REST APIs",
+      "Java",
+      "TypeScript",
+      "Docker",
+      "Python",
+      "Kubernetes"
+    ],
+    "job_titles": [
+      "Software Engineer - IAM & Security"
+    ]
+  },
+  "analysis": "Sammanfattning av Klarna:\n\n1. Företagets storlek och antal anställda\n- Baserat i Stockholm, Sverige\n- Ingen exakt bekräftad siffra för antal anställda från sources\n\n2. Omsättning och finansiell information\n- Årsintäkter enligt olika källor:\n  * kr15.96 miljarder (2021, Craft.co)\n  * $1.1 miljarder (Zippia)\n- Fick investeringar från Investment AB Öresund (2007) och Sequoia Capital\n\n3. Värdegrund och kultur\n- Mission: \"Befria mänskligheten från tid spenderad på att hantera inköp och ekonomi\"\n- Fintech-företag med fokus på innovativa betallösningar\n\n4. Huvudsakliga produkter/tjänster\n- Betallösningar och finansiella tjänster för handlare globalt\n- Betalningsprocessningstjänster\n\n5. Teknisk stack och kompetensområden\nEftersökta teknologier:\n- Programmeringsspråk: Java, TypeScript, Python\n- Infrastruktur: Docker, Kubernetes\n- Integration: REST APIs, CI/CD\n\n6. Konkurrenter\n- PayPal\n- Affirm\n- Afterpay\n\nKällor: Wikipedia, Owler, Craft.co, Zippia, Klarna jobbannonser",
+  "search_results": [
+    {
+      "title": "Klarna - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Klarna",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2007, venture capital firm Investment AB Öresund invested in the <strong>company</strong>. Three years later, <strong>Klarna</strong> started providing services in Norway, Finland, Denmark, Germany and the Netherlands. They also received an investment from Sequoia Capital, and increased their <strong>revenue</strong> by over 80% to US$54 ...",
+      "page_age": "2024-09-05T12:21:16",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Klarna",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Klarna#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Controversy",
+            "url": "https://en.wikipedia.org/wiki/Klarna#Controversy"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Klarna"
+      },
+      "age": "September 5, 2024"
+    },
+    {
+      "title": "Investor relations | Klarna International",
+      "url": "https://www.klarna.com/international/about-us/corporate-governance/investor-relations/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Here you can find financial and regulatory <strong>information</strong> relating to <strong>Klarna</strong> Holding AB, <strong>Klarna</strong>’s parent <strong>company</strong>.",
+      "profile": {
+        "name": "Klarna",
+        "url": "https://www.klarna.com/international/about-us/corporate-governance/investor-relations/",
+        "long_name": "klarna.com",
+        "img": "https://imgs.search.brave.com/6OLUM7ooFIU6ZfnnC8WRLjGVXOr4spgxIDYlRBv-jtY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTVjNDBiNzVj/NmM2M2RkMTg4ZDUy/NmYzY2E1NDgxYTJl/MzEyYzY2NzRhYWMy/ODU3N2MyNjE3YTcz/ZDJlOTA0Yi93d3cu/a2xhcm5hLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "klarna.com",
+        "hostname": "www.klarna.com",
+        "favicon": "https://imgs.search.brave.com/6OLUM7ooFIU6ZfnnC8WRLjGVXOr4spgxIDYlRBv-jtY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTVjNDBiNzVj/NmM2M2RkMTg4ZDUy/NmYzY2E1NDgxYTJl/MzEyYzY2NzRhYWMy/ODU3N2MyNjE3YTcz/ZDJlOTA0Yi93d3cu/a2xhcm5hLmNvbS8",
+        "path": "› international  › about-us  › corporate-governance  › investor-relations"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/HIpXMG_OuUzBbWn5brWHEUEkJgJ1mr7ZzP684MoI3RQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sb2Nr/ZXIua2xhcm5hLmNv/bS90cmFuc2Zvcm0v/MDhhODNiYjAtM2Zm/Yi00YThlLThkMjEt/YWUzYjk3YmI5NzM0/L0hlcm8tTW9iaWxl",
+        "original": "https://locker.klarna.com/transform/08a83bb0-3ffb-4a8e-8d21-ae3b97bb9734/Hero-Mobile",
+        "logo": false
+      }
+    },
+    {
+      "title": "Klarna’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/klarna",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Klarna</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Klarna</strong> is a Sweden-based financial technology platform that provides payment processing solutions for merchants across the globe. <strong>Klarna</strong>’s primary competitors include PayPal, Affirm, Afterpay and 16 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/klarna",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › klarna"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Klarna Company Profile - Office Locations, Competitors, Financials, Employees, Key People, News | Craft.co",
+      "url": "https://craft.co/klarna",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Klarna <strong>kr15.96 b in annual revenue in FY 2021</strong>. See insights on Klarna including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+      "profile": {
+        "name": "Klarna",
+        "url": "https://craft.co/klarna",
+        "long_name": "craft.co",
+        "img": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "craft.co",
+        "hostname": "craft.co",
+        "favicon": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8",
+        "path": "  › klarna"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/NIR6nc8lknsF18jXWG8AUtFtPFYEsfHUQdYEJ4w1NxY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucHJvZHVjdGlv/bi5jcmFmdC5jby9h/c3NldHMvZmU3N2Rj/ZGQzOTBmZjFkNTJh/MTYucG5n",
+        "original": "https://static.production.craft.co/assets/fe77dcdd390ff1d52a16.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Klarna Revenue: Annual, Quarterly, and Historic - Zippia",
+      "url": "https://www.zippia.com/klarna-careers-1419599/revenue/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Klarna&#x27;s revenue is <strong>$1.1 Billion</strong> - Learn more about Klarna&#x27;s revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee.",
+      "page_age": "2023-07-21T08:00:00",
+      "profile": {
+        "name": "Zippia",
+        "url": "https://www.zippia.com/klarna-careers-1419599/revenue/",
+        "long_name": "zippia.com",
+        "img": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zippia.com",
+        "hostname": "www.zippia.com",
+        "favicon": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8",
+        "path": "› klarna-careers-1419599  › revenue"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Sieo18U0u-Zd0GXktKRMJDFwVozAUbYjriy1vLZXiYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuemlwcGlhLmNv/bS9hc3NldHMvemlw/cGlhLW9nLWltYWdl/LnBuZw",
+        "original": "https://static.zippia.com/assets/zippia-og-image.png",
+        "logo": false
+      },
+      "age": "July 21, 2023"
+    }
+  ],
+  "generated_date": "2024-11-07T03:10:16.993433"
+}

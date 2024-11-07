@@ -1,0 +1,194 @@
+{
+  "company_info": {
+    "name": "Klarna Bank AB",
+    "descriptions": [
+      "A global fintech company with 85 million active users",
+      "Financial technology company focused on smooth commerce and payment solutions",
+      "Financial technology company"
+    ],
+    "industries": [
+      "Fintech",
+      "FinTech"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Data Integration",
+      "Java",
+      "Penetration testing",
+      "Spring Boot",
+      "Pydantic",
+      "Docker",
+      "Cloud security",
+      "Microservices",
+      "Spring",
+      "PostgreSQL",
+      "Node.js",
+      "Python",
+      "Kubernetes",
+      "MyPy",
+      "AWS"
+    ],
+    "job_titles": [
+      "Engineer - Java",
+      "Software Engineer - Python",
+      "Senior Offensive Security Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Klarna Bank AB\n\n1. Företagets storlek och antal anställda\n- Global fintech-company\n- 85 miljoner aktiva användare [Jobbannonser]\n- Huvudkontor i Stockholm\n\n2. Omsättning och finansiell information\n- Intäkter ökade med nästan 600 miljoner SEK mellan Q2 2023 och Q3 2022 [Statista]\n- Tidigare intäkter (2007): US$54 miljoner (~400 miljoner SEK) [Wikipedia]\n\n3. Värdegrund och kultur\n- Fokuserad på smooth commerce och betalningslösningar\n- Teknologidriven organisation\n\n4. Huvudsakliga produkter/tjänster\n- E-handelsbetalningslösningar\n- Buy Now, Pay Later (BNPL) [Statista]\n- Digital betalningsplattform [Crunchbase]\n\n5. Teknisk stack och kompetensområden\nProgrammeringsspråk och teknologier:\n- Java\n- Python\n- Node.js\n- Cloud technologies: AWS, Docker, Kubernetes\n- Databaser: PostgreSQL\n- Säkerhet: Penetration testing, Cloud security\n- Mikroservicearkitektur\n\n6. Nyliga nyheter\n- Fortsatt återhämtning efter nedgång i slutet av 2022\n- Pågående expansion inom fintech-sektorn\n\nKällor: Jobbannonser, Wikipedia, Statista, Crunchbase",
+  "search_results": [
+    {
+      "title": "Investor relations | Klarna International",
+      "url": "https://www.klarna.com/international/about-us/corporate-governance/investor-relations/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Here you can find financial and regulatory <strong>information</strong> relating to <strong>Klarna</strong> Holding <strong>AB</strong>, <strong>Klarna</strong>’s parent <strong>company</strong>. ... Here you can find financial and regulatory <strong>information</strong> relating to <strong>Klarna</strong> <strong>Bank</strong> <strong>AB</strong>, a subsidiary of <strong>Klarna</strong> Holding.",
+      "profile": {
+        "name": "Klarna",
+        "url": "https://www.klarna.com/international/about-us/corporate-governance/investor-relations/",
+        "long_name": "klarna.com",
+        "img": "https://imgs.search.brave.com/6OLUM7ooFIU6ZfnnC8WRLjGVXOr4spgxIDYlRBv-jtY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTVjNDBiNzVj/NmM2M2RkMTg4ZDUy/NmYzY2E1NDgxYTJl/MzEyYzY2NzRhYWMy/ODU3N2MyNjE3YTcz/ZDJlOTA0Yi93d3cu/a2xhcm5hLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "klarna.com",
+        "hostname": "www.klarna.com",
+        "favicon": "https://imgs.search.brave.com/6OLUM7ooFIU6ZfnnC8WRLjGVXOr4spgxIDYlRBv-jtY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTVjNDBiNzVj/NmM2M2RkMTg4ZDUy/NmYzY2E1NDgxYTJl/MzEyYzY2NzRhYWMy/ODU3N2MyNjE3YTcz/ZDJlOTA0Yi93d3cu/a2xhcm5hLmNvbS8",
+        "path": "› international  › about-us  › corporate-governance  › investor-relations"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/HIpXMG_OuUzBbWn5brWHEUEkJgJ1mr7ZzP684MoI3RQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sb2Nr/ZXIua2xhcm5hLmNv/bS90cmFuc2Zvcm0v/MDhhODNiYjAtM2Zm/Yi00YThlLThkMjEt/YWUzYjk3YmI5NzM0/L0hlcm8tTW9iaWxl",
+        "original": "https://locker.klarna.com/transform/08a83bb0-3ffb-4a8e-8d21-ae3b97bb9734/Hero-Mobile",
+        "logo": false
+      }
+    },
+    {
+      "title": "Klarna - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Klarna",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2007, venture capital firm ... They also received an investment from Sequoia Capital, and increased their revenue by over 80% to <strong>US$54 million (~400 million SEK).</strong>...",
+      "page_age": "2024-09-05T12:21:16",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Klarna",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Klarna#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Controversy",
+            "url": "https://en.wikipedia.org/wiki/Klarna#Controversy"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Klarna"
+      },
+      "age": "September 5, 2024"
+    },
+    {
+      "title": "Klarna revenue 2011-2023 | Statista",
+      "url": "https://www.statista.com/statistics/865704/klarna-bank-operating-revenue/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Klarna’s operating revenue <strong>increased by almost 600 million Swedish kronor between Q2 2023 and Q3 2022</strong>, continuing its recovery from late 2022. Klarna, officially called Klarna Bank AB, is mainly known for its digital payment solutions — especially Buy Now, Pay Later (BNPL).",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/865704/klarna-bank-operating-revenue/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› statistics  › 865704  › klarna-bank-operating-revenue"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/fka7Ro41ax47Isiz6jKBr5RqEKBQwneJ_NS5Tp6Xw_Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzg2/NTAwMC84NjU3MDQt/YmxhbmstMzU1LnBu/Zw",
+        "original": "https://cdn.statcdn.com/Statistic/865000/865704-blank-355.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Klarna - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/klarna",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Klarna</strong> is an e-commerce payment solutions platform for merchants and shoppers.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/klarna",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › klarna"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/9OMyMrrOei7mASKl0u7xBcEjp6UyYaBeYKMue85TjsI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L2k3eWpoaGl0Ynpl/NGt5bHdtYmZ5",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/i7yjhhitbze4kylwmbfy",
+        "logo": false
+      }
+    },
+    {
+      "title": "Klarna Bank ABExecutive & Employee Information - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/klarna-bank-ab/executives/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The executive section provides <strong>information</strong> <strong>on</strong> <strong>Klarna</strong> <strong>Bank</strong> <strong>AB</strong> senior management, executives, CEO and key decision makers and their roles in the organization.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/klarna-bank-ab/executives/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "  › home  › all companies  › klarna bank ab"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:55:16.075371"
+}

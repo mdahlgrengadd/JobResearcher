@@ -1,0 +1,169 @@
+{
+  "company_info": {
+    "name": "Hopsworks AB",
+    "descriptions": [
+      "A data company that aims to make machine learning easy for companies across all industries, with the world's first Enterprise Feature Store and an advanced end-to-end ML platform"
+    ],
+    "industries": [
+      "Data/IT"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "Distributed Systems",
+      "Databases",
+      "Scala",
+      "Python"
+    ],
+    "job_titles": [
+      "Software Engineer & Data Scientist"
+    ]
+  },
+  "analysis": "Sammanfattning av Hopsworks AB\n\n1. Företagets storlek och antal anställda\n- Linkedin följarantal: 4,917 följare\n- Exakt antal anställda ej fastställt, men verkar vara ett mindre till medelstort teknikföretag\n\n2. Omsättning och finansiell information\n- Specifik omsättningssiffra ej tillgänglig\n- Finns upptagna på investerarplattformar som Crunchbase och PitchBook, vilket indikerar extern finansiering\n\n3. Värdegrund och kultur\n- Fokus på att göra maskininlärning tillgängligt för företag över olika branscher\n- Teknologiskt orienterad kultur med betoning på innovation inom AI och datahantering\n\n4. Huvudsakliga produkter/tjänster\n- Enterprise Feature Store\n- End-to-end maskininlärningsplattform\n- Inriktad på att förenkla ML-processer för företag\n\n5. Teknisk stack och kompetensområden\n- Programmeringsspråk: Java, Scala, Python\n- Teknologier: Machine Learning, Distributed Systems, Databases\n- Specialiserade områden: TensorFlow, Flink, MySQL, HDFS, Deep Learning, Artificiell Intelligens\n\n6. Geografisk placering\n- Huvudkontor: Stockholm, Sverige\n\nKällor: LinkedIn, Crunchbase, Capterra, PitchBook",
+  "search_results": [
+    {
+      "title": "Companies Using Hopsworks, Market Share, Customers and Competitors",
+      "url": "https://discovery.hgdata.com/product/hopsworks",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "See what <strong>companies</strong> are using <strong>Hopsworks</strong>, its competitors and similar technologies, and how its market share breaks down by location, number of <strong>employees</strong>, <strong>revenue</strong>, and industry",
+      "profile": {
+        "name": "Hgdata",
+        "url": "https://discovery.hgdata.com/product/hopsworks",
+        "long_name": "discovery.hgdata.com",
+        "img": "https://imgs.search.brave.com/eNTsx8rGZu63iySlWatRW7OTNofhRQLOp8d78GWdi98/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzZmNGI0ZjQz/YmUyYTI4NDAxNzhm/NWU4NGJiNjVlNzMw/YzA0YWI4OGRjZmQy/MGEwYTRjZWZmNGFm/YmQ1ZGYwZS9kaXNj/b3ZlcnkuaGdkYXRh/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "discovery.hgdata.com",
+        "hostname": "discovery.hgdata.com",
+        "favicon": "https://imgs.search.brave.com/eNTsx8rGZu63iySlWatRW7OTNofhRQLOp8d78GWdi98/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzZmNGI0ZjQz/YmUyYTI4NDAxNzhm/NWU4NGJiNjVlNzMw/YzA0YWI4OGRjZmQy/MGEwYTRjZWZmNGFm/YmQ1ZGYwZS9kaXNj/b3ZlcnkuaGdkYXRh/LmNvbS8",
+        "path": "› product  › hopsworks"
+      }
+    },
+    {
+      "title": "Hopsworks | LinkedIn",
+      "url": "https://www.linkedin.com/company/hopsworks",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Hopsworks</strong> | 4,917 followers on LinkedIn. The Enterprise Feature Store that provides seamless collaboration and maximum real-time performance. | We are <strong>Hopsworks</strong> - the Platform for Data-Intensive Artificial Intelligence with the industry&#x27;s Python-centric Enterprise Feature Store.",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/hopsworks",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › hopsworks"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Qh0Qrh5jnDZtRiZJCt03_dpZRrwIaH2QWqwtRJAneDM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RTBCQVFFTFFic3ZC/VzkybWcvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjM4MzAz/OTUxNTUwL2hvcHN3/b3Jrc19sb2dvP2U9/MjE0NzQ4MzY0NyZh/bXA7dj1iZXRhJmFt/cDt0PUxDUGczWlZi/MG5ZWEYtNDJjeENk/VGJMVXNnaURpRXB4/cldHSmM5Zk1ZbWs",
+        "original": "https://media.licdn.com/dms/image/C4E0BAQELQbsvBW92mg/company-logo_200_200/0/1638303951550/hopsworks_logo?e=2147483647&amp;v=beta&amp;t=LCPg3ZVb0nYXF-42cxCdTbLUsgiDiEpxrWGJc9fMYmk",
+        "logo": true
+      }
+    },
+    {
+      "title": "Hopsworks - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/logical-clocks",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Hopsworks</strong> specializes in tensorFlow, flink, MySQL, hdfs, machine learning, deep learning, and artificial intelligence.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/logical-clocks",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › logical-clocks"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/mgmXsy0chUr4P4EZ_9OFCMC44blVNDQn8gE1ilrblog/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3k1eW9nMWV4cWFj/amtsZ3JtaTZi",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/y5yog1exqacjklgrmi6b",
+        "logo": false
+      }
+    },
+    {
+      "title": "Hopsworks Pricing, Alternatives & More 2024 | Capterra",
+      "url": "https://www.capterra.com/p/199971/Hopsworks/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "With the help of Capterra, learn about <strong>Hopsworks</strong> - features, pricing plans, popular comparisons to other Artificial Intelligence products and more.",
+      "profile": {
+        "name": "Capterra",
+        "url": "https://www.capterra.com/p/199971/Hopsworks/",
+        "long_name": "capterra.com",
+        "img": "https://imgs.search.brave.com/oNbQdHfRP5sw2HCbMhymbgn0i4qRQFBOFRLGfnoSSws/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdmMjU0NWE3/MGI3ZmRlZjRhN2Mx/MGU2NTY2NmE4ZDJl/MzBhZTVkYjg2MTVm/NzBlNjViMmM4NjMz/MGYzZTdlYS93d3cu/Y2FwdGVycmEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "capterra.com",
+        "hostname": "www.capterra.com",
+        "favicon": "https://imgs.search.brave.com/oNbQdHfRP5sw2HCbMhymbgn0i4qRQFBOFRLGfnoSSws/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdmMjU0NWE3/MGI3ZmRlZjRhN2Mx/MGU2NTY2NmE4ZDJl/MzBhZTVkYjg2MTVm/NzBlNjViMmM4NjMz/MGYzZTdlYS93d3cu/Y2FwdGVycmEuY29t/Lw",
+        "path": "  › home  › artificial intelligence software  › hopsworks"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/OGe8Gmx-H86rqpzm5e2bAADWrejQPYj4wHlArW1oQgU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4y/LmNhcHRlcnJhLXN0/YXRpYy5jb20vYXNz/ZXRzL2NhcHRlcnJh/LWxvZ28tMjQweDI0/MC03MmRwaS0yNzQw/MTAxNmVkNzlkYzdl/ZWIyMDI2ZTNkZWZi/MTJiMGE2OTljNTUw/MzA3YmYyZTFhMDU1/YjZjNWVkYzNhYTIy/LnBuZw",
+        "original": "https://cdn2.capterra-static.com/assets/capterra-logo-240x240-72dpi-27401016ed79dc7eeb2026e3defb12b0a699c550307bf2e1a055b6c5edc3aa22.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Hopsworks Company Profile: Valuation & Investors | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/233228-89",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on valuation, funding, cap tables, investors, and executives for <strong>Hopsworks</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/233228-89",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 233228-89"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/dNQbA1oo_cOnqQf-79U3a0BrYfyVS9nAyjXgMuRk9B8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9OW03b1Jq/UnI",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=9m7oRjRr",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:04:54.615381"
+}

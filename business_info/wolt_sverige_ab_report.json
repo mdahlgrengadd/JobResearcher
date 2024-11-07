@@ -1,0 +1,204 @@
+{
+  "company_info": {
+    "name": "Wolt Sverige AB",
+    "descriptions": [
+      "Global innovator and operator of connected vehicle services",
+      "Data platform and technology company"
+    ],
+    "industries": [
+      "Technology",
+      "Technology/Data"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Dagster",
+      "TypeScript",
+      "Docker",
+      "Snowflake",
+      "Kafka",
+      "Scala",
+      "Datadog",
+      "Python",
+      "Kubernetes",
+      "AWS"
+    ],
+    "job_titles": [
+      "Software Engineer (Scala)",
+      "Senior Python Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Wolt Sverige AB:\n\n1. Företagets storlek och antal anställda\n- Globalt: Över 7,000 anställda [Wikipedia]\n- Verksamma i 25 länder och över 300 städer [Wikipedia]\n\n2. Omsättning och finansiell information\n- Genererade över 3 miljarder euro i försäljning under 2022 [Wolt Blog]\n- 70,000 handelspartners\n- 150,000 leveranspartners\n- 20 miljoner registrerade kunder [Wikipedia]\n\n3. Huvudsakliga produkter/tjänster\n- Matlevereransplattform\n- Online-beställningsplattform för mat och dagligvaror\n- Realtidslogistikoptimering [Crunchbase]\n\n4. Teknisk stack och kompetensområden\n- Programmeringsspråk: Scala, Python, TypeScript\n- Teknologier: Docker, Kubernetes, AWS\n- Dataplattform: Snowflake, Kafka, Datadog [Jobbannonser]\n\n5. Företagskaraktäristika\n- Huvudkontor: Finland\n- Lokalt kontor: Stockholm, Sverige\n- Bransch: Teknologi, mjukvarutjänster [Jobbannonser]\n\n6. Senaste utveckling\n- Hjälper lokala företag: \n  * 72% partners når nya kunder\n  * 50% ökar sin intäkt genom plattformen [Wolt Blog]\n\nKälla: Wikipedia, Crunchbase, Wolt Blog, Jobbannonser",
+  "search_results": [
+    {
+      "title": "Wolt Sverige AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/Wolt-Sverige-AB-3604139",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Wolt</strong> <strong>Sverige</strong> <strong>AB</strong> - Other software publishing",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/Wolt-Sverige-AB-3604139",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › Wolt-Sverige-AB-3604139"
+      }
+    },
+    {
+      "title": "Wolt - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wolt",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "As of May 2023, Wolt operates in 25 countries and over 300 cities, including Helsinki, Tokyo, and Berlin. Wolt has over 70,000 merchant partners, 150,000 courier partners and 20 million registered customers. Wolt has <strong>over 7,000 employees</strong> across its offices in 25 countries.",
+      "page_age": "2024-11-01T19:28:20",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wolt",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Wolt#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Timeline",
+            "url": "https://en.wikipedia.org/wiki/Wolt#Timeline"
+          },
+          {
+            "type": "button_result",
+            "title": "Drivers",
+            "url": "https://en.wikipedia.org/wiki/Wolt#Drivers"
+          },
+          {
+            "type": "button_result",
+            "title": "Critical aspects",
+            "url": "https://en.wikipedia.org/wiki/Wolt#Critical_aspects"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Wolt"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/y0m-01OogipORbw2HHXF5Kqy_CKLDPQFA7khH7RJr7w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2IwL1dvbHQtYXBw/LWljb24tMjAxOS5w/bmc",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wolt-app-icon-2019.png",
+        "logo": false
+      },
+      "age": "5 days ago"
+    },
+    {
+      "title": "Wolt - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/wolt",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Wolt</strong> is a food delivery <strong>company</strong> specializing in real-time logistics optimization.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/wolt",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › wolt"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/qGUlofid1jD4EZxkHbWVuVKs_uXAm7rObOF5xMH3pqg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L2FndWVsNTZzM2tx/YzBraGxybWpj",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/aguel56s3kqc0khlrmjc",
+        "logo": false
+      }
+    },
+    {
+      "title": "Wolt’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/wolt",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Wolt</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Wolt</strong> is a Finland-based online delivery platform that allows users to order food and groceries from restaurants and retailers. <strong>Wolt</strong>’s primary competitors include Glovo, Deliveroo, GrubHub and 18 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/wolt",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › wolt"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "With over € 3B of sales generated in 2022, Wolt’s role for local businesses has become significant - Wolt Blog",
+      "url": "https://blog.wolt.com/hq/2023/12/05/with-over-e-3b-of-sales-generated-in-2022-wolts-role-for-local-businesses-has-become-significant/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We also asked our partners about ... revenue are the top benefits: When asked about the top benefits of using Wolt, <strong>72% said reaching new customers and 50% said increasing revenue</strong>....",
+      "page_age": "2024-06-14T13:18:40",
+      "profile": {
+        "name": "Wolt Blog",
+        "url": "https://blog.wolt.com/hq/2023/12/05/with-over-e-3b-of-sales-generated-in-2022-wolts-role-for-local-businesses-has-become-significant/",
+        "long_name": "blog.wolt.com",
+        "img": "https://imgs.search.brave.com/I48qTjTzKeq4sHyEBec2BEqLkl3p7p91Wjxgy0K8BFE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA1M2NlMmE2/NzQxZGJhMjUyOTkx/ZjMxNDM5ZWYyMTg5/NTNjZjYyYjRmZjg3/MTVhYTVlY2M0Njlh/ZDQwODIzMy9ibG9n/LndvbHQuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "blog.wolt.com",
+        "hostname": "blog.wolt.com",
+        "favicon": "https://imgs.search.brave.com/I48qTjTzKeq4sHyEBec2BEqLkl3p7p91Wjxgy0K8BFE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA1M2NlMmE2/NzQxZGJhMjUyOTkx/ZjMxNDM5ZWYyMTg5/NTNjZjYyYjRmZjg3/MTVhYTVlY2M0Njlh/ZDQwODIzMy9ibG9n/LndvbHQuY29tLw",
+        "path": "› hq  › 2023  › 12  › 05  › with-over-e-3b-of-sales-generated-in-2022-wolts-role-for-local-businesses-has-become-significant"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/vobFbhx71BNbYKnVWtoIVK2lhXbKTXaW_6d2lSfMy1A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LndvbHQuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzEy/L1dvbHREcml2ZV9w/aG90b3MtMDA1LXNj/YWxlZC5qcGc",
+        "original": "https://blog.wolt.com/wp-content/uploads/2023/12/WoltDrive_photos-005-scaled.jpg",
+        "logo": false
+      },
+      "age": "June 14, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T02:59:51.078582"
+}

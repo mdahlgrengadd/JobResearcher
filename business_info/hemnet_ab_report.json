@@ -1,0 +1,166 @@
+{
+  "company_info": {
+    "name": "Hemnet AB",
+    "descriptions": [
+      "Sweden's leading property marketplace"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "CI/CD",
+      "Machine Learning",
+      "BigQuery",
+      "Python",
+      "MLOps",
+      "Terraform",
+      "GCP",
+      "AWS"
+    ],
+    "job_titles": [
+      "ML Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Hemnet AB:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda ej fastställt från tillgängliga källor\n- Noterat bolag på Stockholmsbörsen (HEM:STO)\n\n2. Omsättning och finansiell information\n- Publikt aktiebolag\n- Intäktsströmmar inkluderar:\n  * Listing services (Hemnet Bas, Plus, Premium)\n  * Övriga tjänster\n- Specifika finansiella siffror ej definierade i underlaget\n\n3. Värdegrund och kultur\n- Fokus på fastighetsteknik\n- Nätverkseffekt mellan bostadssäljare, mäklare och köpare\n\n4. Huvudsakliga produkter/tjänster\n- Ledande fastighetsmartknadsplats i Sverige\n- Online fastighetssöktjänst för lägenheter, villor, bostadsrätter\n- Informativa artiklar och individuell bostadsbevakning\n\n5. Nyliga nyheter/utveckling\n- Inga specifika nyheter identifierade i underlaget\n\n6. Teknisk stack och kompetensområden\n- Teknologier: \n  * Cloud (GCP, AWS)\n  * Machine Learning\n  * MLOps\n  * Python\n  * CI/CD\n  * Terraform\n  * BigQuery\n\nKällor: Jobbannonser, Financial Times, Owler, Stockopedia, Hemnet Group webbplats",
+  "search_results": [
+    {
+      "title": "Hemnet Group AB (publ), HEM:STO profile - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=HEM:STO",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Hemnet</strong> Group <strong>AB</strong> (publ) (HEM:STO) <strong>company</strong> profile with history, <strong>revenue</strong>, mergers &amp; acquisitions, peer analysis, institutional shareholders and more.",
+      "profile": {
+        "name": "Ft",
+        "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=HEM:STO",
+        "long_name": "markets.ft.com",
+        "img": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "markets.ft.com",
+        "hostname": "markets.ft.com",
+        "favicon": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8",
+        "path": "› data  › equities  › tearsheet  › profile"
+      }
+    },
+    {
+      "title": "Hemnet Company Profile: Stock Performance & Earnings | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/111352-96",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on stock, financials, earnings, subsidiaries, investors, and executives for <strong>Hemnet</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/111352-96",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 111352-96"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/ZdclalkEziR9RtMTDHb__S6gN7jDmpB8PewL4iRrNHw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9RHJBQmh5/T2c",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=DrABhyOg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Hemnet’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/hemnet",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Hemnet</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Hemnet</strong> Service is an online real estate search engine that enables users to find and rent apartments, villas, condominiums and homes. <strong>Hemnet</strong>’s primary competitors include Residensportalen, Relier Real Estate Advisor, Booli.se and 2 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/hemnet",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › hemnet"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Hemnet AB (publ) Share Price - STO:HEM Stock Research | Stockopedia",
+      "url": "https://www.stockopedia.com/share-prices/hemnet-ab-publ-STO:HEM/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Hemnet</strong> Group’s focus is on developing ... data, <strong>informative</strong> articles and individually tailored monitoring. The <strong>Company</strong>&#x27;s network effect is based on housing sellers and real estate agents benefit from the fact that more home buyers are on <strong>Hemnet</strong>, at the same time as home buyers conversely benefit from more home sellers and real estate agents are available on the platform. ... No. of Shareholders ... No. of <strong>Employees</strong> ... As of Today at 21:33 UTC, shares in <strong>Hemnet</strong> <strong>AB</strong> (publ) are ...",
+      "profile": {
+        "name": "Stockopedia",
+        "url": "https://www.stockopedia.com/share-prices/hemnet-ab-publ-STO:HEM/",
+        "long_name": "stockopedia.com",
+        "img": "https://imgs.search.brave.com/SS-pLOCi0ggpYRmtVh6iK6wP0Dg-P8UB3xV7vCGnHqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWVmYjE0OTMx/NjA4M2Y2YTM0MmI5/OWM0ODgzMzRjODIy/YjVkYTYyZjkzZmEx/MWY4YmNkYTY1OWNm/NjI2Y2FmMC93d3cu/c3RvY2tvcGVkaWEu/Y29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "stockopedia.com",
+        "hostname": "www.stockopedia.com",
+        "favicon": "https://imgs.search.brave.com/SS-pLOCi0ggpYRmtVh6iK6wP0Dg-P8UB3xV7vCGnHqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWVmYjE0OTMx/NjA4M2Y2YTM0MmI5/OWM0ODgzMzRjODIy/YjVkYTYyZjkzZmEx/MWY4YmNkYTY1OWNm/NjI2Y2FmMC93d3cu/c3RvY2tvcGVkaWEu/Y29tLw",
+        "path": "› share-prices  › hemnet-ab-publ-STO:HEM"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/oNkR2DgMnkDRwobbbuDkTq5UBdHJdfpdqcOm6FQ1g-E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RvY2tvcGVkaWEu/Y29tL3NoYXJlLXBy/aWNlcy9oZW1uZXQt/YWItcHVibC1TVE86/SEVNLw",
+        "original": "https://www.stockopedia.com/share-prices/hemnet-ab-publ-STO:HEM/",
+        "logo": false
+      }
+    },
+    {
+      "title": "Hemnet in numbers | Hemnet",
+      "url": "https://www.hemnetgroup.se/en/investors/hemnet-in-numbers/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Listing services consists of all <strong>revenue</strong> <strong>from</strong> <strong>Hemnet</strong> Bas, <strong>Hemnet</strong> Plus, and <strong>Hemnet</strong> Premium, as well as Raketen and Renew listing. Other services consists of all other <strong>revenue</strong>. ... * In the event that the <strong>Company</strong> retains excess cash, this will be returned to shareholders e.g.",
+      "profile": {
+        "name": "Hemnetgroup",
+        "url": "https://www.hemnetgroup.se/en/investors/hemnet-in-numbers/",
+        "long_name": "hemnetgroup.se",
+        "img": "https://imgs.search.brave.com/-jEHiDSCCX9vrlVqhjCuuO0rZeiEixqe6j0ifsWZEiE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJlOTM1NzUx/NThjOTAxMjZmZDcy/YjE4YWRlNWJkMzY3/YzA1N2IwZjg0ZGU0/ZGYxMjc2YTY3MTQ1/MjU2MDIzYi93d3cu/aGVtbmV0Z3JvdXAu/c2Uv"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "hemnetgroup.se",
+        "hostname": "www.hemnetgroup.se",
+        "favicon": "https://imgs.search.brave.com/-jEHiDSCCX9vrlVqhjCuuO0rZeiEixqe6j0ifsWZEiE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJlOTM1NzUx/NThjOTAxMjZmZDcy/YjE4YWRlNWJkMzY3/YzA1N2IwZjg0ZGU0/ZGYxMjc2YTY3MTQ1/MjU2MDIzYi93d3cu/aGVtbmV0Z3JvdXAu/c2Uv",
+        "path": "› en  › investors  › hemnet-in-numbers"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:47:08.961910"
+}

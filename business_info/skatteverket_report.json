@@ -1,0 +1,169 @@
+{
+  "company_info": {
+    "name": "Skatteverket",
+    "descriptions": [
+      "Swedish Tax Agency, a government organization providing essential public services"
+    ],
+    "industries": [
+      "Public Sector"
+    ],
+    "locations": [
+      "Sundbyberg"
+    ],
+    "skills": [
+      "SAML v2",
+      "Application Security Layers",
+      "Application Security",
+      "Security Layers",
+      "OAuth2",
+      "Virtual Vault Solutions",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "job_titles": [
+      "DevOps-engineer Servicemesh",
+      "DevOps-engineer Vault"
+    ]
+  },
+  "analysis": "Sammanfattning av Skatteverket:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Approximately 5,900-10,000 medarbetare\n- Huvudkontor: Sundbyberg, Sverige\n[Källor: ZoomInfo, LeadIQ]\n\n2. Omsättning och finansiell information\n- Årlig intäkt: Rapporterad till ca 6,6 miljarder USD\n- NAICS-kod: 92 - Offentlig förvaltning\n[Källa: LeadIQ]\n\n3. Värdegrund och kultur\n- Statlig myndighet med samhällsviktigt uppdrag\n- Fokus på skatteuppbörd och befolkningsregistrering\n[Källa: Wikipedia]\n\n4. Huvudsakliga produkter/tjänster\n- Nationell skatteuppbörd\n- Befolkningsregistrering\n- Skatteadministration för företag och privatpersoner\n[Källor: Skatteverkets hemsida, Wikipedia]\n\n5. Teknisk kompetens och stack\nEftersökta tekniska kompetenser:\n- Säkerhetslager: SAML v2, OAuth2\n- Molnteknologier: Kubernetes\n- Infrastruktur: Microservices, Servicemesh\n- Säkerhetslösningar: Virtual Vault Solutions\n[Källa: Jobbannonser]\n\n6. Nyliga utvecklingar\n- Kontinuerlig digitalisering av skatteadministration\n- Fokus på säker digital infrastruktur\n[Implicit från teknisk kompetens]\n\nAnmärkning: Informationen är sammanställd från tillgängliga källor och kan variera över tid.",
+  "search_results": [
+    {
+      "title": "Swedish Tax Agency - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swedish_Tax_Agency",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The Swedish Tax Agency (Swedish: <strong>Skatteverket</strong>) is a government agency in Sweden responsible for national tax collection and administering the population registration.",
+      "page_age": "2024-10-29T16:02:03",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Swedish_Tax_Agency",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Swedish_Tax_Agency"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/-LK8RAOmceJ-5EKptIbb254uzRXwz7OsilIK4nfXCDc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vNy83Ny9T/a2F0dGV2ZXJrZXRf/TG9nby5zdmc",
+        "original": "https://upload.wikimedia.org/wikipedia/en/7/77/Skatteverket_Logo.svg",
+        "logo": true
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Businesses and employers | Skatteverket",
+      "url": "https://www.skatteverket.se/servicelankar/otherlanguages/inenglish/businessesandemployers.4.12815e4f14a62bc048f5159.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Registering a business for tax purposes in Sweden differs depending on what kind of business you have and how it is organized.",
+      "profile": {
+        "name": "Skatteverket",
+        "url": "https://www.skatteverket.se/servicelankar/otherlanguages/inenglish/businessesandemployers.4.12815e4f14a62bc048f5159.html",
+        "long_name": "skatteverket.se",
+        "img": "https://imgs.search.brave.com/5w5TPcrBb0pimrqUKtrUg5jXimR9EeWkejZvzwrQ4_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg1Y2U3ZTU3/YmY2MmEyNzFlNmUw/NTk2N2IzMGNiMjI4/MmIzZmI1MjMxMGIz/MThkNDhhNTM3ZTQ4/ZjNjNjdkMC93d3cu/c2thdHRldmVya2V0/LnNlLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "skatteverket.se",
+        "hostname": "www.skatteverket.se",
+        "favicon": "https://imgs.search.brave.com/5w5TPcrBb0pimrqUKtrUg5jXimR9EeWkejZvzwrQ4_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg1Y2U3ZTU3/YmY2MmEyNzFlNmUw/NTk2N2IzMGNiMjI4/MmIzZmI1MjMxMGIz/MThkNDhhNTM3ZTQ4/ZjNjNjdkMC93d3cu/c2thdHRldmVya2V0/LnNlLw",
+        "path": "› servicelankar  › otherlanguages  › inenglish  › businessesandemployers.4.12815e4f14a62bc048f5159.html"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/2OKnfHPfw3FcMyTuHd3H1GLZYMcK-FoUZVWe7Dn6LX4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9za2F0/dGV2ZXJrZXQuc2Uv/aW1hZ2VzLzE4LjM1/YzM0ZjY1MTY2MGFm/Mzc0N2MxNmQ3LzE1/MzgxMjQ4ODA1MTEv/c2t2LWZiLWxpZ2dh/bmRlLnBuZw",
+        "original": "https://skatteverket.se/images/18.35c34f651660af3747c16d7/1538124880511/skv-fb-liggande.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Skatteverket - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/skatteverket/405957378",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Email FinderTop CompaniesCompany SearchPeople SearchSolutionsAbout Us ... Skatteverket is a government owned tax agency headquartered in Sweden. They employ <strong>10,000 people</strong> and are responsible for national tax collection....",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/skatteverket/405957378",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › skatteverket  › 405957378"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/K5ztgUqGP4Vdomp3qpKX2_5s6RdjLYJd0xjHYuGU_-Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvc2th/dHRldmVya2V0LnNl",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/skatteverket.se",
+        "logo": false
+      }
+    },
+    {
+      "title": "Annual accounts of the company in Sweden: The 5 most crucial elements (types, costs)",
+      "url": "https://proaktif.se/annual-accounts-of-the-company-in-sweden",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Learn the basics about a <strong>company</strong>&#x27;s annual financial statements in Sweden: Find out about types, required documents, deadlines, costs, and tax relief strategies.",
+      "profile": {
+        "name": "Proaktif",
+        "url": "https://proaktif.se/annual-accounts-of-the-company-in-sweden",
+        "long_name": "proaktif.se",
+        "img": "https://imgs.search.brave.com/Dbv2RV1eWZd8gRa9jLCUGCWehYwu6gFIR_E1PLBbc3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjE4NDFmMmUx/MGIwMjU3MjA2M2Qx/YWM1ODQ1YWMzMzc3/OWIzMzFlM2EyMTYy/NDU3NDBkMTY0NjI5/Y2Q4Yzc5Yy9wcm9h/a3RpZi5zZS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "proaktif.se",
+        "hostname": "proaktif.se",
+        "favicon": "https://imgs.search.brave.com/Dbv2RV1eWZd8gRa9jLCUGCWehYwu6gFIR_E1PLBbc3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjE4NDFmMmUx/MGIwMjU3MjA2M2Qx/YWM1ODQ1YWMzMzc3/OWIzMzFlM2EyMTYy/NDU3NDBkMTY0NjI5/Y2Q4Yzc5Yy9wcm9h/a3RpZi5zZS8",
+        "path": "› annual-accounts-of-the-company-in-sweden"
+      }
+    },
+    {
+      "title": "Skatteverket Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/skatteverket/5a1d8b2124000024006628c4",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "For more prospecting data, LeadIQ ... contact <strong>information</strong> within our platform. Find, capture, and sync contact data to your CRM and sales tools in one click. <strong>Skatteverket</strong>&#x27;s official website is <strong>skatteverket</strong>.se and has social profiles on LinkedIn. As of August 2024, <strong>Skatteverket</strong>&#x27;s annual <strong>revenue</strong> reached $6.6B. <strong>Skatteverket</strong>&#x27;s NAICS code is 92 - Public Administration. As of August 2024, <strong>Skatteverket</strong> has approximately 5.9K <strong>employees</strong> across 6 ...",
+      "profile": {
+        "name": "Leadiq",
+        "url": "https://leadiq.com/c/skatteverket/5a1d8b2124000024006628c4",
+        "long_name": "leadiq.com",
+        "img": "https://imgs.search.brave.com/gKZkPFBmgeaIwdUAYtPXD5bBxEeyYbR4p40Vi6S_z0w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NDdkOWVh/MzQ2M2M1MTY2NTBm/NGQzMzM4ZGQ5YjVm/NDVjMzA5NTY1ODc0/M2EyNmUwNTIzMTQx/NGIwMTAzOC9sZWFk/aXEuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "leadiq.com",
+        "hostname": "leadiq.com",
+        "favicon": "https://imgs.search.brave.com/gKZkPFBmgeaIwdUAYtPXD5bBxEeyYbR4p40Vi6S_z0w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NDdkOWVh/MzQ2M2M1MTY2NTBm/NGQzMzM4ZGQ5YjVm/NDVjMzA5NTY1ODc0/M2EyNmUwNTIzMTQx/NGIwMTAzOC9sZWFk/aXEuY29tLw",
+        "path": "› c  › skatteverket  › 5a1d8b2124000024006628c4"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:51:15.388267"
+}

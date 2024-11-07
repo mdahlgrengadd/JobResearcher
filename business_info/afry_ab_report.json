@@ -1,0 +1,170 @@
+{
+  "company_info": {
+    "name": "AFRY AB",
+    "descriptions": [
+      "An engineering, design, and advisory services company focused on sustainability and innovation"
+    ],
+    "industries": [
+      "Engineering"
+    ],
+    "locations": [
+      "Malmö"
+    ],
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "Scala",
+      "NLP",
+      "Python",
+      "Time Series Analysis",
+      "Data Visualization"
+    ],
+    "job_titles": [
+      "Machine Learning Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av AFRY AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: 19,000 experter\n- Baserat i Sverige\n- Verksamma inom infrastruktur, industri och energisektorn\n\n2. Omsättning och finansiell information\n- Intäkter: Växte från 23,55 miljarder till 26,98 miljarder SEK\n- Noterat på börsen (ticker: AFRY:STO)\n\n3. Företagets värdegrund och kultur\n- Fokus på hållbara lösningar\n- Inriktning på innovation och teknisk rådgivning\n\n4. Huvudsakliga produkter/tjänster\n- Teknisk konsultverksamhet\n- Projektledning\n- Konstruktion och designtjänster\n- Rådgivningstjänster\n\n5. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser:\n- Programmeringsspråk: Java, Python, Scala\n- Machine Learning: PyTorch, TensorFlow, Keras\n- Dataanalys: Time Series Analysis, NLP\n- Data Visualization\n\n6. Nyliga nyheter/utveckling\n- Fortsatt tillväxt inom konsultbranschen\n- Strategisk fokus på hållbarhetslösningar\n\nKällor: afry.com, Financial Times, Owler, GlobalData",
+  "search_results": [
+    {
+      "title": "About us | AFRY - engineering, design & advisory services",
+      "url": "https://afry.com/en/about-us",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "19,000 infrastructure, industry and energy experts providing engineering, design &amp; advisory services. Sustainable solutions for generations to come.",
+      "profile": {
+        "name": "Afry",
+        "url": "https://afry.com/en/about-us",
+        "long_name": "afry.com",
+        "img": "https://imgs.search.brave.com/eG2OMnZIbN6c-CcDArd7pC13KjuXfCHio6Ald7kcnVw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY5ZDlhYmM0/MDkzNDI1NGMyNzYy/YTJmYTJiODQyMWQ4/NDJhMmJkMmQyOWQ0/NmJkZTg0ODA1M2Q3/ODNjMzNiNy9hZnJ5/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "afry.com",
+        "hostname": "afry.com",
+        "favicon": "https://imgs.search.brave.com/eG2OMnZIbN6c-CcDArd7pC13KjuXfCHio6Ald7kcnVw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY5ZDlhYmM0/MDkzNDI1NGMyNzYy/YTJmYTJiODQyMWQ4/NDJhMmJkMmQyOWQ0/NmJkZTg0ODA1M2Q3/ODNjMzNiNy9hZnJ5/LmNvbS8",
+        "path": "› en  › about-us"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/d6XO6YIvR1Fp_xMRpp-sbvjEnJllzzJkgkFzRboPEVE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hZnJ5/LmNvbS90aGVtZXMv/Y3VzdG9tL2FmcHQv/YXNzZXRzL2ltYWdl/cy9vZ19pbWFnZV9z/dGFuZGFyZC5qcGc",
+        "original": "https://afry.com/themes/custom/afpt/assets/images/og_image_standard.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Afry AB, AFRY:STO profile - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=AFRY:STO",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "... Data delayed at least 15 minutes, ... 30 Jun 2024 - 30 Sep 2024Source: FactSet Research Systems Inc. ... Afry AB grew revenues 14.55% from 23.55bn to <strong>26.98bn</strong>....",
+      "profile": {
+        "name": "Ft",
+        "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=AFRY:STO",
+        "long_name": "markets.ft.com",
+        "img": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "markets.ft.com",
+        "hostname": "markets.ft.com",
+        "favicon": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8",
+        "path": "› data  › equities  › tearsheet  › profile"
+      }
+    },
+    {
+      "title": "AFRY’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/afry1",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>AFRY</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>AFRY</strong> is a Sweden-based consulting firm that offers provides services such as project and construction management for the commercial sector. <strong>AFRY</strong>’s primary competitors include AECOM, Alantra, Alcimed and 7 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/afry1",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › afry1"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "AFRY AB - Company Profile",
+      "url": "https://www.globaldata.com/company-profile/af-poyry-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Up-to-date AF Poyry <strong>AB</strong> <strong>company</strong> overview including funding <strong>information</strong>, <strong>company</strong> profile, key statistics, peer comparison and more.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/af-poyry-ab/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "  › home  › all companies  › afry ab"
+      }
+    },
+    {
+      "title": "Year-end report January-December 2023 | AFRY",
+      "url": "https://afry.com/en/newsroom/press-releases/year-end-report-january-december-2023",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Finally, I would like to thank our clients, partners and <strong>employees</strong> for great collaboration during the year. ... Corp. ID no 556120-6474 · This report has not been subjected to scrutiny by the <strong>company</strong>’s auditors. This <strong>information</strong> fulfils <strong>AFRY</strong> <strong>AB</strong>’s (publ) disclosure requirements under the ...",
+      "page_age": "2024-02-02T08:22:59",
+      "profile": {
+        "name": "Afry",
+        "url": "https://afry.com/en/newsroom/press-releases/year-end-report-january-december-2023",
+        "long_name": "afry.com",
+        "img": "https://imgs.search.brave.com/eG2OMnZIbN6c-CcDArd7pC13KjuXfCHio6Ald7kcnVw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY5ZDlhYmM0/MDkzNDI1NGMyNzYy/YTJmYTJiODQyMWQ4/NDJhMmJkMmQyOWQ0/NmJkZTg0ODA1M2Q3/ODNjMzNiNy9hZnJ5/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "article",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "afry.com",
+        "hostname": "afry.com",
+        "favicon": "https://imgs.search.brave.com/eG2OMnZIbN6c-CcDArd7pC13KjuXfCHio6Ald7kcnVw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY5ZDlhYmM0/MDkzNDI1NGMyNzYy/YTJmYTJiODQyMWQ4/NDJhMmJkMmQyOWQ0/NmJkZTg0ODA1M2Q3/ODNjMzNiNy9hZnJ5/LmNvbS8",
+        "path": "› en  › newsroom  › press-releases  › year-end-report-january-december-2023"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/d6XO6YIvR1Fp_xMRpp-sbvjEnJllzzJkgkFzRboPEVE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hZnJ5/LmNvbS90aGVtZXMv/Y3VzdG9tL2FmcHQv/YXNzZXRzL2ltYWdl/cy9vZ19pbWFnZV9z/dGFuZGFyZC5qcGc",
+        "original": "https://afry.com/themes/custom/afpt/assets/images/og_image_standard.jpg",
+        "logo": false
+      },
+      "age": "February 2, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T02:53:37.589414"
+}

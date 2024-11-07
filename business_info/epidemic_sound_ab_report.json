@@ -1,0 +1,183 @@
+{
+  "company_info": {
+    "name": "Epidemic Sound AB",
+    "descriptions": [
+      "Digital music and sound effects platform",
+      "A global company with 500+ innovators in tech and soundtracking",
+      "Musiklicensieringsföretag som tillhandahåller ljudeffekter och musik för innehapsskapare"
+    ],
+    "industries": [
+      "Teknologi/Media",
+      "Music Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Data Pipeline",
+      "Google Cloud Platform",
+      "BigQuery",
+      "TypeScript",
+      "SQL",
+      "Kubernetes",
+      "Microservices",
+      "Backend technologies",
+      "Digital Rights Management",
+      "Apache Airflow",
+      "FastAPI",
+      "Python",
+      "ETL",
+      "React",
+      "GCP"
+    ],
+    "job_titles": [
+      "Senior Data Engineer - Financial Systems",
+      "Software Engineer",
+      "Senior Backend Engineer - DRM"
+    ]
+  },
+  "analysis": "Sammanfattning av Epidemic Sound AB:\n\n1. Företagets storlek och antal anställda\n- Cirka 500-600 anställda\n- Globalt verksamt företag med huvudkontor i Stockholm\n(Källa: Jobbannonser, Growjo.com)\n\n2. Omsättning och finansiell information\n- Intäkter 2022: 1,181 miljoner SEK (46% tillväxt)\n- Totalt finansieringskapital: $450 miljoner\n- Företagsvärdering: $1,4 miljarder\n- Erkänd som ett av Europas snabbast växande företag av Financial Times\n(Källa: Epidemic Sounds årsrapport 2022, Growjo.com)\n\n3. Huvudsakliga produkter/tjänster\n- Digital musikplattform för licensiering\n- Tillhandahåller ljudeffekter och musik för innehållsskapare\n- Erbjuder restriktionsfri musik för olika ändamål\n(Källa: Jobbannonser, Owler.com)\n\n4. Teknisk stack och kompetensområden\nTekniska kompetenser inkluderar:\n- Molnplattformar: Google Cloud Platform\n- Programmeringsspråk: TypeScript, Python\n- Teknologier: Kubernetes, Microservices\n- Datahantering: BigQuery, Apache Airflow, ETL-processer\n- Utvecklingsramverk: FastAPI, React\n(Källa: Jobbannonser)\n\n5. Nyliga nyheter/utveckling\n-Publicerade hållbarhetsrapport 2022\n- Kraftig intäktstillväxt\n- Internationell expansion\n(Källa: Epidemic Sounds pressmeddelanden)\n\nAnmärkning: Informationen är baserad på tillgängliga källor och kan variera över tid.",
+  "search_results": [
+    {
+      "title": "How Epidemic Sound hit $147.4M revenue with a 632 person team in...",
+      "url": "https://getlatka.com/companies/epidemic-sound",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Epidemic</strong> <strong>Sound</strong> CEO Oscar Hoglund shares how <strong>Epidemic</strong> <strong>Sound</strong> grew to $147.4M over the past 15 years. <strong>Epidemic</strong> <strong>Sound</strong> has raised $508.7M and hit a $1.4B...",
+      "profile": {
+        "name": "LATKA",
+        "url": "https://getlatka.com/companies/epidemic-sound",
+        "long_name": "getlatka.com",
+        "img": "https://imgs.search.brave.com/8VrUz32u8wGQ1EwhsZwbYkZQ9qjsNrQkFaiOWStRPZs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThmNDVhMTM2/YjhiYTYwMmI2OTRh/ZDFkNTMyN2NhNzQz/NGI1MjQwYTVkMTdj/MTEyOTdjYTczNDA0/OGFiNDA1NS9nZXRs/YXRrYS5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "getlatka.com",
+        "hostname": "getlatka.com",
+        "favicon": "https://imgs.search.brave.com/8VrUz32u8wGQ1EwhsZwbYkZQ9qjsNrQkFaiOWStRPZs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThmNDVhMTM2/YjhiYTYwMmI2OTRh/ZDFkNTMyN2NhNzQz/NGI1MjQwYTVkMTdj/MTEyOTdjYTczNDA0/OGFiNDA1NS9nZXRs/YXRrYS5jb20v",
+        "path": "› companies  › epidemic-sound"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/nuRIOoHBIkEk0m7AU_NsBsi8tWVJI9Cl9esADxfhIJs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdldGxhdGth/LmNvbS9pbWFnZXMv/bGF0a2EtbG9nby5z/dmc",
+        "original": "https://storage.getlatka.com/images/latka-logo.svg",
+        "logo": true
+      }
+    },
+    {
+      "title": "Epidemic Sound recognized by the Financial Times as one of Europe’s fastest-growing companies | Epidemic Sound",
+      "url": "https://corporate.epidemicsound.com/press-and-media/press-releases/2023/epidemic-sound-recognized-by-the-financial-times-as-one-of-europes-fastest-growing-companies/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Epidemic Sound recognized by the Financial Times as second fastest-growing Swedish IT &amp; Software company and one of the fastest-growing in Europe · The ranking is based on revenue growth at European companies in the three years to 2021, where Epidemic Sound hit <strong>SEK 808 million</strong> in revenue",
+      "profile": {
+        "name": "Epidemicsound",
+        "url": "https://corporate.epidemicsound.com/press-and-media/press-releases/2023/epidemic-sound-recognized-by-the-financial-times-as-one-of-europes-fastest-growing-companies/",
+        "long_name": "corporate.epidemicsound.com",
+        "img": "https://imgs.search.brave.com/cBN-RAfx5mmP7KZ0aqXb6kNEsbVWF1etWjCYv4l6aos/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MmM5NTFm/YjA4ZmVkYjU5NDhh/ZTdiY2FkZmRkYjZk/NDVkNzM4NTBmZmJj/MWJkOTYzMzZmZjQy/ODVjZTQ3MC9jb3Jw/b3JhdGUuZXBpZGVt/aWNzb3VuZC5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "corporate.epidemicsound.com",
+        "hostname": "corporate.epidemicsound.com",
+        "favicon": "https://imgs.search.brave.com/cBN-RAfx5mmP7KZ0aqXb6kNEsbVWF1etWjCYv4l6aos/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MmM5NTFm/YjA4ZmVkYjU5NDhh/ZTdiY2FkZmRkYjZk/NDVkNzM4NTBmZmJj/MWJkOTYzMzZmZjQy/ODVjZTQ3MC9jb3Jw/b3JhdGUuZXBpZGVt/aWNzb3VuZC5jb20v",
+        "path": "› press-and-media  › press-releases  › 2023  › epidemic-sound-recognized-by-the-financial-times-as-one-of-europes-fastest-growing-companies"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Dg6zEDY8eC-cqBePdaB7-sCs9Z6KTCwJeO0mN92TX80/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb3Jw/b3JhdGUuZXBpZGVt/aWNzb3VuZC5jb20v/ZmlsZXMvUHVibGlj/LzIxOTI4LzM3Mjc2/NzQvOGMzYjM2MjY3/NGUzZTFiZV84MDB4/ODAwYXIuanBn",
+        "original": "https://corporate.epidemicsound.com/files/Public/21928/3727674/8c3b362674e3e1be_800x800ar.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Epidemic Sound: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Epidemic_Sound",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Epidemic Sound, a Stockholm, Sweden-based platform for restriction-free music, raised <strong>$450m in funding at a $1.4billion valuation</strong>. Backers included funds managed by Blackstone Growth and EQT Growth. The company intends to use the funds to expand its business reach internationally to reach new ...",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Epidemic_Sound",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Epidemic_Sound"
+      }
+    },
+    {
+      "title": "Epidemic Sound publishes its 2022 Annual Report and Sustainability Report | Epidemic Sound",
+      "url": "https://corporate.epidemicsound.com/press-and-media/press-releases/2023/epidemic-sound-publishes-its-2022-annual-report-and-sustainability-report/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Strong net sales growth of 46 percent, ... was another strong year for Epidemic Sound, delivering a net sales growth of 46 (41) percent, amounting to <strong>SEK 1,181 (808) million</strong>....",
+      "profile": {
+        "name": "Epidemicsound",
+        "url": "https://corporate.epidemicsound.com/press-and-media/press-releases/2023/epidemic-sound-publishes-its-2022-annual-report-and-sustainability-report/",
+        "long_name": "corporate.epidemicsound.com",
+        "img": "https://imgs.search.brave.com/cBN-RAfx5mmP7KZ0aqXb6kNEsbVWF1etWjCYv4l6aos/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MmM5NTFm/YjA4ZmVkYjU5NDhh/ZTdiY2FkZmRkYjZk/NDVkNzM4NTBmZmJj/MWJkOTYzMzZmZjQy/ODVjZTQ3MC9jb3Jw/b3JhdGUuZXBpZGVt/aWNzb3VuZC5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "corporate.epidemicsound.com",
+        "hostname": "corporate.epidemicsound.com",
+        "favicon": "https://imgs.search.brave.com/cBN-RAfx5mmP7KZ0aqXb6kNEsbVWF1etWjCYv4l6aos/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGE4MmM5NTFm/YjA4ZmVkYjU5NDhh/ZTdiY2FkZmRkYjZk/NDVkNzM4NTBmZmJj/MWJkOTYzMzZmZjQy/ODVjZTQ3MC9jb3Jw/b3JhdGUuZXBpZGVt/aWNzb3VuZC5jb20v",
+        "path": "› press-and-media  › press-releases  › 2023  › epidemic-sound-publishes-its-2022-annual-report-and-sustainability-report"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/MvoOXNmxjTvzMqF5AFioQ5lqWjdWPyWsRDVm0bXGS3s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb3Jw/b3JhdGUuZXBpZGVt/aWNzb3VuZC5jb20v/ZmlsZXMvUHVibGlj/LzIxOTI4LzM3NTcy/OTEvYmQ2ZDg1YTJm/OGUyYjNiY184MDB4/ODAwYXIucG5n",
+        "original": "https://corporate.epidemicsound.com/files/Public/21928/3757291/bd6d85a2f8e2b3bc_800x800ar.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Epidemic Sound’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/epidemicsound",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Epidemic</strong> <strong>Sound</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Epidemic</strong> <strong>Sound</strong> is a Sweden-based online music library that allows music artists to find, collaborate, produce, and share restriction-free soundtracks. <strong>Epidemic</strong> <strong>Sound</strong>’s primary competitors include Premiumbeat, Comma Music, Uppbeat and 25 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/epidemicsound",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › epidemicsound"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:49:03.666633"
+}

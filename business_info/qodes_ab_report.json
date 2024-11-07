@@ -1,0 +1,176 @@
+{
+  "company_info": {
+    "name": "Qodes AB",
+    "descriptions": [
+      "IT consulting company specializing in embedded and test development"
+    ],
+    "industries": [
+      "IT Consulting"
+    ],
+    "locations": [
+      "Not specified"
+    ],
+    "skills": [
+      "CI/CD",
+      "Test monitoring",
+      "Functional safety assessment",
+      "Test automation",
+      "Functional testing",
+      "Test planning"
+    ],
+    "job_titles": [
+      "Senior Test Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Qodes AB:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda ej fastställt\n- LinkedIn visar 871 följare, vilket indikerar en mindre till mellanstor organisation\n\n2. Omsättning och finansiell information\n- Ingen specifik omsättningsinformation tillgänglig\n- Ingen detaljerad finansiell data funnen\n\n3. Värdegrund och kultur\n- Passion för personlig utveckling och mjukvaruutveckling\n- Engagemang för att driva embedded och test development framåt\n- Beskriver sig som \"ett företag med hjärta\" [Källa: LinkedIn]\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsultföretag\n- Specialiserade inom:\n  - Embedded development\n  - Test development\n  - Konsulttjänster inom mjukvaruutveckling\n\n5. Nyliga nyheter/utveckling\n- Ingen specifik information hittad\n\n6. Teknisk stack och kompetensområden\n- Kompetenser:\n  - CI/CD\n  - Test monitoring\n  - Functional safety assessment\n  - Test automation\n  - Functional testing\n  - Test planning\n\nAnmärkning: Informationen är begränsad och delvis fragmentarisk.\n\nKällor:\n- LinkedIn\n- Jobbannonser\n- Crunchbase",
+  "search_results": [
+    {
+      "title": "Qodes AB - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/qodes-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Qodes</strong> is passionate wholeheartedly for personal development, software development.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/qodes-ab",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › qodes-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/cqC82LUQBICUW0te9cYn40Pqryy1DJRZc5PsR-9PcIc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMt/MS5jbG91ZGluYXJ5/LmNvbS9jcnVuY2hi/YXNlLXByb2R1Y3Rp/b24vaW1hZ2UvdXBs/b2FkL2NfbHBhZCxo/XzI1Nix3XzI1Nixm/X2F1dG8scV9hdXRv/OmVjby9vZzZxZmd0/bzR6dGFvZDdzY29r/MA",
+        "original": "https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/og6qfgto4ztaod7scok0",
+        "logo": false
+      }
+    },
+    {
+      "title": "Qodes | LinkedIn",
+      "url": "https://se.linkedin.com/company/qodes-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Qodes</strong> | 871 följare på LinkedIn. The next generation approach of professional consulting | It was our commitment and passion for development that led us to starting <strong>Qodes</strong>. We are a <strong>company</strong> with a heart and a great desire to drive the embedded and test development forward.",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://se.linkedin.com/company/qodes-ab",
+        "long_name": "se.linkedin.com",
+        "img": "https://imgs.search.brave.com/_aUh_KjDbqQXuTbUz3ijufqK7nUaWsT5d83akIsnR5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJlZDcwZWM1/YzRjMmRkOGZmMTRk/Y2MwYjI4Y2Y5NjFi/YzJlYTc0ZjJjMGVj/MWNhNzQxMWY1ZTJl/MGEyYWRhNS9zZS5s/aW5rZWRpbi5jb20v"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "se.linkedin.com",
+        "hostname": "se.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/_aUh_KjDbqQXuTbUz3ijufqK7nUaWsT5d83akIsnR5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJlZDcwZWM1/YzRjMmRkOGZmMTRk/Y2MwYjI4Y2Y5NjFi/YzJlYTc0ZjJjMGVj/MWNhNzQxMWY1ZTJl/MGEyYWRhNS9zZS5s/aW5rZWRpbi5jb20v",
+        "path": "› company  › qodes-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Mka9LGZ6P2fjacpwhTO2R06TQ1Hp_RkR4EEKrigeh9s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RDBCQVFINmwxSzFl/R21lS0EvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjMxMzI3/MTQ5NTY5P2U9MjE0/NzQ4MzY0NyZhbXA7/dj1iZXRhJmFtcDt0/PXdlYVpyNGNidUV1/SzdfY2JISG5lRkpF/Sjh2N0ExaHBWc2xQ/d1hDVWxUQms",
+        "original": "https://media.licdn.com/dms/image/C4D0BAQH6l1K1eGmeKA/company-logo_200_200/0/1631327149569?e=2147483647&amp;v=beta&amp;t=weaZr4cbuEuK7_cbHHneFJEJ8v7A1hpVslPwXCUlTBk",
+        "logo": true
+      }
+    },
+    {
+      "title": "Revenue per employee | Verified Metrics",
+      "url": "https://www.verifiedmetrics.com/blog/revenue-per-employee",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Revenue</strong> per <strong>employee</strong> is a human resource metric that reflects the productivity of a <strong>company</strong>&#x27;s total workforce. The higher your <strong>revenue</strong> per <strong>employee</strong>, the more ideal it is.",
+      "profile": {
+        "name": "Verifiedmetrics",
+        "url": "https://www.verifiedmetrics.com/blog/revenue-per-employee",
+        "long_name": "verifiedmetrics.com",
+        "img": "https://imgs.search.brave.com/Khr7XQDQFS816NFXxQRmwT__sayctipk4gRXFnWsuKk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWM5NzRjN2Uy/NTY4OGFjYWM0YjAz/Y2E3NzdhZGZkOTAz/NzkzNDA1NmE4NzRm/OTY1NTQ0OWZkZmEw/ZDk2N2Q3Ni93d3cu/dmVyaWZpZWRtZXRy/aWNzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "location",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "verifiedmetrics.com",
+        "hostname": "www.verifiedmetrics.com",
+        "favicon": "https://imgs.search.brave.com/Khr7XQDQFS816NFXxQRmwT__sayctipk4gRXFnWsuKk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWM5NzRjN2Uy/NTY4OGFjYWM0YjAz/Y2E3NzdhZGZkOTAz/NzkzNDA1NmE4NzRm/OTY1NTQ0OWZkZmEw/ZDk2N2Q3Ni93d3cu/dmVyaWZpZWRtZXRy/aWNzLmNvbS8",
+        "path": "› blog  › revenue-per-employee"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/7xsK1PxI1rrFriUC7WrvKykkwi8OWz74UE4DGjad_Vo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTcxNWQxMzRlNDYy/NTNhMTNkMTBmYWMv/NjViN2NlYmUyMzAy/NTQ1MThhMTVjNjk5/X3ZtX2xvZ29fc3Ry/dWN0dXJlZC5wbmc",
+        "original": "https://cdn.prod.website-files.com/65715d134e46253a13d10fac/65b7cebe230254518a15c699_vm_logo_structured.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "CompanySights | Revenue per Employee: A Key Benchmarking Metric for Businesses",
+      "url": "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The inputs for this metric are quite straightforward. To calculate <strong>revenue</strong> per <strong>employee</strong>, all that you need to know is the total <strong>revenue</strong> of the <strong>company</strong>, as well as the number of <strong>employees</strong>. <strong>This</strong> <strong>information</strong> can typically be obtained from the <strong>company</strong>&#x27;s annual reports, financial statements, or website.",
+      "profile": {
+        "name": "Companysights",
+        "url": "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses",
+        "long_name": "companysights.com",
+        "img": "https://imgs.search.brave.com/xZfAfDfflYbb-MJcWvuQffj-DS1tZJcIbA3KWe044UQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDk5Zjk1ZDMx/ZWQwOGFlZWE1ZTJk/NGMyNDRkZWQ2NGIx/NzBiNTc4YzZhZjU3/ODkwN2Y1NWM1NWVh/OTdhMGY0Zi93d3cu/Y29tcGFueXNpZ2h0/cy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "companysights.com",
+        "hostname": "www.companysights.com",
+        "favicon": "https://imgs.search.brave.com/xZfAfDfflYbb-MJcWvuQffj-DS1tZJcIbA3KWe044UQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDk5Zjk1ZDMx/ZWQwOGFlZWE1ZTJk/NGMyNDRkZWQ2NGIx/NzBiNTc4YzZhZjU3/ODkwN2Y1NWM1NWVh/OTdhMGY0Zi93d3cu/Y29tcGFueXNpZ2h0/cy5jb20v",
+        "path": "› resources  › revenue-per-employee-a-key-benchmarking-metric-for-businesses"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/kKv7Qqg2z05EkqMW9HQUpYQOE9ljBCZn_1yKLSFWOgM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/MzQ2YTdlNGU5OTQz/NTIxNThjOTUzNzQv/NjY0YjQzODk3ZjVj/Njg4ZDk3NmFhZjY5/X3NpZGUtdmlldy1j/cm9wcGVkLW1hbi13/b3JraW5nLWZpbmFu/Y2lhbC1yZXBvcnRf/MTA5OC0xODg1MS5q/cGc",
+        "original": "https://cdn.prod.website-files.com/6346a7e4e994352158c95374/664b43897f5c688d976aaf69_side-view-cropped-man-working-financial-report_1098-18851.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Revenue per Employee [The Added Value of Labor]",
+      "url": "https://spendmenot.com/revenue-per-employee/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Labor demands differ from industry to industry. SpendMeNot.com is here to answer your questions. We have this treasure map to give you insight on the <strong>companies</strong> with the biggest <strong>revenue</strong> per <strong>employee</strong> ratio. This Infographic Shows the <strong>Revenue</strong> per <strong>Employee</strong> Ratio Here we go.",
+      "page_age": "2024-07-16T07:47:06",
+      "profile": {
+        "name": "Spendmenot",
+        "url": "https://spendmenot.com/revenue-per-employee/",
+        "long_name": "spendmenot.com",
+        "img": "https://imgs.search.brave.com/vNzC1G5930F06NZi1OvrPSGJm9ULGTlD1VFK6VBmQdU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODRjMmEwYzMw/N2MxMDg5ZWVmYzE4/ZjgwYzJhNGNhOWM5/NjlhMjgzMmU5NTU2/MGI1ZDlhN2VlMjk0/ZGMyMGJhZS9zcGVu/ZG1lbm90LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "article",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "spendmenot.com",
+        "hostname": "spendmenot.com",
+        "favicon": "https://imgs.search.brave.com/vNzC1G5930F06NZi1OvrPSGJm9ULGTlD1VFK6VBmQdU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODRjMmEwYzMw/N2MxMDg5ZWVmYzE4/ZjgwYzJhNGNhOWM5/NjlhMjgzMmU5NTU2/MGI1ZDlhN2VlMjk0/ZGMyMGJhZS9zcGVu/ZG1lbm90LmNvbS8",
+        "path": "  › home  › revenue per employee [the added value of labor]"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Xh_txYtYqOxCwtN_OWnZopvdy3Yt_7A2PrU84yULO8E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zcGVu/ZG1lbm90LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/OC9SZXZlbnVlLXBl/ci1lbXBsb3llZS5w/bmc",
+        "original": "https://spendmenot.com/wp-content/uploads/2020/08/Revenue-per-employee.png",
+        "logo": false
+      },
+      "age": "July 16, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T02:57:04.739138"
+}

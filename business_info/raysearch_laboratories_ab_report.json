@@ -1,0 +1,172 @@
+{
+  "company_info": {
+    "name": "RaySearch Laboratories AB",
+    "descriptions": [
+      "Innovative software solutions company focused on improving cancer care"
+    ],
+    "industries": [
+      "Healthcare Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "PowerShell",
+      "CI/CD",
+      "Bash",
+      "Git",
+      "Python",
+      "Terraform",
+      "Kubernetes",
+      "AWS"
+    ],
+    "job_titles": [
+      "DevOps Cloud Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av RaySearch Laboratories AB:\n\n1. Storlek och anställda\n- Medicinteknologiskt företag baserat i Stockholm\n- Specifikt antal anställda ej fastställt i tillgängligt material\n\n2. Omsättning och finansiell information\n- Publikt aktiebolag (AB publ)\n- Detaljerad finansiell information begränsad i nuvarande underlag\n- Årsrapport för 2021 publicerad\n\n3. Värdegrund och kultur\n- Innovativt företag inom vårdteknologi\n- Fokus på att förbättra cancervård genom mjukvarulösningar\n\n4. Huvudsakliga produkter/tjänster\n- Utvecklar mjukvara för strålterapi vid cancerbehandling\n- Specialiserade medicinska mjukvarulösningar\n\n5. Senaste utveckling\n- Publicerade årsrapport för 2021\n- Fortsatt fokus på mjukvaruutveckling inom onkologi\n\n6. Teknisk kompetens och stack\n- Teknologier: \n  * Cloud/DevOps: AWS, Kubernetes, Terraform\n  * Scripting: PowerShell, Bash, Python\n  * Versionshantering: Git\n  * CI/CD-kompetens\n\nKällor: Wikipedia, RaySearch Labs webbplats, jobbannonser\n\nAnmärkning: Vissa detaljer är begränsade och kräver ytterligare researching för fullständig kartläggning.",
+  "search_results": [
+    {
+      "title": "RaySearch Laboratories - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RaySearch_Laboratories",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>RaySearch</strong> <strong>Laboratories</strong> (<strong>AB</strong> publ) is a Swedish medical technology <strong>company</strong> that develops software used in radiation therapy of cancer.",
+      "page_age": "2024-03-05T20:30:09",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/RaySearch_Laboratories",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/RaySearch_Laboratories#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Current products",
+            "url": "https://en.wikipedia.org/wiki/RaySearch_Laboratories#Current_products"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › RaySearch_Laboratories"
+      },
+      "age": "March 5, 2024"
+    },
+    {
+      "title": "Investor Relations | RaySearch Laboratories",
+      "url": "https://www.raysearchlabs.com/investor/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Stay updated about <strong>RaySearch</strong>&#x27;s performance and other factors contributing to your assessment of <strong>RaySearch</strong> as an investment.",
+      "profile": {
+        "name": "Raysearchlabs",
+        "url": "https://www.raysearchlabs.com/investor/",
+        "long_name": "raysearchlabs.com",
+        "img": "https://imgs.search.brave.com/Xvcrh5S7O4cbhHEtc6IIbmTFgt-1fp_fUky0jAxcG_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3OTQ1ZGFm/NTZiMDY1ODJlMTgw/ZDQ0NjQzMjRkNGFk/N2U5ZGQzZmE4ODQw/MmU3N2ZkNGEyODBm/ODkzMTRiYi93d3cu/cmF5c2VhcmNobGFi/cy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "raysearchlabs.com",
+        "hostname": "www.raysearchlabs.com",
+        "favicon": "https://imgs.search.brave.com/Xvcrh5S7O4cbhHEtc6IIbmTFgt-1fp_fUky0jAxcG_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3OTQ1ZGFm/NTZiMDY1ODJlMTgw/ZDQ0NjQzMjRkNGFk/N2U5ZGQzZmE4ODQw/MmU3N2ZkNGEyODBm/ODkzMTRiYi93d3cu/cmF5c2VhcmNobGFi/cy5jb20v",
+        "path": "  › start  › investors"
+      }
+    },
+    {
+      "title": "Financial Reports | RaySearch Laboratories",
+      "url": "https://www.raysearchlabs.com/investor/financial-reports/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Stay up to date with key financial data about <strong>RaySearch</strong> <strong>Laboratories</strong>",
+      "profile": {
+        "name": "Raysearchlabs",
+        "url": "https://www.raysearchlabs.com/investor/financial-reports/",
+        "long_name": "raysearchlabs.com",
+        "img": "https://imgs.search.brave.com/Xvcrh5S7O4cbhHEtc6IIbmTFgt-1fp_fUky0jAxcG_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3OTQ1ZGFm/NTZiMDY1ODJlMTgw/ZDQ0NjQzMjRkNGFk/N2U5ZGQzZmE4ODQw/MmU3N2ZkNGEyODBm/ODkzMTRiYi93d3cu/cmF5c2VhcmNobGFi/cy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "raysearchlabs.com",
+        "hostname": "www.raysearchlabs.com",
+        "favicon": "https://imgs.search.brave.com/Xvcrh5S7O4cbhHEtc6IIbmTFgt-1fp_fUky0jAxcG_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3OTQ1ZGFm/NTZiMDY1ODJlMTgw/ZDQ0NjQzMjRkNGFk/N2U5ZGQzZmE4ODQw/MmU3N2ZkNGEyODBm/ODkzMTRiYi93d3cu/cmF5c2VhcmNobGFi/cy5jb20v",
+        "path": "  › start  › investors  › financial reports"
+      }
+    },
+    {
+      "title": "Raysearch Laboratories Company Profile: Stock Performance & Earnings | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/57072-07",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on stock, financials, earnings, subsidiaries, investors, and executives for <strong>Raysearch</strong> <strong>Laboratories</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/57072-07",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 57072-07"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/a1hh2_Gqop9rsZbjZTly5zi3_FleOKPLHRMH1VhzTYw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9eHZvNVJk/VDY",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=xvo5RdT6",
+        "logo": false
+      }
+    },
+    {
+      "title": "RaySearch publishes Annual Report for 2021 | RaySearch Laboratories",
+      "url": "https://www.raysearchlabs.com/investor/financial-reports/2022/raysearch-publishes-annual-report-for-2021/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Today, <strong>RaySearch</strong> <strong>Laboratories</strong> <strong>AB</strong> (publ) publishes its Annual Report and Remuneration Report for the financial year 2021. The reports are held",
+      "profile": {
+        "name": "Raysearchlabs",
+        "url": "https://www.raysearchlabs.com/investor/financial-reports/2022/raysearch-publishes-annual-report-for-2021/",
+        "long_name": "raysearchlabs.com",
+        "img": "https://imgs.search.brave.com/Xvcrh5S7O4cbhHEtc6IIbmTFgt-1fp_fUky0jAxcG_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3OTQ1ZGFm/NTZiMDY1ODJlMTgw/ZDQ0NjQzMjRkNGFk/N2U5ZGQzZmE4ODQw/MmU3N2ZkNGEyODBm/ODkzMTRiYi93d3cu/cmF5c2VhcmNobGFi/cy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "raysearchlabs.com",
+        "hostname": "www.raysearchlabs.com",
+        "favicon": "https://imgs.search.brave.com/Xvcrh5S7O4cbhHEtc6IIbmTFgt-1fp_fUky0jAxcG_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTY3OTQ1ZGFm/NTZiMDY1ODJlMTgw/ZDQ0NjQzMjRkNGFk/N2U5ZGQzZmE4ODQw/MmU3N2ZkNGEyODBm/ODkzMTRiYi93d3cu/cmF5c2VhcmNobGFi/cy5jb20v",
+        "path": "  › start  › investors  › financial reports  › raysearch publishes annual report for 2021"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:55:24.746190"
+}

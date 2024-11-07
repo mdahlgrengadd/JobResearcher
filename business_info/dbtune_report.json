@@ -1,0 +1,165 @@
+{
+  "company_info": {
+    "name": "DBtune",
+    "descriptions": [
+      "AI-driven startup optimizing PostgreSQL databases"
+    ],
+    "industries": [
+      "Database Technology"
+    ],
+    "locations": [
+      "Malmö"
+    ],
+    "skills": [
+      "Cloud databases",
+      "Machine learning",
+      "Database performance tuning",
+      "DevOps",
+      "PostgreSQL",
+      "Python",
+      "Database optimization"
+    ],
+    "job_titles": [
+      "Database Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av DBtune:\n\n1. Företagets storlek och antal anställda:\n- Specifik information om antal anställda saknas\n- Startup-företag baserat i Malmö/Lund, Sverige\n- Nyligen grundat teknologiföretag [Källa: Dealroom.co, Crunchbase]\n\n2. Omsättning och finansiell information:\n- Har säkrat €2,4 miljoner i seed-funding\n- Investerare inkluderar 42Cap, JVH Ventures och Exxeta Ventures [Källa: Crunchbase, Gaebler.com]\n\n3. Värdegrund och kultur:\n- Fokus på användarvänliga, säkra och privata AI-lösningar\n- Mål att göra databasoptimering tillgänglig utan specialistkompetens [Källa: Dealroom.co]\n\n4. Huvudsakliga produkter/tjänster:\n- AI-driven optimeringstjänst för PostgreSQL-databaser\n- Molnbaserad databas-optimeringsplattform [Källa: Jobbannonser]\n\n5. Nyliga nyheter:\n- Framgångsrik seed-funding-rond på €2,4 miljoner\n- Planerar expansion inom AI-driven databasoptimering [Källa: Egen bloggsida]\n\n6. Teknisk kompetens:\n- Teknologier: PostgreSQL, Python, Cloud databases\n- Kompetensområden: Machine learning, Database performance tuning, DevOps\n- Inriktning: AI-baserad databasoptimering [Källa: Jobbannonser]\n\nAnmärkning: Informationen är begränsad och baserad på tillgängliga externa källor.",
+  "search_results": [
+    {
+      "title": "DBtune company information, funding & investors | Dealroom.co",
+      "url": "https://app.dealroom.co/companies/dbtune",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>DBtune</strong>.ai&#x27;s business model is based on providing a user-friendly, secure, and private service. Users do not need any background in AI or database tuning to use the service. The <strong>company</strong> does not access any <strong>information</strong> within the database, but only monitors and adjusts the external settings. The <strong>company</strong> generates <strong>revenue</strong> ...",
+      "profile": {
+        "name": "Dealroom",
+        "url": "https://app.dealroom.co/companies/dbtune",
+        "long_name": "app.dealroom.co",
+        "img": "https://imgs.search.brave.com/l55Uk0sKOcy-D9293M4ktpZfVdkp3tv8mXKn5QWLNhI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGZiMzI4OGI3/ODdmODVhNzMwMzYy/MDcwMjQ3YzY4NjUw/YmNjMGRmZTFhMTNh/OTliY2FjNzBlMWEy/YjczOTU1MS9hcHAu/ZGVhbHJvb20uY28v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "app.dealroom.co",
+        "hostname": "app.dealroom.co",
+        "favicon": "https://imgs.search.brave.com/l55Uk0sKOcy-D9293M4ktpZfVdkp3tv8mXKn5QWLNhI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGZiMzI4OGI3/ODdmODVhNzMwMzYy/MDcwMjQ3YzY4NjUw/YmNjMGRmZTFhMTNh/OTliY2FjNzBlMWEy/YjczOTU1MS9hcHAu/ZGVhbHJvb20uY28v",
+        "path": "› companies  › dbtune"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/pEbxBSzqg4ZmCu2CPJ27dlW5vopdv2CVyWjTgpA7RPg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93ZWJz/aG90dGVyLmRlYWxy/b29tLmNvLz93aWR0/aD0xNjAwJmhlaWdo/dD04MDAmd2FpdF91/bnRpbD1uZXR3b3Jr/aWRsZTAmdXJsPWh0/dHBzJTNBJTJGJTJG/YXBwLmRlYWxyb29t/LmNvJTJGY29tcGFu/aWVzJTJGZGJ0dW5l/JTNGc2NyZWVuc2hv/dCUzRHRydWU",
+        "original": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fcompanies%2Fdbtune%3Fscreenshot%3Dtrue",
+        "logo": false
+      }
+    },
+    {
+      "title": "DBtune - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/dbtune",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>DBtune</strong> may be growing as it has recently closed a €2.4 million seed funding round, which is a significant financial boost for a <strong>company</strong> in the analytics, database, and machine learning industries. The funding is aimed at achieving AI efficiency in database operations, indicating an investment ...",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/dbtune",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › dbtune"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/mjcYZeOlzlpzboq9fVU4qMkBJDjnKvqaQPiEr1VUVRU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L21vaWNlY21sdmJ5/Z3NhMWJpdDJw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/moicecmlvbygsa1bit2p",
+        "logo": false
+      }
+    },
+    {
+      "title": "DBtune secures seed funding to revolutionize AI-based database optimization",
+      "url": "https://www.dbtune.com/blog/fund-raise",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>DBtune</strong> is excited to announce a €2.4 million seed funding milestone, led by 42Cap, to fuel our mission to boost organizational efficiency and sustainability.",
+      "profile": {
+        "name": "Dbtune",
+        "url": "https://www.dbtune.com/blog/fund-raise",
+        "long_name": "dbtune.com",
+        "img": "https://imgs.search.brave.com/edYYcnSOR9Gkmv_Alc6oKnge1bcR16TAcT2G6g_uMbU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFjN2UzZTRm/MzYyZGMwY2FhZWNm/MWJjZWZhZTFmMDc3/ZmM2NDI1N2VjYTY2/YTJkZjZhOWIzNjg2/YmIzNWJkNi93d3cu/ZGJ0dW5lLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dbtune.com",
+        "hostname": "www.dbtune.com",
+        "favicon": "https://imgs.search.brave.com/edYYcnSOR9Gkmv_Alc6oKnge1bcR16TAcT2G6g_uMbU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTFjN2UzZTRm/MzYyZGMwY2FhZWNm/MWJjZWZhZTFmMDc3/ZmM2NDI1N2VjYTY2/YTJkZjZhOWIzNjg2/YmIzNWJkNi93d3cu/ZGJ0dW5lLmNvbS8",
+        "path": "› blog  › fund-raise"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/NuhdSCFK2beHQfujj1w3aIcpMxfXq9kKTAb2i9V_9Uc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kYi10/dW5lLXdlYnNpdGUt/bXNkaTcweGVwLWtv/bnNhbGV4cy1wcm9q/ZWN0cy52ZXJjZWwu/YXBwL2ltYWdlcy9m/dW5kaW5nL2ZlYXR1/cmVkLWltYWdlLnBu/Zw",
+        "original": "https://db-tune-website-msdi70xep-konsalexs-projects.vercel.app/images/funding/featured-image.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "DBtune - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "url": "https://www.cbinsights.com/company/dbtune",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>DBtune</strong> is an AI-powered database tuning service operating in the cloud computing and database management sectors. Use the CB Insights Platform to explore <strong>DBtune</strong>&#x27;s full profile.",
+      "profile": {
+        "name": "Cbinsights",
+        "url": "https://www.cbinsights.com/company/dbtune",
+        "long_name": "cbinsights.com",
+        "img": "https://imgs.search.brave.com/-snYugTDKbKWsPlrlsFOsmF_wWgjiuJH_EJZEzJhNAc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDg1MGQxZmI2/ZDFkNWI3OTEwNmI1/M2VjMTM1MjNjN2Ji/ZjM4NWVlYWY1NzNm/NjQ4ZTBhNjVmMzYx/ZjVhMDM3OS93d3cu/Y2JpbnNpZ2h0cy5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "cbinsights.com",
+        "hostname": "www.cbinsights.com",
+        "favicon": "https://imgs.search.brave.com/-snYugTDKbKWsPlrlsFOsmF_wWgjiuJH_EJZEzJhNAc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDg1MGQxZmI2/ZDFkNWI3OTEwNmI1/M2VjMTM1MjNjN2Ji/ZjM4NWVlYWY1NzNm/NjQ4ZTBhNjVmMzYx/ZjVhMDM3OS93d3cu/Y2JpbnNpZ2h0cy5j/b20v",
+        "path": "› company  › dbtune"
+      }
+    },
+    {
+      "title": "DBtune - Tech Company Profile - Gaebler.com Venture Capital Database",
+      "url": "https://www.gaebler.com/Funded-Company-EC30C40C-DCB7-43C8-8995-9C9618B5E04B-DBtune",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>DBtune</strong>, based in Lund, received equity investments from JVH Ventures, 42CAP and Exxeta Ventures.",
+      "profile": {
+        "name": "Gaebler",
+        "url": "https://www.gaebler.com/Funded-Company-EC30C40C-DCB7-43C8-8995-9C9618B5E04B-DBtune",
+        "long_name": "gaebler.com",
+        "img": "https://imgs.search.brave.com/tgFp4klZeGcMwd4mEdlOr4THMDzU51tG_KH9Tf1mWcA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTYxNTk1NTc0/MzhhY2U5MjJhMDg3/MWYwN2NmOWM2NjQz/YWY0YzliNDJmNWQw/MWJmNDk0MmU0MjFm/YzE0YTBkMy93d3cu/Z2FlYmxlci5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "gaebler.com",
+        "hostname": "www.gaebler.com",
+        "favicon": "https://imgs.search.brave.com/tgFp4klZeGcMwd4mEdlOr4THMDzU51tG_KH9Tf1mWcA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTYxNTk1NTc0/MzhhY2U5MjJhMDg3/MWYwN2NmOWM2NjQz/YWY0YzliNDJmNWQw/MWJmNDk0MmU0MjFm/YzE0YTBkMy93d3cu/Z2FlYmxlci5jb20v",
+        "path": "› Funded-Company-EC30C40C-DCB7-43C8-8995-9C9618B5E04B-DBtune"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:36:26.057422"
+}

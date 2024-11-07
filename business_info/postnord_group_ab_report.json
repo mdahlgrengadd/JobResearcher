@@ -1,0 +1,198 @@
+{
+  "company_info": {
+    "name": "PostNord Group AB",
+    "descriptions": [
+      "PostNord is the leading supplier of communication and logistics solutions in the Nordic region, ensuring postal and logistic services to households and businesses in Sweden and Denmark."
+    ],
+    "industries": [
+      "Logistics and Postal Services"
+    ],
+    "locations": [
+      "Solna"
+    ],
+    "skills": [
+      "CI/CD",
+      "Data Pipeline Development",
+      "Machine Learning",
+      "Cloud Computing",
+      "Azure",
+      "Model Versioning",
+      "Docker",
+      "Azure DevOps",
+      "ML Workflow Management",
+      "Python",
+      "ETL",
+      "Kubernetes",
+      "Power BI"
+    ],
+    "job_titles": [
+      "Azure Data Engineer",
+      "ML Ops Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av PostNord Group AB:\n\n1. Företagets storlek och antal anställda\n- Totalt antal anställda: Approximately 28,600 (2020)\n- I Sverige: 5,894 kvinnor och 12,357 män (2022)\n- Huvudkontor: Solna, Sverige\n\n2. Omsättning och finansiell information\n- Nettoomsättning: 38,7 miljarder SEK (2020)\n- Grundat: 2009 genom sammanslagning av Post Danmark A/S och Posten AB\n\n3. Huvudsakliga produkter/tjänster\n- Logistik- och kommunikationslösningar i Norden\n- Tjänster inkluderar:\n  * Posthantering\n  * E-handelslösningar\n  * Paketdistribution\n  * Marknadskommunikation\n\n4. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser:\n- Molnteknologier: Azure, Cloud Computing\n- Containerteknologier: Docker, Kubernetes\n- Datahantering: Data Pipeline, ETL, Power BI\n- Programmeringsspråk: Python\n- Machine Learning: ML Ops, Model Versioning\n- DevOps: CI/CD, Azure DevOps\n\n5. Marknadsinformation\n- Ledande leverantör av kommunikations- och logistiklösningar i Norden\n- Primär verksamhet i Sverige och Danmark\n- Konkurrenter inkluderar DB Schenker, DHL, Bring\n\nKällor:\n- Wikipedia\n- Owler Company Profile\n- Stralfors\n- Statista",
+  "search_results": [
+    {
+      "title": "PostNord - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PostNord",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Another area where <strong>PostNord</strong> has ... and <strong>companies</strong> to individual recipients. A large majority of <strong>PostNord</strong>&#x27;<strong>s</strong> <strong>revenue</strong> is derived from markets in the Nordic countries (except Iceland). <strong>PostNord</strong> performs package delivery in all of these markets and mail delivery in Denmark and Sweden. The volumes of these activities are reported by country. However, the business area <strong>PostNord</strong> Strålfors, which deals with organizations that need to communicate with large <strong>groups</strong> of people, ...",
+      "page_age": "2024-11-06T01:14:09",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/PostNord",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/PostNord#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Market",
+            "url": "https://en.wikipedia.org/wiki/PostNord#Market"
+          },
+          {
+            "type": "button_result",
+            "title": "Operations",
+            "url": "https://en.wikipedia.org/wiki/PostNord#Operations"
+          },
+          {
+            "type": "button_result",
+            "title": "Sponsorship",
+            "url": "https://en.wikipedia.org/wiki/PostNord#Sponsorship"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › PostNord"
+      },
+      "age": "1 day ago"
+    },
+    {
+      "title": "PostNord’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/postnord",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>PostNord</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>PostNord</strong> is a Sweden-based logistics <strong>company</strong> that provides services such as mail handling, e-commerce, market communication, and parcel distribution for businesses. <strong>PostNord</strong>’s primary competitors include DB Schenker, DHL, Bring and 13 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/postnord",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › postnord"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Financial information",
+      "url": "https://www.stralfors.com/news-room/financial-information/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "PostNord AB was established in 2009 through the merger of Post Danmark A/S and Posten AB. The parent company, PostNord AB, is a Swedish public limited company with headquarters in Solna, Sweden. The Group has a turnover of SEK 38,7 billion in net sales and <strong>approximately 28,600 employees (2020)</strong>.",
+      "profile": {
+        "name": "Stralfors",
+        "url": "https://www.stralfors.com/news-room/financial-information/",
+        "long_name": "stralfors.com",
+        "img": "https://imgs.search.brave.com/26FOmiy6e4-NDRqzlsZcTAo7FkbQvUO85mbIwort4c4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGIzZjZkNzRm/YmRiYTBjNjlmZTEx/MmRmOTQ0YjllMmJj/MWJmYzRjZDExYjQ3/NTJhNGI5MGE4ZTVm/NjhjZTdkYy93d3cu/c3RyYWxmb3JzLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "stralfors.com",
+        "hostname": "www.stralfors.com",
+        "favicon": "https://imgs.search.brave.com/26FOmiy6e4-NDRqzlsZcTAo7FkbQvUO85mbIwort4c4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGIzZjZkNzRm/YmRiYTBjNjlmZTEx/MmRmOTQ0YjllMmJj/MWJmYzRjZDExYjQ3/NTJhNGI5MGE4ZTVm/NjhjZTdkYy93d3cu/c3RyYWxmb3JzLmNv/bS8",
+        "path": "› news-room  › financial-information"
+      }
+    },
+    {
+      "title": "PostNord Group AB | Statista",
+      "url": "https://www.statista.com/study/162071/postnord-group-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>PostNord</strong> <strong>Group</strong> <strong>AB</strong> - Get the report with graphs and tables on statista.com!",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/study/162071/postnord-group-ab/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› study  › 162071  › postnord-group-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/t4rtw61Cxtn025yGhLxp8wCriKX0F-kWQfQOhzp798I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3R1ZHkvMTYwMDAw/LzE2MjA3MS1vcGVu/Z3JhcGgucG5n",
+        "original": "https://cdn.statcdn.com/Study/160000/162071-opengraph.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "PostNord: employee number by country and gender 2022 | Statista",
+      "url": "https://www.statista.com/statistics/777713/average-number-of-employees-of-postnord-group-in-the-nordics-by-country-and-gender/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2022, the PostNord Group reported that in all countries more men were employed compared to women. PostNord Sweden had the largest number of employees, with <strong>5,894 women and 12,357 men</strong>.",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/777713/average-number-of-employees-of-postnord-group-in-the-nordics-by-country-and-gender/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "  › transportation & logistics  › logistics"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/UOOsav97ymDC93w0Y2qm3TlWmbwWmq3N94opWiYrX4s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzc3/NTAwMC83Nzc3MTMt/YmxhbmstMzU1LnBu/Zw",
+        "original": "https://cdn.statcdn.com/Statistic/775000/777713-blank-355.png",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:08:56.156939"
+}

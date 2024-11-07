@@ -1,0 +1,179 @@
+{
+  "company_info": {
+    "name": "Webstep AB",
+    "descriptions": [
+      "Part of B3-koncernen, specializing in AI applications and project delivery"
+    ],
+    "industries": [
+      "IT Consulting"
+    ],
+    "locations": [
+      "Uppsala"
+    ],
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "Matplotlib",
+      "Scala",
+      "R",
+      "Python",
+      "Scikit-learn",
+      "Pandas"
+    ],
+    "job_titles": [
+      "Machine Learning Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Webstep AB:\n\n1. Företagets storlek och antal anställda\n- Enligt LinkedIn har företaget över 2,727 följare\n- Verkar vara ett medelstort IT-konsultföretag\n- Del av B3-koncernen [Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Specifik omsättningssiffra ej tillgänglig\n- Är ett noterat bolag med aktieinnehav [Källa: PitchBook]\n\n3. Värdegrund och kultur\n- Slogan: \"Vi utvecklar morgondagen\" \n- Fokus på högkvalificerade konsulter\n- Levererar konsulttjänster inom systemutveckling [Källa: LinkedIn]\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulttjänster\n- Systemutveckling\n- Integration\n- Arkitektur\n- Kvalitetssäkring\n- Testledning\n- Betjänar över 250 kunder inom olika branscher [Källa: Webstep.com]\n\n5. Teknisk stack och kompetensområden\nSpecialistkompetenser inom:\n- Machine Learning\n- AI-applikationer\n- Programmeringsspråk: Python, Scala, R\n- ML-bibliotek: PyTorch, TensorFlow, Scikit-learn\n- Dataanalys: Pandas, Matplotlib\n- Databaser: SQL [Källa: Jobbannonser]\n\n6. Geografisk närvaro\n- Huvudsakligen verksamma i Skandinavien\n- Kontor i Uppsala [Källa: Jobbannonser]\n\nAnmärkning: Vissa detaljer är begränsade p.g.a. bristfälliga källor.",
+  "search_results": [
+    {
+      "title": "Webstep Company Profile: Stock Performance & Earnings | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/51772-15",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on stock, financials, earnings, subsidiaries, investors, and executives for <strong>Webstep</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/51772-15",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 51772-15"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/a1hh2_Gqop9rsZbjZTly5zi3_FleOKPLHRMH1VhzTYw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9eHZvNVJk/VDY",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=xvo5RdT6",
+        "logo": false
+      }
+    },
+    {
+      "title": "Webstep AB | LinkedIn",
+      "url": "https://www.linkedin.com/company/webstep-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Webstep</strong> <strong>AB</strong> | 2,727 followers on LinkedIn. Vi utvecklar morgondagen 👾. | <strong>Webstep</strong> delivers highly skilled consultants within market leading <strong>companies</strong> in Scandinavia. As a <strong>company</strong>, <strong>Webstep</strong> excels in high-end system development, integration, architecture, quality assurance and test management, ...",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/webstep-ab",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › webstep-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/c3Cing-6nkZRRCtl-irOyQeRI-34CchP5Jm2c5OdnSE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDBCQVFGYkk5LUZp/WWdnV0EvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjkwMzU4/ODMyNzIzL3dlYnN0/ZXBfYWJfbG9nbz9l/PTIxNDc0ODM2NDcm/YW1wO3Y9YmV0YSZh/bXA7dD1iamxIQWlO/YjJxbWZKMjFjY2Nt/ZnR2cFM1OUNQbG5B/T1o1bXoyMWtJUkRj",
+        "original": "https://media.licdn.com/dms/image/D4D0BAQFbI9-FiYggWA/company-logo_200_200/0/1690358832723/webstep_ab_logo?e=2147483647&amp;v=beta&amp;t=bjlHAiNb2qmfJ21cccmftvpS59CPlnAOZ5mz21kIRDc",
+        "logo": true
+      }
+    },
+    {
+      "title": "Working at Webstep AB | Glassdoor",
+      "url": "https://www.glassdoor.com/Overview/Working-at-Webstep-AB-EI_IE3216547.11,21.htm",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "See what <strong>employees</strong> say it&#x27;s like to work at <strong>Webstep</strong> <strong>AB</strong>. Salaries, reviews, and more - all posted by <strong>employees</strong> working at <strong>Webstep</strong> <strong>AB</strong>.",
+      "profile": {
+        "name": "Glassdoor",
+        "url": "https://www.glassdoor.com/Overview/Working-at-Webstep-AB-EI_IE3216547.11,21.htm",
+        "long_name": "glassdoor.com",
+        "img": "https://imgs.search.brave.com/aL6zDoSmUbz3-uGC2B28d5niowHRUV40bk-ePx5bco0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRiYjJiOTdj/ZjM3Yjg1MDkxMzUx/NWU5OTMzZTc4MDNh/YWY3NTIzNTNjYTZh/NjFiNTQ3NjhjYzBh/NDhmNTRhMy93d3cu/Z2xhc3Nkb29yLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "glassdoor.com",
+        "hostname": "www.glassdoor.com",
+        "favicon": "https://imgs.search.brave.com/aL6zDoSmUbz3-uGC2B28d5niowHRUV40bk-ePx5bco0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRiYjJiOTdj/ZjM3Yjg1MDkxMzUx/NWU5OTMzZTc4MDNh/YWY3NTIzNTNjYTZh/NjFiNTQ3NjhjYzBh/NDhmNTRhMy93d3cu/Z2xhc3Nkb29yLmNv/bS8",
+        "path": "› Overview  › Working-at-Webstep-AB-EI_IE3216547.11,21.htm"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/cOs6ZdR2o6xteIkxMt6DGn1B9lV58Ik4Ls1LX5DuUx8/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5n/bGFzc2Rvb3IuY29t/L2Nycy9vcGVuZ3Jh/cGgvR2xhc3Nkb29y/X09HXzEyMDB4NjMw/LnBuZw",
+        "original": "http://www.glassdoor.com/crs/opengraph/Glassdoor_OG_1200x630.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "WorkStep - Overview, Competitors, and Employees | Apollo.io",
+      "url": "https://www.apollo.io/companies/WorkStep/5a9e9ebfa6da98d938bbaeea",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View WorkStep (http://www.workstep.com) location in California, United States, <strong>revenue</strong>, competitors and contact <strong>information</strong>. Find and reach WorkStep&#x27;s <strong>employees</strong> by department, seniority, title, and much more.",
+      "profile": {
+        "name": "Apollo",
+        "url": "https://www.apollo.io/companies/WorkStep/5a9e9ebfa6da98d938bbaeea",
+        "long_name": "apollo.io",
+        "img": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "apollo.io",
+        "hostname": "www.apollo.io",
+        "favicon": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw",
+        "path": "› companies  › WorkStep  › 5a9e9ebfa6da98d938bbaeea"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/UXMF6G2QcDLLLWy7Ayu68DYMAvbpEeCyMDElbz2WJIk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly96ZW5w/cm9zcGVjdC1wcm9k/dWN0aW9uLnMzLmFt/YXpvbmF3cy5jb20v/dXBsb2Fkcy9waWN0/dXJlcy82NmM0OTli/MzBiYmU4ZjAwMDFm/N2RkMzUvcGljdHVy/ZQ",
+        "original": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66c499b30bbe8f0001f7dd35/picture",
+        "logo": false
+      }
+    },
+    {
+      "title": "About us - Webstep.com",
+      "url": "https://www.webstep.com/about-us/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Webstep</strong> is an IT services <strong>company</strong> developing digital solutions for more than 250 clients, spanning multiple industries.",
+      "page_age": "2024-09-03T07:53:18",
+      "profile": {
+        "name": "Webstep",
+        "url": "https://www.webstep.com/about-us/",
+        "long_name": "webstep.com",
+        "img": "https://imgs.search.brave.com/0Ty9hVIekoXhFdGI_GzD8toWcaJdj1CMp_ztBs9Y51g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI1NDkzOGM5/ZTVlZDg1ZmUyZTAz/OGE3N2M0YzIwMWQz/OGRkNzk0OWEyOGYx/YTA2OGZhZDBmNGRj/ZmQ5OWMxMy93d3cu/d2Vic3RlcC5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "webstep.com",
+        "hostname": "www.webstep.com",
+        "favicon": "https://imgs.search.brave.com/0Ty9hVIekoXhFdGI_GzD8toWcaJdj1CMp_ztBs9Y51g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWI1NDkzOGM5/ZTVlZDg1ZmUyZTAz/OGE3N2M0YzIwMWQz/OGRkNzk0OWEyOGYx/YTA2OGZhZDBmNGRj/ZmQ5OWMxMy93d3cu/d2Vic3RlcC5jb20v",
+        "path": "  › home  › about us"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/jsZIecJ3Yak2SvZ-gJioKv-ooD0KYYyidBYnByMj67A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2Vic3RlcC5jb20v/d3AtY29udGVudC91/cGxvYWRzL3NpdGVz/LzUvMjAxNy8wNi8y/MDE4MDUyM19hYm91/dC11cy5qcGc",
+        "original": "https://www.webstep.com/wp-content/uploads/sites/5/2017/06/20180523_about-us.jpg",
+        "logo": false
+      },
+      "age": "September 3, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T02:59:41.987618"
+}

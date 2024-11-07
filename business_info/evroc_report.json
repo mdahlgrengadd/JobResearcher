@@ -1,0 +1,195 @@
+{
+  "company_info": {
+    "name": "evroc",
+    "descriptions": [
+      "Building Europe's first independently owned hyperscale cloud",
+      "Building a secure, sovereign, and sustainable hyperscale cloud to reimagine the digital future of Europe",
+      "Hyperscale cloud technology company"
+    ],
+    "industries": [
+      "Cloud Computing"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Rook",
+      "Golang",
+      "Zero-trust",
+      "Knative",
+      "Ansible",
+      "Apple device ecosystem",
+      "VPN",
+      "Linux systems engineering",
+      "C",
+      "Ceph",
+      "Linux",
+      "Network security",
+      "Rust",
+      "Self-hosted productivity infrastructure",
+      "C++",
+      "Cloud computing",
+      "Firewalls",
+      "DevOps",
+      "Terraform",
+      "MDM solutions",
+      "Cloud Computing",
+      "Distributed systems",
+      "Kubernetes"
+    ],
+    "job_titles": [
+      "Senior Corporate IT Engineer",
+      "Platform Engineer",
+      "Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av evroc:\n\n1. Företagets storlek och antal anställda\n- Baserat på LinkedIn-profil med 2,875 följare\n- Huvudkontor i Stockholm, Sverige\n- Utvecklingskontor i Sophia-Antipolis, Frankrike\n\n2. Omsättning och finansiell information\n- Specifik omsättningsinformation saknas\n- Har fått investeringar från EQT Ventures (enligt EQT Ventures webbplats)\n\n3. Företagets värdegrund och kultur\n- Mission: \"Powering a Digital Europe\"\n- Vision: Bygga en säker, suverän och hållbar hyperscale cloud för Europas digitala framtid\n\n4. Huvudsakliga produkter/tjänster\n- Hyperscale cloud infrastruktur\n- Molntjänster och mjukvara\n- Fokus på säkerhet och utvecklarupplevelse\n\n5. Teknisk stack och kompetensområden\nTekniska kompetenser inkluderar:\n- Programmeringsspråk: Golang, Rust, C, C++\n- Molnteknologier: Kubernetes, Knative, Terraform\n- Systemtekniker: Linux, Network security, Ceph\n- DevOps-verktyg: Ansible\n- Säkerhetsteknologier: Zero-trust, VPN, Firewalls\n\n6. Nyliga nyheter/utveckling\n- Positionerar sig som Europas första oberoende hyperscale cloud-leverantör\n\nKällor:\n- LinkedIn\n- Crunchbase\n- evroc.com\n- EQT Ventures\n- PitchBook",
+  "search_results": [
+    {
+      "title": "evroc - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/evroc",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>evroc</strong> provides cloud infrastructure, software and services.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/evroc",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › evroc"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/W5moGj_jHD46dqg3OVpOgCBYMsoBKWwVgV0oGkVF-hI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3dpYmpjcTlwbGht/YWlkb2YxbG11",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wibjcq9plhmaidof1lmu",
+        "logo": false
+      }
+    },
+    {
+      "title": "evroc | Powering a Digital Europe",
+      "url": "https://evroc.com/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We at <strong>evroc</strong> are building a hyperscale cloud to reimagine the digital future of Europe.",
+      "profile": {
+        "name": "evroc",
+        "url": "https://evroc.com/",
+        "long_name": "evroc.com",
+        "img": "https://imgs.search.brave.com/zQtum02JWTJsaqr8dy0IWyki2uHLKdNn8esLNKS1ZX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2UxZWE5MjZi/ODAxMzcxMzY1OGRk/MWEyYTEzNDExYWY3/NTE4OTMwNjY3NzMx/NTIyOWY4MmJmNjJl/OTMxNDU2MS9ldnJv/Yy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "evroc.com",
+        "hostname": "evroc.com",
+        "favicon": "https://imgs.search.brave.com/zQtum02JWTJsaqr8dy0IWyki2uHLKdNn8esLNKS1ZX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2UxZWE5MjZi/ODAxMzcxMzY1OGRk/MWEyYTEzNDExYWY3/NTE4OTMwNjY3NzMx/NTIyOWY4MmJmNjJl/OTMxNDU2MS9ldnJv/Yy5jb20v",
+        "path": ""
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/uthr2HqiVCuJX1MDqfPyw9HYoiPBY-TSxHHiTlNc5t8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ldnJv/Yy5jb20vc3RhdGlj/LzY3Y2E2ZGZkMTQy/Njk4YTAwY2NmNGUy/YTQ1Mzc2Y2Y5LzNj/XzFlZDllOGYxZGYu/cG5n",
+        "original": "https://evroc.com/static/67ca6dfd142698a00ccf4e2a45376cf9/3c_1ed9e8f1df.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Evroc Company Profile: Valuation & Investors | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/528772-24",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on valuation, funding, cap tables, investors, and executives for <strong>Evroc</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/528772-24",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 528772-24"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/a1hh2_Gqop9rsZbjZTly5zi3_FleOKPLHRMH1VhzTYw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9eHZvNVJk/VDY",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=xvo5RdT6",
+        "logo": false
+      }
+    },
+    {
+      "title": "EQT Ventures - evroc",
+      "url": "https://eqtventures.com/company/evroc",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Powering a Digital Europe",
+      "profile": {
+        "name": "Eqtventures",
+        "url": "https://eqtventures.com/company/evroc",
+        "long_name": "eqtventures.com",
+        "img": "https://imgs.search.brave.com/upeSGBd3nxMbpgdu7ZaZZsZvl9hXwlzNCROyTQVWP7I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWZkODdlMjQ1/YTQzNWE0MTJiNjll/ZDZmZDc0ODIwMmY1/ZmExMTgyOWM5OWNh/NmNiY2ExM2Q4YTM2/NWVmMzdiNS9lcXR2/ZW50dXJlcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "eqtventures.com",
+        "hostname": "eqtventures.com",
+        "favicon": "https://imgs.search.brave.com/upeSGBd3nxMbpgdu7ZaZZsZvl9hXwlzNCROyTQVWP7I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWZkODdlMjQ1/YTQzNWE0MTJiNjll/ZDZmZDc0ODIwMmY1/ZmExMTgyOWM5OWNh/NmNiY2ExM2Q4YTM2/NWVmMzdiNS9lcXR2/ZW50dXJlcy5jb20v",
+        "path": "› company  › evroc"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/qUVvoWCYDdzgCRKrC1NoZ3xEuJCUpbiooAW4cv-AzfY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2FuaXR5LmlvL2lt/YWdlcy9hZ3g4dTI5/ei9wcm9kdWN0aW9u/LzJmNzRjYzc0Njhl/M2IyNDA5ZmJjODZh/MWQxNTVhNTEzNzcy/MmJiOTEtNTIwMHgz/NzE1LmpwZz9hdXRv/PWZvcm1hdA",
+        "original": "https://cdn.sanity.io/images/agx8u29z/production/2f74cc7468e3b2409fbc86a1d155a5137722bb91-5200x3715.jpg?auto=format",
+        "logo": false
+      }
+    },
+    {
+      "title": "evroc | LinkedIn",
+      "url": "https://www.linkedin.com/company/evroc",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>evroc</strong> | 2,875 followers on LinkedIn. Founded to power a digital Europe, <strong>evroc</strong> is building a secure, sovereign, and sustainable hyperscale cloud with best-in-class services and developer experience. The <strong>company</strong> is headquartered in Stockholm, Sweden, with a development office in Sophia-Antipolis, ...",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/evroc",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › evroc"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/vJwqWOcDj4MNVQnpuoXX1A_KwqhcTj4FPTff0R67EoQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDBCQVFFN2R3Nk5h/TURJTUEvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjg2MDQ5/NzEyODE2L2V2cm9j/X2xvZ28_ZT0yMTQ3/NDgzNjQ3JmFtcDt2/PWJldGEmYW1wO3Q9/aXNwYlhVX3NabVh1/SHIyei1zaFVfa1Js/WEw2MnFGM3J3NG82/VWMtSURaOA",
+        "original": "https://media.licdn.com/dms/image/D4D0BAQE7dw6NaMDIMA/company-logo_200_200/0/1686049712816/evroc_logo?e=2147483647&amp;v=beta&amp;t=ispbXU_sZmXuHr2z-shU_kRlXL62qF3rw4o6Uc-IDZ8",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:02:02.152047"
+}

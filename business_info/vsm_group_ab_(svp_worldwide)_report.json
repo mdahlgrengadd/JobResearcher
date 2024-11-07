@@ -1,0 +1,181 @@
+{
+  "company_info": {
+    "name": "VSM Group AB (SVP Worldwide)",
+    "descriptions": [
+      "World's largest consumer sewing machine company with brands like SINGER, HUSQVARNA VIKING, and PFAFF"
+    ],
+    "industries": [
+      "Consumer Electronics"
+    ],
+    "locations": [
+      "Jönköping"
+    ],
+    "skills": [
+      "Electronics",
+      "Usability Testing",
+      "JIRA",
+      "TFS",
+      "System Testing",
+      "Product Testing",
+      "Mechanical Design",
+      "Bug Reporting",
+      "Quality Assurance"
+    ],
+    "job_titles": [
+      "System Test Engineer",
+      "Lab & Verification Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av VSM Group AB (SVP Worldwide):\n\n1. Företagets storlek och antal anställda:\n- Totalt около 2,000-2,250 anställda\n- 500 anställda baserade i Sverige (Jönköping/Huskvarna-regionen)\n- Stödteam i Shanghai, London och Nashville\n[Källa: IK Partners, Mergr]\n\n2. Omsättning och finansiell information:\n- Specifik omsättningssiffra ej tillgänglig\n- Privateget bolag genom olika private equity-investeringar\n- Tidigare ägt av Electrolux, därefter IK 1994 Fund, sedan Kohlberg Management\n[Källa: IK Partners]\n\n3. Företagets värdegrund och kultur:\n- Global konsumentfokuserad sömmaskinstillverkare\n- Internationell närvaro med försäljning i 15 länder\n[Källa: Mergr]\n\n4. Huvudsakliga produkter/tjänster:\n- Sömmaskins- och relaterade produkttillverkning\n- Tre huvudvarumärken: SINGER, HUSQVARNA VIKING, PFAFF\n- Världens största konsumentsömmaskinföretag\n[Källa: LinkedIn, Crunchbase]\n\n5. Teknisk stack och kompetensområden:\n- Tekniska kompetenser: \n  * Electronics\n  * Usability Testing\n  * System Testing\n  * Product Testing\n  * Mechanical Design\n  * Quality Assurance\n\n- Verktyg:\n  * JIRA\n  * TFS\n[Källa: Jobbannonser]\n\n6. Nyliga nyheter/utveckling:\n- Fortsatt expansion inom konsumentelektronikbranschen\n- Bibehållen marknadsledande position inom sömmaskinsindustrin\n[Generell observation]\n\nAnmärkning: Vissa detaljer är begränsade på grund av tillgänglig information.",
+  "search_results": [
+    {
+      "title": "SVP Worldwide - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SVP_Worldwide",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The <strong>company</strong> has its central R&amp;D, sales, and customer service <strong>employees</strong> in the Huskvarna/Jönköping region of Sweden with support teams in Shanghai, London and Nashville. <strong>SVP</strong> was formed when Kohlberg &amp; <strong>Company</strong>, an American private equity firm that owned the Swedish <strong>VSM</strong> <strong>Group</strong> (owner of the Husqvarna ...",
+      "page_age": "2024-06-10T09:44:11",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SVP_Worldwide",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/SVP_Worldwide#History"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › SVP_Worldwide"
+      },
+      "age": "June 10, 2024"
+    },
+    {
+      "title": "VSM Group Holding - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/vsm-group-holding",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>VSM</strong> <strong>Group</strong> develops, manufactures, markets and sells sewing machines and related products on the consumer market.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/vsm-group-holding",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › vsm-group-holding"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/95HkPqclF5Bjyh9iXTXMafkQbLFg-ajITPfOhvw6DFU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3YxNDQ0Mjc0Mjg4/L29vcWU2NXRpY2Fu/enZ0bWlvYjZkLnBu/Zw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1444274288/ooqe65ticanzvtmiob6d.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "VSM Group (SVP Worldwide) I Private Equity Investment I Mid Cap",
+      "url": "https://ikpartners.com/investments/vsm-group/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "At the time of exit, VSM had <strong>around 2,000 employees</strong>, 500 of which were based in Sweden. In April 1997, VSM was acquired by the IK 1994 Fund from Electrolux. It was subsequently sold to affiliates of Kohlberg Management IV L.L.C. in February 2006. Affiliates of Kohlberg already controlled the ...",
+      "page_age": "2023-08-18T13:22:30",
+      "profile": {
+        "name": "IK Partners",
+        "url": "https://ikpartners.com/investments/vsm-group/",
+        "long_name": "ikpartners.com",
+        "img": "https://imgs.search.brave.com/ETu0aSeBErY0TVGmfyayPWWcvmJko6S85hAUI2l2Ta8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODViOTNhMGYw/YWRmMTQ4NGQ5OTE4/ZDE1Y2U2N2UyOTg3/NTFjNWE3NWFmMGNm/NjhjY2E4YmFkNmUx/YWIyOGI2YS9pa3Bh/cnRuZXJzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "ikpartners.com",
+        "hostname": "ikpartners.com",
+        "favicon": "https://imgs.search.brave.com/ETu0aSeBErY0TVGmfyayPWWcvmJko6S85hAUI2l2Ta8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODViOTNhMGYw/YWRmMTQ4NGQ5OTE4/ZDE1Y2U2N2UyOTg3/NTFjNWE3NWFmMGNm/NjhjY2E4YmFkNmUx/YWIyOGI2YS9pa3Bh/cnRuZXJzLmNvbS8",
+        "path": "  › home  › vsm group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/kOcfEaFkOhininAqqCdiiZt0zfi2xV42zsh33VcEEOA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pa3Bh/cnRuZXJzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ny9WU00tZ3JvdXBf/d2Vic2l0ZS5qcGc",
+        "original": "https://ikpartners.com/wp-content/uploads/2021/07/VSM-group_website.jpg",
+        "logo": false
+      },
+      "age": "August 18, 2023"
+    },
+    {
+      "title": "SVP Worldwide Acquires VSM Group AB | Mergr M&A Deal Summary",
+      "url": "https://mergr.com/svp-worldwide-acquires-vsm-group-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "With sales subsidiaries in 15 countries, VSM Group employs some <strong>2,250 people</strong>. ... SVP Worldwide is a consumer sewing machine company with market shares across all industry price points. SVP unites three of the industry&#x27;s most widely recognized brands, Singer, Husqvarna Viking, and Pfaff, that ...",
+      "profile": {
+        "name": "Mergr",
+        "url": "https://mergr.com/svp-worldwide-acquires-vsm-group-ab",
+        "long_name": "mergr.com",
+        "img": "https://imgs.search.brave.com/PEbOkIKjXx9RU7GcuoQeqLKbGEoZ0RvP0szMG8KBWyk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWM0MmM1ZGNk/ZGQ4OTM2Mjg3NmEy/NjJiOTcwNmY1ZTM4/MjBmZjk3MTc3ZDlh/NWNmYzNkY2M0MGUy/NzgzMzY1OS9tZXJn/ci5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "mergr.com",
+        "hostname": "mergr.com",
+        "favicon": "https://imgs.search.brave.com/PEbOkIKjXx9RU7GcuoQeqLKbGEoZ0RvP0szMG8KBWyk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWM0MmM1ZGNk/ZGQ4OTM2Mjg3NmEy/NjJiOTcwNmY1ZTM4/MjBmZjk3MTc3ZDlh/NWNmYzNkY2M0MGUy/NzgzMzY1OS9tZXJn/ci5jb20v",
+        "path": "› svp-worldwide-acquires-vsm-group-ab"
+      }
+    },
+    {
+      "title": "SVP Worldwide | LinkedIn",
+      "url": "https://www.linkedin.com/company/svp-worldwide",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>SVP</strong> <strong>Worldwide</strong> | 13,624 followers on LinkedIn. SINGER®, PFAFF®, and HUSQVARNA® VIKING® Sewing Brands | <strong>SVP</strong> <strong>Worldwide</strong>, doing business through <strong>SVP</strong>-Singer Holdings, Inc. and its affiliates, is the world’s largest consumer sewing machine <strong>company</strong>, accounting for approximately one out of every ...",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/svp-worldwide",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › svp-worldwide"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/WkJiLNAXz59s5hi29diaCO-Y9-mwX6_Cjb1-ZVI-z_c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RDBCQVFGUm1uaXlt/QUtVV1EvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjMwNDg4/MjcyOTkwL3N2cF93/b3JsZHdpZGVfbG9n/bz9lPTIxNDc0ODM2/NDcmYW1wO3Y9YmV0/YSZhbXA7dD1scm52/ODhGMVlLay1lV3E2/WTV0cE5ueWxWRGk0/UXVGWldlcnBlUWZT/VnpN",
+        "original": "https://media.licdn.com/dms/image/C4D0BAQFRmniymAKUWQ/company-logo_200_200/0/1630488272990/svp_worldwide_logo?e=2147483647&amp;v=beta&amp;t=lrnv88F1YKk-eWq6Y5tpNnylVDi4QuFZWerpeQfSVzM",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:51:25.794805"
+}

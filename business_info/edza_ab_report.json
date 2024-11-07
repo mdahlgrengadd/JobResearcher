@@ -1,0 +1,177 @@
+{
+  "company_info": {
+    "name": "EdZa AB",
+    "descriptions": [
+      "Technology recruitment company"
+    ],
+    "industries": [
+      "Recruitment"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Networking",
+      "Azure",
+      "Cloud platforms",
+      "C/C++",
+      "Docker",
+      "Operating systems",
+      "Golang",
+      "Virtualization technologies",
+      "Server hardware",
+      "Cloud security",
+      "Kubernetes",
+      "Rust",
+      "GCP",
+      "AWS"
+    ],
+    "job_titles": [
+      "Hardware Operations Engineer",
+      "Cloud DevSecOps Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av EdZa AB:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda ej fastställt\n- Lokaliserat i Stockholm\n- Verkar vara ett mindre till medelstort teknikföretag\n\n2. Omsättning och finansiell information\n- Specifik omsättning ej tillgänglig\n- Ingen detaljerad finansiell information hittad\n\n3. Företagets värdegrund och kultur\n- Fokus på kompetensförsörjning\n- Slogan: \"Re-thinking your needs for skills and people\"\n- Inriktning på framtida kompetensbehov\n\n4. Huvudsakliga produkter/tjänster\n- Teknisk rekrytering\n- Kompetensförsörjningstjänster\n- Kandidatmatchning inom tekniksektorn\n\n5. Nyliga nyheter eller utveckling\n- Inga specifika nyheter identifierade\n\n6. Teknisk stack och kompetensområden\nTekniska kompetenser:\n- Molnplattformar: Azure, AWS, GCP\n- Programmeringsspråk: C/C++, Golang, Rust\n- DevOps: Docker, Kubernetes\n- Infrastruktur: Nätverk, virtualiseringsteknik\n- Säkerhet: Cloud security\n- Hårdvara: Serverhårdvara, operativsystem\n\nKällor:\n- edzagroup.se\n- apollo.io\n- allabolag.se\n\nNotera: Informationen är begränsad och delvis preliminär.",
+  "search_results": [
+    {
+      "title": "EDZA-GROUP - Overview, Competitors, and Employees | Apollo.io",
+      "url": "https://www.apollo.io/companies/EDZA-GROUP/5e55e8b181a74000013adf26",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>EDZA</strong>-GROUP <strong>revenue</strong>, competitors and contact <strong>information</strong>. Find and reach <strong>EDZA</strong>-GROUP&#x27;s <strong>employees</strong> by department, seniority, title, and much more.",
+      "profile": {
+        "name": "Apollo",
+        "url": "https://www.apollo.io/companies/EDZA-GROUP/5e55e8b181a74000013adf26",
+        "long_name": "apollo.io",
+        "img": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "apollo.io",
+        "hostname": "www.apollo.io",
+        "favicon": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw",
+        "path": "› companies  › EDZA-GROUP  › 5e55e8b181a74000013adf26"
+      }
+    },
+    {
+      "title": "Edza AB - 559328-6411 - Stockholm - Se Nyckeltal, Befattningar ...",
+      "url": "https://www.allabolag.se/5593286411/edza-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Allabolag.se ger dig företagsinformation om <strong>Edza</strong> <strong>AB</strong>, 559328-6411. Hitta adress på karta, kontaktinfo, nyckeltal och befattningar.",
+      "profile": {
+        "name": "Allabolag",
+        "url": "https://www.allabolag.se/5593286411/edza-ab",
+        "long_name": "allabolag.se",
+        "img": "https://imgs.search.brave.com/17vMa7pKql58b38wShs3xZpjlvZXUysFy6OtE6MW6Z8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDU2N2ViNzU0/OGIxM2RmM2VmNzM0/NTliMmFiYWI0OTdh/YmUzNWM3MzVlZmEy/YTZmN2U5N2E0NmI0/ZjMwMzBhNi93d3cu/YWxsYWJvbGFnLnNl/Lw"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "allabolag.se",
+        "hostname": "www.allabolag.se",
+        "favicon": "https://imgs.search.brave.com/17vMa7pKql58b38wShs3xZpjlvZXUysFy6OtE6MW6Z8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDU2N2ViNzU0/OGIxM2RmM2VmNzM0/NTliMmFiYWI0OTdh/YmUzNWM3MzVlZmEy/YTZmN2U5N2E0NmI0/ZjMwMzBhNi93d3cu/YWxsYWJvbGFnLnNl/Lw",
+        "path": "› 5593286411  › edza-ab"
+      }
+    },
+    {
+      "title": "Hem - EdZa Group - Re-thinking your needs for skills and people",
+      "url": "https://edzagroup.se/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>EdZa</strong> erbjuder ett nytt sätt att se på kompetensbehovet. Träffsäker kompetensförsörjning och rätt kompetens för framtiden.",
+      "page_age": "2023-01-10T14:36:13",
+      "profile": {
+        "name": "EdZa Group",
+        "url": "https://edzagroup.se/",
+        "long_name": "edzagroup.se",
+        "img": "https://imgs.search.brave.com/nDCJ9ENlcVT9GJxBLZKqug_FTim73Xlrh43lioXsoOc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmE3MjZjNDNj/NjA4ZjAzNDY4NTUx/ZGZhYzViMzY4MGI2/OThiYzA1NjE5Mjg0/MjA0Mjg4ODVmNDhi/OTViYjU2MC9lZHph/Z3JvdXAuc2Uv"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "edzagroup.se",
+        "hostname": "edzagroup.se",
+        "favicon": "https://imgs.search.brave.com/nDCJ9ENlcVT9GJxBLZKqug_FTim73Xlrh43lioXsoOc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmE3MjZjNDNj/NjA4ZjAzNDY4NTUx/ZGZhYzViMzY4MGI2/OThiYzA1NjE5Mjg0/MjA0Mjg4ODVmNDhi/OTViYjU2MC9lZHph/Z3JvdXAuc2Uv",
+        "path": "  › home"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/ug6jFj3bvS6R6SFhzMrvKoMv2J75fpmM7BuzZDrR9go/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lZHph/Z3JvdXAuc2Uvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMTAv/U2thzIhybWF2Ymls/ZC0yMDIxLTEwLTA2/LWtsLi0xNy4wMy4x/NC5wbmc",
+        "original": "https://edzagroup.se/wp-content/uploads/2021/10/Skärmavbild-2021-10-06-kl.-17.03.14.png",
+        "logo": false
+      },
+      "age": "January 10, 2023"
+    },
+    {
+      "title": "Husqvarna’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/husqvarnagroup",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Husqvarna’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. Husqvarna is a Sweden-based <strong>company</strong> that manufactures outdoor power products such as chainsaws, trimmers, and cultivators for the residential sector across the globe. Husqvarna’s primary competitors include Briggs &amp; Stratton, John Deere, AGCO ...",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/husqvarnagroup",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › husqvarnagroup"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Revenue Per Employee - Definition, Factors, Formula",
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/revenue-per-employee/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Revenue</strong> per <strong>employee</strong> is an efficiency ratio used to determine the <strong>revenue</strong> generated per individual working at a <strong>company</strong>.",
+      "page_age": "2024-02-14T01:51:31",
+      "profile": {
+        "name": "Corporatefinanceinstitute",
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/revenue-per-employee/",
+        "long_name": "corporatefinanceinstitute.com",
+        "img": "https://imgs.search.brave.com/r2lQ5wVHNsuMb0tk4V2JKV-sN7WfmzT9lC1Mi_Inxiw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YjU5N2U0/ZWEwOGFmMzg2ZGE0/ZTNiMjk2M2ZiY2Nk/NDU4ZTkwYWI2ZTE3/YTRjODg0YWVkMDJh/ZTg1NTk2OS9jb3Jw/b3JhdGVmaW5hbmNl/aW5zdGl0dXRlLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "article",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "corporatefinanceinstitute.com",
+        "hostname": "corporatefinanceinstitute.com",
+        "favicon": "https://imgs.search.brave.com/r2lQ5wVHNsuMb0tk4V2JKV-sN7WfmzT9lC1Mi_Inxiw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YjU5N2U0/ZWEwOGFmMzg2ZGE0/ZTNiMjk2M2ZiY2Nk/NDU4ZTkwYWI2ZTE3/YTRjODg0YWVkMDJh/ZTg1NTk2OS9jb3Jw/b3JhdGVmaW5hbmNl/aW5zdGl0dXRlLmNv/bS8",
+        "path": "  › home  › resources  › revenue per employee"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/yxbsWC5gH5EcEofUYupnQba_qQVeqaezl7UHM5_ghSI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Y29ycG9yYXRlZmlu/YW5jZWluc3RpdHV0/ZS5jb20vYXNzZXRz/L3JldmVudWUtcGVy/LWVtcGxveWVlMS0x/MDI0eDY4My5qcGVn",
+        "original": "https://cdn.corporatefinanceinstitute.com/assets/revenue-per-employee1-1024x683.jpeg",
+        "logo": false
+      },
+      "age": "February 14, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T03:07:44.197524"
+}

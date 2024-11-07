@@ -1,0 +1,171 @@
+{
+  "company_info": {
+    "name": "LuunaX AB",
+    "descriptions": [
+      "A technology consulting company specializing in cloud and DevOps solutions"
+    ],
+    "industries": [
+      "IT Consulting"
+    ],
+    "locations": [
+      "Gothenburg"
+    ],
+    "skills": [
+      "PowerShell",
+      "Azure",
+      "CloudFormation",
+      "Bash",
+      "AWS CodePipeline",
+      "GitLab CI",
+      "Docker",
+      "Kubernetes",
+      "Azure DevOps",
+      "Python",
+      "Terraform",
+      "Jenkins",
+      "AWS"
+    ],
+    "job_titles": [
+      "Senior DevOps Engineer / Platform Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av LuunaX AB\n\n1. Företagets storlek och antal anställda\n- Ingen exakt information tillgänglig\n- Verkar vara ett mindre till medelstort konsultbolag\n\n2. Omsättning och finansiell information\n- Ingen specifik finansiell information hittad\n\n3. Värdegrund och kultur\n- Fokuserad på teknisk konsultverksamhet\n- Inriktad på moln- och DevOps-lösningar\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulttjänster\n- Specialiserade på:\n  * Cloud Solutions\n  * DevOps-implementationer\n  * Plattformsutveckling\n\n5. Nyliga nyheter eller utveckling\n- Ingen specifik information hittad\n\n6. Teknisk stack och kompetensområden\nTekniska kompetenser:\n- Molnplattformar: Azure, AWS\n- Containerteknologier: Docker, Kubernetes\n- CI/CD-verktyg: GitLab CI, Jenkins, Azure DevOps\n- Infrastruktur som kod: Terraform, CloudFormation\n- Skriptspråk: PowerShell, Bash, Python\n\nÖvrig information:\n- Lokalisering: Göteborg, Sverige\n- Bransch: IT-konsulting\n\nAnmärkning: Begränsad information tillgänglig, sammanfattningen baserad på jobbannonser och begränsade webbsökningar.",
+  "search_results": [
+    {
+      "title": "LuunaX AB - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/luunax-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Crunchbase is the leading destination for <strong>company</strong> insights from early-stage startups to the Fortune 1000. Get insights into your competition. Uncover startup trends, get <strong>company</strong> funding data. Find new prospects, beat competitors and quotas.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/luunax-ab",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › luunax-ab"
+      }
+    },
+    {
+      "title": "Luminex’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/luminexcorp",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Luminex’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. Luminex is a Texas-based biotechnology <strong>company</strong> that develops and commercializes molecular diagnostics and vaccine testing systems for the life science sector. Luminex’s primary competitors include Meridian, GenMark, BioFire and 8 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/luminexcorp",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › luminexcorp"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Husqvarna’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/husqvarnagroup",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Husqvarna’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. Husqvarna is a Sweden-based <strong>company</strong> that manufactures outdoor power products such as chainsaws, trimmers, and cultivators for the residential sector across the globe. Husqvarna’s primary competitors include Briggs &amp; Stratton, John Deere, AGCO ...",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/husqvarnagroup",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › husqvarnagroup"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "SCIEX - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/ab-sciex-llc/346877049",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View SCIEX (www.sciex.com) location in Massachusetts, United States , <strong>revenue</strong>, industry and description. Find related and similar <strong>companies</strong> as well as <strong>employees</strong> by title and much more.",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/ab-sciex-llc/346877049",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › ab-sciex-llc  › 346877049"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/hz1rOx4rS7Am04UpuR957F9PNIun9Wed224e5Uztgyk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvc2Np/ZXguY29t",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/sciex.com",
+        "logo": false
+      }
+    },
+    {
+      "title": "Luminex Corporation: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Luminex_Corporation",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Luminex Corporation top competitors are ProteinSimple and they have annual <strong>revenue</strong> of $318.7M and 1285 <strong>employees</strong>.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Luminex_Corporation",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Luminex_Corporation"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:50:18.239229"
+}

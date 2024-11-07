@@ -1,0 +1,233 @@
+{
+  "company_info": {
+    "name": "Capgemini Engineering",
+    "descriptions": [
+      "Engineering and consulting company"
+    ],
+    "industries": [
+      "Engineering Services"
+    ],
+    "locations": [
+      "Gothenburg"
+    ],
+    "skills": [
+      "Android Testing Frameworks",
+      "Java",
+      "C++",
+      "Continuous Integration",
+      "Android",
+      "Unit Testing",
+      "Python",
+      "Linux",
+      "AOSP"
+    ],
+    "job_titles": [
+      "Infotainment Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Capgemini Engineering:\n\n1. Företagets storlek och antal anställda:\n- Över 46,693 anställda globalt (2018-siffra) [1]\n- Del av Capgemini-koncernen\n\n2. Omsättning och finansiell information:\n- Capgemini-koncernens globala intäkter: €22.5 miljarder (2023) [2]\n- Altran (nu Capgemini Engineering) genererade €2.916 miljarder i intäkter 2018 [1]\n\n3. Företagets värdegrund och kultur:\n- Fokus på digital transformation och innovation\n- Stödjer företag i olika sektorer att accelerera teknologisk utveckling [3]\n\n4. Huvudsakliga produkter/tjänster:\n- Konsulterings- och tekniktjänster\n- Engineering Services\n- Professionella tjänster inom teknologi och mjukvara [1][3]\n\n5. Nyliga nyheter/utveckling:\n- Förvärvade Altran 2019\n- Omdöpt till \"Capgemini Engineering\" den 8 april 2021 [1]\n\n6. Teknisk stack och kompetensområden:\nBaserat på jobbannonser:\n- Programmeringsspråk: Java, C++, Python\n- Testramverk: Android Testing\n- Teknikområden: \n  - Android utveckling\n  - Infotainment Software\n  - Continuous Integration\n  - Linux\n  - AOSP (Android Open Source Project) [4]\n\nKällor:\n[1] Wikipedia - Capgemini Engineering\n[2] Capgemini pressmeddelande 2023\n[3] Capgemini Engineering webbplats\n[4] Jobbannonser",
+  "search_results": [
+    {
+      "title": "Capgemini - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capgemini",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Sogeti is a wholly owned subsidiary of <strong>Capgemini</strong> Group. It is an <strong>information</strong> technology consulting <strong>company</strong> specialising in technology and <strong>engineering</strong> professional services.",
+      "page_age": "2024-10-30T06:43:18",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capgemini",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Services",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#Services"
+          },
+          {
+            "type": "button_result",
+            "title": "Management",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#Management"
+          },
+          {
+            "type": "button_result",
+            "title": "Capgemini and the public sector in France",
+            "url": "https://en.wikipedia.org/wiki/Capgemini#Capgemini_and_the_public_sector_in_France"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Capgemini"
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Capgemini Engineering - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2018, Altran generated <strong>€2.916 billion</strong> in revenues and employed over 46,693 people around the world. Altran was acquired by Capgemini in 2019 and was renamed as &quot;Capgemini Engineering&quot; on 8 April 2021 due to its merge with Capgemini&#x27;s Engineering and R&amp;D services.",
+      "page_age": "2024-09-19T04:07:48",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Organization and activities",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Organization_and_activities"
+          },
+          {
+            "type": "button_result",
+            "title": "Worldwide presences",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Worldwide_presences"
+          },
+          {
+            "type": "button_result",
+            "title": "Research and Innovation",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Research_and_Innovation"
+          },
+          {
+            "type": "button_result",
+            "title": "Pro bono work",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Pro_bono_work"
+          },
+          {
+            "type": "button_result",
+            "title": "Financial data",
+            "url": "https://en.wikipedia.org/wiki/Capgemini_Engineering#Financial_data"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Capgemini_Engineering"
+      },
+      "age": "September 19, 2024"
+    },
+    {
+      "title": "Capgemini delivers another record performance in 2023 - Capgemini",
+      "url": "https://www.capgemini.com/news/press-releases/capgemini-delivers-another-record-performance-in-2023/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "It delivers end-to-end services ... combined with its deep industry expertise and partner ecosystem. The Group reported 2023 global revenues of <strong>€22.5 billion</strong>....",
+      "page_age": "2024-03-05T06:18:52",
+      "profile": {
+        "name": "Capgemini",
+        "url": "https://www.capgemini.com/news/press-releases/capgemini-delivers-another-record-performance-in-2023/",
+        "long_name": "capgemini.com",
+        "img": "https://imgs.search.brave.com/4rEABDz0DHetrpo6cdio3BgrffdksOG1s1U2BBwzmuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhNzMxNWJj/NTcwMTQyYzhlMGJk/YjY3NmU1NDE3NGFk/YzY3ZDk5MDMyYjNi/ODVhNmYwM2I2NzQx/N2QxZDY5My93d3cu/Y2FwZ2VtaW5pLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "capgemini.com",
+        "hostname": "www.capgemini.com",
+        "favicon": "https://imgs.search.brave.com/4rEABDz0DHetrpo6cdio3BgrffdksOG1s1U2BBwzmuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhNzMxNWJj/NTcwMTQyYzhlMGJk/YjY3NmU1NDE3NGFk/YzY3ZDk5MDMyYjNi/ODVhNmYwM2I2NzQx/N2QxZDY5My93d3cu/Y2FwZ2VtaW5pLmNv/bS8",
+        "path": "  › home  › press releases  › capgemini delivers another record performance in 2023"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/7pESiJIgmxKow725HDt8MUDMFivElQVdcOAf3wpG0GY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FwZ2VtaW5pLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NC8wMi9QUi1maW5h/bmNpYWwtaW1hZ2Uu/anBn",
+        "original": "https://www.capgemini.com/wp-content/uploads/2024/02/PR-financial-image.jpg",
+        "logo": false
+      },
+      "age": "March 5, 2024"
+    },
+    {
+      "title": "Pioneering new horizons with Capgemini Engineering",
+      "url": "https://www.capgemini.com/us-en/about-us/who-we-are/our-brands/capgemini-engineering/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Companies</strong> in all sectors need to accelerate their digital transformation: global leaders must rethink their innovation cycle while speed has become a survival factor to stay ahead of the competition. Industry players and innovators have to embrace connectivity, software and semiconductors to shift towards intelligent industry and ensure a sustainable value chain. As the world leader in <strong>Engineering</strong> ...",
+      "page_age": "2022-07-05T09:01:41",
+      "profile": {
+        "name": "Capgemini USA",
+        "url": "https://www.capgemini.com/us-en/about-us/who-we-are/our-brands/capgemini-engineering/",
+        "long_name": "capgemini.com",
+        "img": "https://imgs.search.brave.com/4rEABDz0DHetrpo6cdio3BgrffdksOG1s1U2BBwzmuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhNzMxNWJj/NTcwMTQyYzhlMGJk/YjY3NmU1NDE3NGFk/YzY3ZDk5MDMyYjNi/ODVhNmYwM2I2NzQx/N2QxZDY5My93d3cu/Y2FwZ2VtaW5pLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "capgemini.com",
+        "hostname": "www.capgemini.com",
+        "favicon": "https://imgs.search.brave.com/4rEABDz0DHetrpo6cdio3BgrffdksOG1s1U2BBwzmuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhNzMxNWJj/NTcwMTQyYzhlMGJk/YjY3NmU1NDE3NGFk/YzY3ZDk5MDMyYjNi/ODVhNmYwM2I2NzQx/N2QxZDY5My93d3cu/Y2FwZ2VtaW5pLmNv/bS8",
+        "path": "  › home  › about us  › who we are  › our brands  › capgemini engineering"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/2VB4XjyxP3iOHdRC2XBKbvV8atyUb7hdJXDGPMlEAAA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FwZ2VtaW5pLmNv/bS91cy1lbi93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMzAv/MjAyMi8wNy9DYXBn/ZW1pbmlfQ2FyZWVy/c19FbmdpbmVlcmlu/Zy0yLWUxNjQ0NTA1/MDQxOTIxLmpwZw",
+        "original": "https://www.capgemini.com/us-en/wp-content/uploads/sites/30/2022/07/Capgemini_Careers_Engineering-2-e1644505041921.jpg",
+        "logo": false
+      },
+      "age": "July 5, 2022"
+    },
+    {
+      "title": "Capgemini | Company Overview & News",
+      "url": "https://www.forbes.com/companies/capgemini/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Capgemini</strong> SE provides consulting, technology, professional, and outsourcing services. The <strong>company</strong> operates through the following segments: Consulting Services,",
+      "profile": {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/companies/capgemini/",
+        "long_name": "forbes.com",
+        "img": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "forbes.com",
+        "hostname": "www.forbes.com",
+        "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+        "path": "› companies  › capgemini"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/p5MiQUX0cOzOBLT4BLM6nZdbnGutbRXIrwAZVfQ95s0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9yYmVzLmNvbS9u/by1waWMv",
+        "original": "https://www.forbes.com/no-pic/",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:03:42.243720"
+}

@@ -1,0 +1,164 @@
+{
+  "company_info": {
+    "name": "Carla AB",
+    "descriptions": [
+      "A startup that helps more people drive electric vehicles by building a safe, convenient, and transparent way to sell, buy, or lease electric cars."
+    ],
+    "industries": [
+      "Automotive Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "BigQuery",
+      "TypeScript",
+      "GoLang",
+      "Backend Development",
+      "PostgreSQL",
+      "React"
+    ],
+    "job_titles": [
+      "Backend Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Carla AB:\n\n1. Företagets storlek och antal anställda:\n- Varierande uppgifter mellan källor\n- Enligt Growjo: 160 anställda\n- Enligt Growjo (Car Rental): 31 anställda\n- Placering: Stockholm, Sverige\n\n2. Omsättning och finansiell information:\n- Growjo rapporterar årlig intäkt på $58.1M\n- Growjo (Car Rental) rapporterar $3.6M\n- Anmärkning: Motstridiga siffror indikerar möjliga olika bolag/divisioner\n\n3. Värdegrund och kultur:\n- Fokus på hållbarhet genom elektriska fordon\n- Mission: Göra el-bilsmarknaden mer tillgänglig och transparent\n\n4. Huvudsakliga produkter/tjänster:\n- Online-plattform för köp/leasing av elbilar\n- Försäljning, inköp och leasing av elektriska fordon\n\n5. Teknisk stack och kompetensområden:\n- Teknologier: BigQuery, TypeScript, GoLang\n- Utvecklingsområden: Backend Development\n- Databaser: PostgreSQL\n- Frontend: React\n\n6. Nyliga utvecklingar:\n- Startup inom automotive technology\n- Fokus på att förenkla marknaden för elfordon\n\nKällor: Growjo, Crunchbase, 6sense\n\nReservation: Informationen innehåller vissa motstridigheter som kräver vidare verifiering.",
+  "search_results": [
+    {
+      "title": "Carla: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Carla",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Carla</strong> top competitors are Einride, KTH Formula Student and Ryds Bilglas and they have annual <strong>revenue</strong> of $58.1M and 160 <strong>employees</strong>.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Carla",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Carla"
+      }
+    },
+    {
+      "title": "Carla - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/carla-f042",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Carla</strong> creates the most convenient, transparent, and simple online platform for purchasing or leasing an electric car.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/carla-f042",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › carla-f042"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/AtGEnvXd3ufKSH2z-xN5h3M4t24UPQKOwmCNruJ-sA8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L2RycTJ2Z2F5cXpi/cDlta2U1djJ0",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/drq2vgayqzbp9mke5v2t",
+        "logo": false
+      }
+    },
+    {
+      "title": "Carla Car Rental: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Carla_Car_Rental",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Carla Car Rental top competitors are OneSpan, Devbridge and True Group and they have annual revenue of <strong>$3.6M</strong> and 31 employees.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Carla_Car_Rental",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Carla_Car_Rental"
+      }
+    },
+    {
+      "title": "Carla - Company Information, Competitors, News & FAQs",
+      "url": "https://6sense.com/company/carla-car-rental/5c3b024ed55ae49f1b792928",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Find useful insights on <strong>Carla</strong>&#x27;<strong>s</strong> <strong>company</strong> details, tech stack, news alerts, competitors and more. Use 6sense to connect with top decision-makers at <strong>Carla</strong>.",
+      "profile": {
+        "name": "6sense",
+        "url": "https://6sense.com/company/carla-car-rental/5c3b024ed55ae49f1b792928",
+        "long_name": "6sense.com",
+        "img": "https://imgs.search.brave.com/iyml69glhd641S3wISRp9GQMO30b6lT6AVtU57eItTI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTkzZjBhYjBi/NjlhZDJmYmI3OWUx/M2EyMTA2M2Q1YjJk/NzNiYTFiZDNhODEx/NjQ3OTdjMzMyYjcw/NDI0ZDkzNy82c2Vu/c2UuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "6sense.com",
+        "hostname": "6sense.com",
+        "favicon": "https://imgs.search.brave.com/iyml69glhd641S3wISRp9GQMO30b6lT6AVtU57eItTI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTkzZjBhYjBi/NjlhZDJmYmI3OWUx/M2EyMTA2M2Q1YjJk/NzNiYTFiZDNhODEx/NjQ3OTdjMzMyYjcw/NDI0ZDkzNy82c2Vu/c2UuY29tLw",
+        "path": "  › home  › companies  › carla"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/FHe8uKYAgM-x5V0We7TUbf3NMR6C85fUYmq9B9Us5yY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMzMw/NTdiMXVqbW8wYy5j/bG91ZGZyb250Lm5l/dC9zYWxlc193ZWJz/aXRlLzZzZW5zZS82/c2Vuc2VfbWV0YV9p/bWcuanBn",
+        "original": "https://d33057b1ujmo0c.cloudfront.net/sales_website/6sense/6sense_meta_img.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Real Estate by Carla’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/realestatebycarla",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "is headquartered in El Dorado Hills, California. Real Estate by Carla has a revenue of <strong>$38.9M</strong>, and 99 employees. Real Estate by Carla&#x27;s main competitors are Supreme Impressions, Red Dog Shred and Equus Real Estate.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/realestatebycarla",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › realestatebycarla"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:47:49.513405"
+}

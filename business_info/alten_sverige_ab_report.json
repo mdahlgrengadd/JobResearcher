@@ -1,0 +1,254 @@
+{
+  "company_info": {
+    "name": "Alten Sverige AB",
+    "descriptions": [
+      "One of Europe's largest consulting companies within Engineering, IT and Life Sciences",
+      "Engineering and IT consulting company",
+      "European consulting company in engineering, IT, and life sciences",
+      "Engineering consulting company specializing in various technological sectors",
+      "A large European consulting company in Engineering, IT, and Life Sciences"
+    ],
+    "industries": [
+      "Consulting",
+      "Engineering Consulting",
+      "Automotive Engineering"
+    ],
+    "locations": [
+      "Göteborg",
+      "Stockholm",
+      "Gothenburg"
+    ],
+    "skills": [
+      "CI/CD",
+      "SOTIF",
+      "dSpace",
+      "Automotive Software",
+      "Cloud",
+      "ISO/SAE 21434",
+      "C",
+      "Safety Architecture",
+      "Vector",
+      "ISO 13849",
+      "CAN Protocols",
+      "PyTest",
+      "Python",
+      "Gerrit",
+      "Jenkins",
+      "Matlab/Simulink",
+      "Communication protocols",
+      "Risk Assessment",
+      "CAN",
+      "C++",
+      "Continuous Integration",
+      "FlexRay",
+      "Ethernet",
+      "CANalyzer",
+      "Simulink",
+      "ISO 26262",
+      "LIN",
+      "Git",
+      "IEC 61508",
+      "MATLAB/Simulink",
+      "Threat Analysis",
+      "CAPL scripting",
+      "C/C++",
+      "Docker",
+      "Robot Framework",
+      "AUTOSAR",
+      "Kubernetes"
+    ],
+    "job_titles": [
+      "DevOps Engineer",
+      "Automotive Software Systems Engineer",
+      "Automotive Model-Based Software Engineer",
+      "Cyber Security/Functional Safety Engineer",
+      "HIL Development Engineer",
+      "Automotive Software Test Engineer",
+      "Functional Safety Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Alten Sverige AB:\n\n1. Företagets storlek och antal anställda\n- Del av den europeiska ALTEN-koncernen\n- Närvarande på 11 kontor från Skellefteå till Lund [1]\n- Globalt har ALTEN 57 000 anställda (2023) [4]\n\n2. Omsättning och finansiell information\n- Global omsättning för ALTEN-koncernen: 4,06 miljarder euro (2023) [4]\n- Detaljerad finansiell information för den svenska verksamheten ej tillgänglig\n\n3. Företagets värdegrund och kultur\n- Slogan: \"Building tomorrow's world today\" [3]\n- Fokus på teknisk innovation och konsultverksamhet\n- Profilerar sig som engagerade och kompetenta teknikkonsulter [1]\n\n4. Huvudsakliga produkter/tjänster\n- Konsulttjänster inom:\n  - Teknikkonsultation\n  - IT-konsultation\n  - Life Sciences\n- Tekniska konsultuppdrag inom flera sektorer, särskilt fordonsindustri [1][2]\n\n5. Teknisk stack och kompetensområden\nNyckelkompetenser:\n- Automotive Software\n- Cybersäkerhet\n- DevOps\n- Programmeringsspråk: C, C++, Python\n- Protokoll: CAN, FlexRay, Ethernet\n- Verktyg: Docker, Kubernetes, Jenkins, Git\n- Standarder: ISO 26262, ISO/SAE 21434\n\n6. Nyliga nyheter/utveckling\n- Fortsatt expansion inom teknikkonsultbranschen\n- Fokus på innovation inom fordonsindustri och mjukvaruutveckling\n\nKällor:\n[1] Alten Sveriges webbplats\n[2] LinkedIn-profil\n[3] Largest Companies\n[4] Wikipedia",
+  "search_results": [
+    {
+      "title": "Home - ALTEN Sweden",
+      "url": "https://www.alten.se/en/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Committed, perceptive and competent technology and IT consultants. <strong>ALTEN</strong> Sweden is present in 11 offices from Skellefteå to Lund.",
+      "page_age": "2024-08-28T08:38:08",
+      "profile": {
+        "name": "ALTEN Sweden",
+        "url": "https://www.alten.se/en/",
+        "long_name": "alten.se",
+        "img": "https://imgs.search.brave.com/T0qorODx5UD3Lbof93uqe6ZVCJypP60BFOzAJH9aV_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGU2ZTdiN2Qz/Y2E4YzYwNjA0MDAx/Mzk2MjgxYTM0NjNi/MjUxM2U0YTNjZDcz/MmE3YzE0YTAxN2E2/YzQ3YjE4Yy93d3cu/YWx0ZW4uc2Uv"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "alten.se",
+        "hostname": "www.alten.se",
+        "favicon": "https://imgs.search.brave.com/T0qorODx5UD3Lbof93uqe6ZVCJypP60BFOzAJH9aV_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGU2ZTdiN2Qz/Y2E4YzYwNjA0MDAx/Mzk2MjgxYTM0NjNi/MjUxM2U0YTNjZDcz/MmE3YzE0YTAxN2E2/YzQ3YjE4Yy93d3cu/YWx0ZW4uc2Uv",
+        "path": "  › home"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/PLe0O2lz3R5x6YIkOTCnqVO6LBmiEDQcahPVmLEU_sA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWx0ZW4uc2Uvd3At/Y29udGVudC91cGxv/YWRzL3NpdGVzLzgv/MjAyMy8wMS9MZWRp/Z2Etam9iYi1BTFRF/Ti5wbmc",
+        "original": "https://www.alten.se/wp-content/uploads/sites/8/2023/01/Lediga-jobb-ALTEN.png",
+        "logo": false
+      },
+      "age": "August 28, 2024"
+    },
+    {
+      "title": "Alten Sverige AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/Alten-Sverige-AB-93078",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Alten</strong> <strong>Sverige</strong> <strong>AB</strong> - Construction and civil engineering activities and related technical consultancy | Industrial engineering activities and related technical consultancy | Electric engineering activities and related technical consultancy | Engineering activities and related technical consultancy ...",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/Alten-Sverige-AB-93078",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › Alten-Sverige-AB-93078"
+      }
+    },
+    {
+      "title": "A brief overview of Alten in Sweden",
+      "url": "https://www.alten.com/country/sweden/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>ALTEN</strong> Sweden delivers competences within Engineering, IT and Life Sciences in nine cities, from Lund in the south to Skellefteå in the north.",
+      "page_age": "2018-08-06T13:50:13",
+      "profile": {
+        "name": "ALTEN Group",
+        "url": "https://www.alten.com/country/sweden/",
+        "long_name": "alten.com",
+        "img": "https://imgs.search.brave.com/bdi3hhOIJ2kLN__bjLA18GINf6-mIxwiX776WANoTto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIzNDBhNmNl/ODYxM2RjMmQxZmQ4/ZDk5NGQ1MzgzMjQz/YWFlYzU4OTk0OTBl/NGMxOGEyNjNiOGE2/OTRiZWUwZi93d3cu/YWx0ZW4uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "alten.com",
+        "hostname": "www.alten.com",
+        "favicon": "https://imgs.search.brave.com/bdi3hhOIJ2kLN__bjLA18GINf6-mIxwiX776WANoTto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIzNDBhNmNl/ODYxM2RjMmQxZmQ4/ZDk5NGQ1MzgzMjQz/YWFlYzU4OTk0OTBl/NGMxOGEyNjNiOGE2/OTRiZWUwZi93d3cu/YWx0ZW4uY29tLw",
+        "path": "  › home  › sweden"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/If52uVHO0ETT1HSOnfwONxhfYbJ4bJ1zAdX71biEVJ4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWx0ZW4uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzA4/L0dldHR5SW1hZ2Vz/LTE2NTIxMjQ5MS5q/cGc",
+        "original": "https://www.alten.com/wp-content/uploads/2018/08/GettyImages-165212491.jpg",
+        "logo": false
+      },
+      "age": "August 6, 2018"
+    },
+    {
+      "title": "ALTEN Sweden | LinkedIn",
+      "url": "https://www.linkedin.com/company/alten-sweden",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>ALTEN</strong> Sweden | 54,161 followers on LinkedIn. Building tomorrow&#x27;s world today | <strong>ALTEN</strong> is one of Europe’s largest consulting <strong>companies</strong> within Engineering, IT and Life Sciences focused on 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘁𝗼𝗺𝗼𝗿𝗿𝗼𝘄’𝘀 𝘄𝗼𝗿𝗹𝗱 ...",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/alten-sweden",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › alten-sweden"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/ee0x7zqPTsIOo7hzAiPtzdelj4nSzsHvLRtgKQgmcl0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RDBCQVFIZDBWUzZz/ckNsYmcvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjczMjY1/MjM4NTg5L2FsdGVu/X3N3ZWRlbl9sb2dv/P2U9MjE0NzQ4MzY0/NyZhbXA7dj1iZXRh/JmFtcDt0PUl1TEVI/RnExbGcyUDgtLVJW/cGFSVXVjMEMwMUZ5/N3NiZ3lLa0U3dnM4/VGc",
+        "original": "https://media.licdn.com/dms/image/C4D0BAQHd0VS6srClbg/company-logo_200_200/0/1673265238589/alten_sweden_logo?e=2147483647&amp;v=beta&amp;t=IuLEHFq1lg2P8--RVpaRUuc0C01Fy7sbgyKkE7vs8Tg",
+        "logo": true
+      }
+    },
+    {
+      "title": "ALTEN - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ALTEN",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2023, ALTEN had 57,000 employees and reported a revenue of <strong>4.06 Bn euros</strong>. The French market accounts for 35% of the group&#x27;s activity. ALTEN operates as a technology consulting and engineering company worldwide. It provides design and research projects for the technical and information systems ...",
+      "page_age": "2024-08-21T20:45:21",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ALTEN",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "Company Profile",
+            "url": "https://en.wikipedia.org/wiki/ALTEN#Company_Profile"
+          },
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/ALTEN#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Organization",
+            "url": "https://en.wikipedia.org/wiki/ALTEN#Organization"
+          },
+          {
+            "type": "button_result",
+            "title": "Services",
+            "url": "https://en.wikipedia.org/wiki/ALTEN#Services"
+          },
+          {
+            "type": "button_result",
+            "title": "Acquisitions",
+            "url": "https://en.wikipedia.org/wiki/ALTEN#Acquisitions"
+          },
+          {
+            "type": "button_result",
+            "title": "Labor disputes in Alten Spain",
+            "url": "https://en.wikipedia.org/wiki/ALTEN#Labor_disputes_in_Alten_Spain"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › ALTEN"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/MFvQonYCwm_XDRPCBa5JEEF7KFPA1IWIRoCxwZjOttY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vZS9lNC9B/TFRFTl9sb2dvLnN2/Zw",
+        "original": "https://upload.wikimedia.org/wikipedia/en/e/e4/ALTEN_logo.svg",
+        "logo": true
+      },
+      "age": "August 21, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T02:41:41.270850"
+}

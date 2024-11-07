@@ -1,0 +1,159 @@
+{
+  "company_info": {
+    "name": "Northmill Bank AB",
+    "descriptions": [
+      "Pioneering financial technology company creating digital banking experiences"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Fivetran",
+      "DBT",
+      "SQL",
+      "Snowflake",
+      "Python",
+      "AWS"
+    ],
+    "job_titles": [
+      "Data Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Northmill Bank AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: 50 (enligt Dun & Bradstreet)\n- Grundat: 2006 i Stockholm\n- Bransch: FinTech/Neobank\n\n2. Omsättning och finansiell information\n- Årlig omsättning: $33,17 miljoner (USD)\n- Kategori: Depository Credit Intermediation\n\n3. Värdegrund och kultur\n- Mission: Förbättra människors finansiella liv genom teknik\n- Grundläggande övertygelse: Teknologi kan skapa positiv förändring när den används rätt\n- Fokus på personaliserade banktjänster\n\n4. Huvudsakliga produkter/tjänster\n- Digitala banktjänster\n- Personliga och kommersiella bankprodukter\n- Intelligenta, teknikdrivna finansiella lösningar\n\n5. Teknisk kompetens\n- Teknologisk stack inkluderar:\n  - Fivetran\n  - DBT\n  - SQL\n  - Snowflake\n  - Python\n  - AWS\n\n6. Nyliga utvecklingar\n- Kontinuerlig utveckling av digitala bankupplevelser\n- Fokus på intelligenta, personanpassade tjänster\n\nKällor: Crunchbase, Northmill.com, Dun & Bradstreet, Owler",
+  "search_results": [
+    {
+      "title": "Northmill Bank - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/northmill",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Northmill</strong> <strong>Bank</strong> is a Swedish neobank improving everyone’s financial life by offering personalized <strong>banking</strong> services built on intelligence.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/northmill",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › northmill"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/PJeMxXNb1rPHGLc6oe-_1_4IKy4TLAk5Ku-llw3XWzQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3Z1dHYxa2Myd29q/YnlyempnbDVz",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vutv1kc2wojbyrzjgl5s",
+        "logo": false
+      }
+    },
+    {
+      "title": "Northmill: Improve financial life | Northmill",
+      "url": "https://www.northmill.com/international/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Northmill</strong> <strong>Bank</strong>, founded 2006 in Stockholm, is a Swedish tech-<strong>bank</strong> with a mission to improve everyone’s financial life using the latest technology.",
+      "profile": {
+        "name": "Northmill",
+        "url": "https://www.northmill.com/international/",
+        "long_name": "northmill.com",
+        "img": "https://imgs.search.brave.com/p4Yvv3_1QBL10zjdShe69yjsblsWcb7uAoSuWTQCJtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNhOGVhZGY0/NmFjYjdjZTljYzUx/M2YzNzNlZjlhMDBk/NzZmMjU0MDY0YjAx/ZDBjMGNlODUyNThj/MjhjYjBiNS93d3cu/bm9ydGhtaWxsLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "northmill.com",
+        "hostname": "www.northmill.com",
+        "favicon": "https://imgs.search.brave.com/p4Yvv3_1QBL10zjdShe69yjsblsWcb7uAoSuWTQCJtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNhOGVhZGY0/NmFjYjdjZTljYzUx/M2YzNzNlZjlhMDBk/NzZmMjU0MDY0YjAx/ZDBjMGNlODUyNThj/MjhjYjBiNS93d3cu/bm9ydGhtaWxsLmNv/bS8",
+        "path": "› international"
+      }
+    },
+    {
+      "title": "Northmill Bank AB Company Profile | Stockholm, Stockholm, Sweden | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.northmill_bank_ab.ea735cf989615806d5ccfd0b606de44f.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Company Description: Northmill Bank AB is located in Stockholm, Stockholm, Sweden and is part of the Depository Credit Intermediation Industry. Northmill Bank AB has 50 employees at this location and generates <strong>$33.17 million</strong> in sales (USD).",
+      "profile": {
+        "name": "Dnb",
+        "url": "https://www.dnb.com/business-directory/company-profiles.northmill_bank_ab.ea735cf989615806d5ccfd0b606de44f.html",
+        "long_name": "dnb.com",
+        "img": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dnb.com",
+        "hostname": "www.dnb.com",
+        "favicon": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8",
+        "path": "  › home  › business directory  › finance and insurance  › credit intermediation and related activities  › depository credit intermediation  › sweden  › stockholm"
+      }
+    },
+    {
+      "title": "About Northmill Bank | Northmill",
+      "url": "https://www.northmill.com/international/about/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We were founded on the belief that technology can do amazing things when used right. A modern <strong>banking</strong> experience has its roots in people’s needs and wishes.",
+      "profile": {
+        "name": "Northmill",
+        "url": "https://www.northmill.com/international/about/",
+        "long_name": "northmill.com",
+        "img": "https://imgs.search.brave.com/p4Yvv3_1QBL10zjdShe69yjsblsWcb7uAoSuWTQCJtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNhOGVhZGY0/NmFjYjdjZTljYzUx/M2YzNzNlZjlhMDBk/NzZmMjU0MDY0YjAx/ZDBjMGNlODUyNThj/MjhjYjBiNS93d3cu/bm9ydGhtaWxsLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "northmill.com",
+        "hostname": "www.northmill.com",
+        "favicon": "https://imgs.search.brave.com/p4Yvv3_1QBL10zjdShe69yjsblsWcb7uAoSuWTQCJtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNhOGVhZGY0/NmFjYjdjZTljYzUx/M2YzNzNlZjlhMDBk/NzZmMjU0MDY0YjAx/ZDBjMGNlODUyNThj/MjhjYjBiNS93d3cu/bm9ydGhtaWxsLmNv/bS8",
+        "path": "› international  › about"
+      }
+    },
+    {
+      "title": "Northmill Bank’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/northmill1",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Northmill</strong> <strong>Bank</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Northmill</strong> <strong>Bank</strong> is a Sweden-based financial institution that provides commercial and personal <strong>banking</strong> products and services for individuals and businesses.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/northmill1",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › northmill1"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:46:03.065950"
+}

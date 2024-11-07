@@ -1,0 +1,180 @@
+{
+  "company_info": {
+    "name": "TNG Group",
+    "descriptions": [
+      "A recruitment agency for IT and technology professionals",
+      "A logistics and technology company focusing on modernization"
+    ],
+    "industries": [
+      "IT Recruitment",
+      "Logistics"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "CI/CD",
+      "PowerShell",
+      "Python",
+      "Azure",
+      "Bash",
+      "IT Security",
+      "Docker",
+      "Kubernetes",
+      "DevOps",
+      "Ansible",
+      "GCP",
+      "Linux",
+      "Terraform",
+      "AWS"
+    ],
+    "job_titles": [
+      "DevOps Security Engineer",
+      "Cloud Engineer / DevOps Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av TNG Group baserat på tillgänglig information:\n\n1. Företagets storlek och anställda\n- Specifik storlek ej tydligt fastställd\n- Verkar vara ett medelstort företag inom IT-rekrytering och logistik\n- Baserat i Stockholm, Sverige [Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Exakt omsättning ej tillgänglig\n- Verkar vara aktivt inom rekrytering och logistikbranschen [Källa: Owler, Largestcompanies]\n\n3. Värdegrund och kultur\n- Fokus på teknologi och modernisering\n- Inriktning på IT-rekrytering och tekniska kompetenser [Källa: Jobbannonser]\n\n4. Huvudsakliga produkter/tjänster\n- Rekryteringstjänster för IT och teknologiprofessioner\n- Logistikhantering\n- Distribution och merchandising [Källa: Owler, Jobbannonser]\n\n5. Teknisk stack och kompetensområden\nKärnkompetenser inkluderar:\n- Molnteknologier: Azure, AWS, GCP\n- DevOps: CI/CD, Docker, Kubernetes\n- Programmering: Python, PowerShell\n- Systemadministration: Linux, Bash\n- Säkerhet: IT Security\n- Infrastruktur som kod: Terraform, Ansible\n\n6. Nyliga nyheter eller utveckling\n- Ingen specifik ny utveckling identifierad i sources\n\nAnmärkning: Informationen är delvis fragmentarisk och skulle behöva verifieras mot officiella källor från TNG Group själva.\n\nKällor:\n- Jobbannonser\n- Owler.com\n- Largestcompanies.com\n- LinkedIn-profil",
+  "search_results": [
+    {
+      "title": "TNG’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/tng",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>TNG</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>TNG</strong> is a logistics management firm that provides distribution, merchandising, checkout management, display manufacturing and in-store execution.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/tng",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › tng"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "TNG Group AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/TNG-Group-AB-226732",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>TNG</strong> <strong>Group</strong> AB - Temporary employment agency activities",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/TNG-Group-AB-226732",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › TNG-Group-AB-226732"
+      }
+    },
+    {
+      "title": "The Networking Group (TNG) Financial Overview, Employee Count, and Competitors | Apollo",
+      "url": "https://www.apollo.io/companies/The-Networking-Group--TNG-/54a11e1369702da7530c5f01",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View The Networking <strong>Group</strong> (<strong>TNG</strong>) (http://www.<strong>tng</strong>.org.nz) location in Auckland, New Zealand, <strong>revenue</strong>, competitors and contact <strong>information</strong>. Find and reach The Networking <strong>Group</strong> (<strong>TNG</strong>)&#x27;<strong>s</strong> <strong>employees</strong> by department, seniority, title, and much more.",
+      "profile": {
+        "name": "Apollo",
+        "url": "https://www.apollo.io/companies/The-Networking-Group--TNG-/54a11e1369702da7530c5f01",
+        "long_name": "apollo.io",
+        "img": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "apollo.io",
+        "hostname": "www.apollo.io",
+        "favicon": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw",
+        "path": "› companies  › The-Networking-Group--TNG-  › 54a11e1369702da7530c5f01"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Aq3FRjxmOixZMMr7fM0ldYtbKCi8Mta_PC8qnFkHEtA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly96ZW5w/cm9zcGVjdC1wcm9k/dWN0aW9uLnMzLmFt/YXpvbmF3cy5jb20v/dXBsb2Fkcy9waWN0/dXJlcy82NWE5NWM1/NTgzOTY3ZDAwMDFj/MDM1MjQvcGljdHVy/ZQ",
+        "original": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/65a95c5583967d0001c03524/picture",
+        "logo": false
+      }
+    },
+    {
+      "title": "TNG – A Division of the Jim Pattison Group | LinkedIn",
+      "url": "https://www.linkedin.com/company/tng-a-division-of-the-jim-pattison-group",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "TNG – A Division of the Jim Pattison ... to newsstands. Today, team TNG, along with its logistics providers Prologix and Acculogix, moves <strong>280,000+ TRUCKLOADS of goods annually</strong>....",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tng-a-division-of-the-jim-pattison-group",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › tng-a-division-of-the-jim-pattison-group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/qjzwL95MWux3vhHr8CSfHMP9XUCvZp1N8qYPeyin8YI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M1/NjBCQVFHaksyZ2tt/SEZKaWcvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjMzMzU5/MTc0ODY4L3RuZ19h/X2RpdmlzaW9uX29m/X3RoZV9qaW1fcGF0/dGlzb25fZ3JvdXBf/bG9nbz9lPTIxNDc0/ODM2NDcmYW1wO3Y9/YmV0YSZhbXA7dD1z/Mm9hTEhhS2hfRkdJ/dS1FdTZPWG9iM01X/MTBEeld4WVI4WDVw/ZF9CV1FR",
+        "original": "https://media.licdn.com/dms/image/C560BAQGjK2gkmHFJig/company-logo_200_200/0/1633359174868/tng_a_division_of_the_jim_pattison_group_logo?e=2147483647&amp;v=beta&amp;t=s2oaLHaKh_FGIu-Eu6OXob3MW10DzWxYR8X5pd_BWQQ",
+        "logo": true
+      }
+    },
+    {
+      "title": "TNG - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/tng-inc/27542192",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>TNG</strong> (www.<strong>tng</strong>.com) location in Ontario, Canada , <strong>revenue</strong>, industry and description. Find related and similar <strong>companies</strong> as well as <strong>employees</strong> by title and much more.",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/tng-inc/27542192",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › tng-inc  › 27542192"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/meBpYemN6lsre-RI5ZCzRyX3_KeT-16LzBXaOIn_SJg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvdG5n/LmNvbQ",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/tng.com",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:39:27.073631"
+}

@@ -1,0 +1,195 @@
+{
+  "company_info": {
+    "name": "Skandinaviska Enskilda Banken AB",
+    "descriptions": [
+      "Banking and financial services company"
+    ],
+    "industries": [
+      "Financial Services"
+    ],
+    "locations": [
+      "Solna"
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Distributed systems",
+      "CloudSQL",
+      "GCP",
+      "Kubernetes"
+    ],
+    "job_titles": [
+      "Backend Engineer - Financial Crime Prevention"
+    ]
+  },
+  "analysis": "Sammanfattning av Skandinaviska Enskilda Banken AB (SEB):\n\n1. Företagets storlek och antal anställda\n- Baserad i Solna, Sverige\n- Verksam inom finansbranschen\n- Exakt antal anställda ej specificerat i källmaterialet\n\n2. Omsättning och finansiell information\n- Intäkter ökade från 95,40 miljarder SEK till 174,92 miljarder SEK (83,35% tillväxt)\n- Nettovinst förbättrades med 41,81%\n- Rapporteringsvaluta: Svenska kronor (SEK)\nKälla: Financial Times\n\n3. Värdegrund och kultur\n- Ingen specifik information tillgänglig från nuvarande källor\n\n4. Huvudsakliga produkter/tjänster\n- Corporate banking\n- Retail banking\n- Investmentbanking\n- Privat banking\n- Tillgångsförvaltning\n- Sparkconton, lån, bolån, kreditkort\nKälla: Forbes, Owler\n\n5. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser:\n- Java\n- Spring Boot\n- Distribuerade system\n- CloudSQL\n- Google Cloud Platform (GCP)\n- Kubernetes\n\n6. Nyliga nyheter/utveckling\n- Rekryterar Backend Engineer inom Financial Crime Prevention\nKälla: Jobbannonser\n\nÖvrig information:\n- Huvudkontor i Stockholm\n- Verksam i Sverige och Baltiska länderna\nKälla: Wikipedia\n\nAnmärkning: Sammanställningen bygger på begränsad tillgänglig information och kan behöva kompletteras.",
+  "search_results": [
+    {
+      "title": "SEB AB | Company Overview & News",
+      "url": "https://www.forbes.com/companies/seb-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Skandinaviska</strong> <strong>Enskilda</strong> <strong>Banken</strong> <strong>AB</strong> engages in the provision of corporate, retail, investment and private banking services. It also provides asset management",
+      "profile": {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/companies/seb-ab/",
+        "long_name": "forbes.com",
+        "img": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "forbes.com",
+        "hostname": "www.forbes.com",
+        "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+        "path": "› companies  › seb-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/p5MiQUX0cOzOBLT4BLM6nZdbnGutbRXIrwAZVfQ95s0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9yYmVzLmNvbS9u/by1waWMv",
+        "original": "https://www.forbes.com/no-pic/",
+        "logo": false
+      }
+    },
+    {
+      "title": "SEB’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/sebgroup",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "SEB’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. SEB is a Sweden-based financial firm that provides services including savings accounts, loans, mortgages and credit cards for individuals and businesses. SEB’s primary competitors include DNB, SpareBank 1, Handelsbanken and 21 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/sebgroup",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › sebgroup"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Skandinaviska Enskilda Banken AB, SEB A:STO profile - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SEB+A:STO",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Currency figures normalised to Skandinaviska Enskilda Banken AB&#x27;s reporting currency: Swedish Krona SEK ... Data from 28 Jun 2024 - 30 Jun 2024Source: FactSet Research Systems Inc. ... Skandinaviska Enskilda Banken AB grew revenues 83.35% from 95.40bn to <strong>174.92bn</strong> while net income improved 41.81% ...",
+      "profile": {
+        "name": "Ft",
+        "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SEB+A:STO",
+        "long_name": "markets.ft.com",
+        "img": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "markets.ft.com",
+        "hostname": "markets.ft.com",
+        "favicon": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8",
+        "path": "› data  › equities  › tearsheet  › profile"
+      }
+    },
+    {
+      "title": "Skandinaviska Enskilda Banken AB Company Profile - Skandinaviska Enskilda Banken AB Overview - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/skandinaviska-enskilda-banken-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Up-to-date <strong>Skandinaviska</strong> <strong>Enskilda</strong> <strong>Banken</strong> <strong>AB</strong> <strong>company</strong> overview including funding <strong>information</strong>, <strong>company</strong> profile, key statistics, peer comparison and more.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/skandinaviska-enskilda-banken-ab/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "› company-profile  › skandinaviska-enskilda-banken-ab"
+      }
+    },
+    {
+      "title": "SEB Group - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SEB_Group",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Skandinaviska</strong> <strong>Enskilda</strong> <strong>Banken</strong> <strong>AB</strong> (Swedish pronunciation: [skandɪˈnɑ̌ːvɪska ˈêːnˌɧɪlːda ˈbǎŋːkɛn]), abbreviated SEB, is a Swedish bank headquartered in Stockholm, Sweden. In Sweden and the Baltic countries, SEB has a full financial service offering.",
+      "page_age": "2024-09-01T03:16:26",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SEB_Group",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Markets",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Markets"
+          },
+          {
+            "type": "button_result",
+            "title": "Business",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Business"
+          },
+          {
+            "type": "button_result",
+            "title": "Sustainability",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Sustainability"
+          },
+          {
+            "type": "button_result",
+            "title": "Subsidiaries",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Subsidiaries"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › SEB_Group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/hG7c5Egch9G55gGlMDWisOxVZ7g_CX-pMDmLsWDmsFw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RiL1NFQl9sb2dv/LnN2Zw",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/SEB_logo.svg",
+        "logo": true
+      },
+      "age": "September 1, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T03:07:52.490349"
+}

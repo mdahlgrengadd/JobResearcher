@@ -1,0 +1,200 @@
+{
+  "company_info": {
+    "name": "Volvo Group",
+    "descriptions": [
+      "Global transportation and mobility solutions company"
+    ],
+    "industries": [
+      "Automotive"
+    ],
+    "locations": [
+      "Göteborg"
+    ],
+    "skills": [
+      "CI/CD",
+      "System Verification",
+      "GIT",
+      "Test Automation",
+      "Embedded Software Testing",
+      "Python"
+    ],
+    "job_titles": [
+      "System Verification Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Volvo Group\n\n1. Företagets storlek och antal anställda\n- Multinationell koncern baserad i Göteborg, Sverige\n- Verksam inom flera branscher inklusive fordon, anläggningsmaskiner och energisystem\n(Källa: Owler.com)\n\n2. Omsättning och finansiell information\n- Omsättning 2023: 553 miljarder svenska kronor (ca 52 miljarder USD)\n- 27% nettoförsäljningsökning jämfört med tidigare år\n- 62% av intäkterna kommer från lastbilar och relaterade tjänster 2021\n(Källa: Statista, Wikipedia)\n\n3. Värdegrund och kultur\n- Explicit information saknas i de tillgängliga källorna\n\n4. Huvudsakliga produkter/tjänster\n- Lastbilar\n- Anläggningsmaskiner\n- Marina motorsystem (Volvo Penta)\n- Energilagringssystem\n(Källa: Forbes, Wikipedia)\n\n5. Teknisk kompetens och rekryteringsfokus\nEftersökta kompetensområden:\n- CI/CD\n- System Verification\n- Git\n- Test Automation\n- Embedded Software Testing\n- Python\n(Källa: Jobbannonser)\n\n6. Senaste utveckling\n- Fokus på elektrifiering\n- Stark återhämtning efter pandemiåren\n- Mest framgångsrika år sedan 2019\n\nAnmärkning: Sammanställningen baseras på begränsad information och kan behöva kompletteras.",
+  "search_results": [
+    {
+      "title": "Volvo Group - Statistics & Facts | Statista",
+      "url": "https://www.statista.com/topics/2581/volvo-group/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In the 2023 fiscal year, <strong>Volvo</strong> <strong>Group</strong>&#x27;<strong>s</strong> <strong>revenue</strong> reached 553 billion Swedish kronor, equivalent to 52 billion U.S. dollars. This 27 percent net sales inflation was a welcome boost for the <strong>company</strong> considering the <strong>revenues</strong> in 2020 were 14 percent below pre-pandemic volumes. 2023 was the most successful year for the brand since 2019. Keeping with the overall increase in the truckmaker&#x27;s performance, <strong>employee</strong> ...",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/topics/2581/volvo-group/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› topics  › 2581  › volvo-group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/KGrh6ZgT4Q0WHTlp7G2kohkEUlsQDAhvIPx-gvzIz0U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/c3RhdGljL2ltZy9v/cGVuR3JhcGgvc3Rh/dGlzdGEucG5n",
+        "original": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Volvo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volvo",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Volvo Penta (marine engine systems ... batteries and electrification networks) According to the company, <strong>in 2021 almost two thirds (62%) of its revenue came from trucks and services related to them</strong>....",
+      "page_age": "2024-10-29T23:37:56",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Volvo",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Volvo#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Corporate",
+            "url": "https://en.wikipedia.org/wiki/Volvo#Corporate"
+          },
+          {
+            "type": "button_result",
+            "title": "Collaboration with universities and colleges",
+            "url": "https://en.wikipedia.org/wiki/Volvo#Collaboration_with_universities_and_colleges"
+          },
+          {
+            "type": "button_result",
+            "title": "Communication Campaigns",
+            "url": "https://en.wikipedia.org/wiki/Volvo#Communication_Campaigns"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Volvo"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/yZsMc2Hkvk1GhvA25k-_kXGhhF9f0Mi6mZlPf1eG28I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NkL1ZvbHZvLVNw/cmVhZC1Xb3JkLU1h/cmstQmxhY2suc3Zn",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Volvo-Spread-Word-Mark-Black.svg",
+        "logo": true
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Annual and sustainability reports | Volvo Group",
+      "url": "https://www.volvogroup.com/en/investors/reports-and-presentations/annual-reports.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Volvo</strong> <strong>Group</strong>&#x27;s annual reports show the financial development in detail and are available for download here. Visit the website to download them.",
+      "profile": {
+        "name": "Volvogroup",
+        "url": "https://www.volvogroup.com/en/investors/reports-and-presentations/annual-reports.html",
+        "long_name": "volvogroup.com",
+        "img": "https://imgs.search.brave.com/1C6_-qS2NEkXBGh_6NDCTEArnooF8yzbjJl1NyHlHz0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI1M2IwZDVj/MzRmMmVhMDRkNmIz/NzFjYTlhMGFjOGQw/Njk2Y2U5MDc2NTIz/ZGVkNWQ2NDE0MTll/NDA1NjAzMy93d3cu/dm9sdm9ncm91cC5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "volvogroup.com",
+        "hostname": "www.volvogroup.com",
+        "favicon": "https://imgs.search.brave.com/1C6_-qS2NEkXBGh_6NDCTEArnooF8yzbjJl1NyHlHz0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI1M2IwZDVj/MzRmMmVhMDRkNmIz/NzFjYTlhMGFjOGQw/Njk2Y2U5MDc2NTIz/ZGVkNWQ2NDE0MTll/NDA1NjAzMy93d3cu/dm9sdm9ncm91cC5j/b20v",
+        "path": "  › investors  › financial reports & presentations"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/kPVrK5g-_A7h7mwmzWw5FIaXkYj0pZMGc0_TTkE0ufM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dm9sdm9ncm91cC5j/b20vY29udGVudC9k/YW0vdm9sdm8tbWVk/aWEvbG9nby9TaGFy/ZS1VUkwtSU1fMTIw/MHg2MjhweC5wbmc",
+        "original": "https://www.volvogroup.com/content/dam/volvo-media/logo/Share-URL-IM_1200x628px.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Volvo Group’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/volvogroup",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Volvo</strong> <strong>Group</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Volvo</strong> <strong>Group</strong> is a Sweden-based multinational conglomerate that owns and operates businesses in areas such as automotive, construction equipment and energy storage systems. <strong>Volvo</strong> <strong>Group</strong>’s primary competitors include BMW <strong>Group</strong>, Audi, Mercedes-Benz ...",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/volvogroup",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › volvogroup"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Volvo | Company Overview & News",
+      "url": "https://www.forbes.com/companies/volvo-group/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Volvo</strong> AB engages in the design, manufacture, and market of commercial vehicles. It operates through the following segments: Trucks, Construction Equipment,",
+      "profile": {
+        "name": "Volvo",
+        "url": "https://www.forbes.com/companies/volvo-group/",
+        "long_name": "forbes.com",
+        "img": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "forbes.com",
+        "hostname": "www.forbes.com",
+        "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+        "path": "› companies  › volvo-group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/p5MiQUX0cOzOBLT4BLM6nZdbnGutbRXIrwAZVfQ95s0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9yYmVzLmNvbS9u/by1waWMv",
+        "original": "https://www.forbes.com/no-pic/",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:52:06.529958"
+}

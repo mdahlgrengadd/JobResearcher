@@ -1,0 +1,161 @@
+{
+  "company_info": {
+    "name": "ManoMotion AB",
+    "descriptions": [
+      "Teknologiföretag som arbetar med maskininlärning och datorseende"
+    ],
+    "industries": [
+      "Teknologi"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "Cloud Platform",
+      "Python",
+      "MLOps",
+      "GCP",
+      "OpenCV"
+    ],
+    "job_titles": [
+      "Machine Learning / Computer Vision Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av ManoMotion AB\n\n1. Storlek och antal anställda:\n- Omkring 18-20 anställda [Källa: Growjo.com, RocketReach.co]\n\n2. Omsättning och finansiell information:\n- Årlig intäkt varierar mellan rapporter:\n  * $2 miljoner (Growjo.com)\n  * $21 miljoner (RocketReach.co)\n- Osäkerhet kring exakt omsättningssiffra\n\n3. Värdegrund och kultur:\n- Inget specifikt angivet i tillgängliga källor\n\n4. Huvudsakliga produkter/tjänster:\n- Gestteknik som möjliggör manipulation av objekt i 3D-rymd\n- Fokus på maskininlärning och datorseende [Källa: Crunchbase, jobbannonser]\n\n5. Nyliga nyheter/utveckling:\n- Ingen specifik information hittad\n\n6. Teknisk stack och kompetensområden:\nTekniska kompetenser:\n- Programmeringsspråk: Python\n- Maskininlärningsramverk: PyTorch, TensorFlow, Keras\n- Molnplattformar: Google Cloud Platform (GCP)\n- Bildbehandling: OpenCV\n- Specialområden: Maskininlärning, datorseende\n\nÖvrig information:\n- Lokalisering: Stockholm, Sverige\n- Bransch: Teknologi, mjukvaruutveckling, konsumentelektronik\n\nAnmärkning: Informationen är begränsad och delvis motsägelsefull mellan olika källor.",
+  "search_results": [
+    {
+      "title": "Manomotion: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Manomotion",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Manomotion</strong> top competitors are Funnel.io, Quinyx and CLX Communications <strong>AB</strong> and they have annual <strong>revenue</strong> of $2M and 20 <strong>employees</strong>.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Manomotion",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Manomotion"
+      }
+    },
+    {
+      "title": "ManoMotion Information",
+      "url": "https://rocketreach.co/manomotion-profile_b442c0affa12a1a1",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>ManoMotion</strong> is a Software Development, Consumer Electronics &amp; Computers Retail, and 3D Technology <strong>company</strong> located in SE with $21 million in <strong>revenue</strong> and 18 <strong>employees</strong>. Find top <strong>employees</strong>, contact details and business statistics at RocketReach.",
+      "profile": {
+        "name": "RocketReach",
+        "url": "https://rocketreach.co/manomotion-profile_b442c0affa12a1a1",
+        "long_name": "rocketreach.co",
+        "img": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "rocketreach.co",
+        "hostname": "rocketreach.co",
+        "favicon": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8",
+        "path": "› manomotion-profile_b442c0affa12a1a1"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/c7V4_qcYf8SmO_KIB8_KjU7UGqhf7ZM4qeImCnlTdoM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMWhi/cHIwOXB3ejBzay5j/bG91ZGZyb250Lm5l/dC9sb2dvX3VybC9t/YW5vbW90aW9uLWYx/OGIyYzc2",
+        "original": "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/manomotion-f18b2c76",
+        "logo": true
+      }
+    },
+    {
+      "title": "ManoMotion - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/manomotion",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>ManoMotion</strong> is a gesture technology <strong>company</strong> that enables its users to manipulate objects in 3D space with real-life intuitiveness.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/manomotion",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › manomotion"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/gRNN-JOnESEDO00dcUo8zkW6eGDsIhFGTZO69NekjCo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3YxNDcwNDEyMjMx/L3JoZWZtbGcxdzdj/cHI2eXMzNmkyLnBu/Zw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1470412231/rhefmlg1w7cpr6ys36i2.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "ManoMotion AB:Company Profile & Technical Research,Competitor Monitor,Market Trends - Discovery | PatSnap",
+      "url": "https://discovery-patsnap-com.libproxy.mit.edu/company/manomotion/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Discovery <strong>Company</strong> profile page for <strong>ManoMotion</strong> <strong>AB</strong> including technical research,competitor monitor,market trends,<strong>company</strong> profile&amp; stock symbol",
+      "profile": {
+        "name": "Mit",
+        "url": "https://discovery-patsnap-com.libproxy.mit.edu/company/manomotion/",
+        "long_name": "discovery-patsnap-com.libproxy.mit.edu",
+        "img": "https://imgs.search.brave.com/JPwuCeteG-MPadk2n1xka26mOgyCkK5Uqgeo954j8OA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY4YTM1Y2Fh/NzkxMjZkNDRkZGY4/MDU0Y2JkNmJkZThk/YmQ2ZjYyOTMyZWFi/Yzk2ZGE5MDEzMmQy/NzEwMWQ2MS9kaXNj/b3ZlcnktcGF0c25h/cC1jb20ubGlicHJv/eHkubWl0LmVkdS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "discovery-patsnap-com.libproxy.mit.edu",
+        "hostname": "discovery-patsnap-com.libproxy.mit.edu",
+        "favicon": "https://imgs.search.brave.com/JPwuCeteG-MPadk2n1xka26mOgyCkK5Uqgeo954j8OA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY4YTM1Y2Fh/NzkxMjZkNDRkZGY4/MDU0Y2JkNmJkZThk/YmQ2ZjYyOTMyZWFi/Yzk2ZGE5MDEzMmQy/NzEwMWQ2MS9kaXNj/b3ZlcnktcGF0c25h/cC1jb20ubGlicHJv/eHkubWl0LmVkdS8",
+        "path": "  › software  › manomotion ab"
+      }
+    },
+    {
+      "title": "ManoMotion AB, Financial Info, Board and Management, Remuneration| Merit 500",
+      "url": "https://www.merit500.com/company/17447/detail",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Skip to main content · Searching · <strong>ManoMotion</strong> <strong>AB</strong> † · Return To Hit List · Organization Number: 5590171830 · <strong>Company</strong> · Insights · CONTACT <strong>INFORMATION</strong> · Phone: 736841823 · Address: Drottninggatan, 82, Stockholm",
+      "profile": {
+        "name": "Merit500",
+        "url": "https://www.merit500.com/company/17447/detail",
+        "long_name": "merit500.com",
+        "img": "https://imgs.search.brave.com/JBdRwNYg2b-dRi0xJR6ibWB8eV4OUNObFIm_3N-QYxQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDA2ZGU3NGMy/MzdmYzMxNGQ1NjY2/M2JkNzgxMmJiMTA2/MDUwZDAwNzQxZTg3/NGE5NTFmNDMyOGFh/YmVkNzk1MS93d3cu/bWVyaXQ1MDAuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "merit500.com",
+        "hostname": "www.merit500.com",
+        "favicon": "https://imgs.search.brave.com/JBdRwNYg2b-dRi0xJR6ibWB8eV4OUNObFIm_3N-QYxQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDA2ZGU3NGMy/MzdmYzMxNGQ1NjY2/M2JkNzgxMmJiMTA2/MDUwZDAwNzQxZTg3/NGE5NTFmNDMyOGFh/YmVkNzk1MS93d3cu/bWVyaXQ1MDAuY29t/Lw",
+        "path": "› company  › 17447  › detail"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:09:59.765342"
+}

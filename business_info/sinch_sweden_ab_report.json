@@ -1,0 +1,174 @@
+{
+  "company_info": {
+    "name": "Sinch Sweden AB",
+    "descriptions": [
+      "A global leader in Communication Platforms as a Service (CPaaS) and mobile customer engagement with presence in more than 60 countries",
+      "Global leader in cloud communications",
+      "Global leader in cloud communications, helping businesses connect with customers on mobile phones."
+    ],
+    "industries": [
+      "Cloud Communications",
+      "Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Tableau",
+      "CI/CD",
+      "Developer documentation",
+      "Customer support",
+      "WebRTC",
+      "SQL",
+      "Docker",
+      "Data Warehousing",
+      "Redshift",
+      "SDK testing",
+      "Mobile app development",
+      "ETL/ELT",
+      "Spark",
+      "Python",
+      "Git",
+      "AWS"
+    ],
+    "job_titles": [
+      "Data Engineer",
+      "Developer Support Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Sinch Sweden AB:\n\n1. Företagets storlek och anställda\n- Global närvaro i över 60 länder\n- Specifikt antal anställda ej fastställt, men klassificeras som ett globalt teknologiföretag\n\n2. Omsättning och finansiell information\n- Tillhör molnkommunikationsbranschen\n- Noterat bolag (Sinch AB)\n- Specifik omsättningssiffra ej tillgänglig från nuvarande källor\n\n3. Värdegrund och kultur\n- Fokus på teknologisk innovation\n- Globalt perspektiv med kundfokus\n- Inriktning på att förbättra kommunikation mellan företag och kunder\n\n4. Huvudsakliga produkter/tjänster\n- Communication Platforms as a Service (CPaaS)\n- Mobil kundengagemangslösningar\n- Kommunikationsverktyg för företag\n\n5. Teknisk kompetens och stack\nTekniska kompetenser:\n- Molnteknologier\n- Data-engineering\n- Utvecklingsverktyg: \n  * Python\n  * Docker\n  * AWS\n  * Git\n  * SQL\n- Kommunikationsteknologier:\n  * WebRTC\n  * SDK-utveckling\n\n6. Nyliga utvecklingar\n- Fortsatt expansion inom global molnkommunikation\n- Fokus på att utveckla kommunikationsplattformar\n\nKällor:\n- Crunchbase\n- GlobalData\n- Jobbannonser\n- Owler\n\nAnmärkning: Sammanfattningen baseras på tillgänglig publik information och kan innehålla begränsningar.",
+  "search_results": [
+    {
+      "title": "Sinch AB Company Profile - Sinch AB Overview - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/sinch-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Up-to-date <strong>Sinch</strong> <strong>AB</strong> <strong>company</strong> overview including funding <strong>information</strong>, <strong>company</strong> profile, key statistics, peer comparison and more.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/sinch-ab/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "  › home  › all companies  › sinch ab"
+      }
+    },
+    {
+      "title": "Sinch - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/sinch",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Sinch</strong> is a cloud communications <strong>company</strong> that connects businesses and customers through tools that enable personal engagement.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/sinch",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › sinch"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/oS_jwCPSV16QzQtnKd2YUcgushTSeMupTgbsKtrzPJw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3libjFkcnBkbDVo/aWxsaXNvY3hu",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ybn1drpdl5hillisocxn",
+        "logo": false
+      }
+    },
+    {
+      "title": "Sinch",
+      "url": "https://investors.sinch.com/static-files/34c85e86-c75b-4914-a430-013f8d439265",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The Investor Relations website contains <strong>information</strong> <strong>about</strong> <strong>Sinch</strong> <strong>AB</strong> (publ)&#x27;s business for stockholders, potential investors, and financial analysts.",
+      "profile": {
+        "name": "Sinch",
+        "url": "https://investors.sinch.com/static-files/34c85e86-c75b-4914-a430-013f8d439265",
+        "long_name": "investors.sinch.com",
+        "img": "https://imgs.search.brave.com/qTp_LfBULvPC9bTF4Gt4qVlqmAHZvR06rB_ZP3NKHd4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2VlNTdkMTdl/ZTNjMTg0OGM5OWUy/ODY5NTYzY2EwOTBm/OGU1YjIwOTcxYTEw/ZDFiNDQ5OTUwZDQz/NTQyNDI0YS9pbnZl/c3RvcnMuc2luY2gu/Y29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "investors.sinch.com",
+        "hostname": "investors.sinch.com",
+        "favicon": "https://imgs.search.brave.com/qTp_LfBULvPC9bTF4Gt4qVlqmAHZvR06rB_ZP3NKHd4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2VlNTdkMTdl/ZTNjMTg0OGM5OWUy/ODY5NTYzY2EwOTBm/OGU1YjIwOTcxYTEw/ZDFiNDQ5OTUwZDQz/NTQyNDI0YS9pbnZl/c3RvcnMuc2luY2gu/Y29tLw",
+        "path": "› static-files  › 34c85e86-c75b-4914-a430-013f8d439265"
+      },
+      "content_type": "pdf"
+    },
+    {
+      "title": "Sinch Sweden AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/Sinch-Sweden-AB-284720",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Sinch</strong> <strong>Sweden</strong> <strong>AB</strong> - Other telecommunications activities",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/Sinch-Sweden-AB-284720",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › Sinch-Sweden-AB-284720"
+      }
+    },
+    {
+      "title": "Sinch’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/sinch",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Sinch</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Sinch</strong> is a <strong>Sweden</strong>-based customer engagement platform that allows businesses to communicate with audiences via SMS, Emails and video calls. <strong>Sinch</strong>’s primary competitors include Twilio, Vonage, Infobip and 2 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/sinch",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › sinch"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:42:32.632235"
+}

@@ -1,0 +1,170 @@
+{
+  "company_info": {
+    "name": "Resurs Bank AB",
+    "descriptions": [
+      "Online bank undergoing digital transformation"
+    ],
+    "industries": [
+      "Financial Technology"
+    ],
+    "locations": [
+      "Helsingborg/Malmö/Stockholm"
+    ],
+    "skills": [
+      "CI/CD",
+      "Prometheus",
+      "Monitoring",
+      "DevSecOps",
+      "Cloud Security",
+      "Grafana",
+      "AWS"
+    ],
+    "job_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Resurs Bank AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: 496 (2023, källa: thebanks.eu)\n- Lokationer: Helsingborg, Malmö, Stockholm\n\n2. Omsättning och finansiell information\n- Totala tillgångar: 50 225 miljoner SEK (2023)\n- Marknadsandel: 0,32%\n- Beräknad omsättning: 54,78 miljoner USD (källa: Dun & Bradstreet)\n- Rankas som 17:e största bank i Sverige\n\n3. Värdegrund och kultur\n- Inriktning på digital transformation\n- Fokus på finansiell teknologi (FinTech)\n\n4. Huvudsakliga produkter/tjänster\n- Personliga och kommersiella bankprodukter\n- Marknadsledande inom konsumentfinansiering i detaljhandeln\n\n5. Teknisk stack och kompetensområden\n- Tekniska kompetenser:\n  * CI/CD\n  * Cloud Security\n  * DevSecOps\n  * Molnteknologier (AWS)\n  * Monitoring-verktyg (Prometheus, Grafana)\n\n6. Konkurrenter\n- Nordnet\n- Bluestep Bank\n- SpareBank 1\n\nAnmärkning: Informationen är sammanställd från flera källor, inklusive Owler, Crunchbase, thebanks.eu, och ZoomInfo.",
+  "search_results": [
+    {
+      "title": "Resurs Bank’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/resursbank",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Resurs</strong> <strong>Bank</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Resurs</strong> <strong>Bank</strong> is a Sweden-based financial institution that provides personal and commercial <strong>banking</strong> products and services for individuals and businesses. <strong>Resurs</strong> <strong>Bank</strong>’s primary competitors include Nordnet, Bluestep <strong>Bank</strong>, SpareBank 1 and 6 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/resursbank",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › resursbank"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Resurs Bank - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/resurs-bank",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Resource <strong>Bank</strong> is the market leader in consumer finance in the retail sector.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/resurs-bank",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › resurs-bank"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/y1KV-1Hx4XQTMyDaTbeQ9uqIRsTlo7LU4M7zqnJZ5pc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3YxNDI5NzAyNjIy/L2ptYTlqY2U5dDh2/NmNicG11aHA3LnBu/Zw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1429702622/jma9jce9t8v6cbpmuhp7.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Resurs Bank AB (Sweden) - Bank Profile",
+      "url": "https://thebanks.eu/banks/17566",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Resurs Bank AB is the 17th largest bank in Sweden in terms of total assets. In 2023 its total assets were 50 225,00 mln SEK, providing the bank with the market share of 0.32%. Resurs Bank AB had <strong>496 employees in 2023</strong>.",
+      "profile": {
+        "name": "Thebanks",
+        "url": "https://thebanks.eu/banks/17566",
+        "long_name": "thebanks.eu",
+        "img": "https://imgs.search.brave.com/O0tte8bXkIl43JuPluWo0jdgnCUYaQqPWie2uKn1w1k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTA1ZTExZjcx/YjkxMzE2Y2VlYjY0/OGNlMGM3NDc2ZjBj/YzRjNjk1NTEzZWVj/NTAxZWZlMjM5Y2Qy/NThkNmIxNC90aGVi/YW5rcy5ldS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "location",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "thebanks.eu",
+        "hostname": "thebanks.eu",
+        "favicon": "https://imgs.search.brave.com/O0tte8bXkIl43JuPluWo0jdgnCUYaQqPWie2uKn1w1k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTA1ZTExZjcx/YjkxMzE2Y2VlYjY0/OGNlMGM3NDc2ZjBj/YzRjNjk1NTEzZWVj/NTAxZWZlMjM5Y2Qy/NThkNmIxNC90aGVi/YW5rcy5ldS8",
+        "path": "  › banks by country  › sweden"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Q1Z0sSPjY_fqEnPc5OsTXamfTCDq8nqySZcUbJpLVBE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVi/YW5rcy5ldS9pbWcv/bG9nb3MvUmVzdXJz/X0JhbmsucG5n",
+        "original": "https://thebanks.eu/img/logos/Resurs_Bank.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Resurs Bank - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/resurs-bank/431014217",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>Resurs</strong> <strong>Bank</strong> (resursbank.se) location in Skane, Sweden , <strong>revenue</strong>, industry and description. Find related and similar <strong>companies</strong> as well as <strong>employees</strong> by title and much more.",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/resurs-bank/431014217",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › resurs-bank  › 431014217"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/70VbX5NzKONMpUbpKDz0ynmfAWvutZOmJUne2RwAfcs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/em9vbWluZm8uY29t/L2dlLWFzc2V0cy9j/b21tb24vcGxhY2Vo/b2xkZXJzLzIwMjJf/Y29tcGFueVBsYWNl/aG9sZGVyXzUwX3Bp/bmtCbHVlLnN2Zw",
+        "original": "https://www.zoominfo.com/ge-assets/common/placeholders/2022_companyPlaceholder_50_pinkBlue.svg",
+        "logo": true
+      }
+    },
+    {
+      "title": "Resurs Bank AB Company Profile | Helsingborg, Skåne, Sweden | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.resurs_bank_ab.2ca6213109ba8b4260252ff838e7a59c.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Resurs Bank AB has 200 employees at this location and generates <strong>$54.78 million</strong> in sales (USD). (Sales figure is modelled).",
+      "profile": {
+        "name": "Dnb",
+        "url": "https://www.dnb.com/business-directory/company-profiles.resurs_bank_ab.2ca6213109ba8b4260252ff838e7a59c.html",
+        "long_name": "dnb.com",
+        "img": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dnb.com",
+        "hostname": "www.dnb.com",
+        "favicon": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8",
+        "path": "  › home  › business directory  › finance and insurance  › credit intermediation and related activities  › depository credit intermediation  › sweden  › skåne  › helsingborg"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:01:10.329793"
+}

@@ -1,0 +1,166 @@
+{
+  "company_info": {
+    "name": "Podme",
+    "descriptions": [
+      "A podcast subscription platform backed by Schibsted Media"
+    ],
+    "industries": [
+      "Media Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Airflow",
+      "Marketing analytics",
+      "BigQuery",
+      "SQL",
+      "dbt",
+      "Python",
+      "Git",
+      "Looker Studio"
+    ],
+    "job_titles": [
+      "Analytics Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Podme:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Cirka 70 medarbetare\n- Grundat: 2017\n- Plats: Stockholm, Sverige\n[Källa: Growjo.com]\n\n2. Omsättning och finansiell information\n- Årlig omsättning: Uppskattningsvis $7,5 miljoner\n- Finansierad av Schibsted Media\n[Källa: Growjo.com, jobbannonser]\n\n3. Företagets värdegrund och kultur\n- Fokus på att stödja podcast-skapare\n- Ursprunglig mission: Skapa bättre intäktsmodeller för podcasters\n[Källa: LinkedIn-profil]\n\n4. Huvudsakliga produkter/tjänster\n- Prenumerationsplattform för podcasts\n- Mobilapp för premium, reklamfria podcasts\n[Källa: Crunchbase, CB Insights]\n\n5. Nyliga nyheter eller utveckling\n- Inget specifikt noterat i tillgängliga källor\n\n6. Teknisk stack och kompetensområden\nTekniska kompetenser:\n- Dataanalys: Airflow, BigQuery, SQL, dbt\n- Programmeringsspråk: Python\n- Verktyg: Git, Looker Studio\n[Källa: Jobbannonser]\n\nAnmärkning: Informationen är baserad på begränsade källor och kan vara ofullständig.",
+  "search_results": [
+    {
+      "title": "PodMe: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/PodMe",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>PodMe</strong> top competitors are <strong>PodMe</strong> and they have annual <strong>revenue</strong> of $7.5M and 70 <strong>employees</strong>.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/PodMe",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › PodMe"
+      }
+    },
+    {
+      "title": "Podme - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/podme",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>PodMe</strong> is created for those who want to be the first with the best of your favorite podcasts.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/podme",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › podme"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/5Rrp-5HIssVP2ONofpNRBXBIDXTz0aVsRaLuiOr_l6I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L2hjbm96c2x4aG9z/ajdtMmlvdXho",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/hcnozslxhosj7m2iouxh",
+        "logo": false
+      }
+    },
+    {
+      "title": "Podme - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "url": "https://www.cbinsights.com/company/podme",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Podme</strong> is a mobile app offering commercial free premium podcasts. Use the CB Insights Platform to explore <strong>Podme</strong>&#x27;s full profile.",
+      "profile": {
+        "name": "Cbinsights",
+        "url": "https://www.cbinsights.com/company/podme",
+        "long_name": "cbinsights.com",
+        "img": "https://imgs.search.brave.com/-snYugTDKbKWsPlrlsFOsmF_wWgjiuJH_EJZEzJhNAc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDg1MGQxZmI2/ZDFkNWI3OTEwNmI1/M2VjMTM1MjNjN2Ji/ZjM4NWVlYWY1NzNm/NjQ4ZTBhNjVmMzYx/ZjVhMDM3OS93d3cu/Y2JpbnNpZ2h0cy5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "cbinsights.com",
+        "hostname": "www.cbinsights.com",
+        "favicon": "https://imgs.search.brave.com/-snYugTDKbKWsPlrlsFOsmF_wWgjiuJH_EJZEzJhNAc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDg1MGQxZmI2/ZDFkNWI3OTEwNmI1/M2VjMTM1MjNjN2Ji/ZjM4NWVlYWY1NzNm/NjQ4ZTBhNjVmMzYx/ZjVhMDM3OS93d3cu/Y2JpbnNpZ2h0cy5j/b20v",
+        "path": "› company  › podme"
+      }
+    },
+    {
+      "title": "PodMe Company Profile: Valuation & Investors | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/268519-78",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on valuation, funding, cap tables, investors, and executives for <strong>PodMe</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/268519-78",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 268519-78"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/yjlyUnp8iWvb8sgAyzXFuOm26p6gtDASJWMe0INlV-g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9UWRaRVd4/ZWg",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=QdZEWxeh",
+        "logo": false
+      }
+    },
+    {
+      "title": "Podme | LinkedIn",
+      "url": "https://www.linkedin.com/company/podme/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Podme</strong> | 2,043 followers on LinkedIn. <strong>Podme</strong> – Your go-to place for quality podcasts | When <strong>Podme</strong> was created in 2017, donations, sponsorships, and advertising <strong>revenue</strong> were essentially the only ways for creators to be compensated for their hard work. While brands were eager to align themselves ...",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/podme/",
+        "long_name": "linkedin.com",
+        "img": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "linkedin.com",
+        "hostname": "www.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/B3dmoKTAgUkkbrvzAxFg_MfHAm5WmWy0N-4kH1AGWOo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+        "path": "› company  › podme"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Xs72ga_kvbuBC2ZN5T6Yh8XLDN5u6m_M6J75XtFo4uk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RDBCQVFIVzhnSzc1/dVNveGcvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNjc0MTE5/NDAxMDM5L3BvZG1l/X2xvZ28_ZT0yMTQ3/NDgzNjQ3JmFtcDt2/PWJldGEmYW1wO3Q9/VEItRDdYSktKLXpx/SXBQNVdlLVBCRWZW/TzJjQkNnM2lOSGdt/bnFlS0gwUQ",
+        "original": "https://media.licdn.com/dms/image/C4D0BAQHW8gK75uSoxg/company-logo_200_200/0/1674119401039/podme_logo?e=2147483647&amp;v=beta&amp;t=TB-D7XJKJ-zqIpP5We-PBEfVO2cBCg3iNHgmnqeKH0Q",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:46:27.665956"
+}

@@ -1,0 +1,169 @@
+{
+  "company_info": {
+    "name": "Lifesum AB",
+    "descriptions": [
+      "Consumer health tech company"
+    ],
+    "industries": [
+      "Health Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "JIRA",
+      "CI tools",
+      "Mobile app testing",
+      "Android",
+      "GitHub",
+      "iOS"
+    ],
+    "job_titles": [
+      "Senior Quality Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Lifesum AB:\n\n1. Företagets storlek och antal anställda\n- Rapporterade anställda varierar mellan källor\n- Enligt Craft.co: 5 anställda (dock kan detta vara inaktuellt)\n- Baserat i Stockholm, Sverige\n\n2. Omsättning och finansiell information\n- Årlig intäkt (2024): $16,8 miljoner (RocketReach)\n- Årlig intäkt (2019): 217,8 miljoner SEK (Craft.co)\n- Total funding: $21,7 miljoner (Craft.co)\n\n3. Värdegrund och kultur\n- Fokus på digital hälsoteknik\n- Tillämpar psykologi och teknologi för bättre hälsa\n- Mål att hjälpa användare förbättra sin grundläggande hälsa\n\n4. Huvudsakliga produkter/tjänster\n- Mobil applikation för att spåra matintag och träningsrutiner\n- Nutritionsapp som stödjer personlig hälsoutveckling\n\n5. Nyliga nyheter/utveckling\n- Juli 2021: Rekryterade Dr. Alona Pulde och Dr. Matthew Lederman till sitt hälsoråd\n- Inriktning på att motverka sjukdomar genom nutrition\n\n6. Teknisk stack och kompetensområden\n- Mobilapplikationsutveckling (iOS, Android)\n- Testverktyg: JIRA, CI-verktyg, Mobile app testing\n- Versionshantering: GitHub\n\nKällor: Owler, Crunchbase, Growjo, RocketReach, Craft.co\n\nAnmärkning: Informationen kan variera mellan källor och bör verificeras separat.",
+  "search_results": [
+    {
+      "title": "Lifesum’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/lifesum",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Lifesum</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Lifesum</strong> is a Sweden-based healthcare technology platform that develops a mobile application that helps individuals track food intake and exercise routines. <strong>Lifesum</strong>’s primary competitors include Noom, Lose It!, RunKeeper and 6 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/lifesum",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › lifesum"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Lifesum - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/lifesum",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Lifesum</strong> is a Swedish digital health startup that helps clients become healthier by using applied psychology and technology.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/lifesum",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › lifesum"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/lFmCiDoOR5B0LUAKuTiklW9J_tYzFFXrECWr-1M7ndU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3YxMzk3MTgyNjc5/L2ZhYWViNTQwNWY2/MmY0MGVlYjdmZDk1/YWEzNjYwMDdiLnBu/Zw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1397182679/faaeb5405f62f40eeb7fd95aa366007b.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Lifesum: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Lifesum",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "LOS ANGELES, July 8, 2021 /PRNewswire/ -- Lifesum, the leading global nutrition app that helps users improve baseline health through better eating, today announced that <strong>Alona Pulde, MD and Matthew Lederman, MD</strong> have joined its Health Advisory Board with the ambition of reversing disease using nut ...",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Lifesum",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Lifesum"
+      }
+    },
+    {
+      "title": "Lifesum Information",
+      "url": "https://rocketreach.co/lifesum-profile_b5e25b86f42e6247",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Looking for a particular Lifesum employee&#x27;s phone or email? The Lifesum annual revenue was <strong>$16.8 million in 2024</strong>.",
+      "profile": {
+        "name": "RocketReach",
+        "url": "https://rocketreach.co/lifesum-profile_b5e25b86f42e6247",
+        "long_name": "rocketreach.co",
+        "img": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "rocketreach.co",
+        "hostname": "rocketreach.co",
+        "favicon": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8",
+        "path": "› lifesum-profile_b5e25b86f42e6247"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/84lTH08cauoeE0mvnBoRaeoxizLzaAbOrhS_EvE6UCQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMWhi/cHIwOXB3ejBzay5j/bG91ZGZyb250Lm5l/dC9sb2dvX3VybC9s/aWZlc3VtLWIzYWQz/NTM5",
+        "original": "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/lifesum-b3ad3539",
+        "logo": true
+      }
+    },
+    {
+      "title": "Lifesum Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+      "url": "https://craft.co/lifesum",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Lifesum has 5 employees at their 1 location, $21.7 m in total funding, and <strong>kr217.8 m in annual revenue in FY 2019.</strong> See insights on Lifesum including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+      "profile": {
+        "name": "Lifesum",
+        "url": "https://craft.co/lifesum",
+        "long_name": "craft.co",
+        "img": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "craft.co",
+        "hostname": "craft.co",
+        "favicon": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8",
+        "path": "  › lifesum"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/NIR6nc8lknsF18jXWG8AUtFtPFYEsfHUQdYEJ4w1NxY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucHJvZHVjdGlv/bi5jcmFmdC5jby9h/c3NldHMvZmU3N2Rj/ZGQzOTBmZjFkNTJh/MTYucG5n",
+        "original": "https://static.production.craft.co/assets/fe77dcdd390ff1d52a16.png",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:00:07.319138"
+}

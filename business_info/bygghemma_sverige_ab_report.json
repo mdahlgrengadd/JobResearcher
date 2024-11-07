@@ -1,0 +1,161 @@
+{
+  "company_info": {
+    "name": "Bygghemma Sverige AB",
+    "descriptions": [
+      "Sveriges största onlinebaserade aktör inom byggvaror, hem och trädgård"
+    ],
+    "industries": [
+      "E-handel"
+    ],
+    "locations": [
+      "Malmö"
+    ],
+    "skills": [
+      "Dataflow",
+      "Python",
+      "BigQuery",
+      "Datastyrning",
+      "SQL",
+      "Pub/Sub",
+      "GCP",
+      "ETL"
+    ],
+    "job_titles": [
+      "Data Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Bygghemma Sverige AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Över 1,500 medarbetare (Källa: RocketReach)\n- Placering: Malmö, Sverige\n\n2. Omsättning och finansiell information\n- Årlig omsättning: Cirka 54,2 miljoner USD (Källa: Growjo)\n- Nettoomsättning 2023: 11,7 miljarder SEK (Källa: WeAreBHG investors)\n- Börsnoterade på Nasdaq Stockholm (ticker: BHG)\n\n3. Huvudsakliga produkter/tjänster\n- Onlinebaserad återförsäljare av:\n  - Byggvaror\n  - Heminredning\n  - Trädgårdsprodukter\n  - Både för privatpersoner och kommersiella kunder\n\n4. Teknisk kompetens och stack\nEftersökta kompetensområden:\n- Data Engineering\n- Teknologier: \n  - Python\n  - SQL\n  - BigQuery\n  - Google Cloud Platform (GCP)\n  - Pub/Sub\n  - ETL-processer\n  - Dataflödeshantering\n\n5. Konkurrenter\n- Boozt.com\n- Craft Functional Sportswear\n- Pierce AB\n\n6. Särskiljande faktorer\n- Sveriges största onlinebaserade aktör inom byggvaror, hem och trädgård\n- Fokus på organisk tillväxt över marknadssnittet\n\nSammanfattningen är baserad på information från Owler, WeAreBHG, Growjo, RocketReach och jobbannonser.",
+  "search_results": [
+    {
+      "title": "Bygghemma’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/bygghemma",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Bygghemma</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Bygghemma</strong> is a Sweden-based online retailer that construction, home furnishing and gardening products for residential and commercial sectors.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/bygghemma",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › bygghemma"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Investors",
+      "url": "https://www.wearebhg.com/investors/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We had net sales of <strong>SEK 11.7 bn in 2023</strong>. Continue to deliver organic growth above the addressable market.",
+      "profile": {
+        "name": "Wearebhg",
+        "url": "https://www.wearebhg.com/investors/",
+        "long_name": "wearebhg.com",
+        "img": "https://imgs.search.brave.com/CFqnoiBhRIfdA8bC-7ej7kzh-xMA6MlzM7jKWHL5mtM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzU4N2ZmMjhm/Mjg3NDg3M2UyN2Ri/NWE0ZDEyOTY2YmY1/ZjZjYjZlOTkxMWE0/YjkwNWE3YWFhNTA0/YmYzZjYzYS93d3cu/d2VhcmViaGcuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "wearebhg.com",
+        "hostname": "www.wearebhg.com",
+        "favicon": "https://imgs.search.brave.com/CFqnoiBhRIfdA8bC-7ej7kzh-xMA6MlzM7jKWHL5mtM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzU4N2ZmMjhm/Mjg3NDg3M2UyN2Ri/NWE0ZDEyOTY2YmY1/ZjZjYjZlOTkxMWE0/YjkwNWE3YWFhNTA0/YmYzZjYzYS93d3cu/d2VhcmViaGcuY29t/Lw",
+        "path": "› investors"
+      }
+    },
+    {
+      "title": "Bygghemma: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Bygghemma",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Bygghemma top competitors are Boozt.com, Craft Functional Sportswear and Pierce AB and they have annual revenue of <strong>$54.2M</strong> and 217 employees.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Bygghemma",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Bygghemma"
+      }
+    },
+    {
+      "title": "Bygghemma Sverige - Overview, News & Similar companies",
+      "url": "https://www.zoominfo.com/c/bygghemma-sverige-ab/372802756",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Unlock insights and scale your GTM with go-to-market software. Find and close your next ideal customers using ZoomInfo&#x27;s all-in-one platform to fuel growth.",
+      "profile": {
+        "name": "Zoominfo",
+        "url": "https://www.zoominfo.com/c/bygghemma-sverige-ab/372802756",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › bygghemma-sverige-ab  › 372802756"
+      }
+    },
+    {
+      "title": "Bygghemma Group Information",
+      "url": "https://rocketreach.co/bygghemma-group-profile_b5c562f7f42e0e17",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We are headquartered in Malmö, Sweden. Our share is traded on Nasdaq Stockholm, under the ticker ‘BHG‘. The BHG brands employ <strong>more than 1,500 people</strong>, working every day to create the ultimate online shopping experience! View Top Employees from Bygghemma Group",
+      "profile": {
+        "name": "RocketReach",
+        "url": "https://rocketreach.co/bygghemma-group-profile_b5c562f7f42e0e17",
+        "long_name": "rocketreach.co",
+        "img": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "rocketreach.co",
+        "hostname": "rocketreach.co",
+        "favicon": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8",
+        "path": "› bygghemma-group-profile_b5c562f7f42e0e17"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Yc_CEfXKqb3waSvP80htrBfIdGHaelLvWuR1s6tYY3I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMWhi/cHIwOXB3ejBzay5j/bG91ZGZyb250Lm5l/dC9sb2dvX3VybC9i/aGctZ3JvdXAtYzNk/M2E0MWI",
+        "original": "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/bhg-group-c3d3a41b",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:43:25.091055"
+}

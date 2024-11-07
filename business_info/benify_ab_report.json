@@ -1,0 +1,177 @@
+{
+  "company_info": {
+    "name": "Benify AB",
+    "descriptions": [
+      "An international HR tech company providing a global benefit and total rewards platform"
+    ],
+    "industries": [
+      "HR Technology"
+    ],
+    "locations": [
+      "Gothenburg"
+    ],
+    "skills": [
+      "Java",
+      "Flux",
+      "GitOps",
+      "Google Cloud",
+      "Ansible",
+      "GitHub Actions",
+      "Linux",
+      "Terraform",
+      "Kubernetes",
+      "MySQL"
+    ],
+    "job_titles": [
+      "Platform Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Benify AB\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Approximately 482 medarbetare [Källa: Growjo.com]\n- Typ av företag: Privat bolag inom HR-teknologi\n\n2. Omsättning och finansiell information\n- Årlig intäkt: Uppskattad till $87.4 miljoner [Källa: Growjo.com]\n- Intäkt per anställd: Cirka $100,000 [Källa: Owler.com]\n\n3. Huvudsakliga produkter/tjänster\n- Global benefits and total rewards plattform\n- SaaS-lösning för medarbetarengagemang och förmånshantering\n- Mobilapp för employee management\n\n4. Teknisk stack och kompetensområden\nTekniska kompetenser inkluderar:\n- Programmeringsspråk: Java\n- Molnplattform: Google Cloud\n- DevOps-verktyg: Flux, GitOps, Ansible, GitHub Actions\n- Infrastruktur: Kubernetes, Terraform, Linux\n- Databaser: MySQL\n\n5. Geografisk placering\n- Huvudkontor: Göteborg, Sverige\n\n6. Kärnvärderingar\n- Fokus på att attrahera, belöna och behålla talanger\n- Internationell HR-teknologiplattform\n\nKonkurrenter:\n- PeopleKeep\n- Lumity\n- Employee Navigator\n- Thomsons Online Benefits\n\nKälla: Sammanställt från Crunchbase, Growjo.com, Owler.com och företagets webbplats",
+  "search_results": [
+    {
+      "title": "Engage Your Employees Anytime and Anywhere | Benify",
+      "url": "https://www.benify.com",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Benify</strong> offers the market’s leading global benefits and total rewards platform. Engage your <strong>employees</strong> anywhere, anytime with <strong>Benify</strong>. <strong>Employee</strong> management App",
+      "page_age": "2024-07-29T08:15:31",
+      "profile": {
+        "name": "Benify",
+        "url": "https://www.benify.com",
+        "long_name": "benify.com",
+        "img": "https://imgs.search.brave.com/RKRuDInYia6gwtNzJM40dubfuHMxveu4qU4NcY06fZc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZlOTMxNjUw/MTdiMzhmMmQ1YzNm/MWIzNzllZmU5ZWE5/OGNkZGRmMTU0Yjky/MTU2MmYxM2UzNDAw/MzU2YmM3Mi93d3cu/YmVuaWZ5LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "benify.com",
+        "hostname": "www.benify.com",
+        "favicon": "https://imgs.search.brave.com/RKRuDInYia6gwtNzJM40dubfuHMxveu4qU4NcY06fZc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZlOTMxNjUw/MTdiMzhmMmQ1YzNm/MWIzNzllZmU5ZWE5/OGNkZGRmMTU0Yjky/MTU2MmYxM2UzNDAw/MzU2YmM3Mi93d3cu/YmVuaWZ5LmNvbS8",
+        "path": ""
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/matiThCCD2rL1b0ijbmhpZc3ceZYr3JnjAMXet1ZebY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmVuaWZ5LmNvbS9h/cHAvdXBsb2Fkcy9i/ZW5lZml0c190YWxr/aW5nLmpwZw",
+        "original": "https://www.benify.com/app/uploads/benefits_talking.jpg",
+        "logo": false
+      },
+      "age": "July 29, 2024"
+    },
+    {
+      "title": "Benify - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/benify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Benefits Management and Total Rewards platform - SaaS",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/benify",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › benify"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/pUAk3NN5pj2UecgIzUDOGuxBkBX14Gc9Y7zbHZmDiPw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3YxNDk4ODIzNTUw/L2xzbmhkMmRnYXlu/YnpwdHZhY3pxLnBu/Zw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1498823550/lsnhd2dgaynbzptvaczq.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "About us - Global Benefits & Total Rewards Platform | Benify",
+      "url": "https://www.benify.com/why-benify/about-us/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We&#x27;ll show you how to attract, reward and retain the talent you need and why our platform has reinvented how modern employers engage with their <strong>employees</strong>.",
+      "page_age": "2024-06-10T10:09:41",
+      "profile": {
+        "name": "Benify",
+        "url": "https://www.benify.com/why-benify/about-us/",
+        "long_name": "benify.com",
+        "img": "https://imgs.search.brave.com/RKRuDInYia6gwtNzJM40dubfuHMxveu4qU4NcY06fZc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZlOTMxNjUw/MTdiMzhmMmQ1YzNm/MWIzNzllZmU5ZWE5/OGNkZGRmMTU0Yjky/MTU2MmYxM2UzNDAw/MzU2YmM3Mi93d3cu/YmVuaWZ5LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "benify.com",
+        "hostname": "www.benify.com",
+        "favicon": "https://imgs.search.brave.com/RKRuDInYia6gwtNzJM40dubfuHMxveu4qU4NcY06fZc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZlOTMxNjUw/MTdiMzhmMmQ1YzNm/MWIzNzllZmU5ZWE5/OGNkZGRmMTU0Yjky/MTU2MmYxM2UzNDAw/MzU2YmM3Mi93d3cu/YmVuaWZ5LmNvbS8",
+        "path": "  › why benify  › about us"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/g7dtJ3AliJM6mkuxpWKR2tC3CEBbtLzOpSC_u_IE4kw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmVuaWZ5LmNvbS9h/cHAvdXBsb2Fkcy9j/dWx0dXJlLmpwZw",
+        "original": "https://www.benify.com/app/uploads/culture.jpg",
+        "logo": false
+      },
+      "age": "June 10, 2024"
+    },
+    {
+      "title": "Benify: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Benify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Benify top competitors are PeopleKeep, Lumity and Employee Navigator and they have annual revenue of <strong>$87.4M</strong> and 482 employees.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Benify",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Benify"
+      }
+    },
+    {
+      "title": "Benify’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/benify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "is a Private company. Benify generates <strong>$100K in revenue per employee</strong> Benify&#x27;s top competitor is Thomsons Online Benefits, led by Stephen Read, who is their CEO.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/benify",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › benify"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:40:44.374664"
+}

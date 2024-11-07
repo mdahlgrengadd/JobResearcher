@@ -1,0 +1,179 @@
+{
+  "company_info": {
+    "name": "Viaplay Group Sweden AB",
+    "descriptions": [
+      "A media company providing streaming services, radio networks, and TV channels"
+    ],
+    "industries": [
+      "Media and Entertainment"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "JavaScript",
+      "Smart TV Applications",
+      "React Native",
+      "Web Development",
+      "HTML"
+    ],
+    "job_titles": [
+      "Principal Engineer - Smart TV"
+    ]
+  },
+  "analysis": "Sammanfattning av Viaplay Group Sweden AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Approximately 316 medarbetare [Källa: Growjo]\n- Baserat i Stockholm, Sverige\n\n2. Omsättning och finansiell information\n- Årlig intäkt: Cirka 81 miljoner USD\n- Intäkter från Viaplay-plattformen: Över 6,5 miljarder svenska kronor (2023)\n- Kvartalsvisa intäkter (2022-2023):\n  - Q4 2022: 425,8 miljoner USD\n  - Q1 2023: 436,7 miljoner USD\n  - Q2 2023: 423,8 miljoner USD\n  - Q3 2023: 416,3 miljoner USD\n[Källor: Owler, Statista]\n\n3. Företagets värdegrund och kultur\n- Mediaföretag med fokus på underhållning och streaming\n- Del av mediesektorn med internationell närvaro\n\n4. Huvudsakliga produkter/tjänster\n- Streaming-plattform Viaplay\n- Televisionsnätverk\n- Radionätverk\n- Filmproduktion genom Viaplay Studios\n[Källa: Wikipedia]\n\n5. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser:\n- JavaScript\n- React Native\n- Smart TV-applikationer\n- Web Development\n- HTML\n\n6. Senaste utveckling\n- Tidigare känt som Nordic Entertainment Group\n- Expansion av streaming-verksamheten\n- Kontinuerlig utveckling av mediainnehåll och tekniska plattformar\n\nAnmärkning: Informationen är baserad på tillgängliga online-källor och kan variera över tid.",
+  "search_results": [
+    {
+      "title": "Viaplay Group - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viaplay_Group",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Viaplay</strong> Studios (formerly known ... is a <strong>Sweden</strong> television production division of <strong>Viaplay</strong> <strong>Group</strong>. In December 2007, Modern Times <strong>Group</strong> announced that they have sold independent production and distributor Sonet Film to Swedish film and television production and distribution <strong>company</strong> Svensk ...",
+      "page_age": "2024-10-03T16:22:41",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Viaplay_Group",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Viaplay_Group#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Company structure",
+            "url": "https://en.wikipedia.org/wiki/Viaplay_Group#Company_structure"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Viaplay_Group"
+      },
+      "age": "October 3, 2024"
+    },
+    {
+      "title": "Viaplay Group: revenue by segment 2023 | Statista",
+      "url": "https://www.statista.com/statistics/1022661/net-revenue-of-nent/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2023, Viaplay Group (formerly Nordic Entertainment Group) generated the highest revenue with its video streaming platform Viaplay, at <strong>over 6.5 billion Swedish kronor</strong>.",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/1022661/net-revenue-of-nent/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› statistics  › 1022661  › net-revenue-of-nent"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/20wVe5A6YedGlkIQh_3_FZOCzvdEfeE2ulQ1CtbbvgM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzEw/MjAwMDAvMTAyMjY2/MS1ibGFuay0zNTUu/cG5n",
+        "original": "https://cdn.statcdn.com/Statistic/1020000/1022661-blank-355.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Viaplay: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Viaplay",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Viaplay top competitors are Storytel Sweden AB, Goodbye Kansas Entertainment Group and Resolution Games and they have annual revenue of $81M and <strong>316 employees</strong>.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Viaplay",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Viaplay"
+      }
+    },
+    {
+      "title": "Viaplay Group’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/viaplaygroup",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Over the last four quarters, Viaplay Group&#x27;s revenue has grown by 2.3%. Specifically, <strong>in Q4 2022&#x27;s revenue was $425.8M; in Q1 2023, it was $436.7M; in Q2 2023, it was $423.8M; in Q3 2023, Viaplay Group&#x27;s revenue was $416.3M</strong>. ... Swedish video streaming company Viaplay on Thursday reported a ...",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/viaplaygroup",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › viaplaygroup"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Quarterly revenue of Viaplay Group 2019-2024",
+      "url": "https://www.statista.com/statistics/1022618/quarterly-revenue-of-nent/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In the second quarter of 2024, the net revenue of the broadcaster and provider of streaming services, Viaplay Group (formerly Nordic Entertainment Group), amounted to about <strong>4.49 billion Swedish kronor</strong>.",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/1022618/quarterly-revenue-of-nent/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "  › media  › tv, video & film"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/SMLJ0S_RA8KfLiQ6EIZX351vJCRenWFA9d4X4z0yGSo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzEw/MjAwMDAvMTAyMjYx/OC1ibGFuay0zNTUu/cG5n",
+        "original": "https://cdn.statcdn.com/Statistic/1020000/1022618-blank-355.png",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:04:06.626732"
+}

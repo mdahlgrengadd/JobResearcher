@@ -1,0 +1,166 @@
+{
+  "company_info": {
+    "name": "Amuse",
+    "descriptions": [
+      "A music industry technology company"
+    ],
+    "industries": [
+      "Music/Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Airflow",
+      "Data pipelines",
+      "SQL",
+      "Golang",
+      "Python",
+      "Google Cloud"
+    ],
+    "job_titles": [
+      "Data Engineer - Royalties & Data"
+    ]
+  },
+  "analysis": "Sammanfattning av Amuse:\n\n1. Företagets storlek och anställda\n- Antal anställda: Varierar mellan källor\n  - Owler.com: Uppskattat till 50 anställda\n  - Growjo.com: 288 anställda\n- Geografisk spridning: Verksamma över 6 kontinenter\n\n2. Omsättning och finansiell information\n- Årlig intäkt: \n  - Growjo.com: $15M\n  - LeadIQ: $35M (augusti 2024)\n- Total funding: $20M fördelat över 4 investeringsrundor\n- Senaste funding: $15,5M i Series A-funding\n\n3. Huvudsakliga produkter/tjänster\n- Online musikdistributionsplattform för oberoende artister\n- \"Next generation\" skivbolag\n\n4. Teknisk kompetens\n- Teknisk stack: \n  - Programmeringsspråk: Python, Golang\n  - Data: SQL, Airflow, Data pipelines\n  - Molnplattform: Google Cloud\n\n5. Övrigt\n- Huvudkontor: Stockholm, Sverige\n- Webbplats: amuse.io\n\nKällor: Tracxn, Growjo, ZoomInfo, LeadIQ, Owler",
+  "search_results": [
+    {
+      "title": "Amuse - Company Profile - Tracxn",
+      "url": "https://tracxn.com/d/companies/amuse/__yZIj7HKgHKv_Cm59-z8AMghsmfyJi4jpRXkkDw8wLXQ",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Amuse</strong> - Online music distribution platform for indie artists. Raised a total funding of $20M over 4 rounds from 10 investors.",
+      "page_age": "2024-08-24T05:38:29",
+      "profile": {
+        "name": "Companies",
+        "url": "https://tracxn.com/d/companies/amuse/__yZIj7HKgHKv_Cm59-z8AMghsmfyJi4jpRXkkDw8wLXQ",
+        "long_name": "tracxn.com",
+        "img": "https://imgs.search.brave.com/nzB0_WjyGC_evkqvO7ZEs5xI6dVUXnxuwSiKDcsNo2Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTJjNDdiZmI3/MDk3MzllZTFkZGU1/M2Y1NTZiNmFhZjhi/YTAzNzhmOGU0MDM5/YTRmZDhkMmZiN2Yw/ODg5MTcxYy90cmFj/eG4uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "tracxn.com",
+        "hostname": "tracxn.com",
+        "favicon": "https://imgs.search.brave.com/nzB0_WjyGC_evkqvO7ZEs5xI6dVUXnxuwSiKDcsNo2Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTJjNDdiZmI3/MDk3MzllZTFkZGU1/M2Y1NTZiNmFhZjhi/YTAzNzhmOGU0MDM5/YTRmZDhkMmZiN2Yw/ODg5MTcxYy90cmFj/eG4uY29tLw",
+        "path": "  › discover  › companies  › amuse"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/IEwIYenzAMZGGF6XwIj7xTOw6zed5piIR1gAMs8VCEQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dHJhY3huLmNvbS9p/bWFnZXMvc2VvL3Nv/Y2lhbC9jb21wYW5p/ZXMvYW11c2Utb3Zl/cnZpZXctMTcwODMz/NDY4OTUxOC53ZWJw",
+        "original": "https://cdn.tracxn.com/images/seo/social/companies/amuse-overview-1708334689518.webp",
+        "logo": false
+      },
+      "age": "August 24, 2024"
+    },
+    {
+      "title": "Amuse.io: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Amuse.io",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Amuse.io top competitors are DistroKid and they have annual revenue of <strong>$15M</strong> and 288 employees.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Amuse.io",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Amuse.io"
+      }
+    },
+    {
+      "title": "Amuse - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/amuse/439158662",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "... As the music industry continues ... Spotify, Apple Music et al., coupled with what it’s calling a “next generation” record label, has raised <strong>$15.5 million</strong> in Series A funding....",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/amuse/439158662",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › amuse  › 439158662"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/sJ3k9xOo6b4FlwnTIddAVZZV1wvF6L5cx3m3r4ad6XY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvYW11/c2UuaW8",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/amuse.io",
+        "logo": false
+      }
+    },
+    {
+      "title": "Amuse Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/amuse/5a1dafbf2300005300a6e977",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Amuse&#x27;s main headquarters is located at Kammakargatan Stockholm, SE. The company has employees across 6 continents, including EuropeNorth AmericaAsia. Amuse&#x27;s official website is amuse.io and has social profiles on LinkedIn. <strong>As of August 2024, Amuse&#x27;s annual revenue reached $35M</strong>.",
+      "profile": {
+        "name": "Leadiq",
+        "url": "https://leadiq.com/c/amuse/5a1dafbf2300005300a6e977",
+        "long_name": "leadiq.com",
+        "img": "https://imgs.search.brave.com/gKZkPFBmgeaIwdUAYtPXD5bBxEeyYbR4p40Vi6S_z0w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NDdkOWVh/MzQ2M2M1MTY2NTBm/NGQzMzM4ZGQ5YjVm/NDVjMzA5NTY1ODc0/M2EyNmUwNTIzMTQx/NGIwMTAzOC9sZWFk/aXEuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "leadiq.com",
+        "hostname": "leadiq.com",
+        "favicon": "https://imgs.search.brave.com/gKZkPFBmgeaIwdUAYtPXD5bBxEeyYbR4p40Vi6S_z0w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NDdkOWVh/MzQ2M2M1MTY2NTBm/NGQzMzM4ZGQ5YjVm/NDVjMzA5NTY1ODc0/M2EyNmUwNTIzMTQx/NGIwMTAzOC9sZWFk/aXEuY29tLw",
+        "path": "› c  › amuse  › 5a1dafbf2300005300a6e977"
+      }
+    },
+    {
+      "title": "Amuseio’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/amuse1",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Amuseio&#x27;s headquarters is located in Stockholm, Stockholms län, SE 112 33. Amuseio has <strong>an estimated 50 employees</strong> and an estimated a... ... View 18 Amuseio competitors here. There have been no acquisitions found related to Amuseio · View Amuseio funding details.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/amuse1",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › amuse1"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:05:12.337615"
+}

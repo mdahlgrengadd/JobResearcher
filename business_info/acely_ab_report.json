@@ -1,0 +1,174 @@
+{
+  "company_info": {
+    "name": "Acely AB",
+    "descriptions": [
+      "An IT consulting company specializing in recruitment and consulting services"
+    ],
+    "industries": [
+      "IT Consulting"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "CI/CD",
+      "Azure",
+      "Cloud infrastructure",
+      "DevOps",
+      "GCP",
+      "Terraform",
+      "AWS"
+    ],
+    "job_titles": [
+      "DevOps Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Acely AB\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda ej fastställt\n- Baserat i Stockholm, Sverige [Apollo.io]\n\n2. Omsättning och finansiell information\n- Begränsad information tillgänglig\n- Statusen är aktivt företag [Tofler.in]\n\n3. Företagets värdegrund och kultur\n- Inget specifikt identifierat från tillgängliga källor\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsultföretag med fokus på:\n  * Rekryteringstjänster\n  * Systemutveckling\n  * Mjukvaruutveckling\n  * Dataregistrering [Crunchbase]\n\n5. Nyliga nyheter eller utveckling\n- Inga specifika nyheter identifierade\n\n6. Teknisk stack och kompetensområden\n- Tekniska kompetenser:\n  * Cloud infrastructure\n  * DevOps\n  * CI/CD\n  * Molnplattformar: Azure, AWS, GCP\n  * Infrastruktur som kod: Terraform\n- Eftersöker främst DevOps-kompetenser [Jobbannonser]\n\nAnmärkning: Informationen är begränsad och delvis osäker. Ytterligare research rekommenderas för mer exakta detaljer.",
+  "search_results": [
+    {
+      "title": "Acely - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/acely",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Acely</strong> engages in data entry, software development and system development services.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/acely",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › acely"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/xRaXCRyXS3g6PP-AkuavVwiyprvdAlhdS3MDg5y9r6I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3g2NG5sd3lvaDR1/cjJybHBhMmRi",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/x64nlwyoh4ur2rlpa2db",
+        "logo": false
+      }
+    },
+    {
+      "title": "SAP Implementation Partner | SAP Consulting Services | Accely",
+      "url": "https://www.accely.com/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Accely is a leading technology Consulting firm for SAP Services, SAP SuccessFactors, SAP S/4HANA, SAP Mobility, &amp; SAP Concur Solutions.",
+      "page_age": "2024-01-19T08:01:24",
+      "profile": {
+        "name": "Accely",
+        "url": "https://www.accely.com/",
+        "long_name": "accely.com",
+        "img": "https://imgs.search.brave.com/ShSJmiSi15a_j6nRnfptmXaakF6wJYA8gcHxIixmjek/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjA2ODk5NjFh/MGJkOWM0YmRiODNh/N2RkMjQ3NGYwZmQz/ZTM4NGRmYjQzYWQ2/ZjM2NTJhZGFhYTAw/MzlhM2U4Yy93d3cu/YWNjZWx5LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "accely.com",
+        "hostname": "www.accely.com",
+        "favicon": "https://imgs.search.brave.com/ShSJmiSi15a_j6nRnfptmXaakF6wJYA8gcHxIixmjek/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjA2ODk5NjFh/MGJkOWM0YmRiODNh/N2RkMjQ3NGYwZmQz/ZTM4NGRmYjQzYWQ2/ZjM2NTJhZGFhYTAw/MzlhM2U4Yy93d3cu/YWNjZWx5LmNvbS8",
+        "path": "  › home"
+      },
+      "age": "January 19, 2024"
+    },
+    {
+      "title": "Acely Financial Overview, Employee Count, and Competitors | Apollo",
+      "url": "https://www.apollo.io/companies/Total-Resurs/54a23bb474686935becc3a18",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>Acely</strong> (http://www.<strong>acely</strong>.se) location in Stockholm County, Sweden, <strong>revenue</strong>, competitors and contact <strong>information</strong>. Find and reach <strong>Acely</strong>&#x27;<strong>s</strong> <strong>employees</strong> by department, seniority, title, and much more.",
+      "profile": {
+        "name": "Apollo",
+        "url": "https://www.apollo.io/companies/Total-Resurs/54a23bb474686935becc3a18",
+        "long_name": "apollo.io",
+        "img": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "apollo.io",
+        "hostname": "www.apollo.io",
+        "favicon": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw",
+        "path": "› companies  › Total-Resurs  › 54a23bb474686935becc3a18"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/69_DtHFPixMBWymFFmhn15XyM3E0AilnUIqIymGp2jE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly96ZW5w/cm9zcGVjdC1wcm9k/dWN0aW9uLnMzLmFt/YXpvbmF3cy5jb20v/dXBsb2Fkcy9waWN0/dXJlcy82NmJlZmJk/MTFiMmRlMzAwMDE0/NjkxZmIvcGljdHVy/ZQ",
+        "original": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66befbd11b2de300014691fb/picture",
+        "logo": false
+      }
+    },
+    {
+      "title": "Accelya Share Price, Accelya Stock Price, Accelya Solutions India Ltd. Stock Price, Share Price, Live BSE/NSE, Accelya Solutions India Ltd. Bids Offers. Buy/Sell Accelya Solutions India Ltd. news & tips, & F&O Quotes, NSE/BSE Forecast News and Live Quotes",
+      "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software-mediumsmall/accelyasolutionsindia/KAL",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Accelya Share Price: Find the latest news on Accelya Stock Price. Get all the <strong>information</strong> on Accelya with historic price charts for NSE / BSE. Experts &amp; Broker view also get the Accelya Ltd. buy/sell tips detailed news, announcements, Forecasts, Analysts, Valuation, Earning forecasts, Estimates, ...",
+      "profile": {
+        "name": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software-mediumsmall/accelyasolutionsindia/KAL",
+        "long_name": "moneycontrol.com",
+        "img": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "moneycontrol.com",
+        "hostname": "www.moneycontrol.com",
+        "favicon": "https://imgs.search.brave.com/woOWNIeFdAPowUtYhsD0m8pjTQvYAaM5XVCKvLHnP8M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMzNzYwNWQ2/M2Y5YTYzMzA5NWUy/YTczZGFlNGIxNDhj/NmZjZmIzOGFlNDlm/YTNkZDkyYmJiNjdl/MDRiZDMzMy93d3cu/bW9uZXljb250cm9s/LmNvbS8",
+        "path": "  › market  › share/stock price  › software"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/xK2WUg_8TSP8OXbm9zeBjq1kxzdFrIgCJjt2zKMMPvc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubW9uZXljb250/cm9sLmNvbS9tY25l/d3MvaW1hZ2VzL2Vu/Zy1sZWZ0LW1jLWxv/Z28tNjAweDYwLnBu/Zw",
+        "original": "https://images.moneycontrol.com/mcnews/images/eng-left-mc-logo-600x60.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "ACELY SOFTWARE SOLUTIONS PRIVATE LIMITED - Company Profile, Directors, Revenue & More - Tofler",
+      "url": "https://www.tofler.in/acely-software-solutions-private-limited/company/U62099TN2023PTC162740",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The current status of Acely Software Solutions Private Limited is - <strong>Active</strong>.",
+      "page_age": "2020-09-01T01:46:51",
+      "profile": {
+        "name": "Tofler",
+        "url": "https://www.tofler.in/acely-software-solutions-private-limited/company/U62099TN2023PTC162740",
+        "long_name": "tofler.in",
+        "img": "https://imgs.search.brave.com/JBXr2ZBVBQVW9hNvuzJnmnv23hRNbuH9w1EsxITDqJM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzkzMDlmZjdj/MTNmYTRiZTMwMmJk/OGE3YjdjOGE1MDA5/YjA0NTFhYTdmMTA3/ZjA0NTdhNGM2ZDAx/NDU4MjdhNC93d3cu/dG9mbGVyLmluLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "video",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "tofler.in",
+        "hostname": "www.tofler.in",
+        "favicon": "https://imgs.search.brave.com/JBXr2ZBVBQVW9hNvuzJnmnv23hRNbuH9w1EsxITDqJM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzkzMDlmZjdj/MTNmYTRiZTMwMmJk/OGE3YjdjOGE1MDA5/YjA0NTFhYTdmMTA3/ZjA0NTdhNGM2ZDAx/NDU4MjdhNC93d3cu/dG9mbGVyLmluLw",
+        "path": "  › all companies  › tamil nadu  › transport and storage  › acely software solutions private limited"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/5obtM2s7lm0cPDb-ZbrCVe7PmBjyd5EXJ-3QjKJc-VU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dG9mbGVyLmluL2lt/YWdlcy9sb2dvX29w/dC5wbmc",
+        "original": "https://www.tofler.in/images/logo_opt.png",
+        "logo": true
+      },
+      "age": "September 1, 2020"
+    }
+  ],
+  "generated_date": "2024-11-07T02:46:59.900080"
+}

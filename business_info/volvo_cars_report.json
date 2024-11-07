@@ -1,0 +1,217 @@
+{
+  "company_info": {
+    "name": "Volvo Cars",
+    "descriptions": [
+      "Biltillverkare som fokuserar på att transformera traditionell biltillverkning till en uppkopplad, hållbar och smart framtid",
+      "A global automotive manufacturer focusing on innovation",
+      "Automotive manufacturer transforming into a connected and sustainable technology company"
+    ],
+    "industries": [
+      "Automotive",
+      "Automotive, Technology",
+      "Fordonsindustri"
+    ],
+    "locations": [
+      "Stockholm",
+      "Stockholm/Gothenburg",
+      "Gothenburg"
+    ],
+    "skills": [
+      "Electrical Engineering",
+      "Catia",
+      "Frontend",
+      "C#",
+      "Design Management",
+      "TypeScript",
+      "React",
+      "Backend",
+      "Kafka",
+      "PostgreSQL",
+      "Node.js",
+      "Kubernetes",
+      ".NET",
+      "Team Center"
+    ],
+    "job_titles": [
+      "Design Engineer",
+      "Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Volvo Cars:\n\n1. Företagets storlek och antal anställda\n- Multinationellt bilföretag med bas i Sverige\n- Exakt antal anställda ej specificerat i källmaterialet\n\n2. Omsättning och finansiell information\n- Ingår i en av Sveriges största företag räknat efter marknadsvärde och intäkter\n- Specifik omsättningssiffra ej tillgänglig i nuvarande källmaterial\n\n3. Värdegrund och kultur\n- Fokus på transformation av traditionell biltillverkning\n- Inriktning mot uppkopplad, hållbar och smart teknologi\n- Strävar efter innovation inom fordonsindustrin\n\n4. Huvudsakliga produkter/tjänster\n- Biltillverkning\n- Utveckling av automotive teknologi\n- Tillverkning av bilar och relaterade tillbehör\n\n5. Teknisk kompetens och stack\nEftersökta kompetensområden:\n- Mjukvara: React, TypeScript, Node.js, C#, .NET\n- Backend: Kafka, PostgreSQL, Kubernetes\n- Tekniska verktyg: Catia, Team Center\n- Ingenjörsområden: Electrical Engineering, Design Management\n\n6. Geografisk närvaro\n- Huvudsakliga kontor: Stockholm, Göteborg\n- Global närvaro inom fordonsindustrin\n\nKällor: Jobbannonser, Wikipedia, Owler, Statista\n\nAnmärkning: Vissa detaljer begränsade på grund av begränsat källmaterial.",
+  "search_results": [
+    {
+      "title": "Volvo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volvo",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Both AB <strong>Volvo</strong> <strong>and</strong> <strong>Volvo</strong> <strong>Cars</strong> share the <strong>Volvo</strong> logo and cooperate in running the <strong>Volvo</strong> Museum in Gothenburg, Sweden. The corporation was first listed on the Stockholm Stock Exchange in 1935, and was on the NASDAQ indices from 1985 to 2007. <strong>Volvo</strong> is one of Sweden&#x27;s largest <strong>companies</strong> by market capitalisation and <strong>revenue</strong>...",
+      "page_age": "2024-10-29T23:37:56",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Volvo",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Volvo#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Corporate",
+            "url": "https://en.wikipedia.org/wiki/Volvo#Corporate"
+          },
+          {
+            "type": "button_result",
+            "title": "Collaboration with universities and colleges",
+            "url": "https://en.wikipedia.org/wiki/Volvo#Collaboration_with_universities_and_colleges"
+          },
+          {
+            "type": "button_result",
+            "title": "Communication Campaigns",
+            "url": "https://en.wikipedia.org/wiki/Volvo#Communication_Campaigns"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Volvo"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/yZsMc2Hkvk1GhvA25k-_kXGhhF9f0Mi6mZlPf1eG28I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NkL1ZvbHZvLVNw/cmVhZC1Xb3JkLU1h/cmstQmxhY2suc3Zn",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Volvo-Spread-Word-Mark-Black.svg",
+        "logo": true
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Volvo Cars Revenue: Annual, Quarterly, and Historic - Zippia",
+      "url": "https://www.zippia.com/volvo-cars-of-north-america-careers-43839/revenue/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "See all answers to common <strong>company</strong> questions. ... Broadbase Inc. Dba Jiffylube <strong>Revenue</strong> ... Porsche <strong>Cars</strong> North America, Inc. (PCNA) <strong>Revenue</strong> ... Broadbase Inc. Dba Jiffylube ... Porsche <strong>Cars</strong> North America, Inc. (PCNA) Jobs Near Me ... Zippia gives an in-depth look into the details of <strong>Volvo</strong> <strong>Cars</strong>, including salaries, political affiliations, <strong>employee</strong> data, and more, in order to <strong>inform</strong> ...",
+      "page_age": "2023-07-21T08:00:00",
+      "profile": {
+        "name": "Zippia",
+        "url": "https://www.zippia.com/volvo-cars-of-north-america-careers-43839/revenue/",
+        "long_name": "zippia.com",
+        "img": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zippia.com",
+        "hostname": "www.zippia.com",
+        "favicon": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8",
+        "path": "› volvo-cars-of-north-america-careers-43839  › revenue"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Sieo18U0u-Zd0GXktKRMJDFwVozAUbYjriy1vLZXiYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuemlwcGlhLmNv/bS9hc3NldHMvemlw/cGlhLW9nLWltYWdl/LnBuZw",
+        "original": "https://static.zippia.com/assets/zippia-og-image.png",
+        "logo": false
+      },
+      "age": "July 21, 2023"
+    },
+    {
+      "title": "Volvo Cars’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/volvocars",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Volvo</strong> <strong>Cars</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Volvo</strong> <strong>Cars</strong> is a Sweden-based multinational automotive <strong>company</strong> that designs, manufactures and distributes <strong>cars</strong> and related accessories for individuals. <strong>Volvo</strong> <strong>Cars</strong>’s primary competitors include BMW Group, Toyota, Mercedes-Benz and 14 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/volvocars",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › volvocars"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Volvo Group - Statistics & Facts | Statista",
+      "url": "https://www.statista.com/topics/2581/volvo-group/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "That same year, Daimler was the leading truck manufacturer worldwide, with 55.8 billion U.S. dollars in revenue, trailed by the Volvo Group with a revenue of <strong>51.75 billion U.S. dollars</strong>. In order to maintain a competitive edge in the global market,Volvo Group has been steadily investing in research ...",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/topics/2581/volvo-group/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› topics  › 2581  › volvo-group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/KGrh6ZgT4Q0WHTlp7G2kohkEUlsQDAhvIPx-gvzIz0U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/c3RhdGljL2ltZy9v/cGVuR3JhcGgvc3Rh/dGlzdGEucG5n",
+        "original": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Annual and sustainability reports | Volvo Group",
+      "url": "https://www.volvogroup.com/en/investors/reports-and-presentations/annual-reports.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Volvo</strong> Group&#x27;s annual reports show the financial development in detail and are available for download here. Visit the website to download them.",
+      "profile": {
+        "name": "Volvogroup",
+        "url": "https://www.volvogroup.com/en/investors/reports-and-presentations/annual-reports.html",
+        "long_name": "volvogroup.com",
+        "img": "https://imgs.search.brave.com/1C6_-qS2NEkXBGh_6NDCTEArnooF8yzbjJl1NyHlHz0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI1M2IwZDVj/MzRmMmVhMDRkNmIz/NzFjYTlhMGFjOGQw/Njk2Y2U5MDc2NTIz/ZGVkNWQ2NDE0MTll/NDA1NjAzMy93d3cu/dm9sdm9ncm91cC5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "volvogroup.com",
+        "hostname": "www.volvogroup.com",
+        "favicon": "https://imgs.search.brave.com/1C6_-qS2NEkXBGh_6NDCTEArnooF8yzbjJl1NyHlHz0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI1M2IwZDVj/MzRmMmVhMDRkNmIz/NzFjYTlhMGFjOGQw/Njk2Y2U5MDc2NTIz/ZGVkNWQ2NDE0MTll/NDA1NjAzMy93d3cu/dm9sdm9ncm91cC5j/b20v",
+        "path": "  › investors  › financial reports & presentations"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/kPVrK5g-_A7h7mwmzWw5FIaXkYj0pZMGc0_TTkE0ufM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dm9sdm9ncm91cC5j/b20vY29udGVudC9k/YW0vdm9sdm8tbWVk/aWEvbG9nby9TaGFy/ZS1VUkwtSU1fMTIw/MHg2MjhweC5wbmc",
+        "original": "https://www.volvogroup.com/content/dam/volvo-media/logo/Share-URL-IM_1200x628px.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:39:48.244076"
+}

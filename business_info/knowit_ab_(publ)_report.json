@@ -1,0 +1,163 @@
+{
+  "company_info": {
+    "name": "Knowit AB (Publ)",
+    "descriptions": [
+      "Knowit Sharp är ett specialistbolag med 50 anställda som levererar tjänster inom Datalytics, Cloud Services och mobila applikationer."
+    ],
+    "industries": [
+      "IT Consulting"
+    ],
+    "locations": [
+      "Malmö"
+    ],
+    "skills": [
+      "Dagster",
+      "Azure",
+      "DBT",
+      "Databricks",
+      "SQL",
+      "Snowflake",
+      "Python",
+      "Google Cloud",
+      "Data Lakes",
+      "AWS"
+    ],
+    "job_titles": [
+      "Data Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Knowit AB (Publ):\n\n1. Storlek och antal anställda\n- Totalt antal anställda varierar mellan källor\n- Knowit Sharp (dotterbolag) har 50 anställda\n- Lokalkontor i Stockholm har rapporterats ha 20 anställda\n[Källa: DNB Company Profile]\n\n2. Omsättning och finansiell information\n- Rapporterad försäljning: $390,67 miljoner (USD)\n[Källa: DNB Business Directory]\n\n3. Värdegrund och kultur\n- Specifik information saknas i tillgängliga källor\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulttjänster\n- Specialiserade tjänster inom:\n  * Datalytics\n  * Cloud Services\n  * Mobila applikationer\n[Källa: Jobbannonser för Knowit Sharp]\n\n5. Teknisk stack och kompetensområden\nEftersökta kompetenser inkluderar:\n- Molnplattformar: Azure, Google Cloud, AWS\n- Dataverktyg: Dagster, DBT, Databricks\n- Programmeringsspråk: Python, SQL\n- Datahantering: Snowflake, Data Lakes\n[Källa: Jobbannonser]\n\n6. Nyliga nyheter/utveckling\n- Ingen specifik information tillgänglig i nuvarande källor\n\nAnmärkning: Informationen är begränsad och delvis fragmentarisk. Mer detaljerad research rekommenderas för fullständig företagsöversikt.",
+  "search_results": [
+    {
+      "title": "Knowit AB (publ), KNOW:STO profile - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=KNOW:STO",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Knowit</strong> <strong>AB</strong> (<strong>publ</strong>) (KNOW:STO) <strong>company</strong> profile with history, <strong>revenue</strong>, mergers &amp; acquisitions, peer analysis, institutional shareholders and more.",
+      "profile": {
+        "name": "Ft",
+        "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=KNOW:STO",
+        "long_name": "markets.ft.com",
+        "img": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "markets.ft.com",
+        "hostname": "markets.ft.com",
+        "favicon": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8",
+        "path": "› data  › equities  › tearsheet  › profile"
+      }
+    },
+    {
+      "title": "Knowit AB (Publ) Company Profile | Stockholm, Stockholm, Sweden | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.knowit_ab_(publ).e810572c6cc95231e6a9e65bf15ef165.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Company Description: Knowit AB (Publ) is located in Stockholm, Stockholm, Sweden and is part of the Business Support Services Industry. Knowit AB (Publ) has 20 employees at this location and generates <strong>$390.67 million</strong> in sales (USD).",
+      "profile": {
+        "name": "Dnb",
+        "url": "https://www.dnb.com/business-directory/company-profiles.knowit_ab_(publ).e810572c6cc95231e6a9e65bf15ef165.html",
+        "long_name": "dnb.com",
+        "img": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dnb.com",
+        "hostname": "www.dnb.com",
+        "favicon": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8",
+        "path": "  › home  › business directory  › administrative and support and waste management and remediation services  › administrative and support services  › business support services  › sweden  › stockholm"
+      }
+    },
+    {
+      "title": "Knowit AB (publ) (KNOW.ST) Company Profile & Facts - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/KNOW.ST/profile/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "See the <strong>company</strong> profile for <strong>Knowit</strong> <strong>AB</strong> (<strong>publ</strong>) (KNOW.ST) including business summary, industry/sector <strong>information</strong>, number of <strong>employees</strong>, business summary, corporate governance, key executives and their compensation.",
+      "profile": {
+        "name": "Yahoo! Finance",
+        "url": "https://finance.yahoo.com/quote/KNOW.ST/profile/",
+        "long_name": "finance.yahoo.com",
+        "img": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "finance.yahoo.com",
+        "hostname": "finance.yahoo.com",
+        "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+        "path": "› quote  › KNOW.ST  › profile"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/S4HWTULq4j6LU2vbNqxnRyYI8jOJQzRzBcZLmsDblUI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnlp/bWcuY29tL2N2L2Fw/aXYyL3NvY2lhbC9p/bWFnZXMveWFob29f/ZGVmYXVsdF9sb2dv/LnBuZw",
+        "original": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Investor Relations - Financial information | Knowit",
+      "url": "https://www.knowit.eu/investor-relations/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Corporate financial <strong>information</strong> <strong>from</strong> <strong>Knowit</strong>, such as annual reports, interim reports, share graph, presentations and other financial <strong>information</strong>.",
+      "profile": {
+        "name": "Knowit",
+        "url": "https://www.knowit.eu/investor-relations/",
+        "long_name": "knowit.eu",
+        "img": "https://imgs.search.brave.com/T2yiTMEoVgZFTRXZcjbuoe8RTK6bLvgvez9txsU95WY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZmNWFjOWVi/MWEyY2FkY2ZlYjk3/YWQ5NTc0NjQ4NmI5/NTkzY2NjYTliMWE3/NmE3Y2U1NjRhNmEz/ZjdjYTg5Ny93d3cu/a25vd2l0LmV1Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "knowit.eu",
+        "hostname": "www.knowit.eu",
+        "favicon": "https://imgs.search.brave.com/T2yiTMEoVgZFTRXZcjbuoe8RTK6bLvgvez9txsU95WY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZmNWFjOWVi/MWEyY2FkY2ZlYjk3/YWQ5NTc0NjQ4NmI5/NTkzY2NjYTliMWE3/NmE3Y2U1NjRhNmEz/ZjdjYTg5Ny93d3cu/a25vd2l0LmV1Lw",
+        "path": "› investor-relations"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/J3pvyYCrxnDujTGPHondghgKumSBBLHu92xtPVABDSs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/a25vd2l0LmV1L2ds/b2JhbGFzc2V0cy9p/bWFnZS1iYW5rL2dy/YWRpZW50cy9jbG91/ZHktMTkyMHgxMDgw/LmpwZw",
+        "original": "https://www.knowit.eu/globalassets/image-bank/gradients/cloudy-1920x1080.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "KNOW Intrinsic Valuation and Fundamental Analysis - Knowit AB (publ) - Alpha Spread",
+      "url": "https://www.alphaspread.com/security/sto/know/summary",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Knowit</strong> <strong>AB</strong> (<strong>publ</strong>) (STO:KNOW) Intrinsic Valuation. Check if KNOW is overvalued or undervalued under the bear, base, and bull scenarios of the <strong>company</strong>&#x27;s future.",
+      "profile": {
+        "name": "Alphaspread",
+        "url": "https://www.alphaspread.com/security/sto/know/summary",
+        "long_name": "alphaspread.com",
+        "img": "https://imgs.search.brave.com/JzvEKPRRUrrccRSNqnViDGZ-Wb7kLqwOguDNp44Z3Jk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjg3ZThiMjc3/ZjdhN2JhMmM4NmJk/MjEyN2E5MGFkNGVk/N2Q2NmQ2YjZkNGY5/YTZlOTc1YWI0NWM5/OGMyNjdjZi93d3cu/YWxwaGFzcHJlYWQu/Y29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "alphaspread.com",
+        "hostname": "www.alphaspread.com",
+        "favicon": "https://imgs.search.brave.com/JzvEKPRRUrrccRSNqnViDGZ-Wb7kLqwOguDNp44Z3Jk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjg3ZThiMjc3/ZjdhN2JhMmM4NmJk/MjEyN2E5MGFkNGVk/N2Q2NmQ2YjZkNGY5/YTZlOTc1YWI0NWM5/OGMyNjdjZi93d3cu/YWxwaGFzcHJlYWQu/Y29tLw",
+        "path": "› security  › sto  › know  › summary"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:47:17.309011"
+}

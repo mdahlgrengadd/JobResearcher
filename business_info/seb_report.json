@@ -1,0 +1,212 @@
+{
+  "company_info": {
+    "name": "SEB",
+    "descriptions": [
+      "Internationell storbank med fokus på teknologisk innovation",
+      "A leading Nordic financial services corporation"
+    ],
+    "industries": [
+      "Finansiella tjänster",
+      "Banking"
+    ],
+    "locations": [
+      "Solna",
+      "Stockholm"
+    ],
+    "skills": [
+      "PowerShell",
+      "CI/CD",
+      "JavaScript",
+      "Python",
+      "Cloud Infrastructure",
+      "TypeScript",
+      "Kubernetes",
+      "NodeJS",
+      "GCP",
+      "CSS",
+      "React",
+      "HTML"
+    ],
+    "job_titles": [
+      "Frontend Engineer",
+      "Cloud Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av SEB:\n\n1. Företagets storlek och antal anställda:\n- Antal anställda: Omkring 17,500 (Wikipedia)\n- Etablerad bank i Sverige\n\n2. Omsättning och finansiell information:\n- Årlig intäkt: $6.1-7.0 miljarder (Owler, Zippia)\n- Störst bank i Sverige räknat efter marknadsvärde och totala tillgångar\n\n3. Företagets värdegrund och kultur:\n- Internationell finansiell tjänsteorganisation\n- Fokus på teknologisk innovation\n\n4. Huvudsakliga produkter/tjänster:\n- Banktjänster för privatpersoner och företag\n- Sparkkonton, lån, bolån, kreditkort\n\n5. Teknisk stack och kompetensområden:\nEftersökta tekniska kompetenser:\n- Programmeringsspråk: JavaScript, Python, TypeScript, NodeJS\n- Molnteknologier: Cloud Infrastructure, Kubernetes, GCP\n- Webbutveckling: React, HTML, CSS\n- DevOps: PowerShell, CI/CD\n\n6. Geografisk närvaro:\n- Huvudkontor: Solna, Stockholm\n- Primär marknad: Sverige\n- Internationell närvaro\n\nKälla: Wikipedia, Owler, Zippia, jobbannonser",
+  "search_results": [
+    {
+      "title": "SEB’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/sebgroup",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>SEB</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>SEB</strong> is a Sweden-based financial firm that provides services including savings accounts, loans, mortgages and credit cards for individuals and businesses. <strong>SEB</strong>’s primary competitors include DNB, SpareBank 1, Handelsbanken and 21 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/sebgroup",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › sebgroup"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Working At S.e.b.: Company Overview and Culture - Zippia",
+      "url": "https://www.zippia.com/s-e-b-careers-626204/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The bank was established by ... Luminor and Citadele bank. Based in Washington, S.e.b. is an industry leader with 25,985 employees and an <strong>annual revenue of $7.0B</strong>....",
+      "page_age": "2024-03-14T10:00:00",
+      "profile": {
+        "name": "S.e.b.",
+        "url": "https://www.zippia.com/s-e-b-careers-626204/",
+        "long_name": "zippia.com",
+        "img": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zippia.com",
+        "hostname": "www.zippia.com",
+        "favicon": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8",
+        "path": "  › companies  › washington  › tacoma, wa"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Sieo18U0u-Zd0GXktKRMJDFwVozAUbYjriy1vLZXiYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuemlwcGlhLmNv/bS9hc3NldHMvemlw/cGlhLW9nLWltYWdl/LnBuZw",
+        "original": "https://static.zippia.com/assets/zippia-og-image.png",
+        "logo": false
+      },
+      "age": "March 14, 2024"
+    },
+    {
+      "title": "Groupe SEB Competitors, Revenue and Employees - Owler Company Profile",
+      "url": "https://www.owler.com/company/groupeseb",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Groupe SEB has <strong>33,600 employees</strong> and is ranked 2nd among it&#x27;s top 10 competitors. The top 10 competitors average 7,431. Coming soon for Groupe SEB! ... Groupe SEB&#x27;s revenue is the ranked 2nd among it&#x27;s top 10 competitors.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/groupeseb",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › groupeseb"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/RMYKARwtU3S7UUwiLEXnFasc2at3o9YLXQZM1Kqv_04/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L293bGVyLWFzc2V0/cy1tYXktMjAxOC9v/d2xlci1sb2dvLXNx/dWFyZS0xMjAwLnBu/Zw",
+        "original": "https://image4.owler.com/owler-assets-may-2018/owler-logo-square-1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "SEB Group - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SEB_Group",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The SEB Group&#x27;s primary market is its home country, Sweden, where it is also the largest bank in the country, by both market capitalisation and total assets. It is also one of the largest Swedish banks by both employees and customers, with <strong>around 17,500 of the former and four and a half million</strong> ...",
+      "page_age": "2024-09-01T03:16:26",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SEB_Group",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Markets",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Markets"
+          },
+          {
+            "type": "button_result",
+            "title": "Business",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Business"
+          },
+          {
+            "type": "button_result",
+            "title": "Sustainability",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Sustainability"
+          },
+          {
+            "type": "button_result",
+            "title": "Subsidiaries",
+            "url": "https://en.wikipedia.org/wiki/SEB_Group#Subsidiaries"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › SEB_Group"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/hG7c5Egch9G55gGlMDWisOxVZ7g_CX-pMDmLsWDmsFw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RiL1NFQl9sb2dv/LnN2Zw",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/SEB_logo.svg",
+        "logo": true
+      },
+      "age": "September 1, 2024"
+    },
+    {
+      "title": "Skandinaviska Enskilda Banken (SEB) - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/skandinaviska-enskilda-banken-ab/244547762",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Skandinaviska Enskilda Banken (SEB)&#x27;s revenue is <strong>$6.1 Billion</strong> · What is Skandinaviska Enskilda Banken (SEB)&#x27;s SIC code? ... Skandinaviska Enskilda Banken (SEB) has acquired the companies: Skandinaviska Enskilda Banken, AirPlus International, AirPlus International SA/NV, SEB Bank JSC",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/skandinaviska-enskilda-banken-ab/244547762",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › skandinaviska-enskilda-banken-ab  › 244547762"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:40:07.513408"
+}

@@ -1,0 +1,193 @@
+{
+  "company_info": {
+    "name": "Tele2 Sverige AB",
+    "descriptions": [
+      "A telecommunications company focused on enabling a society of unlimited possibilities",
+      "A telecommunications company providing IT and telecom services to businesses, helping them digitalize and achieve their potential"
+    ],
+    "industries": [
+      "Telecommunications"
+    ],
+    "locations": [
+      "Norrköping"
+    ],
+    "skills": [
+      "Networking",
+      "Routing/Switching",
+      "Go",
+      "Kubernetes",
+      "DevOps",
+      "Kafka",
+      "GitLab",
+      "Cisco",
+      "Fortinet",
+      "Network Protocols",
+      "Linux",
+      "Microservice management"
+    ],
+    "job_titles": [
+      "Software Engineer (Go)",
+      "Network Engineer Consultant"
+    ]
+  },
+  "analysis": "Sammanfattning av Tele2 Sverige AB:\n\n1. Företagets storlek och antal anställda\n- Specifik information om exakt antal anställda saknas i underlaget\n- Verksamma inom telekommunikationsbranschen i Sverige\n\n2. Omsättning och finansiell information\n- Intäkter ökade från 2016-2019\n- Nådde närmare 27,66 miljarder svenska kronor i intäkter 2019 (Källa: Statista)\n\n3. Företagets värdegrund och kultur\n- Vision: \"Att vara den smartaste telekomoperatören i världen\"\n- Mål: Möjliggöra ett samhälle med obegränsade möjligheter\n- Fokus på att transformera verksamheter och skapa framtidens infrastruktur\n(Källa: Tele2 Annual Report 2022)\n\n4. Huvudsakliga produkter/tjänster\n- Telekommunikations- och IT-tjänster\n- Stödjer företags digitalisering\n- Mobil nätverkstjänster\n\n5. Nyliga nyheter/utveckling\n- Samarbete med Telenor Sverige om gemensamt 4G LTE-nätverk sedan 2009\n(Källa: Wikipedia)\n\n6. Teknisk stack och kompetensområden\nTekniska kompetenser:\n- Programmering: Go\n- Molnteknologier: Kubernetes\n- DevOps-verktyg: GitLab, Kafka\n- Nätverk: Routing/Switching, Cisco, Fortinet\n- Operativsystem: Linux\n- Nätverksprotokoll\n\nGeografisk placering:\n- Huvudkontor i Norrköping\n- Verksamhet i Sverige\n\nSammanfattningen baseras på information från jobbannonser, Statista, Wikipedia och Tele2:s årsrapport 2022.",
+  "search_results": [
+    {
+      "title": "Tele2: revenue 2016-2023 | Statista",
+      "url": "https://www.statista.com/statistics/1122144/revenue-of-tele2/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The <strong>revenues</strong> <strong>of</strong> <strong>Tele2</strong> have increased over the period from 2016 to 2019, reaching close to 27.66 billion Swedish kronor in 2019.",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/1122144/revenue-of-tele2/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "  › technology & telecommunications  › telecommunications"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/R8lM1ZO_BEDE9WoVnrRRQz3xRxbzVQwLz1LjunMjf-g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzEx/MjAwMDAvMTEyMjE0/NC1ibGFuay0zNTUu/cG5n",
+        "original": "https://cdn.statcdn.com/Statistic/1120000/1122144-blank-355.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Tele2 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tele2",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "A similar <strong>company</strong>, Net4Mobility, was formed in 2009 between <strong>Tele2</strong> and Telenor <strong>Sverige</strong> for the purpose of building a joint 4G LTE network.",
+      "page_age": "2024-11-05T00:57:26",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tele2",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Tele2#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Divestments",
+            "url": "https://en.wikipedia.org/wiki/Tele2#Divestments"
+          },
+          {
+            "type": "button_result",
+            "title": "Operations",
+            "url": "https://en.wikipedia.org/wiki/Tele2#Operations"
+          },
+          {
+            "type": "button_result",
+            "title": "Criticism",
+            "url": "https://en.wikipedia.org/wiki/Tele2#Criticism"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Tele2"
+      },
+      "age": "2 days ago"
+    },
+    {
+      "title": "Tele2 AB Company Profile - Overview - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/tele2-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Tele2</strong> <strong>AB</strong> <strong>company</strong> profile analysis with the premuim data - Globaldata",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/tele2-ab/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "› company-profile  › tele2-ab"
+      }
+    },
+    {
+      "title": "Tele2 - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/tele2-ab/78071132",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>Tele2</strong> (www.<strong>tele2</strong>.com) location in Vaestra Goetaland, Sweden , <strong>revenue</strong>, industry and description. Find related and similar <strong>companies</strong> as well as <strong>employees</strong> by title and much more.",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/tele2-ab/78071132",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › tele2-ab  › 78071132"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/5BTw1KWG0pBM_1JMLJsDxcNeHpadbEmZ7EhNA-H0L64/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvdGVs/ZTIuY29t",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/tele2.com",
+        "logo": false
+      }
+    },
+    {
+      "title": "Annual Report 2022 - Tele2",
+      "url": "https://www.tele2.com/investors/annual-report-2022/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Tele2</strong>’s vision is to be the smartest telco in the world, enabling a society of unlimited possibilities. We enable the transformation of businesses and the creation of tomorrow’s infrastructure. Connecting people and technology far and wide, as well as right here around us.",
+      "profile": {
+        "name": "Tele2",
+        "url": "https://www.tele2.com/investors/annual-report-2022/",
+        "long_name": "tele2.com",
+        "img": "https://imgs.search.brave.com/2sVmH84u1GrNFgud6ZybAJkqMtMQ1KXLI2dAFyRMIiw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzEwYTE4MzE2/MjUyZmU5MGU5Mjky/MDBjMjZiZGIyZDM0/YWVjNGU2NTA0Yjc5/ODFhMTQ5MzA4YTk2/MzgyMGNjNS93d3cu/dGVsZTIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "tele2.com",
+        "hostname": "www.tele2.com",
+        "favicon": "https://imgs.search.brave.com/2sVmH84u1GrNFgud6ZybAJkqMtMQ1KXLI2dAFyRMIiw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzEwYTE4MzE2/MjUyZmU5MGU5Mjky/MDBjMjZiZGIyZDM0/YWVjNGU2NTA0Yjc5/ODFhMTQ5MzA4YTk2/MzgyMGNjNS93d3cu/dGVsZTIuY29tLw",
+        "path": "› investors  › annual-report-2022"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:55:50.855527"
+}

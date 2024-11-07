@@ -1,0 +1,155 @@
+{
+  "company_info": {
+    "name": "Spotify AB",
+    "descriptions": [
+      "Global audio streaming platform"
+    ],
+    "industries": [
+      "Technology/Music"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Software development",
+      "High-quality code delivery",
+      "Distributed systems"
+    ],
+    "job_titles": [
+      "Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Spotify AB\n\n1. Företagets storlek och antal anställda\n- Verksamt i 18 olika lokationer [Källa: Craft.co]\n- Exakt antal anställda ej specificerat i tillgängliga källor\n\n2. Omsättning och finansiell information\n- Årlig intäkt: €13,25 miljarder (2023) [Källa: Craft.co, Financial Times]\n- Nettoförlust: €532 miljoner [Källa: Financial Times]\n- Affärsmodell: Freemium (gratis grundtjänst, betalda tilläggsfunktioner)\n\n3. Värdegrund och kultur\n- Fokus på teknikutveckling och innovation\n- Värdesätter konkurrens och utvecklingsmöjligheter\n\n4. Huvudsakliga produkter/tjänster\n- Global audiostreamingtjänst\n- Musikströmning och poddsändningar\n\n5. Senaste nyheter\n- Nyligen tecknat avtal gällande artificiell intelligens och medarbetares rättigheter [Källa: Wikipedia]\n\n6. Teknisk kompetens\n- Kompetensområden:\n  - Mjukvaruutveckling\n  - Distribuerade system\n  - High-quality code delivery\n\nPlats: Stockholm, Sverige\n\nAnmärkning: Sammanfattningen baseras på begränsad tillgänglig information och kan behöva kompletteras.",
+  "search_results": [
+    {
+      "title": "Spotify - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spotify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In March 2024, The Writers Guild ... migrant <strong>employees</strong> and included safe-guards against usage of Artificial Intelligence to create &quot;digital replicas&quot; of their voices. <strong>Spotify</strong> operates under a freemium business model (basic services are free, while additional features are offered via paid subscriptions). <strong>Spotify</strong> generates <strong>revenue</strong> by selling ...",
+      "page_age": "2024-10-28T16:35:27",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spotify",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Spotify"
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Spotify Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+      "url": "https://craft.co/spotify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Spotify has 5 employees across 18 locations and <strong>€13.25 b in annual revenue in FY 2023</strong>. See insights on Spotify including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+      "profile": {
+        "name": "Spotify",
+        "url": "https://craft.co/spotify",
+        "long_name": "craft.co",
+        "img": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "craft.co",
+        "hostname": "craft.co",
+        "favicon": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8",
+        "path": "  › spotify"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/NIR6nc8lknsF18jXWG8AUtFtPFYEsfHUQdYEJ4w1NxY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucHJvZHVjdGlv/bi5jcmFmdC5jby9h/c3NldHMvZmU3N2Rj/ZGQzOTBmZjFkNTJh/MTYucG5n",
+        "original": "https://static.production.craft.co/assets/fe77dcdd390ff1d52a16.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Spotify AB Executive & Employee Information - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/spotify-ab/executives/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The following section provides <strong>information</strong> <strong>on</strong> <strong>Spotify</strong> <strong>AB</strong>’s senior management, executives, CEO and key decision makers and their roles in the organization. For more insight into <strong>Spotify</strong> <strong>AB</strong>&#x27;s management and <strong>employees</strong>, unlock the full data with our <strong>company</strong> analytics monitoring tool.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/spotify-ab/executives/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "› company-profile  › spotify-ab  › executives"
+      }
+    },
+    {
+      "title": "Spotify Technology SA, SPOT:NYQ profile - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SPOT:NYQ",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Spotify Technology SA had net income fall 23.72% from a loss of 430.00m to a larger loss of 532.00m despite a 12.96% increase in revenues from 11.73bn to <strong>13.25bn</strong>. ... Explore the time value of money, the impact of regular contributions, and the power of saving over longer timeframes ...",
+      "profile": {
+        "name": "Ft",
+        "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SPOT:NYQ",
+        "long_name": "markets.ft.com",
+        "img": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "markets.ft.com",
+        "hostname": "markets.ft.com",
+        "favicon": "https://imgs.search.brave.com/MJQ4uNHZ4Fl_IyhUjI_8D0-pIs9YGYYDyZr4xDa92_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk3NzE0OWNk/ZGI5OTVmMzY5OTdk/N2UyOTNmNTQzOGQ1/MDAzZDJmYWY1Y2Q1/MzFlZmEwZWNjZjdi/NzRlMjYyZi9tYXJr/ZXRzLmZ0LmNvbS8",
+        "path": "› data  › equities  › tearsheet  › profile"
+      }
+    },
+    {
+      "title": "Spotify — About Spotify",
+      "url": "https://newsroom.spotify.com/company-info/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "When competition is fair, both consumers and <strong>companies</strong> win. Learn about our efforts to even the playing field for all developers.",
+      "page_age": "2024-07-23T14:11:03",
+      "profile": {
+        "name": "Spotify",
+        "url": "https://newsroom.spotify.com/company-info/",
+        "long_name": "newsroom.spotify.com",
+        "img": "https://imgs.search.brave.com/Gd9_iuaHSxlxM0V7b_YFWnTTZHBhM8yInj6wk-vSQXc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmY3NjQzNGZm/Y2Y1MDE2OThmMGNh/NDhjNmViMDg4Nzk3/NTZhZjg2OTZmMDg2/YjNlN2M0YWY5YzZh/Nzk4YTg1NC9uZXdz/cm9vbS5zcG90aWZ5/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "newsroom.spotify.com",
+        "hostname": "newsroom.spotify.com",
+        "favicon": "https://imgs.search.brave.com/Gd9_iuaHSxlxM0V7b_YFWnTTZHBhM8yInj6wk-vSQXc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmY3NjQzNGZm/Y2Y1MDE2OThmMGNh/NDhjNmViMDg4Nzk3/NTZhZjg2OTZmMDg2/YjNlN2M0YWY5YzZh/Nzk4YTg1NC9uZXdz/cm9vbS5zcG90aWZ5/LmNvbS8",
+        "path": "  › home  › about spotify"
+      },
+      "age": "July 23, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T02:48:37.880200"
+}

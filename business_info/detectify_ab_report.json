@@ -1,0 +1,170 @@
+{
+  "company_info": {
+    "name": "Detectify AB",
+    "descriptions": [
+      "Cybersecurity company offering cloud-based External Attack Surface Management platform"
+    ],
+    "industries": [
+      "Cybersecurity"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Event-based microservices",
+      "Golang",
+      "Kafka",
+      "GraphQL",
+      "Serverless architecture",
+      "Terraform",
+      "AWS"
+    ],
+    "job_titles": [
+      "Senior Engineer Backend"
+    ]
+  },
+  "analysis": "Sammanfattning av Detectify AB:\n\n1. Företagsstorlek och anställda\n- Antal anställda: Varierar mellan 112-149 enligt olika källor\n- Lokalisering: Stockholm, Sverige\n[Källor: Growjo, RocketReach]\n\n2. Omsättning och finansiell information\n- Årlig intäkt: Около 32,7 miljoner USD\n- Total funding: $31,02 miljoner\n- Årsintäkt 2022: 87,14 miljoner SEK\n[Källor: Growjo, Craft.co]\n\n3. Produkter/Tjänster\n- Cybersäkerhetsplattform för External Attack Surface Management\n- Erbjuder lösningar för:\n  * Attackyteskydd\n  * Sårbarhetshantering\n  * Applikationsskanning\n[Källa: Owler]\n\n4. Teknisk kompetens\nTeknisk stack inkluderar:\n- Programmeringsspråk: Golang\n- Arkitektur: Mikroservices, Serverless\n- Verktyg: Kafka, GraphQL, Terraform\n- Molnplattform: AWS\n[Källa: Jobbannonser]\n\n5. Konkurrenter\n- Qualys\n- Acunetix\n- Tenable\n- Intruder\n- Netsparker\n[Källa: Owler, Growjo]\n\nObservera: Vissa sifferuppgifter varierar mellan källor.",
+  "search_results": [
+    {
+      "title": "Detectify Company Profile: Valuation & Investors | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/84143-53",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on valuation, funding, cap tables, investors, and executives for <strong>Detectify</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/84143-53",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 84143-53"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/NWLdptku-TMhFrCu9_wpo8BOcP60FjRwwoDZsosvqrE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9YkcycnRS/Ukg",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=bG2rtRRH",
+        "logo": false
+      }
+    },
+    {
+      "title": "Detectify’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/detectify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Detectify</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Detectify</strong> is a Sweden-based cybersecurity platform that offers solutions such as attack surface protection, vulnerability management, and application scanning for businesses. <strong>Detectify</strong>’s primary competitors include Qualys, Acunetix Ltd., Tenable ...",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/detectify",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › detectify"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    },
+    {
+      "title": "Detectify: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Detectify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Detectify top competitors are Acunetix, Intruder and Netsparker and they have annual revenue of <strong>$32.7M</strong> and 149 employees.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/Detectify",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › Detectify"
+      }
+    },
+    {
+      "title": "Detectify Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+      "url": "https://craft.co/detectify",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Detectify has 5 employees across 2 locations, $31.02 m in total funding, and <strong>kr87.14 m in annual revenue in FY 2022</strong>. See insights on Detectify including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+      "profile": {
+        "name": "Detectify",
+        "url": "https://craft.co/detectify",
+        "long_name": "craft.co",
+        "img": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "craft.co",
+        "hostname": "craft.co",
+        "favicon": "https://imgs.search.brave.com/xmjwHfiOqsRsvw1yLK_EpW4vNFpPb6gF8FJw7vvRq50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1YWQ1YzA5/ZDY5OGEyZjhkOWVl/NTdlZDU1N2Y2YzIy/M2YxZmU1NzRiYjEy/ZmE0ZWIxNjk5OWQ2/Yzk0M2I3Yy9jcmFm/dC5jby8",
+        "path": "  › detectify"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/NIR6nc8lknsF18jXWG8AUtFtPFYEsfHUQdYEJ4w1NxY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucHJvZHVjdGlv/bi5jcmFmdC5jby9h/c3NldHMvZmU3N2Rj/ZGQzOTBmZjFkNTJh/MTYucG5n",
+        "original": "https://static.production.craft.co/assets/fe77dcdd390ff1d52a16.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "Detectify Information",
+      "url": "https://rocketreach.co/detectify-profile_b5ed64c0f42e7f27",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Detectify is a Computer and Network Security, Custom Software &amp; Technical Consulting, and Software company located in Stockholm, Stockholm with <strong>$27.7 million</strong> in revenue and 112 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "profile": {
+        "name": "RocketReach",
+        "url": "https://rocketreach.co/detectify-profile_b5ed64c0f42e7f27",
+        "long_name": "rocketreach.co",
+        "img": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "rocketreach.co",
+        "hostname": "rocketreach.co",
+        "favicon": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8",
+        "path": "› detectify-profile_b5ed64c0f42e7f27"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/dajDPdC0V7MzPnY_ggYgMmWV0Ro8-G43MynHl_JnfZw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMWhi/cHIwOXB3ejBzay5j/bG91ZGZyb250Lm5l/dC9sb2dvX3VybC9k/ZXRlY3RpZnktYzAy/MzZhMGM",
+        "original": "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/detectify-c0236a0c",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:56:19.234581"
+}

@@ -1,0 +1,163 @@
+{
+  "company_info": {
+    "name": "Scania CV AB",
+    "descriptions": [
+      "Truck and transport solutions manufacturer"
+    ],
+    "industries": [
+      "Automotive"
+    ],
+    "locations": [
+      "Södertälje"
+    ],
+    "skills": [
+      "Apache Kafka",
+      "Bash",
+      "Go",
+      "Kubernetes",
+      "GitLab CI/CD",
+      "Python",
+      "Terraform",
+      "AWS"
+    ],
+    "job_titles": [
+      "DevOps Engineer - Infrastructure and Automation"
+    ]
+  },
+  "analysis": "Sammanfattning av Scania CV AB:\n\n1. Företagets storlek och antal anställda\n- Globalt antal anställda: Approximately 42,100 (2012, Wikipedia)\n- Huvudkontor: Södertälje, Sverige\n\n2. Omsättning och finansiell information\n- Ingen specifik omsättningssiffra hittad i de givna källorna\n\n3. Värdegrund och kultur\n- Ingen explicit information om företagskultur i de givna källorna\n\n4. Huvudsakliga produkter/tjänster\n- Tillverkare av lastbilar och transportlösningar\n- Produktionsanläggningar i tio länder i Afrika, Asien och Europa\n- Globalt försäljnings- och servicenätverk\n\n5. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser:\n- Molntjänster: AWS\n- Programmeringsspråk: Python, Go, Bash\n- DevOps-verktyg: \n  - Kubernetes\n  - Apache Kafka\n  - GitLab CI/CD\n  - Terraform\n\n6. Nyliga nyheter/utveckling\n- Ingen specifik information hittad i de givna källorna\n\nKällor:\n- Wikipedia\n- Jobbannonser\n- GlobalData\n- ZoomInfo\n- Scania.com\n\nNotera: Sammanfattningen är begränsad av tillgänglig information i de givna källorna.",
+  "search_results": [
+    {
+      "title": "Scania AB - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scania_AB",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Today, <strong>Scania</strong> has production facilities ... are assembly plants in ten countries in Africa, Asia and Europe. <strong>Scania</strong>&#x27;s sales and service organisation and finance <strong>companies</strong> are worldwide. In 2012, the <strong>company</strong> employed approximately 42,100 people around the world....",
+      "page_age": "2024-10-30T09:10:49",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Scania_AB",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Scania_AB"
+      },
+      "age": "1 week ago"
+    },
+    {
+      "title": "Scania AB Company Profile - Scania AB Overview - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/scania-ab/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Up-to-date <strong>Scania</strong> <strong>AB</strong> <strong>company</strong> overview including funding <strong>information</strong>, <strong>company</strong> profile, key statistics, peer comparison and more.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/scania-ab/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "  › home  › all companies  › scania ab"
+      }
+    },
+    {
+      "title": "Scania CV - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/scania-cv-ab/34013634",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>Scania</strong> <strong>CV</strong> (www.<strong>scania</strong>.com) location in Stockholm, Sweden , <strong>revenue</strong>, industry and description. Find related and similar <strong>companies</strong> as well as <strong>employees</strong> by title and much more.",
+      "profile": {
+        "name": "ZoomInfo",
+        "url": "https://www.zoominfo.com/c/scania-cv-ab/34013634",
+        "long_name": "zoominfo.com",
+        "img": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zoominfo.com",
+        "hostname": "www.zoominfo.com",
+        "favicon": "https://imgs.search.brave.com/n8hhG_8kcRbxV3xG6Tc2QtOSpGrW1m_piC2quBnPDC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzFjOGFlODUz/YjhmNzRlZWRkODlk/YWQ4NTg4OTRmNDlm/MWQyYzUwODQxMWQw/YjExMDA1OWIwY2Zl/Y2MwZmZlNy93d3cu/em9vbWluZm8uY29t/Lw",
+        "path": "› c  › scania-cv-ab  › 34013634"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/5EVUCXdfElRF4Y-M0oeGmjSBh-Zslp83o9N8kn3Jd50/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvc2Nh/bmlhLmNvbQ",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/scania.com",
+        "logo": false
+      }
+    },
+    {
+      "title": "Annual and sustainability reports",
+      "url": "https://www.scania.com/group/en/home/investors/financial-reports/annual-reports.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Here you can find <strong>Scania</strong>’s annual and sustainability reports.",
+      "profile": {
+        "name": "Scania",
+        "url": "https://www.scania.com/group/en/home/investors/financial-reports/annual-reports.html",
+        "long_name": "scania.com",
+        "img": "https://imgs.search.brave.com/SEWedjgq06X7BBlpLkiNiX7ciRhqgw0i1Yho2o_AFPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjE4MmUxMTFj/MzhmNDViZTAxZTA1/Mjc5YjFlMTQ0N2Rk/MWRmZjg5YzUzNjY5/YzAyYTczOGU4Yzc1/ODJmOWNmNy93d3cu/c2NhbmlhLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "scania.com",
+        "hostname": "www.scania.com",
+        "favicon": "https://imgs.search.brave.com/SEWedjgq06X7BBlpLkiNiX7ciRhqgw0i1Yho2o_AFPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjE4MmUxMTFj/MzhmNDViZTAxZTA1/Mjc5YjFlMTQ0N2Rk/MWRmZjg5YzUzNjY5/YzAyYTczOGU4Yzc1/ODJmOWNmNy93d3cu/c2NhbmlhLmNvbS8",
+        "path": "› group  › en  › home  › investors  › financial-reports  › annual-reports.html"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/zT7OnpIoYqrUWl8_tMZcX2PCzoK8A2ZU8D4ykSdbl74/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NhbmlhLmNvbS9j/b250ZW50L2RhbS9n/cm91cC9pbnZlc3Rv/ci1yZWxhdGlvbnMv/ZmluYW5jaWFsLXJl/cG9ydHMvaW50ZXJp/bS1yZXBvcnRzL1Ex/X3N1cGVyXzE2LTcu/anBnLnRyYW5zZm9y/bS9SZW5kXzEyMDBY/NjMwL2ltYWdlLmpw/Zw",
+        "original": "https://www.scania.com/content/dam/group/investor-relations/financial-reports/interim-reports/Q1_super_16-7.jpg.transform/Rend_1200X630/image.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Scania CV AB - Detailed information - Largestcompanies",
+      "url": "https://www.largestcompanies.com/company/Scania-CV-AB-114939",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Scania</strong> <strong>CV</strong> <strong>AB</strong> - Manufacture of passenger cars and other light motor vehicles | Manufacture of trucks and other heavy motor vehicles",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://www.largestcompanies.com/company/Scania-CV-AB-114939",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "www.largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/onx_M7fFrg5y3vd_Zq-rxkjNsoO6kVd2MQoocwiFDFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDIyMDlhNjAy/Y2MwZWZiOWYxNjI2/NjEyYThlNWY2MDAz/ZjJkZTJlMWMxOTgy/Mjk5M2ZlMmYzNzVj/NmRiNTM1Yi93d3cu/bGFyZ2VzdGNvbXBh/bmllcy5jb20v",
+        "path": "› company  › Scania-CV-AB-114939"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:07:36.168118"
+}

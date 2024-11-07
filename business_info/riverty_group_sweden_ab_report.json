@@ -1,0 +1,159 @@
+{
+  "company_info": {
+    "name": "Riverty Group Sweden AB",
+    "descriptions": [
+      "A fintech company focused on innovative financial solutions"
+    ],
+    "industries": [
+      "Financial Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Azure",
+      "RESTful API",
+      "Angular",
+      "TypeScript",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "job_titles": [
+      "Senior Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Riverty Group Sweden AB:\n\n1. Företagets storlek och antal anställda\n- Över 300 anställda i Sverige [Källa: Riverty careers]\n- Stockholm är deras näst största lokala kontor efter Tyskland\n\n2. Omsättning och finansiell information\n- Specifik finansiell information ej tillgänglig i nuvarande underlag\n- Verksam inom finansiell teknologi (fintech)\n\n3. Värdegrund och kultur\n- Fokus på innovation inom finansiella lösningar\n- Beskriver sig som \"ett nytt varumärke med stora ambitioner\" \n- Mål att vara \"din finansiella röst\" för nya betallösningar\n\n4. Huvudsakliga produkter/tjänster\n- Finansiella teknologilösningar\n- Hjälper kunder hantera:\n  * Onlineköp\n  * Betalning av parkeringsböter\n  * Alternativa betallösningar\n\n5. Teknisk kompetens\nTeknisk stack inkluderar:\n- Azure\n- RESTful API\n- Angular\n- TypeScript  \n- Terraform\n- Kubernetes\n\n6. Nyliga utvecklingar\n- Lanserat som nytt varumärke med fokus på innovativa finansiella tjänster\n\nKällor: Riverty webbplats, jobbannonser, Allabolag.se, Riverty careers",
+  "search_results": [
+    {
+      "title": "About us | Riverty",
+      "url": "https://www.riverty.com/en/business/company/about/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Manage your online purchases · Pay your outstanding parking tickets with us",
+      "profile": {
+        "name": "Riverty",
+        "url": "https://www.riverty.com/en/business/company/about/",
+        "long_name": "riverty.com",
+        "img": "https://imgs.search.brave.com/M2gxxNJq8eH8_3ZVYvzFjOxNsaNkkonGsTww2anifHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFhNmRkM2I0/MGMwYTEzMjQzYWZi/YzNiYTdiZTQ3MjY3/ZTA1YmZlOThkNmM2/ZjIyMzQzZWZkYjVm/ZGUxYjhiYS93d3cu/cml2ZXJ0eS5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "riverty.com",
+        "hostname": "www.riverty.com",
+        "favicon": "https://imgs.search.brave.com/M2gxxNJq8eH8_3ZVYvzFjOxNsaNkkonGsTww2anifHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFhNmRkM2I0/MGMwYTEzMjQzYWZi/YzNiYTdiZTQ3MjY3/ZTA1YmZlOThkNmM2/ZjIyMzQzZWZkYjVm/ZGUxYjhiYS93d3cu/cml2ZXJ0eS5jb20v",
+        "path": "  › about us"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wdb0ZR3Rw0yomS1AxscBMPg6XeGZfU8HJtFwkB7uE8I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cml2ZXJ0eS5jb20v/NGE0ZWVlL2dsb2Jh/bGFzc2V0cy9tZWRp/YS1pbWFnZXMvdGVz/dGJlbmNoL2JyYW5k/LXZhbHVlLXN1c3Rh/aW4yLmpwZz93aWR0/aD0yMDAwJmFtcDty/bW9kZT1taW4mYW1w/O2htYWM9YzU0OWE5/ZjJjOWY1ZjA0ZGY0/YzcwMWNhZWQ1MGUy/MjcwMGI2NzU3Y2Ri/MjY3NDNiMGY3MTlm/ZmFmYTEwZGRkOA",
+        "original": "https://www.riverty.com/4a4eee/globalassets/media-images/testbench/brand-value-sustain2.jpg?width=2000&amp;rmode=min&amp;hmac=c549a9f2c9f5f04df4c701caed50e22700b6757cdb26743b0f719ffafa10ddd8",
+        "logo": false
+      }
+    },
+    {
+      "title": "Manage your finances. The Riverty way. | Riverty",
+      "url": "https://www.riverty.com/en/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Riverty</strong> is a new brand with big ambitions. We aim to be your financial voice of choice when you are looking for new ways to pay.",
+      "profile": {
+        "name": "Riverty",
+        "url": "https://www.riverty.com/en/",
+        "long_name": "riverty.com",
+        "img": "https://imgs.search.brave.com/M2gxxNJq8eH8_3ZVYvzFjOxNsaNkkonGsTww2anifHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFhNmRkM2I0/MGMwYTEzMjQzYWZi/YzNiYTdiZTQ3MjY3/ZTA1YmZlOThkNmM2/ZjIyMzQzZWZkYjVm/ZGUxYjhiYS93d3cu/cml2ZXJ0eS5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "riverty.com",
+        "hostname": "www.riverty.com",
+        "favicon": "https://imgs.search.brave.com/M2gxxNJq8eH8_3ZVYvzFjOxNsaNkkonGsTww2anifHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFhNmRkM2I0/MGMwYTEzMjQzYWZi/YzNiYTdiZTQ3MjY3/ZTA1YmZlOThkNmM2/ZjIyMzQzZWZkYjVm/ZGUxYjhiYS93d3cu/cml2ZXJ0eS5jb20v",
+        "path": "  › home"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/8Yc9nZNA39R92ahQjHU_aybGFEK8zWPlSlAnIab76vk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cml2ZXJ0eS5jb20v/NDk5MGVjL2dsb2Jh/bGFzc2V0cy9tZWRp/YS1pbWFnZXMvY29u/c3VtZXJzL3JpdmVy/dHktY29uc3VtZXIt/dGVhc2VyLmpwZz93/aWR0aD0yMDAwJmFt/cDtybW9kZT1taW4m/YW1wO2htYWM9ZjJk/ZjVmMDY0ODlmOWY4/ZmVjNTNmMTBiNDM3/ZTM5MDkyYTZhZmMx/M2I3MWMyNTk1ZGIy/NmI1MDM3N2U1YmJk/Mg",
+        "original": "https://www.riverty.com/4990ec/globalassets/media-images/consumers/riverty-consumer-teaser.jpg?width=2000&amp;rmode=min&amp;hmac=f2df5f06489f9f8fec53f10b437e39092a6afc13b71c2595db26b50377e5bbd2",
+        "logo": false
+      }
+    },
+    {
+      "title": "Riverty Group Sweden AB - 556762-6766 - Stockholm - Se Nyckeltal, ...",
+      "url": "https://www.allabolag.se/5567626766/riverty-group-sweden-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Allabolag.se ger dig företagsinformation om Riverty Group Sweden AB, <strong>556762-6766.</strong> Hitta adress på karta, kontaktinfo, nyckeltal och befattningar.",
+      "profile": {
+        "name": "Allabolag",
+        "url": "https://www.allabolag.se/5567626766/riverty-group-sweden-ab",
+        "long_name": "allabolag.se",
+        "img": "https://imgs.search.brave.com/17vMa7pKql58b38wShs3xZpjlvZXUysFy6OtE6MW6Z8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDU2N2ViNzU0/OGIxM2RmM2VmNzM0/NTliMmFiYWI0OTdh/YmUzNWM3MzVlZmEy/YTZmN2U5N2E0NmI0/ZjMwMzBhNi93d3cu/YWxsYWJvbGFnLnNl/Lw"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "allabolag.se",
+        "hostname": "www.allabolag.se",
+        "favicon": "https://imgs.search.brave.com/17vMa7pKql58b38wShs3xZpjlvZXUysFy6OtE6MW6Z8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDU2N2ViNzU0/OGIxM2RmM2VmNzM0/NTliMmFiYWI0OTdh/YmUzNWM3MzVlZmEy/YTZmN2U5N2E0NmI0/ZjMwMzBhNi93d3cu/YWxsYWJvbGFnLnNl/Lw",
+        "path": "› 5567626766  › riverty-group-sweden-ab"
+      }
+    },
+    {
+      "title": "Join Riverty in Sweden! | Riverty",
+      "url": "https://www.riverty.com/en/careers/locations/sweden/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "With <strong>over 300</strong> dedicated employees, Sweden stands as our second-largest location after Germany, each member contributing their unique talents and passion to drive our vision forward. ... Welcome to Riverty&#x27;s Stockholm office, nestled in the vibrant heart of the city.",
+      "profile": {
+        "name": "Riverty",
+        "url": "https://www.riverty.com/en/careers/locations/sweden/",
+        "long_name": "riverty.com",
+        "img": "https://imgs.search.brave.com/M2gxxNJq8eH8_3ZVYvzFjOxNsaNkkonGsTww2anifHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFhNmRkM2I0/MGMwYTEzMjQzYWZi/YzNiYTdiZTQ3MjY3/ZTA1YmZlOThkNmM2/ZjIyMzQzZWZkYjVm/ZGUxYjhiYS93d3cu/cml2ZXJ0eS5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "riverty.com",
+        "hostname": "www.riverty.com",
+        "favicon": "https://imgs.search.brave.com/M2gxxNJq8eH8_3ZVYvzFjOxNsaNkkonGsTww2anifHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFhNmRkM2I0/MGMwYTEzMjQzYWZi/YzNiYTdiZTQ3MjY3/ZTA1YmZlOThkNmM2/ZjIyMzQzZWZkYjVm/ZGUxYjhiYS93d3cu/cml2ZXJ0eS5jb20v",
+        "path": "› en  › careers  › locations  › sweden"
+      }
+    },
+    {
+      "title": "Riverty Sweden AB - Detailed information - Largestcompanies",
+      "url": "https://largestcompanies.com/company/Arvato-Finance-AB-116209",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Riverty</strong> <strong>Sweden</strong> <strong>AB</strong> - Other credit granting",
+      "profile": {
+        "name": "Largestcompanies",
+        "url": "https://largestcompanies.com/company/Arvato-Finance-AB-116209",
+        "long_name": "largestcompanies.com",
+        "img": "https://imgs.search.brave.com/4tj-WrmDgnEBBvpCqRwiTy7FoBnOsqqNYe1_SjS4LPc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThmYzJmMDE2/Nzg0YzQzMmNmYmMy/NDlhODcxY2RhOGU1/Nzc5Yjk4MGQ5NWIz/YWQyZmQyZTcwOTQz/YjE4NzUzNi9sYXJn/ZXN0Y29tcGFuaWVz/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "largestcompanies.com",
+        "hostname": "largestcompanies.com",
+        "favicon": "https://imgs.search.brave.com/4tj-WrmDgnEBBvpCqRwiTy7FoBnOsqqNYe1_SjS4LPc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThmYzJmMDE2/Nzg0YzQzMmNmYmMy/NDlhODcxY2RhOGU1/Nzc5Yjk4MGQ5NWIz/YWQyZmQyZTcwOTQz/YjE4NzUzNi9sYXJn/ZXN0Y29tcGFuaWVz/LmNvbS8",
+        "path": "› company  › Arvato-Finance-AB-116209"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:54:25.142988"
+}

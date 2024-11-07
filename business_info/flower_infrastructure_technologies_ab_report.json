@@ -1,0 +1,187 @@
+{
+  "company_info": {
+    "name": "Flower Infrastructure Technologies AB",
+    "descriptions": [
+      "A company developing world-leading gas turbines for a global market, focusing on sustainable and cost-effective electricity production.",
+      "Battery storage and energy system technology company"
+    ],
+    "industries": [
+      "Energy Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "CI/CD",
+      "Machine Learning",
+      "Git",
+      "Databricks",
+      "Cloud services",
+      "Docker",
+      "AWS CloudFormation",
+      "MLflow",
+      "CI/CD pipelines",
+      "Python",
+      "GitHub Actions",
+      "Terraform",
+      "AWS"
+    ],
+    "job_titles": [
+      "Machine Learning Operations Engineer",
+      "Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Flower Infrastructure Technologies AB:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda är oklart, men företaget har 5,825 följare på LinkedIn [LinkedIn]\n- Verkar vara ett relativt ungt och snabbväxande energiteknikföretag\n\n2. Omsättning och finansiell information\n- Ingen specifik omsättningsinformation tillgänglig\n- Har fått investment från Ellevio, en etablerad energiaktör [Ellevio pressmeddelande]\n\n3. Värdegrund och kultur\n- Fokus på hållbar energiteknik\n- Mission: \"Möjliggöra morgondagens energisystem\" [flower.se]\n- Vision om att bidra till ren energiproduktion och systemstabilitet\n\n4. Huvudsakliga produkter/tjänster\n- Utveckling av gasturbiner för global marknad\n- Batteri- och energisystemteknologi\n- Mjukvara för prognostisering, optimering och handel med energitillgångar\n- AI-baserade lösningar för energiflexibilitet [Crunchbase]\n\n5. Teknisk stack och kompetensområden\n- Kompetenser: Machine Learning, Cloud services (AWS), \n- Verktyg: Docker, Databricks, MLflow, Terraform\n- Programmeringsspråk: Python\n- CI/CD-teknologier: GitHub Actions, CI/CD-pipelines\n\n6. Geografisk placering\n- Huvudkontor i Stockholm, Sverige [Jobbannonser]\n\nKällor: LinkedIn, flower.se, Crunchbase, Ellevio pressmeddelande, jobbannonser\n\nNotera: Informationen är baserad på begränsade källor och kan vara ofullständig.",
+  "search_results": [
+    {
+      "title": "Flower | Energizing tomorrow",
+      "url": "https://www.flower.se/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We enable the energy system of tomorrow by combining pioneering <strong>technology</strong> with flexible assets, allowing clean energy to power society",
+      "page_age": "2023-11-14T13:23:59",
+      "profile": {
+        "name": "Flower",
+        "url": "https://www.flower.se/",
+        "long_name": "flower.se",
+        "img": "https://imgs.search.brave.com/HnLSRZe-uzLQdxv0yAdmjN-zMkypVNyR-u5x3Ki0yok/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjk3ZTBiMWIx/NWYwNGU2MmY1YmZl/ZjNmMTJjMTlkNDI1/OTM1N2EzMTU2ZDVm/NWJkYzNiNjA2MGRj/NTM1ZWRkOC93d3cu/Zmxvd2VyLnNlLw"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "flower.se",
+        "hostname": "www.flower.se",
+        "favicon": "https://imgs.search.brave.com/HnLSRZe-uzLQdxv0yAdmjN-zMkypVNyR-u5x3Ki0yok/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjk3ZTBiMWIx/NWYwNGU2MmY1YmZl/ZjNmMTJjMTlkNDI1/OTM1N2EzMTU2ZDVm/NWJkYzNiNjA2MGRj/NTM1ZWRkOC93d3cu/Zmxvd2VyLnNlLw",
+        "path": "  › home"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/w_SMHtM6G9lws3OfBzHOVIzfVQmYRU80GoT7Qb1suoA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zmxvd2VyLnNlL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzEx/L09HLUJJTEQucG5n",
+        "original": "https://www.flower.se/wp-content/uploads/2023/11/OG-BILD.png",
+        "logo": false
+      },
+      "age": "November 14, 2023"
+    },
+    {
+      "title": "Flower - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/krafthem",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Developing knowledge and AI to efficiently deploy electricity flexibility",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/krafthem",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › krafthem"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/XhQ3SXovR7yyNsq9IYQK6meG57s6YWU-xfDSgPWIabY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L2lqOWhubTBvZWlo/cmNjYXl5M2o1",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ij9hnm0oeihrccayy3j5",
+        "logo": false
+      }
+    },
+    {
+      "title": "Ellevio | Ellevio acquires part of fast-growing energy start-up",
+      "url": "https://www.ellevio.se/en/about-ellevio/newsroom/press-releases/ellevio-acquires-part-of-fast-growing-energy-start-up/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We have <strong>almost 600 employees</strong> and employ a total of 3,000 people around the country. We are owned by the pension managers OMERS Infrastructure, the Third Swedish national pension fund, Folksam, and the First Swedish national pension fund. Ellevio Energy Solutions is a sister company to Ellevio AB.",
+      "profile": {
+        "name": "www.ellevio.se",
+        "url": "https://www.ellevio.se/en/about-ellevio/newsroom/press-releases/ellevio-acquires-part-of-fast-growing-energy-start-up/",
+        "long_name": "ellevio.se",
+        "img": "https://imgs.search.brave.com/NeldC1Lt351RHykAWPydjh7xfyJCuzdgFnM5l1QfEG8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTZlOTQ0OWUw/ZTAyZGI1NDY4MTVi/Nzg0Y2M2YThlYjAy/ZDk3NTQ5MzNmZGZm/MjliZGE3YjBlZTc3/NzBjYzYzYy93d3cu/ZWxsZXZpby5zZS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "ellevio.se",
+        "hostname": "www.ellevio.se",
+        "favicon": "https://imgs.search.brave.com/NeldC1Lt351RHykAWPydjh7xfyJCuzdgFnM5l1QfEG8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTZlOTQ0OWUw/ZTAyZGI1NDY4MTVi/Nzg0Y2M2YThlYjAy/ZDk3NTQ5MzNmZGZm/MjliZGE3YjBlZTc3/NzBjYzYzYy93d3cu/ZWxsZXZpby5zZS8",
+        "path": "› en  › about-ellevio  › newsroom  › press-releases  › ellevio-acquires-part-of-fast-growing-energy-start-up"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/R2FFxjSIL0h5CEzJnAD5gXGwIPeA74ZXK8e4TzyhH0g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWxsZXZpby5zZS9j/b250ZW50YXNzZXRz/LzUyZmY4MWZmYzYy/YjRlY2RhNzRiZmFj/YThhZTA1MmJiLzE2/NTQ1OTkzNDgxNThf/dmluZGtyYWZ0dmVy/azMvP3dpZHRoPTEy/MDAmYW1wO2hlaWdo/dD0wJmFtcDtybW9k/ZT1tYXgmYW1wO3Jz/YW1wbGVyPWJpY3Vi/aWMmYW1wO2NvbXBh/bmQ9dHJ1ZSZhbXA7/cXVhbGl0eT04MCZh/bXA7dj0xNzEzMjY4/MTM0JmFtcDtobWFj/PWI4NzlmZDc0NzRj/OGY0MzJmZjQ5YTk0/YTM1ZTczZDcyOTcy/NzA1YTEwMjU2NTQ5/NDUzN2U0MDVlZWY2/OWI3NjQ",
+        "original": "https://www.ellevio.se/contentassets/52ff81ffc62b4ecda74bfaca8ae052bb/1654599348158_vindkraftverk3/?width=1200&amp;height=0&amp;rmode=max&amp;rsampler=bicubic&amp;compand=true&amp;quality=80&amp;v=1713268134&amp;hmac=b879fd7474c8f432ff49a94a35e73d72972705a102565494537e405eef69b764",
+        "logo": false
+      }
+    },
+    {
+      "title": "Flower | LinkedIn",
+      "url": "https://se.linkedin.com/company/flowertechnologies",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Flower</strong> | 5 825 följare på LinkedIn. We combine pioneering <strong>technology</strong> with flexible assets, enabling clean energy to power society | Empowered by our cutting-edge forecasting, optimization, and trading software, we open the doors for all energy assets to actively contribute to stabilizing ...",
+      "profile": {
+        "name": "LinkedIn",
+        "url": "https://se.linkedin.com/company/flowertechnologies",
+        "long_name": "se.linkedin.com",
+        "img": "https://imgs.search.brave.com/_aUh_KjDbqQXuTbUz3ijufqK7nUaWsT5d83akIsnR5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJlZDcwZWM1/YzRjMmRkOGZmMTRk/Y2MwYjI4Y2Y5NjFi/YzJlYTc0ZjJjMGVj/MWNhNzQxMWY1ZTJl/MGEyYWRhNS9zZS5s/aW5rZWRpbi5jb20v"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "se.linkedin.com",
+        "hostname": "se.linkedin.com",
+        "favicon": "https://imgs.search.brave.com/_aUh_KjDbqQXuTbUz3ijufqK7nUaWsT5d83akIsnR5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJlZDcwZWM1/YzRjMmRkOGZmMTRk/Y2MwYjI4Y2Y5NjFi/YzJlYTc0ZjJjMGVj/MWNhNzQxMWY1ZTJl/MGEyYWRhNS9zZS5s/aW5rZWRpbi5jb20v",
+        "path": "› company  › flowertechnologies"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/ZUx9vCsXcOs0xb3ufo8xHQw2Y9VnlzBPrfGW0qdZ4I4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDBCQVFFYi1PWmFh/TnRLWUEvY29tcGFu/eS1sb2dvXzIwMF8y/MDAvMC8xNzAwODI1/MzgzOTk5L2Zsb3dl/cnRlY2hub2xvZ2ll/c19sb2dvP2U9MjE0/NzQ4MzY0NyZhbXA7/dj1iZXRhJmFtcDt0/PU1tZVJLZGRHd3R5/MXJPcXo3ekxnSW92/WXh6LWFFRlZDd3VZ/MnBnTUNPdzg",
+        "original": "https://media.licdn.com/dms/image/D4D0BAQEb-OZaaNtKYA/company-logo_200_200/0/1700825383999/flowertechnologies_logo?e=2147483647&amp;v=beta&amp;t=MmeRKddGwty1rOqz7zLgIovYxz-aEFVCwuY2pgMCOw8",
+        "logo": true
+      }
+    },
+    {
+      "title": "About us | Flower",
+      "url": "https://www.flower.se/about-us/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We enable the energy system of tomorrow by combining pioneering <strong>technology</strong> with flexible assets, allowing clean energy to power society",
+      "page_age": "2023-11-23T00:29:56",
+      "profile": {
+        "name": "Flower",
+        "url": "https://www.flower.se/about-us/",
+        "long_name": "flower.se",
+        "img": "https://imgs.search.brave.com/HnLSRZe-uzLQdxv0yAdmjN-zMkypVNyR-u5x3Ki0yok/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjk3ZTBiMWIx/NWYwNGU2MmY1YmZl/ZjNmMTJjMTlkNDI1/OTM1N2EzMTU2ZDVm/NWJkYzNiNjA2MGRj/NTM1ZWRkOC93d3cu/Zmxvd2VyLnNlLw"
+      },
+      "language": "sv",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "flower.se",
+        "hostname": "www.flower.se",
+        "favicon": "https://imgs.search.brave.com/HnLSRZe-uzLQdxv0yAdmjN-zMkypVNyR-u5x3Ki0yok/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjk3ZTBiMWIx/NWYwNGU2MmY1YmZl/ZjNmMTJjMTlkNDI1/OTM1N2EzMTU2ZDVm/NWJkYzNiNjA2MGRj/NTM1ZWRkOC93d3cu/Zmxvd2VyLnNlLw",
+        "path": "  › home  › about us"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/w_SMHtM6G9lws3OfBzHOVIzfVQmYRU80GoT7Qb1suoA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zmxvd2VyLnNlL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzEx/L09HLUJJTEQucG5n",
+        "original": "https://www.flower.se/wp-content/uploads/2023/11/OG-BILD.png",
+        "logo": false
+      },
+      "age": "November 23, 2023"
+    }
+  ],
+  "generated_date": "2024-11-07T02:49:55.249332"
+}

@@ -1,0 +1,180 @@
+{
+  "company_info": {
+    "name": "Quiddly",
+    "descriptions": [
+      "Quiddly, which is part of the Blingdale Group, is a software company that licenses and develops platforms for credit and invoice management. We are currently offering modules for invoicing, factoring and debt collection, payment solutions, and our integration engine Squidd.",
+      "Fintech software company developing invoice and payment platforms"
+    ],
+    "industries": [
+      "Fintech",
+      "Fintech, Software"
+    ],
+    "locations": [
+      "Malmö"
+    ],
+    "skills": [
+      "Flask",
+      "K8s",
+      "Kubernetes",
+      "DevOps",
+      "PostgreSQL",
+      "Google Cloud",
+      "Python",
+      "React"
+    ],
+    "job_titles": [
+      "Software Engineer Fullstack"
+    ]
+  },
+  "analysis": "Sammanfattning av Quiddly:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: 23 (Källa: RocketReach)\n- Del av Blingdale Group\n- Lokalisering: Malmö, Skåne län\n\n2. Omsättning och finansiell information\n- Specifik omsättningsinformation saknas\n\n3. Företagets värdegrund och kultur\n- Flexibel produktstrategi (\"Pick & Mix modules\")\n- Fokus på kostnadseffektiva lösningar\n\n4. Huvudsakliga produkter/tjänster\n- Mjukvaruplattform för fintech\n- Moduler för:\n  * Fakturering\n  * Factoring\n  * Skuldhantering\n  * Betallösningar\n  * Integration (Squidd-motor)\n\n5. Nyliga nyheter eller utveckling\n- Inga specifika nya nyheter identifierade\n\n6. Teknisk stack och kompetensområden\nTeknologier:\n- Python\n- Flask\n- React\n- Kubernetes (K8s)\n- PostgreSQL\n- Google Cloud\n- DevOps\n\nKälla för teknologier: Jobbannonser\n\nSammanfattningsvis är Quiddly ett mindre mjukvaruföretag inom fintech med fokus på fakturahantering och betalningslösningar.",
+  "search_results": [
+    {
+      "title": "Quiddly Financial Overview, Employee Count, and Competitors | Apollo",
+      "url": "https://www.apollo.io/companies/Quiddly/5e46b79a5dbe30008ccd781a",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "View <strong>Quiddly</strong> (http://www.<strong>quiddly</strong>.com) location in Skane County, Sweden, <strong>revenue</strong>, competitors and contact <strong>information</strong>. Find and reach <strong>Quiddly</strong>&#x27;<strong>s</strong> <strong>employees</strong> by department, seniority, title, and much more.",
+      "profile": {
+        "name": "Apollo",
+        "url": "https://www.apollo.io/companies/Quiddly/5e46b79a5dbe30008ccd781a",
+        "long_name": "apollo.io",
+        "img": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "apollo.io",
+        "hostname": "www.apollo.io",
+        "favicon": "https://imgs.search.brave.com/DbyG7fAFLRRzLZj252crmCUaY4t0efquazagJPazClk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODE2NTU1ZGMy/ZWEzMzNmNTM3ZGI4/YmMyYWVmZmI0ZDJk/MjI0OTkxMjVlMGUy/MTAxNWJmOTkxODM5/YzMwMWRjOS93d3cu/YXBvbGxvLmlvLw",
+        "path": "› companies  › Quiddly  › 5e46b79a5dbe30008ccd781a"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/o64B0T3R_E6m2Rz8hYInKp9H6uXXTVZ1Fv-loR7i9GQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly96ZW5w/cm9zcGVjdC1wcm9k/dWN0aW9uLnMzLmFt/YXpvbmF3cy5jb20v/dXBsb2Fkcy9waWN0/dXJlcy82NjYyZjIy/NDk5ZWJhNDAwMDFj/MDA0ZmMvcGljdHVy/ZQ",
+        "original": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6662f22499eba40001c004fc/picture",
+        "logo": false
+      }
+    },
+    {
+      "title": "Quiddly - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/quiddly",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Quiddly</strong> is a fintech platform that offers solutions for invoicing, debt collection, and factoring.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/quiddly",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › quiddly"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/RGTLXcStchU5Z-aBwMkOZZ3BKjmwXZ45kdanzG0TCJ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L2hlMGFhamlzajB0/NHd4Mmxiamxw",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/he0aajisj0t4wx2lbjlp",
+        "logo": false
+      }
+    },
+    {
+      "title": "Factoring, Invoicing & Debt Collection Software for Vendors",
+      "url": "https://quiddly.com/solutions/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Pick &amp; Mix from our modules to lay the foundation for your fintech machinery. Don’t lose, only pay for what you use.",
+      "page_age": "2024-04-12T10:34:51",
+      "profile": {
+        "name": "Quiddly",
+        "url": "https://quiddly.com/solutions/",
+        "long_name": "quiddly.com",
+        "img": "https://imgs.search.brave.com/i_Kc9JX_L-Gve-NycIDMGJWCkHF0BuRfO23wSaZZcUE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDM1ZTYwZGFh/MDRkMmQzNzU5OGRh/YjUxZjA3NDFiNjI4/YmE4MzUzNDNjYjlm/OWJlYzc4MmY3MTU3/NjZmM2VmOS9xdWlk/ZGx5LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "quiddly.com",
+        "hostname": "quiddly.com",
+        "favicon": "https://imgs.search.brave.com/i_Kc9JX_L-Gve-NycIDMGJWCkHF0BuRfO23wSaZZcUE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDM1ZTYwZGFh/MDRkMmQzNzU5OGRh/YjUxZjA3NDFiNjI4/YmE4MzUzNDNjYjlm/OWJlYzc4MmY3MTU3/NjZmM2VmOS9xdWlk/ZGx5LmNvbS8",
+        "path": "  › home  › solutions"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/i6tHnUGRsDxR8x2Gfd6iEWGVkbrAiwgss-EOL19wewA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWlk/ZGx5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8xMC9j/dXAucG5n",
+        "original": "https://quiddly.com/wp-content/uploads/2021/10/cup.png",
+        "logo": false
+      },
+      "age": "April 12, 2024"
+    },
+    {
+      "title": "Quidd - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/quidd",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Quidd is the marketplace for buying and selling digital collectibles. <strong>Over 2.1B</strong> assets issued. Backed by Sequoia.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/quidd",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › quidd"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/8LsLsMugBvP51hBQizYC-mvuridZrig2BvdM8iW1y7I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3JrZ2VteWNlbnNj/amh6anNyMXph",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rkgemycenscjhzjsr1za",
+        "logo": false
+      }
+    },
+    {
+      "title": "Quiddly: Contact Details and Business Profile",
+      "url": "https://rocketreach.co/quiddly-profile_b407b9fbfc253bbd",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Quiddly is a Software Development company_reader located in Skåne County, SE with <strong>23 employees</strong>. Find top employees, contact details and business statistics at RocketReach.",
+      "profile": {
+        "name": "RocketReach",
+        "url": "https://rocketreach.co/quiddly-profile_b407b9fbfc253bbd",
+        "long_name": "rocketreach.co",
+        "img": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "rocketreach.co",
+        "hostname": "rocketreach.co",
+        "favicon": "https://imgs.search.brave.com/y-aFq-WaKqofgOTtPvSOApZy753X8_vhfbYo4uv3b2k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2VkY2EzYWQy/MDJmZjU5NGYxZjhi/Y2E2OTY5NjI1NWEz/ODdiYTU1ZTZlNThh/OWI5MGJiMTcwZDll/NzUwZjdjMi9yb2Nr/ZXRyZWFjaC5jby8",
+        "path": "› quiddly-profile_b407b9fbfc253bbd"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/_6EtPGtnBaqZDZ7PJhCPTj44ZlZNBdakt4G1tWCYTrk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMWhi/cHIwOXB3ejBzay5j/bG91ZGZyb250Lm5l/dC9sb2dvX3VybC9x/dWlkZGx5LWJkZTc4/YjQy",
+        "original": "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/quiddly-bde78b42",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:02:09.456650"
+}

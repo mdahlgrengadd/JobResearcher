@@ -1,0 +1,216 @@
+{
+  "company_info": {
+    "name": "HMS Industrial Networks AB",
+    "descriptions": [
+      "A technology company providing networking solutions for industrial devices"
+    ],
+    "industries": [
+      "Industrial Technology"
+    ],
+    "locations": [
+      "Halmstad"
+    ],
+    "skills": [
+      "Azure",
+      "SQL",
+      "DevOps",
+      "Spark",
+      "Git",
+      "Terraform",
+      "Power BI"
+    ],
+    "job_titles": [
+      "Data Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av HMS Industrial Networks AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Cirka 1 200 medarbetare [Källa: Wikipedia]\n- Internationellt verksamt företag [Källa: Wikipedia]\n- Huvudkontor i Halmstad, Sverige\n\n2. Omsättning och finansiell information\n- Årlig intäkt: Rapporterad försäljning på 267 miljoner euro (2023) [Källa: Wikipedia]\n- Alternativ omsättningssiffra: 573,3 miljoner USD [Källa: Growjo]\n- Noterat på Nasdaq Nordic börs\n\n3. Värdegrund och kultur\n- Slogan: \"Hardware Meets Software™\"\n- Fokus på industriell kommunikationsteknologi\n\n4. Huvudsakliga produkter/tjänster\n- Produkter som möjliggör kommunikation mellan industriell utrustning och mjukvarusystem\n- Nätverkslösningar för industriella enheter\n- Kommunikationsteknologi för industriell automation\n\n5. Teknisk kompetens och stack\n- Kompetensområden:\n  * Azure\n  * SQL\n  * DevOps\n  * Spark\n  * Git\n  * Terraform\n  * Power BI\n\n6. Dotterbolag\n- IXXAT GmbH (kommunikationsteknologi)\n- eWON SA\n\nBransch: Industrial Information and Communication Technology (Industrial ICT)",
+  "search_results": [
+    {
+      "title": "HMS Networks - Hardware Meets Software™ | Industrial ICT",
+      "url": "https://www.hms-networks.com",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>HMS</strong> creates products that enable <strong>industrial</strong> equipment to communicate and share <strong>information</strong> with software and systems. In short: Hardware Meets Software™.",
+      "profile": {
+        "name": "Hms-networks",
+        "url": "https://www.hms-networks.com",
+        "long_name": "hms-networks.com",
+        "img": "https://imgs.search.brave.com/Aq5-gz1GM1rvVUvnGVRMuk41L7aod_cBZTQztRt3I0o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTQ2YjBhZWJl/YThlNmM0NTJhMDc0/MGFhZjYyYjAyYTEy/YTgwMGE0YmVkNmUz/YWM2NjVlZGMyNzVi/M2ZiYzdjNC93d3cu/aG1zLW5ldHdvcmtz/LmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "hms-networks.com",
+        "hostname": "www.hms-networks.com",
+        "favicon": "https://imgs.search.brave.com/Aq5-gz1GM1rvVUvnGVRMuk41L7aod_cBZTQztRt3I0o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTQ2YjBhZWJl/YThlNmM0NTJhMDc0/MGFhZjYyYjAyYTEy/YTgwMGE0YmVkNmUz/YWM2NjVlZGMyNzVi/M2ZiYzdjNC93d3cu/aG1zLW5ldHdvcmtz/LmNvbS8",
+        "path": ""
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/EsW6NNpVhZCoigDVw_pquHsmXRd8Ffpdyw7gt_Y15uQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5obXMtbmV0d29y/a3MuY29tL2ltYWdl/L3VwbG9hZC92MTY5/MDUzODY0OC9HcmFw/aGljcy9ITVNfQmFj/a2dyb3VuZF9IYXJk/d2FyZS1NZWV0cy1T/b2Z0d2FyZS0xOTIw/eDEwODAuanBnP3Nm/X2RtX2tleT1ZZGJI/eDdDa0FuajFnNzR4/eEJOdHQ3c1BYeUlm/WlNZNUNrdWFhRk5o/VUdjMQ",
+        "original": "https://media.hms-networks.com/image/upload/v1690538648/Graphics/HMS_Background_Hardware-Meets-Software-1920x1080.jpg?sf_dm_key=YdbHx7CkAnj1g74xxBNtt7sPXyIfZSY5CkuaaFNhUGc1",
+        "logo": false
+      },
+      "cluster_type": "generic",
+      "cluster": [
+        {
+          "title": "Ewon",
+          "url": "https://www.hms-networks.com/ewon",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "Ewon <strong>industrial</strong> remote solutions allow machine builders and users to securely connect to <strong>industrial</strong> equipment and visualize IIoT data — anytime, anywhere.",
+          "family_friendly": true
+        },
+        {
+          "title": "Product finder",
+          "url": "https://www.hms-networks.com/product-finder",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "<strong>HMS</strong> product finder allows you to browse our various products. Filter products by our brands Anybus, Ewon, Intesis and Ixxat or by <strong>network</strong>, type, or category.",
+          "family_friendly": true
+        },
+        {
+          "title": "Remote gateways",
+          "url": "https://www.hms-networks.com/remote-gateways",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "Remote gateways enable data collection, programming and troubleshooting from anywhere. Collect and visualize machine data on dashboards to prevent downtime.",
+          "family_friendly": true
+        },
+        {
+          "title": "Network gateways",
+          "url": "https://www.hms-networks.com/network-gateways",
+          "is_source_local": false,
+          "is_source_both": false,
+          "description": "<strong>Network</strong> gateways are by far the fastest way to get devices connected to <strong>industrial</strong> and building <strong>networks</strong>. Just connect, configure and you’re done!",
+          "family_friendly": true
+        }
+      ]
+    },
+    {
+      "title": "HMS Networks AB Share Price - STO:HMS Stock Research | Stockopedia",
+      "url": "https://www.stockopedia.com/share-prices/hms-networks-ab-STO:HMS/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The <strong>Company</strong> operates through numerous subsidiaries, including <strong>HMS</strong> <strong>Industrial</strong> <strong>Networks</strong> <strong>AB</strong>, IXXAT GmbH, a supplier of communication technology for <strong>industrial</strong> automation, machine manufacturing and the automotive <strong>industry</strong>, as well as eWON SA. ... No. of Shareholders ... No. of <strong>Employees</strong> ... As of Today at 20:09 UTC, shares in <strong>HMS</strong> <strong>Networks</strong> <strong>AB</strong> are trading at SEK391.40. This share price <strong>information</strong> ...",
+      "profile": {
+        "name": "Stockopedia",
+        "url": "https://www.stockopedia.com/share-prices/hms-networks-ab-STO:HMS/",
+        "long_name": "stockopedia.com",
+        "img": "https://imgs.search.brave.com/SS-pLOCi0ggpYRmtVh6iK6wP0Dg-P8UB3xV7vCGnHqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWVmYjE0OTMx/NjA4M2Y2YTM0MmI5/OWM0ODgzMzRjODIy/YjVkYTYyZjkzZmEx/MWY4YmNkYTY1OWNm/NjI2Y2FmMC93d3cu/c3RvY2tvcGVkaWEu/Y29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "stockopedia.com",
+        "hostname": "www.stockopedia.com",
+        "favicon": "https://imgs.search.brave.com/SS-pLOCi0ggpYRmtVh6iK6wP0Dg-P8UB3xV7vCGnHqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWVmYjE0OTMx/NjA4M2Y2YTM0MmI5/OWM0ODgzMzRjODIy/YjVkYTYyZjkzZmEx/MWY4YmNkYTY1OWNm/NjI2Y2FmMC93d3cu/c3RvY2tvcGVkaWEu/Y29tLw",
+        "path": "› share-prices  › hms-networks-ab-STO:HMS"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/cuRpl3NiyHb63utb_De6Fq77CjGSopOsPPry--lYTts/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3RvY2tvcGVk/aWEuY29tL3NlY3Vy/aXR5X2ltYWdlcy9o/bXMtbmV0d29ya3Mt/YWItc3RvLWhtcy5q/cGVn",
+        "original": "https://images.stockopedia.com/security_images/hms-networks-ab-sto-hms.jpeg",
+        "logo": false
+      }
+    },
+    {
+      "title": "HMS Networks AB Peers & Key Competitors - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/hms-networks-ab/competitors/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>HMS</strong> <strong>Networks</strong> <strong>AB</strong> peers and key competitor <strong>information</strong> including headquarters, annual <strong>revenue</strong> and number of <strong>employees</strong>.",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/hms-networks-ab/competitors/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "  › home  › all companies  › hms networks ab"
+      }
+    },
+    {
+      "title": "HMS Networks - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HMS_Networks",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "HMS Networks AB is an international company in the field of Industrial Information and Communication Technology (Industrial ICT). HMS is headquartered in Halmstad, Sweden and is listed on the Nasdaq Nordic stock exchange, employing 1200 people with reported sales of <strong>267 million Euro in 2023</strong>.",
+      "page_age": "2024-04-25T10:32:35",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/HMS_Networks",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "Products",
+            "url": "https://en.wikipedia.org/wiki/HMS_Networks#Products"
+          },
+          {
+            "type": "button_result",
+            "title": "Organization and history",
+            "url": "https://en.wikipedia.org/wiki/HMS_Networks#Organization_and_history"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › HMS_Networks"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/2AD6xlH_--QDGD3yg8nUKm_3kFYYwIBKF5pU_K26uxg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L0hNU19OZXR3/b3Jrc19sb2dvLnN2/Zw",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HMS_Networks_logo.svg",
+        "logo": true
+      },
+      "age": "April 25, 2024"
+    },
+    {
+      "title": "HMS NETWORKS: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/HMS_NETWORKS",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "HMS NETWORKS top competitors are wecotek, Sarcos Robotics and Prodomax Automation and they have annual revenue of <strong>$573.3M</strong> and 1160 employees.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/HMS_NETWORKS",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › HMS_NETWORKS"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:46:36.248227"
+}

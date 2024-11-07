@@ -1,0 +1,178 @@
+{
+  "company_info": {
+    "name": "Gradientech",
+    "descriptions": [
+      "Gradientech utvecklar och säljer ett CE-märkt diagnostiksystem för antibiotikaresistensbestämning avsett för kliniska mikrobiologilaboratorier. Systemet kan inom 2-4 timmar diagnostisera vilken antibiotika en patient bör behandlas med."
+    ],
+    "industries": [
+      "Medicinsk teknik"
+    ],
+    "locations": [
+      "Uppsala"
+    ],
+    "skills": [
+      "Testautomatisering",
+      "Kvalitetssäkring",
+      "Mjukvarutestning",
+      "Kravanalys"
+    ],
+    "job_titles": [
+      "Software QA-Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Gradientech:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda ej fastställt från tillgängliga källor\n- Lokaliserat i Uppsala, Sverige\n\n2. Omsättning och finansiell information\n- Begränsad information tillgänglig\n- Har genomfört investeringsrundor (enligt Crunchbase och PitchBook)\n\n3. Företagets värdegrund och kultur\n- Fokus på innovation inom medicinsk teknologi\n- Uppmuntrar karriärutveckling och studentprojekt\n\n4. Huvudsakliga produkter/tjänster\n- CE-märkt diagnostiksystem för antibiotikaresistensbestämning\n- Mikrofluidisk plattform för cellanalys\n- Systemet kan diagnostisera lämplig antibiotikabehandling på 2-4 timmar\n\n5. Nyliga nyheter eller utveckling\n- Inga specifika nyheter identifierade i sources\n\n6. Teknisk stack och kompetensområden\n- Medicinteknik\n- Mikrofluidik\n- Mjukvaruutveckling\n- Kompetenser inom:\n  * Testautomatisering\n  * Kvalitetssäkring\n  * Mjukvarutestning\n  * Kravanalys\n\nKällor:\n- Jobbannonser\n- PitchBook\n- Crunchbase\n- Gradientech.se\n- Slintel",
+  "search_results": [
+    {
+      "title": "Gradientech Company Profile: Valuation & Investors | PitchBook",
+      "url": "https://pitchbook.com/profiles/company/100649-98",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Information</strong> on valuation, funding, cap tables, investors, and executives for <strong>Gradientech</strong>. Use the PitchBook Platform to explore the full profile.",
+      "profile": {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/100649-98",
+        "long_name": "pitchbook.com",
+        "img": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "pitchbook.com",
+        "hostname": "pitchbook.com",
+        "favicon": "https://imgs.search.brave.com/9SXTwO_ggm-Wbzj6fUdpmg-ROmfDr2lO0sZWyLPTJn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjMzOTY4Zjlm/ZjFkMzAzNzMwZWRi/NGJhYjA3NzU1N2M3/MjNhN2U0YzI2OTNi/YzBhNjZhZDU5Y2E4/YmQ1NGZiZS9waXRj/aGJvb2suY29tLw",
+        "path": "› profiles  › company  › 100649-98"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/LX5BFItRdn9VdlySIXrZE8F4qOvWQogv8vVNyQgaJ0o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waXRj/aGJvb2suY29tL2lt/Zy9zbS9QaXRjaEJv/b2stUHJvZmlsZS5q/cGc_dXE9ZlQ4ckRU/Tmo",
+        "original": "https://pitchbook.com/img/sm/PitchBook-Profile.jpg?uq=fT8rDTNj",
+        "logo": false
+      }
+    },
+    {
+      "title": "Gradientech - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/gradientech",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Gradientech</strong> is develops products for analyzing cells.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/gradientech",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › gradientech"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/-7e1cHdAs-84q7iwPn9CgI-kV8uG3_yM3hS3O48-hbs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3hwNDF1MGN2em53/bWIyeGp1Y3Vq",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xp41u0cvznwmb2xjucuj",
+        "logo": false
+      }
+    },
+    {
+      "title": "Career | Gradientech",
+      "url": "https://gradientech.se/about/career/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Be a part of <strong>Gradientech</strong>&#x27;s journey. Visit our career page to explore open positions, student project opportunities and more.",
+      "page_age": "2024-03-12T06:47:25",
+      "profile": {
+        "name": "Gradientech",
+        "url": "https://gradientech.se/about/career/",
+        "long_name": "gradientech.se",
+        "img": "https://imgs.search.brave.com/P1xduE2P8mcvTTiK7efYtXwVL_zGqoTelFWoswavKDQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIxYzUwOTRl/ZWE5YTU1MjM5YWFl/Njk0OTRlZDc0NTlk/ZjNiZjJiNDlmNjQ0/ODI5NTgwYWFjMjdh/ZTlkNDMxYS9ncmFk/aWVudGVjaC5zZS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "gradientech.se",
+        "hostname": "gradientech.se",
+        "favicon": "https://imgs.search.brave.com/P1xduE2P8mcvTTiK7efYtXwVL_zGqoTelFWoswavKDQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIxYzUwOTRl/ZWE5YTU1MjM5YWFl/Njk0OTRlZDc0NTlk/ZjNiZjJiNDlmNjQ0/ODI5NTgwYWFjMjdh/ZTlkNDMxYS9ncmFk/aWVudGVjaC5zZS8",
+        "path": "  › home  › about  › career"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/jR-SGmJesynX-aZxoa2_XrGMEIyeboy8h8XH82rgUao/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ncmFk/aWVudGVjaC5zZS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/Mi90ZXN0LWhlcm8u/anBn",
+        "original": "https://gradientech.se/wp-content/uploads/2024/02/test-hero.jpg",
+        "logo": false
+      },
+      "age": "March 12, 2024"
+    },
+    {
+      "title": "Gradientech Company Insights, Tech Stack, and Competitors | Slintel",
+      "url": "https://www.slintel.com/company/gradientech/5c3b00f3d55ae49f1b772c3a",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Find useful insights on <strong>Gradientech</strong>’<strong>s</strong> <strong>company</strong> details, tech stack, news alerts, competitors and more. Use Slintel to connect with top decision-makers at <strong>Gradientech</strong>.",
+      "page_age": "2022-07-18T02:06:33",
+      "profile": {
+        "name": "Slintel",
+        "url": "https://www.slintel.com/company/gradientech/5c3b00f3d55ae49f1b772c3a",
+        "long_name": "slintel.com",
+        "img": "https://imgs.search.brave.com/7mzR2YTKK0iBzfAy8dZyPXOcQvNlR_LXjtquLRJXLks/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTlkOThmYzJm/OTBiOTcyNjc1Mjc1/Y2U4M2IwNzNhNDA0/ZTM0ODFhYTgxYmNi/MGFjNDE1ODcyZWQ0/ODFmZDdhMC93d3cu/c2xpbnRlbC5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "slintel.com",
+        "hostname": "www.slintel.com",
+        "favicon": "https://imgs.search.brave.com/7mzR2YTKK0iBzfAy8dZyPXOcQvNlR_LXjtquLRJXLks/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTlkOThmYzJm/OTBiOTcyNjc1Mjc1/Y2U4M2IwNzNhNDA0/ZTM0ODFhYTgxYmNi/MGFjNDE1ODcyZWQ0/ODFmZDdhMC93d3cu/c2xpbnRlbC5jb20v",
+        "path": "  › company  › gradientech"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/fh77hnnQqrAjPg5g3WTr5Dp7I4240-JuDOsCR5xZ5AU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM21s/M2I2dnl3c2owei5j/bG91ZGZyb250Lm5l/dC93ZWJzaXRlL3Yy/L2hvbWUvV2Vic2l0/ZV9NZXRhX0ltYWdl/LnBuZw",
+        "original": "https://d3ml3b6vywsj0z.cloudfront.net/website/v2/home/Website_Meta_Image.png",
+        "logo": false
+      },
+      "age": "July 18, 2022"
+    },
+    {
+      "title": "Investors | Gradientech",
+      "url": "https://gradientech.se/investors/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Visit our investor relations pages to access news, financial reports and upcoming events. <strong>Gradientech</strong> – developing the microfluidic platform of tomorrow. Today.",
+      "page_age": "2024-06-11T07:48:24",
+      "profile": {
+        "name": "Gradientech",
+        "url": "https://gradientech.se/investors/",
+        "long_name": "gradientech.se",
+        "img": "https://imgs.search.brave.com/P1xduE2P8mcvTTiK7efYtXwVL_zGqoTelFWoswavKDQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIxYzUwOTRl/ZWE5YTU1MjM5YWFl/Njk0OTRlZDc0NTlk/ZjNiZjJiNDlmNjQ0/ODI5NTgwYWFjMjdh/ZTlkNDMxYS9ncmFk/aWVudGVjaC5zZS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "gradientech.se",
+        "hostname": "gradientech.se",
+        "favicon": "https://imgs.search.brave.com/P1xduE2P8mcvTTiK7efYtXwVL_zGqoTelFWoswavKDQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIxYzUwOTRl/ZWE5YTU1MjM5YWFl/Njk0OTRlZDc0NTlk/ZjNiZjJiNDlmNjQ0/ODI5NTgwYWFjMjdh/ZTlkNDMxYS9ncmFk/aWVudGVjaC5zZS8",
+        "path": "  › home  › investors"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/-KQ0zBptOWAY0WOwTHiE7nVDoBzJa707GNa0xMA0fH8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ncmFk/aWVudGVjaC5zZS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/MS9ncmFkNzQ3OGIt/c2NhbGVkLmpwZw",
+        "original": "https://gradientech.se/wp-content/uploads/2020/11/grad7478b-scaled.jpg",
+        "logo": false
+      },
+      "age": "June 11, 2024"
+    }
+  ],
+  "generated_date": "2024-11-07T03:06:40.921330"
+}

@@ -1,0 +1,199 @@
+{
+  "company_info": {
+    "name": "Zalando Sweden AB",
+    "descriptions": [
+      "A pioneering e-commerce platform connecting customers, brands, and partners across 23 markets",
+      "An e-commerce company focusing on fashion and technology"
+    ],
+    "industries": [
+      "E-commerce"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "REST APIs",
+      "Spring Boot",
+      "Javascript",
+      "TypeScript",
+      "Kubernetes",
+      "PostgreSQL",
+      "Microservices",
+      "REST Services",
+      "React",
+      "Typescript",
+      "AWS"
+    ],
+    "job_titles": [
+      "Fullstack Engineer - Zalando Shipping Solutions",
+      "Software Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Zalando Sweden AB:\n\n1. Företagets storlek och antal anställda\n- Globalt har Zalando cirka 16,000 anställda (Källa: Wikipedia)\n- Baserat i Stockholm, Sverige\n- Del av en internationell e-handelsplattform som verkar i 23 marknader\n\n2. Omsättning och finansiell information\n- Global omsättning 2022: 10,3 miljarder Euro (Källa: Wikipedia)\n- Online intäkter för Zalando.se: 321,6 miljoner USD (2023) (Källa: ECDB.com)\n\n3. Företagets värdegrund och kultur\n- Pionjär inom e-commerce\n- Fokus på att sammanlänka kunder, varumärken och partners\n- Grundat 2008 av Robert Gentz och David Schneider\n\n4. Huvudsakliga produkter/tjänster\n- E-handelsplattform med fokus på mode och teknik\n- Ursprungligen specialiserade på skor, nu bredare modeutbud\n\n5. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser inkluderar:\n- Programmeringsspråk: Java, JavaScript, TypeScript\n- Ramverk: Spring Boot, React\n- Teknologier: REST APIs, Kubernetes\n- Databaser: PostgreSQL\n- Molnplattform: AWS\n- Arkitektur: Microservices\n\n6. Nyliga nyheter/utveckling\n- Lanserat ny varumärkespositionering\n- Fortsatt expansion inom e-handelsmarknaden\n\nAnmärkning: Sammanfattningen är baserad på tillgänglig information från jobbannonser och externa webbkällor.",
+  "search_results": [
+    {
+      "title": "Zalando - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zalando",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In 2022, <strong>Zalando</strong> generated <strong>revenue</strong> of 10.3 billion Euro, with roughly 16,000 <strong>employees</strong>. <strong>Zalando</strong> was founded in 2008 by Robert Gentz and David Schneider in Berlin with investment capital from the three Samwer brothers. Gentz, Schneider and Oliver Samwer met each other through their studies at WHU – Otto Beisheim School of Management. Inspired by US online retailer Zappos, <strong>Zalando</strong> initially specialized in the sale of footwear. The name of the <strong>company</strong> ...",
+      "page_age": "2024-10-04T13:55:07",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zalando",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "deep_results": {
+        "buttons": [
+          {
+            "type": "button_result",
+            "title": "History",
+            "url": "https://en.wikipedia.org/wiki/Zalando#History"
+          },
+          {
+            "type": "button_result",
+            "title": "Geographical presence",
+            "url": "https://en.wikipedia.org/wiki/Zalando#Geographical_presence"
+          },
+          {
+            "type": "button_result",
+            "title": "Business figures",
+            "url": "https://en.wikipedia.org/wiki/Zalando#Business_figures"
+          },
+          {
+            "type": "button_result",
+            "title": "Controversies",
+            "url": "https://en.wikipedia.org/wiki/Zalando#Controversies"
+          }
+        ]
+      },
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Zalando"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/m3ub-x731TpLg23ePHrbd05yMC_VcA62LAtnxtLxBk8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QxL1phbGFuZG9f/SGVhZHF1YXJ0ZXIu/anBn",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Zalando_Headquarter.jpg",
+        "logo": false
+      },
+      "age": "October 4, 2024"
+    },
+    {
+      "title": "Zalando Se Company Profile - Zalando Se Overview - GlobalData",
+      "url": "https://www.globaldata.com/company-profile/zalando-se/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Zalando</strong> Se <strong>company</strong> profile analysis with the premuim data - Globaldata",
+      "profile": {
+        "name": "Globaldata",
+        "url": "https://www.globaldata.com/company-profile/zalando-se/",
+        "long_name": "globaldata.com",
+        "img": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "globaldata.com",
+        "hostname": "www.globaldata.com",
+        "favicon": "https://imgs.search.brave.com/1_96ew3-3C7wIuxIIhBdxUTWXHkLJndLZoJ87YjKEUw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDE4NGZiNzcy/NTdmYzIyZGJkNjQ1/OWM1MjY5YjVlMjkw/ZjZlOGM1NzU5MTk5/N2QyOTcyMGZiY2Rj/NjQwMWU5MC93d3cu/Z2xvYmFsZGF0YS5j/b20v",
+        "path": "  › home  › all companies  › zalando se"
+      }
+    },
+    {
+      "title": "Annual revenue of Zalando 2009-2023 | Statista",
+      "url": "https://www.statista.com/statistics/260450/annual-revenue-of-zalando/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The German online fashion retailer, <strong>Zalando</strong>, is a popular choice for online shoppers and this is reflected in the increasing profits the <strong>company</strong> has seen.",
+      "profile": {
+        "name": "Statista",
+        "url": "https://www.statista.com/statistics/260450/annual-revenue-of-zalando/",
+        "long_name": "statista.com",
+        "img": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "statista.com",
+        "hostname": "www.statista.com",
+        "favicon": "https://imgs.search.brave.com/u1tTpyUUzEcCSX5ZlYCaW13WFdXK0sTTb5uFbXsyhcg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRhMzBjZWQ3/NTgyNDkxZWE2MjEw/ODQwNjZjZGY5MDdi/MGIzZjUwODYzMmY5/Y2RiYzY3YmZkYzJj/MzJhZjVhMC93d3cu/c3RhdGlzdGEuY29t/Lw",
+        "path": "› statistics  › 260450  › annual-revenue-of-zalando"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/TnPbYuujnoJtkw3BRgr-HQnDL6gl17xd6DLRQRCiSCQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3RhdGlzdGljLzI2/MDAwMC8yNjA0NTAt/YmxhbmstMzU1LnBu/Zw",
+        "original": "https://cdn.statcdn.com/Statistic/260000/260450-blank-355.png",
+        "logo": false
+      }
+    },
+    {
+      "title": "zalando.se revenue | ECDB.com",
+      "url": "https://ecommercedb.com/store/zalando.se",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The online revenue of zalando.se amounted to <strong>US$321.6m in 2023</strong>. Discover eCommerce insights, including sales development, shopping cart size, and many more.",
+      "profile": {
+        "name": "ECDB",
+        "url": "https://ecommercedb.com/store/zalando.se",
+        "long_name": "ecommercedb.com",
+        "img": "https://imgs.search.brave.com/-TwUQWkKbe9a3QbEB_V44v_yi1G-botN3DdOHgLAl5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDdlNGNhMDJm/YjI0ZTIwMjA1YzRh/NzE3YjNlYWE0OWZm/N2U4MGUxNzMyMDVh/N2MyM2JkOTM0N2Rh/ZDkzMjgxMC9lY29t/bWVyY2VkYi5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "ecommercedb.com",
+        "hostname": "ecommercedb.com",
+        "favicon": "https://imgs.search.brave.com/-TwUQWkKbe9a3QbEB_V44v_yi1G-botN3DdOHgLAl5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDdlNGNhMDJm/YjI0ZTIwMjA1YzRh/NzE3YjNlYWE0OWZm/N2U4MGUxNzMyMDVh/N2MyM2JkOTM0N2Rh/ZDkzMjgxMC9lY29t/bWVyY2VkYi5jb20v",
+        "path": "› store  › zalando.se"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/tOoP-Gxn5Dn-jQjnGuZmazTiDmNWd5y03pPKbycIq-I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lY29t/bWVyY2VkYi5jb20v/aW1nL29nLWltYWdl/LmpwZw",
+        "original": "https://ecommercedb.com/img/og-image.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Homepage | Zalando Corporate Website",
+      "url": "https://corporate.zalando.com/en",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Zalando</strong> unveils new brand positioning · Fitting room frustration",
+      "profile": {
+        "name": "Zalando",
+        "url": "https://corporate.zalando.com/en",
+        "long_name": "corporate.zalando.com",
+        "img": "https://imgs.search.brave.com/2c9QUsO42kXkV9RRX_wP4aqSAeogEHSs7Njat-5OSto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODdmNDZiNGJi/MzM4YzcwMGYyYjdl/OWY2NTE0MWNiZTc1/ZmUxNTYyOTExMzM0/OWNhOWRmNDYxNGJi/OTNlYWQxMS9jb3Jw/b3JhdGUuemFsYW5k/by5jb20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "corporate.zalando.com",
+        "hostname": "corporate.zalando.com",
+        "favicon": "https://imgs.search.brave.com/2c9QUsO42kXkV9RRX_wP4aqSAeogEHSs7Njat-5OSto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODdmNDZiNGJi/MzM4YzcwMGYyYjdl/OWY2NTE0MWNiZTc1/ZmUxNTYyOTExMzM0/OWNhOWRmNDYxNGJi/OTNlYWQxMS9jb3Jw/b3JhdGUuemFsYW5k/by5jb20v",
+        "path": "› en"
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T03:04:47.040385"
+}

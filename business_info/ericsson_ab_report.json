@@ -1,0 +1,181 @@
+{
+  "company_info": {
+    "name": "Ericsson AB",
+    "descriptions": [
+      "Telecommunications equipment and services provider",
+      "A telecommunications and networking company"
+    ],
+    "industries": [
+      "Telecommunications"
+    ],
+    "locations": [
+      "Stockholm (Kista)",
+      "Linköping or Stockholm - Kista"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Device drivers",
+      "AI",
+      "C++",
+      "Embedded systems",
+      "C",
+      "Kernel modules",
+      "Python",
+      "Yocto",
+      "Product Lifecycle Management",
+      "Linux kernel development"
+    ],
+    "job_titles": [
+      "Embedded Linux Systems Software Engineer",
+      "Product Support Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av Ericsson AB\n\n1. Storlek och anställda\n- Globalt teknikföretag baserat i Sverige\n- Har förvärvat Ericpol (2016) med ca 2,300 anställda inom mjukvaruutveckling\n- Exakt antal anställda ej preciserat i tillgängligt material\n\n2. Omsättning och finansiell information\n- Specifik omsättningssiffra ej angiven\n- Verksamma inom telekommunikationsutrustning och tjänster\n- Noterat på börs\n\n3. Värdegrund och kultur\n- Fokus på kommunikationsteknologi och digital transformation\n- Innovation och teknologisk utveckling centralt\n\n4. Huvudsakliga produkter/tjänster\n- Telekommunikationsutrustning\n- Mjukvara och tjänster för mobila och fasta nätverk\n- Enterprise wireless solutions\n- Molntjänster\n\n5. Nyliga nyheter/utveckling\n- Förvärv av Ericpol (2016) för att stärka kompetens inom mjukvaruutveckling\n- Fortsatt fokus på 5G och nästa generations kommunikationsteknologi\n\n6. Teknisk stack och kompetensområden\n- Programmeringsspråk: C++, C, Python\n- Teknologier: Linux kernel, Embedded systems\n- Specialistområden:\n  * Machine Learning\n  * AI\n  * Device drivers\n  * Yocto\n  * Product Lifecycle Management\n\nKällor: Ericsson.com, Forbes, Wikipedia, Zippia, Owler",
+  "search_results": [
+    {
+      "title": "Company facts - Ericsson",
+      "url": "https://www.ericsson.com/en/about-us/company-facts",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We are a world leader in the rapidly changing environment of communications technology – providing equipment, software and services to enable transformation through mobility.",
+      "profile": {
+        "name": "Ericsson",
+        "url": "https://www.ericsson.com/en/about-us/company-facts",
+        "long_name": "ericsson.com",
+        "img": "https://imgs.search.brave.com/_smGRoHaXd0BRZDjpQfdFlqJnAS6hblYOMla423f0eU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUyN2VhYjQz/OWQzZDQ5M2JiNjI1/M2E2NzNkNDk5NmVh/ODM2MzBjZGUyZWU3/MThjOGFjZDlhZGU4/YmRiOGE0Ni93d3cu/ZXJpY3Nzb24uY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "ericsson.com",
+        "hostname": "www.ericsson.com",
+        "favicon": "https://imgs.search.brave.com/_smGRoHaXd0BRZDjpQfdFlqJnAS6hblYOMla423f0eU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUyN2VhYjQz/OWQzZDQ5M2JiNjI1/M2E2NzNkNDk5NmVh/ODM2MzBjZGUyZWU3/MThjOGFjZDlhZGU4/YmRiOGE0Ni93d3cu/ZXJpY3Nzb24uY29t/Lw",
+        "path": "  › home  › about us  › company facts"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/asUuDngUfdGWcUlZZMZbws0u_Jl1Otjv8ZZZLirjcjQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZXJpY3Nzb24uY29t/LzQ5NjQ3ZS9hc3Nl/dHMvZ2xvYmFsL3Fi/YW5rLzIwMTkvMDMv/MjkvbXBfZXJpY3Nz/b25faHFfc2lnbmFn/ZV8yOC04NzM4MmNy/b3AwNzYyNTI2OTI5/NjRyZXNpemUxNTAw/ODQ0YXV0b29yaWVu/dHF1YWxpdHk5MHN0/cmlwYmFja2dyb3Vu/ZDIzZmZmZmZmZXh0/ZW5zaW9uanBnaWQ4/LmpwZw",
+        "original": "https://www.ericsson.com/49647e/assets/global/qbank/2019/03/29/mp_ericsson_hq_signage_28-87382crop076252692964resize1500844autoorientquality90stripbackground23ffffffextensionjpgid8.jpg",
+        "logo": false
+      }
+    },
+    {
+      "title": "Ericsson | Company Overview & News",
+      "url": "https://www.forbes.com/companies/ericsson/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Telefonaktiebolaget LM <strong>Ericsson</strong> engages in the provision of telecommunications equipment and related services to mobile and fixed network operators. It",
+      "profile": {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/companies/ericsson/",
+        "long_name": "forbes.com",
+        "img": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "forbes.com",
+        "hostname": "www.forbes.com",
+        "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+        "path": "› companies  › ericsson"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/p5MiQUX0cOzOBLT4BLM6nZdbnGutbRXIrwAZVfQ95s0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9yYmVzLmNvbS9u/by1waWMv",
+        "original": "https://www.forbes.com/no-pic/",
+        "logo": false
+      }
+    },
+    {
+      "title": "Ericsson - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ericsson",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "In April 2016, <strong>Ericsson</strong> acquired Polish and Ukrainian operations of software development <strong>company</strong> Ericpol, a long-time supplier to <strong>Ericsson</strong>. Approximately 2,300 Ericpol <strong>employees</strong> joined <strong>Ericsson</strong>, bringing software development competence in radio, cloud, and IP.",
+      "page_age": "2024-10-19T02:14:16",
+      "profile": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ericsson",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Ericsson"
+      },
+      "age": "3 weeks ago"
+    },
+    {
+      "title": "Ericsson Revenue: Annual, Quarterly, and Historic - Zippia",
+      "url": "https://www.zippia.com/ericsson-usa-careers-22724/revenue/",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "See all answers to common <strong>company</strong> questions. ... Radio Frequency Systems, Inc. <strong>Revenue</strong> ... U.S. Renal Care <strong>Revenue</strong> ... Radio Frequency Systems, Inc. ... U.S. Renal Care ... U.S. Renal Care Jobs Near Me ... Zippia gives an in-depth look into the details of <strong>Ericsson</strong>, including salaries, political affiliations, <strong>employee</strong> data, and more, in order to <strong>inform</strong> job seekers about ...",
+      "page_age": "2023-07-21T08:00:00",
+      "profile": {
+        "name": "Zippia",
+        "url": "https://www.zippia.com/ericsson-usa-careers-22724/revenue/",
+        "long_name": "zippia.com",
+        "img": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "zippia.com",
+        "hostname": "www.zippia.com",
+        "favicon": "https://imgs.search.brave.com/qhbYrMOtAq2-3MzQtSeYRSfNjPrXQb6ASaJAsEN4GFM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxNWFlMjcy/MDFmOTU5NjU0ZDc4/MTc0MjAyMmRkNWM4/MzE2ZDA2OGYxODEz/ZmNjYmNhM2NiZDZj/M2U2NDI4Zi93d3cu/emlwcGlhLmNvbS8",
+        "path": "› ericsson-usa-careers-22724  › revenue"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/Sieo18U0u-Zd0GXktKRMJDFwVozAUbYjriy1vLZXiYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuemlwcGlhLmNv/bS9hc3NldHMvemlw/cGlhLW9nLWltYWdl/LnBuZw",
+        "original": "https://static.zippia.com/assets/zippia-og-image.png",
+        "logo": false
+      },
+      "age": "July 21, 2023"
+    },
+    {
+      "title": "Ericsson’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/ericsson",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>Ericsson</strong>’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. <strong>Ericsson</strong> is a Sweden-based <strong>company</strong> that operates businesses in areas such as enterprise wireless solutions and cloud software and services for enterprises. <strong>Ericsson</strong>’s primary competitors include Amdocs, Huawei, Nokia and 28 more.",
+      "profile": {
+        "name": "Owler",
+        "url": "https://www.owler.com/company/ericsson",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › ericsson"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:52:40.566183"
+}

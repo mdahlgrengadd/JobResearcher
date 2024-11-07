@@ -1,0 +1,172 @@
+{
+  "company_info": {
+    "name": "SeenThis AB",
+    "descriptions": [
+      "A technology company developing innovative digital solutions for news publishers and media platforms",
+      "A company working on data and technology solutions"
+    ],
+    "industries": [
+      "Technology/Digital Media",
+      "Technology"
+    ],
+    "locations": [
+      "Stockholm"
+    ],
+    "skills": [
+      "JavaScript",
+      "BigQuery",
+      "Svelte",
+      "Cloud Infrastructure",
+      "SQL",
+      "Data warehousing",
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "Kubernetes",
+      "ETL processes"
+    ],
+    "job_titles": [
+      "Senior Software Engineer",
+      "Lead Data Engineer"
+    ]
+  },
+  "analysis": "Sammanfattning av SeenThis AB:\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Mellan 125 (Growjo) och 20 (Dun & Bradstreet) medarbetare\n- Globalt närvarande med åtta kontor\n\n2. Omsättning och finansiell information\n- Årlig intäkt: $18,1 miljoner (Growjo)\n- Försäljning: $3,85 miljoner (Dun & Bradstreet)\n\n3. Företagets värdegrund och kultur\n- Fokus på att forma ett mer effektivt och energisnålt internet\n- Arbetar globalt med kunder i över 50 länder\n- Betjänar över 5 000 klienter\n\n4. Huvudsakliga produkter/tjänster\n- Innovativa teknologiska lösningar för annonsörer och publicister\n- Digital medieteknologi\n- Prestandaoptimering för annonser\n\n5. Nyliga nyheter eller utveckling\n- Ej specifikt identifierat i sources\n\n6. Teknisk stack och kompetensområden\n- Programmeringsspråk: JavaScript, TypeScript, Node.js, Python\n- Cloud-teknologier: Kubernetes, Cloud Infrastructure\n- Data-teknologier: BigQuery, SQL, Data warehousing, ETL-processer\n- Frontend: Svelte\n\nPlats: Stockholm, Sverige\n\nKällor: Growjo, Crunchbase, Dun & Bradstreet, SeenThis karriärsida",
+  "search_results": [
+    {
+      "title": "SeenThis: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/SeenThis",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>SeenThis</strong> top competitors are Funnel.io, Quinyx and CLX Communications <strong>AB</strong> and they have annual <strong>revenue</strong> of $18.1M and 125 <strong>employees</strong>.",
+      "profile": {
+        "name": "Growjo",
+        "url": "https://growjo.com/company/SeenThis",
+        "long_name": "growjo.com",
+        "img": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "growjo.com",
+        "hostname": "growjo.com",
+        "favicon": "https://imgs.search.brave.com/pWqKRocgXy2Jn47IBIlBcUSDVrr5LmrU6kwYD9otGgA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MmJmZWJm/OTAwZmE0MjU0NmQ4/Nzk3YzM4NTg1NmVh/YWYxYjljM2M1YjU3/ZDQ2YmYwN2Y4ODMx/OWE0Y2ZlNS9ncm93/am8uY29tLw",
+        "path": "› company  › SeenThis"
+      }
+    },
+    {
+      "title": "Seenthis AB - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/seenthis-ab",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "<strong>SeenThis</strong> IT service provides innovative new technologies for advertisers and publishers to maximise the performance of their ads.",
+      "profile": {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/seenthis-ab",
+        "long_name": "crunchbase.com",
+        "img": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "crunchbase.com",
+        "hostname": "www.crunchbase.com",
+        "favicon": "https://imgs.search.brave.com/XeBQZ7s3vc5JqDU6Po7ADNs0E1W-Cw07jYI9SaF_k9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzczZDk0MDEy/NDYwMzBjYTE2MWYx/NzhhOGRkZGE4YmQz/NTJlNmMwNDY4N2Ew/MjcwNGU0Mzc4NDA3/YTBlMGIxMy93d3cu/Y3J1bmNoYmFzZS5j/b20v",
+        "path": "› organization  › seenthis-ab"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/ujDuh8edf4FviFy2b5sdwSQuwkgUtXY3LfTWj81iQq0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3J1bmNoYmFz/ZS5jb20vaW1hZ2Uv/dXBsb2FkL2NfcGFk/LGhfMjU2LHdfMjU2/LGZfYXV0byxxX2F1/dG86ZWNvLGRwcl8x/L3phbHdzbnNmeXEy/Y3pib2p3YXdi",
+        "original": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zalwsnsfyq2czbojwawb",
+        "logo": false
+      }
+    },
+    {
+      "title": "Seenthis Company Profile | Management and Employees List",
+      "url": "https://www.datanyze.com/companies/seenthis/372862148",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Find contact <strong>information</strong> <strong>for</strong> <strong>Seenthis</strong>. Learn about their Advertising &amp; Marketing, Business Services market share, competitors, and <strong>Seenthis</strong>&#x27;s email format.",
+      "profile": {
+        "name": "Datanyze",
+        "url": "https://www.datanyze.com/companies/seenthis/372862148",
+        "long_name": "datanyze.com",
+        "img": "https://imgs.search.brave.com/nCq3Ju7EEw59vJYHnGcATgTF8HkU-35OnJea_JqyuzU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDgwMDQzOGI1/Y2NmMTIwNzZmOGNk/NzEwYzI0OWI3Yjdk/YzM3MGRkMDY1NDIw/Zjk1OWMyYWMxZWFk/NTQzMjA3ZS93d3cu/ZGF0YW55emUuY29t/Lw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "faq",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "datanyze.com",
+        "hostname": "www.datanyze.com",
+        "favicon": "https://imgs.search.brave.com/nCq3Ju7EEw59vJYHnGcATgTF8HkU-35OnJea_JqyuzU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDgwMDQzOGI1/Y2NmMTIwNzZmOGNk/NzEwYzI0OWI3Yjdk/YzM3MGRkMDY1NDIw/Zjk1OWMyYWMxZWFk/NTQzMjA3ZS93d3cu/ZGF0YW55emUuY29t/Lw",
+        "path": "  › homepage  › advertising & marketing  › seenthis"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/bRcUqjkqJ43-CKRNp8fUlZ-vE5gMJfW0GuFpORykhyc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vem9vbWluZm8t/Y29tL2ltYWdlL3Vw/bG9hZC93XzcwLGhf/NzAsY19maXQvc2Vl/bnRoaXMuY28",
+        "original": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/seenthis.co",
+        "logo": false
+      }
+    },
+    {
+      "title": "Seenthis AB Company Profile | Stockholm, Stockholm, Sweden | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.seenthis_ab.d2d78a6878fd6142b49629d03b7d09dc.html",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Seenthis AB has 20 employees at this location and generates <strong>$3.85 million</strong> in sales (USD).",
+      "profile": {
+        "name": "Dnb",
+        "url": "https://www.dnb.com/business-directory/company-profiles.seenthis_ab.d2d78a6878fd6142b49629d03b7d09dc.html",
+        "long_name": "dnb.com",
+        "img": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "dnb.com",
+        "hostname": "www.dnb.com",
+        "favicon": "https://imgs.search.brave.com/k5II26FbgJg6jkP4_f0iVfn7TvRAO_cw1KQPiYdHwaU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUzODRhMDAx/OTU0NzhhNGQ1OTcy/MzRiMWFlMTBlMTBk/MDI2Y2RhZGVhOGU5/M2Y2YTQzMDY2Mzgy/N2IzNjI1Ni93d3cu/ZG5iLmNvbS8",
+        "path": "  › home  › business directory  › professional, scientific, and technical services  › computer systems design and related services  › sweden  › stockholm"
+      }
+    },
+    {
+      "title": "Sales - SeenThis",
+      "url": "https://career.seenthis.co/departments/sales",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "Serving billions of streams to over 5,000 clients across 50+ countries worldwide, the <strong>company</strong> is on a journey to reshape the internet — for good. Working across eight offices globally, <strong>SeenThis</strong> <strong>employees</strong> are obsessed with creating a truly high-speed and energy efficient Internet.",
+      "profile": {
+        "name": "SeenThis",
+        "url": "https://career.seenthis.co/departments/sales",
+        "long_name": "career.seenthis.co",
+        "img": "https://imgs.search.brave.com/5RMEVsrRyjjqLN7to9n9DuC8KyVXXefGUdJ5XvIVnyM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTNhZjk5Mjhl/MTMwZDZhNjM3ZWFl/ZGE0ODFhM2NmNzMz/NDQzMjA2ZjFlZTAx/ZGZhMDY3YmVlMjU2/MTljNThjMy9jYXJl/ZXIuc2VlbnRoaXMu/Y28v"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "career.seenthis.co",
+        "hostname": "career.seenthis.co",
+        "favicon": "https://imgs.search.brave.com/5RMEVsrRyjjqLN7to9n9DuC8KyVXXefGUdJ5XvIVnyM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTNhZjk5Mjhl/MTMwZDZhNjM3ZWFl/ZGE0ODFhM2NmNzMz/NDQzMjA2ZjFlZTAx/ZGZhMDY3YmVlMjU2/MTljNThjMy9jYXJl/ZXIuc2VlbnRoaXMu/Y28v",
+        "path": "› departments  › sales"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/rljvWUfa53lGp1BWc1-0g8zBsbfsS8oG4igdLzQ749I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zY3Jl/ZW5zaG90cy50ZWFt/dGFpbG9yLWNkbi5j/b20vYmNjNzI1MWMt/MzY0Yi00MjVjLWJi/MDAtYTJjZjAyZjAw/NTM3LWZhY2Vib29r/LnBuZz91cGRhdGU9/MTY5OTAxMDA2Nw",
+        "original": "https://screenshots.teamtailor-cdn.com/bcc7251c-364b-425c-bb00-a2cf02f00537-facebook.png?update=1699010067",
+        "logo": false
+      }
+    }
+  ],
+  "generated_date": "2024-11-07T02:58:07.985114"
+}
