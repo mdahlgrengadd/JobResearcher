@@ -4,10 +4,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 from collections import Counter
 import json
-from documentation import render_documentation_home
+
 # Set page config
 st.set_page_config(
-    page_title="AI & Python Job Market Analysis",
+    page_title="Affärsmannaskap Branchanalys",
     page_icon="📊",
     layout="wide"
 )
@@ -88,7 +88,7 @@ def show_dashboard(df, skill_freq):
     df = load_and_process_data()
 
     # Dashboard title
-    st.title("AI & Python Jobbmarknadsanalys")
+    st.title("Affärsmannaskap Branchanalys")
     st.header(
         "Analys av AI-, maskininlärnings- och Pythonrelaterade jobb i Sverige")
 
