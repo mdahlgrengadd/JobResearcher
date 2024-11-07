@@ -35,10 +35,39 @@ def display_company_analysis(company_data):
             for loc in info.get('locations', []):
                 st.write(f"- {loc}")
 
-    # Analysis text
+    # Analysis text with improved formatting
     if 'analysis' in company_data:
-        st.subheader("Sammanfattning av företaget")
-        st.write(company_data['analysis'])
+        st.header("Sammanfattning av företaget")
+
+        # Split the analysis text into sections
+        analysis_text = company_data['analysis']
+        sections = analysis_text.split('\n\n')
+
+        for section in sections:
+            if section.strip():
+                lines = section.strip().split('\n')
+
+                # Handle main numbered points
+                if lines[0].startswith(('1.', '2.', '3.', '4.', '5.', '6.')):
+                    main_point = lines[0]
+                    st.markdown(f"### {main_point}")
+
+                    # Handle sub-points
+                    for line in lines[1:]:
+                        if line.strip():
+                            if line.strip().startswith('-'):
+                                # First level bullet points
+                                st.markdown(f"&nbsp;&nbsp;&nbsp;&nbsp;{line}")
+                            elif line.strip().startswith('  -'):
+                                # Second level bullet points (more indented)
+                                st.markdown(
+                                    f"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{line}")
+                            else:
+                                # Regular text under main point
+                                st.markdown(f"&nbsp;&nbsp;&nbsp;&nbsp;{line}")
+
+                    # Add some spacing between sections
+                    st.write("")
 
     # Search Results
     if 'search_results' in company_data:
