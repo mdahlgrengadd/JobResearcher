@@ -75,17 +75,42 @@ def load_and_process_data():
 
         return title_match or skills_match
 
+    df['Has_Python'] = df['Skills'].apply(
+        lambda x: 'Python' in x if isinstance(x, list) else False)
+    df['Has_AI'] = df['Skills'].apply(lambda x: any(skill in x for skill in [
+        'AI', 'Machine Learning', 'Deep Learning', 'Neural Networks', 'NLP']) if isinstance(x, list) else False)
+
     df_filtered = df[df.apply(is_ai_ml_python_related, axis=1)]
     df_filtered['Years of Experience'] = pd.to_numeric(
         df_filtered['Years of Experience'], errors='coerce')
 
-    return df_filtered
+    return df, df_filtered
+
+
+def create_skill_distribution(df):
+    # Flatten skills list and count occurrences
+    all_skills = [skill for skills in df['Skills']
+                  if isinstance(skills, list) for skill in skills]
+    skill_counts = Counter(all_skills)
+
+    # Create DataFrame for plotting
+    skills_df = pd.DataFrame.from_dict(
+        skill_counts, orient='index', columns=['Antal']).reset_index()
+    skills_df.columns = ['Kompetens', 'Antal']
+    skills_df = skills_df.sort_values('Antal', ascending=True)
+
+    # Create horizontal bar chart
+    fig = px.bar(skills_df.tail(15), y='Kompetens', x='Antal',
+                 orientation='h', title='Mest Efterfrågade Kompetenser',
+                 color='Antal', color_continuous_scale='viridis')
+    # fig.update_layout(height=600)
+    return fig
 
 
 def show_dashboard(df, skill_freq):
 
     # Load the data
-    df = load_and_process_data()
+    df, df_filtered = load_and_process_data()
 
     # Dashboard title
     st.title("Affärsmannaskap Branchanalys")
@@ -93,15 +118,16 @@ def show_dashboard(df, skill_freq):
         "Analys av AI-, maskininlärnings- och Pythonrelaterade jobb i Sverige")
 
     # Display basic statistics
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric("Totalt Antal Jobbannonser", len(df))
     with col2:
-        avg_exp = df['Years of Experience'].mean()
-        st.metric("Genomsnittlig erfarenhet som krävs",
-                  f"{avg_exp:.1f} år")
+        st.metric("Python Jobb", df['Has_Python'].sum())
     with col3:
-        st.metric("Städer med Öppna Tjänster", df['Location'].nunique())
+        st.metric("AI/ML Jobb", df['Has_AI'].sum())
+    with col4:
+        avg_exp = df_filtered['Years of Experience'].mean()
+        st.metric("Genomsnittlig erfarenhet som krävs", f"{avg_exp:.1f} år")
 
     # Role Distribution
     st.header("1. Analys av Yrkesroller")
@@ -198,18 +224,20 @@ def show_dashboard(df, skill_freq):
 
         # Most Common Skills
         st.subheader("Mest efterfrågade kompetenser")
-        all_skills = [skill for skills in df['Skills']
-                      if isinstance(skills, list) for skill in skills]
-        skill_counts = pd.Series(Counter(all_skills)).sort_values(
-            ascending=True).tail(15)
+        # all_skills = [skill for skills in df['Skills']
+        #               if isinstance(skills, list) for skill in skills]
+        # skill_counts = pd.Series(Counter(all_skills)).sort_values(
+        #     ascending=True).tail(15)
 
-        fig_skills = px.bar(x=skill_counts.values,
-                            y=skill_counts.index,
-                            orientation='h',
-                            title="Topp 15 efterfrågade kompetenser")
-        fig_skills.update_layout(xaxis_title="Antal jobbannonser",
-                                 yaxis_title="Kompetens")
-        st.plotly_chart(fig_skills, use_container_width=True)
+        # fig_skills = px.bar(x=skill_counts.values,
+        #                     y=skill_counts.index,
+        #                     orientation='h',
+        #                     title="Topp 15 efterfrågade kompetenser")
+        # fig_skills.update_layout(xaxis_title="Antal jobbannonser",
+        #                          yaxis_title="Kompetens")
+        # st.plotly_chart(fig_skills, use_container_width=True)
+        st.plotly_chart(create_skill_distribution(df),
+                        use_container_width=True)
 
         # Common fields of study
         st.subheader("Vanligaste studieinriktningar")
