@@ -2,26 +2,28 @@
   "company_info": {
     "name": "WEON GALAXY AB",
     "descriptions": [
-      "Technology company"
+      "A technology startup"
     ],
     "industries": [
       "Technology"
     ],
     "locations": [
-      "Gothenburg"
+      "Göteborg"
     ],
     "skills": [
-      "Cuda",
+      "Torch",
+      "Machine Learning",
       "Python",
       "Git",
-      "Torch",
-      "Linux"
+      "Linux",
+      "Cuda",
+      "Computer Vision"
     ],
     "job_titles": [
       "Machine Learning Engineer in Computer Vision"
     ]
   },
-  "analysis": "Baserat på den tillgängliga informationen kan jag göra följande begränsade sammanfattning:\n\n1. Företagets storlek och antal anställda:\n- Ingen specifik information tillgänglig om antalet anställda\n\n2. Omsättning och finansiell information:\n- Ingen specifik finansiell information tillgänglig\n\n3. Företagets värdegrund och kultur:\n- Ingen specifik information tillgänglig\n\n4. Huvudsakliga produkter/tjänster:\n- Teknologiföretag med fokus på datorteknik\n- Arbetar med Computer Vision och maskininlärning (baserat på jobbannonser)\n\n5. Nyliga nyheter eller utveckling:\n- Ingen specifik information tillgänglig\n\n6. Teknisk stack och kompetensområden:\n- Teknologier som används inkluderar:\n  * CUDA\n  * Python\n  * Git\n  * Torch\n  * Linux\n- Fokus på Computer Vision och maskininlärning (från jobbannonser)\n\nFöretaget är baserat i Göteborg, Sverige. \n\nNotera: Informationen är mycket begränsad och flera av länkarna som tillhandahölls refererar till andra företag (WeWork, Samsung) som inte verkar ha någon koppling till WEON GALAXY AB. För en mer komplett bild skulle ytterligare källor behövas.\n\nKälla: Huvudsakligen baserad på den tillhandahållna jobbannons-informationen samt företagsregistreringen på allabolag.se.",
+  "analysis": "Sammanfattning av WEON GALAXY AB\n\n1. Företagets storlek och antal anställda\n- Begränsad information tillgänglig\n- Framstår som en liten teknologistartup baserad i Göteborg [Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Ingen specifik finansiell information hittad\n- Statusen som startup indikerar troligen begränsad omsättning\n\n3. Företagets värdegrund och kultur\n- Inget konkret underlag för att bedöma företagets specifika kultur\n\n4. Huvudsakliga produkter/tjänster\n- Teknologiföretag med fokus på Machine Learning och Computer Vision [Källa: Jobbannonser]\n\n5. Nyliga nyheter eller utveckling\n- Ingen specifik information hittad\n\n6. Teknisk stack och kompetensområden\nTekniska kompetenser:\n- Programmeringsspråk: Python\n- Teknologier: \n  * Machine Learning\n  * Computer Vision\n  * Torch\n  * Cuda\n- Utvecklingsverktyg: Git, Linux [Källa: Jobbannonser]\n\nAnmärkning: Informationen är begränsad och baserad på mycket lite underlag. En mer omfattande utredning skulle kräva ytterligare research.",
   "search_results": [
     {
       "title": "WeWork - Wikipedia",
@@ -81,7 +83,7 @@
         "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Witch_Garden_in_WeWork_Jongno_Tower_-_Seoul%2C_South_Korea_%2802%29.jpg",
         "logo": false
       },
-      "age": "4 days ago"
+      "age": "3 days ago"
     },
     {
       "title": "WEON GALAXY AB - Företagsinformation",
@@ -166,15 +168,15 @@
       }
     },
     {
-      "title": "Samsung - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Samsung",
+      "title": "Samsung Electronics - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Electronics",
       "is_source_local": false,
       "is_source_both": false,
-      "description": "The fine came due to misleading water resistance claims for over 3.1 million smartphones. The commission stated that during 2016–2018 the <strong>company</strong> advertised its <strong>Galaxy</strong> S7, S7 Edge, A5, A7, S8, S8 Plus and Note 8 devices as able to survive short immersion in water.",
-      "page_age": "2024-11-07T04:07:24",
+      "description": "As of 2019, Samsung Electronics ... <strong>company</strong> <strong>by</strong> <strong>revenue</strong>, and its market capitalization stood at US$520.65 billion, the 12th largest in the world. It ranks as the world&#x27;s largest manufacturer of smartphones since 2011 — starting with the original Samsung Solstice, and most notably its Samsung <strong>Galaxy</strong> brand and ...",
+      "page_age": "2024-11-06T00:12:09",
       "profile": {
         "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Samsung",
+        "url": "https://en.wikipedia.org/wiki/Samsung_Electronics",
         "long_name": "en.wikipedia.org",
         "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
       },
@@ -187,15 +189,15 @@
         "netloc": "en.wikipedia.org",
         "hostname": "en.wikipedia.org",
         "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
-        "path": "› wiki  › Samsung"
+        "path": "› wiki  › Samsung_Electronics"
       },
       "thumbnail": {
-        "src": "https://imgs.search.brave.com/cdErGozugXJYIgjRjUcS5dbf6OIIoOC9udl9Y0a2F7k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2UyL1NhbXN1bmdf/aGVhZHF1YXJ0ZXJz/LmpwZw",
-        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Samsung_headquarters.jpg",
+        "src": "https://imgs.search.brave.com/3in57xrDeRf10Lk2rhO9-3WykvMB14yhyLlycK5pUms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1NhbXN1bmdf/RGlnaXRhbF9Db21w/bGV4JTJDX1N1d29u/Xy1fcGFub3JhbWlv/LmpwZw",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Samsung_Digital_Complex%2C_Suwon_-_panoramio.jpg",
         "logo": false
       },
-      "age": "16 hours ago"
+      "age": "1 day ago"
     }
   ],
-  "generated_date": "2024-11-07T20:58:51.059593"
+  "generated_date": "2024-11-07T03:11:05.303652"
 }

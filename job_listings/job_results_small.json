@@ -1,0 +1,657 @@
+{
+  "Search query": "AI-utvecklare ML machine learning",
+  "Search Engine": "platsbanken",
+  "Total Jobs Found": 27,
+  "Pages Processed": 3,
+  "Jobs": [
+    {
+      "Company": "Axis Communications AB",
+      "Company Description": "A global company delivering world-class, high-quality products, services, and solutions",
+      "Company Size": "Large",
+      "Company Industry": "Technology/Network Cameras",
+      "Location": "Lund",
+      "Jobtitle": "AI Engineer - Generative AI Initiative",
+      "Education": "Bachelor's or Master's degree in Computer Science, Engineering, or related field",
+      "Previous Experience": "Experience with Python, Linux development, information retrieval systems, data processing",
+      "Years of Experience": 5,
+      "Skills": [
+        "Python",
+        "Machine Learning",
+        "RAG Architectures",
+        "Search Algorithms",
+        "Data Processing"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Design, develop, and deploy advanced search and retrieval systems leveraging retrieval-augmented generation (RAG) techniques"
+    },
+    {
+      "Company": "Cognizant Technology Solutions Sweden AB",
+      "Company Description": "Global technology and consulting company",
+      "Company Size": "Large",
+      "Company Industry": "IT Services",
+      "Location": "Stockholm",
+      "Jobtitle": "AI Infrastructure Engineer",
+      "Education": "Bachelor's or Master's degree in Computer Science, Engineering, or related field",
+      "Previous Experience": "Experience with Azure Open AI, cloud platforms, data management",
+      "Years of Experience": 5,
+      "Skills": [
+        "Azure",
+        "Machine Learning",
+        "Cloud Infrastructure",
+        "Python",
+        "Kubernetes"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Design, build, and maintain infrastructure for generative AI model development and deployment on Azure"
+    },
+    {
+      "Company": "Baronit AB",
+      "Company Description": "IT consultancy company connecting tech experts",
+      "Company Size": "Medium",
+      "Company Industry": "IT Consulting",
+      "Location": "Gothenburg",
+      "Jobtitle": "Senior AI/ML Engineer",
+      "Education": "Bachelor's or Master's degree in Computer Science, Engineering",
+      "Previous Experience": "8+ years in AI/ML development, cloud platforms, MLOps",
+      "Years of Experience": 8,
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "MLOps",
+        "Cloud Platforms",
+        "DevOps"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Design, build, and optimize advanced AI and machine learning solutions with focus on scalable, high-performance systems"
+    },
+    {
+      "Company": "Techster Solutions AB",
+      "Company Description": "IT consulting company in growth phase",
+      "Company Size": "Small",
+      "Company Industry": "IT Consulting",
+      "Location": "Gothenburg",
+      "Jobtitle": "Senior AI/ML Architect",
+      "Education": "Bachelor's or Master's degree in Computer Science, AI, Machine Learning",
+      "Previous Experience": "10+ years AI/ML experience, 5 years in senior consulting roles",
+      "Years of Experience": 10,
+      "Skills": [
+        "AI Strategy",
+        "Machine Learning",
+        "AI Governance",
+        "Platform Management",
+        "AI Compliance"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Optimize AI/ML ecosystem, establish governance structure, develop strategic roadmaps for AI implementation"
+    },
+    {
+      "Company": "Professional Galaxy AB",
+      "Company Description": "IT recruitment and consulting company",
+      "Company Size": "Medium",
+      "Company Industry": "IT Services",
+      "Location": "Gothenburg",
+      "Jobtitle": "Generative AI Full stack Developer - Senior",
+      "Education": "Bachelor's or Master's degree in Computer Science, Artificial Intelligence",
+      "Previous Experience": "2+ years AI development, 4+ years software engineering",
+      "Years of Experience": 4,
+      "Skills": [
+        "Python",
+        "Generative AI",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop and implement generative AI models for automotive product development"
+    },
+    {
+      "Company": "Electrolux",
+      "Company Description": "Global appliance company",
+      "Company Size": "Large",
+      "Company Industry": "Consumer Electronics",
+      "Location": "Stockholm",
+      "Jobtitle": "Engineering Manager - Global Data and AI Platform",
+      "Education": "Bachelor's degree in Computer Science, Data Science, Engineering",
+      "Previous Experience": "5+ years managing cloud data and AI platforms",
+      "Years of Experience": 5,
+      "Skills": [
+        "Azure",
+        "Machine Learning",
+        "Data Governance",
+        "Cloud Platforms",
+        "AI Technologies"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Lead design, deployment, and maintenance of data and AI platforms, ensure platform reliability and performance"
+    },
+    {
+      "Company": "AstraZeneca",
+      "Company Description": "Global, science-led biopharmaceutical business",
+      "Company Size": "Large",
+      "Company Industry": "Pharmaceuticals",
+      "Location": "Gothenburg",
+      "Jobtitle": "Data Science and AI Student Work Placement",
+      "Education": "Undergraduate or Master's student in data science and AI",
+      "Previous Experience": "Programming experience preferred",
+      "Years of Experience": 0,
+      "Skills": [
+        "Machine Learning",
+        "Data Science",
+        "AI",
+        "Molecular Simulations",
+        "Data Analysis"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "12-month placement developing AI tools for drug discovery and disease progression monitoring"
+    },
+    {
+      "Company": "BrightBid AB",
+      "Company Description": "AdTech company using AI for Google Ads recommendations",
+      "Company Size": "Small",
+      "Company Industry": "AdTech",
+      "Location": "Stockholm",
+      "Jobtitle": "Lead AI Engineer",
+      "Education": "Master's degree in Mathematics, Physics, Computer Science",
+      "Previous Experience": "6+ years developing ML models in production",
+      "Years of Experience": 6,
+      "Skills": [
+        "Machine Learning",
+        "Python",
+        "Large Language Models",
+        "AI Algorithms",
+        "Production Deployment"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop advanced algorithms for ad targeting, bidding strategies, and generative AI solutions"
+    },
+    {
+      "Company": "Softhouse Nordic AB",
+      "Company Description": "IT consulting company",
+      "Company Size": "Medium",
+      "Company Industry": "IT Consulting",
+      "Location": "Stockholm",
+      "Jobtitle": "AI/ML-utvecklare",
+      "Education": "Master's degree or PhD in relevant field",
+      "Previous Experience": "5+ years AI/ML development with Python",
+      "Years of Experience": 5,
+      "Skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Data Science"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Help customers plan and realize AI/ML projects, develop Proof-of-Concepts and solutions"
+    },
+    {
+      "Company": "Kungliga Tekniska Högskolan (KTH)",
+      "Company Description": "Leading technical university",
+      "Company Size": "Large",
+      "Company Industry": "Education/Research",
+      "Location": "Stockholm",
+      "Jobtitle": "Postdoktor inom pålitlig AI-implementering",
+      "Education": "PhD in Computer Science, AI, or related field",
+      "Previous Experience": "Research experience in AI, ML, or data science",
+      "Years of Experience": 3,
+      "Skills": [
+        "AI Governance",
+        "Machine Learning",
+        "AI Compliance",
+        "Legal Technology",
+        "Research"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "Develop technical guidelines for AI Act compliance, focusing on transparency, privacy, and ethical AI implementation"
+    },
+    {
+      "Company": "TietoEvry",
+      "Company Description": "A leading IT company specializing in mobile communication and 5G development",
+      "Company Size": "Over 24,000 employees",
+      "Company Industry": "IT and Technology",
+      "Location": "Skellefteå",
+      "Jobtitle": "Utvecklare (Developer)",
+      "Education": "Higher education in computer science, technical physics, electrical engineering or similar",
+      "Previous Experience": "1-2 years of development and programming experience",
+      "Years of Experience": 2,
+      "Skills": [
+        "C/C++",
+        "GO",
+        "Python",
+        "AI/ML",
+        "Microservices",
+        "Containers",
+        "Linux",
+        "Software security"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "Work on product development in 5G mobile communication, developing new functions in a large real-time system with virtualization of traffic control software in radio access networks"
+    },
+    {
+      "Company": "Kodexe",
+      "Company Description": "IT consulting firm specializing in digital solutions",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Malmö",
+      "Jobtitle": "Utvecklare (Developer)",
+      "Education": "IT education or self-taught with genuine programming interest",
+      "Previous Experience": "Aim to develop towards full-stack development",
+      "Years of Experience": 0,
+      "Skills": [
+        "C#",
+        "Visual Studio",
+        "VS Code",
+        "ASP.NET",
+        "React",
+        "HTML",
+        "JavaScript",
+        "TypeScript",
+        "CSS"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Work on software development, web and app development, strategy and system architecture"
+    },
+    {
+      "Company": "AI Sweden",
+      "Company Description": "National center for applied artificial intelligence",
+      "Company Size": null,
+      "Company Industry": "AI Research and Development",
+      "Location": "Sweden",
+      "Jobtitle": "AI-ingenjör och data scientist (AI Engineer and Data Scientist)",
+      "Education": "Degree in computer science, system science, data engineering or related field",
+      "Previous Experience": "3+ years of machine learning development experience",
+      "Years of Experience": 3,
+      "Skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Git",
+        "Docker",
+        "Machine Learning",
+        "Federated Learning"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Work on AI/ML techniques for energy sector optimization and grid analysis"
+    },
+    {
+      "Company": "Husqvarna Group",
+      "Company Description": "World's largest producer of outdoor power products",
+      "Company Size": null,
+      "Company Industry": "Manufacturing and Technology",
+      "Location": "Huskvarna, Stockholm, or Jonsered",
+      "Jobtitle": "AI Domain Architect",
+      "Education": "Bachelor's, Master's, or Ph.D. in Computer Science or Software Engineering",
+      "Previous Experience": "5+ years as Solution, Domain, or Enterprise Architect",
+      "Years of Experience": 5,
+      "Skills": [
+        "AI Strategy",
+        "Data Architecture",
+        "Machine Learning",
+        "Cloud Technologies",
+        "AWS",
+        "Azure",
+        "AI Governance"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop and implement AI strategies, create AI architecture standards, and collaborate across departments"
+    },
+    {
+      "Company": "Curamet AB",
+      "Company Description": "IT company delivering innovative solutions across various industries",
+      "Company Size": null,
+      "Company Industry": "IT Services",
+      "Location": "Malmö",
+      "Jobtitle": "Data Science / AI Engineer",
+      "Education": "Bachelor's or Master's in Computer Science, Data Science, Statistics, or Mathematics",
+      "Previous Experience": "3+ years in data science, machine learning, or AI engineering",
+      "Years of Experience": 3,
+      "Skills": [
+        "Python",
+        "R",
+        "Java",
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "Keras",
+        "Machine Learning",
+        "Cloud Platforms",
+        "Docker",
+        "Kubernetes"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Design, develop, and deploy machine learning models and AI solutions for business problems"
+    },
+    {
+      "Company": "Sharkmob",
+      "Company Description": "Game development studio creating AAA-quality games",
+      "Company Size": null,
+      "Company Industry": "Video Game Development",
+      "Location": "Malmö",
+      "Jobtitle": "Senior Gameplay/AI Engineer",
+      "Education": null,
+      "Previous Experience": "Several years of game development experience",
+      "Years of Experience": 5,
+      "Skills": [
+        "C++",
+        "Game AI",
+        "Unreal Engine",
+        "Performance Optimization",
+        "Game Development"
+      ],
+      "Languages": [],
+      "Job Description": "Create interesting and polished AI behaviors for game agents, work on performance and agent interactions"
+    },
+    {
+      "Company": "Spiruetta AB",
+      "Company Description": "IT consulting firm",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Stockholm",
+      "Jobtitle": "DW Utvecklare (Data Warehouse Developer)",
+      "Education": null,
+      "Previous Experience": "Experience with SQL and ETL/ELT processes",
+      "Years of Experience": 0,
+      "Skills": [
+        "SQL",
+        "Azure Data Factory",
+        "Synapse",
+        "Databricks",
+        "Python",
+        "Azure Machine Learning",
+        "Azure Fabric",
+        "Qlik Sense"
+      ],
+      "Languages": [],
+      "Job Description": "Develop and maintain data warehouses and data pipelines in a corporate environment"
+    },
+    {
+      "Company": "Aveer",
+      "Company Description": "IT consulting firm providing high-quality IT and business solutions",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": null,
+      "Jobtitle": "Konsult inom AI/Machine Learning (AI/Machine Learning Consultant)",
+      "Education": null,
+      "Previous Experience": null,
+      "Years of Experience": 0,
+      "Skills": [
+        "AI",
+        "Machine Learning",
+        "Windows Platform",
+        "iOS Platform",
+        "Model Optimization",
+        "Cloud AI Solutions"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Investigate and evaluate AI models for local and cloud implementation, performance testing, and strategic recommendations"
+    },
+    {
+      "Company": "Combitech",
+      "Company Description": "Nordic tech solution and consulting partner",
+      "Company Size": "2200 experts",
+      "Company Industry": "Technology Consulting",
+      "Location": "Linköping",
+      "Jobtitle": "Master Thesis: Leveraging AI Technology",
+      "Education": "Engineering or related technical field",
+      "Previous Experience": null,
+      "Years of Experience": 0,
+      "Skills": [
+        "AI",
+        "Machine Learning",
+        "Safety Assurance",
+        "Research",
+        "Data Analysis"
+      ],
+      "Languages": [],
+      "Job Description": "Research AI integration into safety assurance frameworks, develop conceptual models, and evaluate effectiveness"
+    },
+    {
+      "Company": "DBtune",
+      "Company Description": "Innovative startup specializing in AI-driven PostgreSQL database optimization",
+      "Company Size": null,
+      "Company Industry": "Database Technology",
+      "Location": "Malmö",
+      "Jobtitle": "Database Engineer",
+      "Education": "Degree in Computer Science or related field",
+      "Previous Experience": "3+ years as PostgreSQL Database Engineer or Administrator",
+      "Years of Experience": 3,
+      "Skills": [
+        "PostgreSQL",
+        "Python",
+        "Database Performance Tuning",
+        "ETL/ELT Processes",
+        "Azure Data Factory",
+        "Synapse",
+        "Databricks",
+        "Machine Learning"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Contribute to AI-driven database optimization engine, perform performance optimization, and support database operations"
+    },
+    {
+      "Company": "Schibsted Sverige AB",
+      "Company Description": "Schibsted Media Group includes some of the strongest media brands in the Nordics, with nearly seven million daily users and 2,800 employees across multiple countries.",
+      "Company Size": "2,800 employees",
+      "Company Industry": "Media and Technology",
+      "Location": "Stockholm",
+      "Jobtitle": "Full Stack Engineer - AI Team",
+      "Education": "Technical degree or equivalent in computer science",
+      "Previous Experience": "Proven experience in full stack development with AI focus",
+      "Years of Experience": 3,
+      "Skills": [
+        "React",
+        "JavaScript/TypeScript",
+        "Node.js",
+        "Git",
+        "AI/Machine Learning",
+        "NLP",
+        "Cloud platforms"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop and enhance editorial tools with AI-powered features, collaborate with newsrooms, integrate AI solutions, and maintain high code quality and application performance."
+    },
+    {
+      "Company": "Deploja AB",
+      "Company Description": "Consulting company specializing in technology services including system development, AI, machine learning, and IT project management",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Gävle",
+      "Jobtitle": "Senior Java Utvecklare",
+      "Education": "Technical higher education or equivalent",
+      "Previous Experience": "9-12 years of experience in software development",
+      "Years of Experience": 10,
+      "Skills": [
+        "Java",
+        "Kotlin",
+        "JavaScript/TypeScript",
+        "Spring",
+        "Spring Boot",
+        "HTML & CSS",
+        "MS SQL Server",
+        "Test Automation",
+        "Linux/RedHat",
+        "OpenShift",
+        "Jira"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Job Description": "System management, further development of applications, and new development in a consulting role"
+    },
+    {
+      "Company": "Combine Control Systems AB",
+      "Company Description": "Technology company specializing in innovative solutions in Data Science, AI, embedded systems, and control engineering",
+      "Company Size": null,
+      "Company Industry": "Technology and Innovation",
+      "Location": "Gothenburg",
+      "Jobtitle": "Data Engineer / Machine Learning / AI / Cloud",
+      "Education": "Master's degree in computer science or information technology",
+      "Previous Experience": "At least two years of experience working with large datasets and cloud technologies",
+      "Years of Experience": 2,
+      "Skills": [
+        "Python",
+        "Scala",
+        "SQL",
+        "NoSQL databases",
+        "Git",
+        "CI/CD",
+        "Cloud platforms",
+        "AWS",
+        "Google Cloud",
+        "Azure"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "Create automated data pipelines, analyze data, develop AI solutions, and support cross-functional teams"
+    },
+    {
+      "Company": "Sogeti Sverige AB",
+      "Company Description": "Part of Capgemini, providing IT services with 21 offices and 1,300 employees, focusing on technology innovation",
+      "Company Size": "1,300 employees",
+      "Company Industry": "IT Services",
+      "Location": "Luleå",
+      "Jobtitle": "BI-utvecklare",
+      "Education": "Relevant technical higher education",
+      "Previous Experience": "Multiple years of experience in Business Intelligence",
+      "Years of Experience": 5,
+      "Skills": [
+        "Azure",
+        "Cloud",
+        "Power BI",
+        "SQL Server",
+        "SSIS",
+        "SSRS",
+        "SSAS",
+        "Data management"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Work with BI technologies, develop data platforms, and help customers make better business decisions"
+    },
+    {
+      "Company": "Deploja AB",
+      "Company Description": "Consulting company specializing in technology services including system development, AI, machine learning, and IT project management",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Stockholm",
+      "Jobtitle": "Senior Frontend-utvecklare med UX-intresse",
+      "Education": null,
+      "Previous Experience": "Long experience in frontend development",
+      "Years of Experience": 5,
+      "Skills": [
+        "React",
+        "NextJS",
+        "Material-UI",
+        "Kotlin",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "Docker",
+        "Gitlab"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Job Description": "Work in a data-driven team developing metadata solutions with high autonomy and innovation focus"
+    },
+    {
+      "Company": "We Are Animal OOO AB",
+      "Company Description": "Startup creating a global digital planning and communication platform for breeders and pet owners",
+      "Company Size": null,
+      "Company Industry": "Technology and Animal Services",
+      "Location": "Remote",
+      "Jobtitle": "Fullstack-utvecklare / Tech Lead",
+      "Education": "Postgraduate education in Data or related field",
+      "Previous Experience": "Backend software development experience",
+      "Years of Experience": 2,
+      "Skills": [
+        "NextJS",
+        "Postgres",
+        "Node",
+        "Fastify",
+        "AWS",
+        "Contentful",
+        "API design",
+        "Database management"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "Develop AI-powered digital assistant for animal breeding and genetics, work closely with company leadership"
+    },
+    {
+      "Company": "Lindholmen Science Park AB",
+      "Company Description": "National centre for applied artificial intelligence, funded by Swedish government and partners",
+      "Company Size": null,
+      "Company Industry": "AI and Technology",
+      "Location": "Gothenburg and Stockholm",
+      "Jobtitle": "Full-stack developer with backend focus",
+      "Education": null,
+      "Previous Experience": "2+ years of backend software development",
+      "Years of Experience": 2,
+      "Skills": [
+        "PHP",
+        "Laravel",
+        "Python",
+        "API design",
+        "SQL databases",
+        "NoSQL databases",
+        "PostgreSQL",
+        "Vector databases",
+        "Vue.js"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop and maintain a digital AI assistant for the Swedish public sector, design backend infrastructure"
+    }
+  ]
+}

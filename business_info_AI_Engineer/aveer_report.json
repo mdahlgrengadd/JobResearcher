@@ -2,28 +2,58 @@
   "company_info": {
     "name": "Aveer",
     "descriptions": [
-      "IT-konsultfirma som fokuserar på att tillhandahålla högkvalitativa konsulttjänster inom IT- och affärslösningar"
+      "IT consulting firm providing high-quality consulting services in IT and business solutions",
+      "IT consulting firm providing high-quality consulting services",
+      "An IT consulting firm focusing on high-quality IT and business solutions",
+      "An IT consulting firm focusing on providing high-quality IT and business solution consulting services"
     ],
     "industries": [
       "IT Consulting"
     ],
     "locations": [
-      "Stockholm"
+      "Sweden",
+      "Not specified"
     ],
     "skills": [
-      "Keras",
-      "PyTorch",
-      "TensorFlow",
+      "NoSQL",
+      "Machine Learning",
+      "Spring Boot",
+      "ROS",
+      "Microservices",
+      "React",
+      "JavaScript",
+      "Azure",
+      "Sensor systems",
+      "Image recognition",
+      "MongoDB",
+      "Apache Airflow",
       "Python",
-      "Cloud platforms",
-      "ML model deployment",
-      "Data infrastructure"
+      "Hadoop",
+      "ETL processes",
+      "Big data technologies",
+      "Java",
+      "C++",
+      "Luigi",
+      "Kafka",
+      "Spark",
+      "AI",
+      "Cloud Infrastructure",
+      "Cloud services",
+      "Docker",
+      "SQL",
+      "Kubernetes",
+      "Scala",
+      "AI infrastructure",
+      "AWS"
     ],
     "job_titles": [
-      "Machine Learning Engineer"
+      "Robotics Engineer",
+      "Software Application Engineer",
+      "AI Infrastructure Engineer",
+      "Data Engineer"
     ]
   },
-  "analysis": "Här är en strukturerad sammanfattning av Aveer baserat på den tillgängliga informationen:\n\n1. Företagets storlek och antal anställda:\n- Ingen specifik information om antalet anställda finns tillgänglig i källmaterialet\n\n2. Omsättning och finansiell information:\n- Omsättning: INR 1 cr - 100 cr (enligt Tofler)\n- EBITDA minskade med 5.62% jämfört med föregående år (enligt Tofler)\n\n3. Företagets värdegrund och kultur:\n- Ingen specifik information tillgänglig i källmaterialet\n\n4. Huvudsakliga produkter/tjänster:\n- IT-konsulttjänster med fokus på IT- och affärslösningar (från jobbannonser)\n- Utveckling av radiofrekvensidentifikationssystem (RFID) (enligt Crunchbase)\n\n5. Nyliga nyheter eller utveckling:\n- Ingen specifik information tillgänglig i källmaterialet\n\n6. Teknisk stack och kompetensområden:\nBaserat på jobbannonser söker företaget kompetenser inom:\n- Machine Learning: Keras, PyTorch, TensorFlow\n- Programmeringsspråk: Python\n- Molnplattformar\n- ML-modellimplementering\n- Datainfrastruktur\n\nGeografisk närvaro:\n- Kontor i Stockholm (enligt jobbannonser)\n- Registrerad närvaro i Storbritannien (enligt Companies House)\n- Verksamhet i Quebec, Kanada (enligt Apollo)\n\nNotera: Det finns viss tvetydighet i informationen då olika källor kan referera till olika företag med samma namn. Vissa uppgifter kan behöva verifieras ytterligare.",
+  "analysis": "Sammanfattning av Aveer:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda ej bekräftat\n- Verkar vara ett litet till mellanstort IT-konsultföretag\n[Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Begränsad information\n- Ett annat bolag ved namnet Aveer Foods Limited har en omsättning på 1-100 miljoner INR\n[Källa: Tofler.in]\n\n3. Värdegrund och kultur\n- Fokus på högkvalitativa IT- och affärslösningar\n- Konsultinriktad verksamhet\n[Källa: Jobbannonser]\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulting\n- Affärslösningar\n- Utveckling av radio frequency identification (RFID) system\n[Källa: Crunchbase, Jobbannonser]\n\n5. Teknisk stack och kompetensområden\nHuvudsakliga teknologier:\n- Programmeringsspråk: Python, Java, JavaScript, C++, Scala\n- Molntjänster: Azure, AWS\n- Big Data: Hadoop, Spark, Kafka\n- AI/ML: Machine Learning, AI Infrastructure\n- Infrastruktur: Docker, Kubernetes, Microservices\n[Källa: Jobbannonser]\n\n6. Nyliga nyheter eller utveckling\n- Inga specifika nyheter identifierade\n- Rekryterar inom roller som Robotics Engineer, AI Infrastructure Engineer\n\nAnmärkning: Informationen är fragmentarisk och kommer från olika källor. En komplett profil kräver ytterligare research.",
   "search_results": [
     {
       "title": "Aveer Financial Overview, Employee Count, and Competitors | Apollo",
@@ -60,7 +90,7 @@
       "is_source_local": false,
       "is_source_both": false,
       "description": "All Companies › Maharashtra › ... FOODS LIMITED for the financial year ending on 31 March, 2023. Revenue / turnover of AVEER FOODS LIMITED is <strong>INR 1 cr - 100 cr</strong>...",
-      "page_age": "2020-08-17T19:56:52",
+      "page_age": "2020-08-17T01:35:09",
       "profile": {
         "name": "Tofler",
         "url": "https://www.tofler.in/aveer-foods-limited/company/U15549PN2019PLC183457/financials",
@@ -84,37 +114,6 @@
         "logo": true
       },
       "age": "August 17, 2020"
-    },
-    {
-      "title": "AVEER FOODS LIMITED - Company Profile, Directors, Revenue & More - Tofler",
-      "url": "https://www.tofler.in/aveer-foods-limited/company/U15549PN2019PLC183457",
-      "is_source_local": false,
-      "is_source_both": false,
-      "description": "The operating revenue of AVEER FOODS LIMITED is in the range of <strong>INR 1 cr - 100 cr</strong> for the financial year ending on 31 March, 2023. What is the change in EBITDA of AVEER FOODS LIMITED since last year? The EBITDA of AVEER FOODS LIMITED has decreased by -5.62 % over the previous year.",
-      "page_age": "2020-09-01T19:56:52",
-      "profile": {
-        "name": "Tofler",
-        "url": "https://www.tofler.in/aveer-foods-limited/company/U15549PN2019PLC183457",
-        "long_name": "tofler.in",
-        "img": "https://imgs.search.brave.com/JBXr2ZBVBQVW9hNvuzJnmnv23hRNbuH9w1EsxITDqJM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzkzMDlmZjdj/MTNmYTRiZTMwMmJk/OGE3YjdjOGE1MDA5/YjA0NTFhYTdmMTA3/ZjA0NTdhNGM2ZDAx/NDU4MjdhNC93d3cu/dG9mbGVyLmluLw"
-      },
-      "language": "en",
-      "family_friendly": true,
-      "type": "search_result",
-      "subtype": "video",
-      "meta_url": {
-        "scheme": "https",
-        "netloc": "tofler.in",
-        "hostname": "www.tofler.in",
-        "favicon": "https://imgs.search.brave.com/JBXr2ZBVBQVW9hNvuzJnmnv23hRNbuH9w1EsxITDqJM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzkzMDlmZjdj/MTNmYTRiZTMwMmJk/OGE3YjdjOGE1MDA5/YjA0NTFhYTdmMTA3/ZjA0NTdhNGM2ZDAx/NDU4MjdhNC93d3cu/dG9mbGVyLmluLw",
-        "path": "  › all companies  › maharashtra  › manufacturing of food products  › aveer foods limited"
-      },
-      "thumbnail": {
-        "src": "https://imgs.search.brave.com/5obtM2s7lm0cPDb-ZbrCVe7PmBjyd5EXJ-3QjKJc-VU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dG9mbGVyLmluL2lt/YWdlcy9sb2dvX29w/dC5wbmc",
-        "original": "https://www.tofler.in/images/logo_opt.png",
-        "logo": true
-      },
-      "age": "September 1, 2020"
     },
     {
       "title": "AVEER LTD overview - Find and update company information - GOV.UK",
@@ -146,6 +145,37 @@
       }
     },
     {
+      "title": "AVEER FOODS LIMITED - Company Profile, Directors, Revenue & More - Tofler",
+      "url": "https://www.tofler.in/aveer-foods-limited/company/U15549PN2019PLC183457",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "The operating revenue of AVEER FOODS LIMITED is in the range of <strong>INR 1 cr - 100 cr</strong> for the financial year ending on 31 March, 2023. What is the change in EBITDA of AVEER FOODS LIMITED since last year? The EBITDA of AVEER FOODS LIMITED has decreased by -5.62 % over the previous year.",
+      "page_age": "2020-09-01T01:35:09",
+      "profile": {
+        "name": "Tofler",
+        "url": "https://www.tofler.in/aveer-foods-limited/company/U15549PN2019PLC183457",
+        "long_name": "tofler.in",
+        "img": "https://imgs.search.brave.com/JBXr2ZBVBQVW9hNvuzJnmnv23hRNbuH9w1EsxITDqJM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzkzMDlmZjdj/MTNmYTRiZTMwMmJk/OGE3YjdjOGE1MDA5/YjA0NTFhYTdmMTA3/ZjA0NTdhNGM2ZDAx/NDU4MjdhNC93d3cu/dG9mbGVyLmluLw"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "video",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "tofler.in",
+        "hostname": "www.tofler.in",
+        "favicon": "https://imgs.search.brave.com/JBXr2ZBVBQVW9hNvuzJnmnv23hRNbuH9w1EsxITDqJM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzkzMDlmZjdj/MTNmYTRiZTMwMmJk/OGE3YjdjOGE1MDA5/YjA0NTFhYTdmMTA3/ZjA0NTdhNGM2ZDAx/NDU4MjdhNC93d3cu/dG9mbGVyLmluLw",
+        "path": "  › all companies  › maharashtra  › manufacturing of food products  › aveer foods limited"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/5obtM2s7lm0cPDb-ZbrCVe7PmBjyd5EXJ-3QjKJc-VU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dG9mbGVyLmluL2lt/YWdlcy9sb2dvX29w/dC5wbmc",
+        "original": "https://www.tofler.in/images/logo_opt.png",
+        "logo": true
+      },
+      "age": "September 1, 2020"
+    },
+    {
       "title": "Aveer - Crunchbase Company Profile & Funding",
       "url": "https://www.crunchbase.com/organization/aveer",
       "is_source_local": false,
@@ -175,5 +205,5 @@
       }
     }
   ],
-  "generated_date": "2024-11-07T20:57:02.902538"
+  "generated_date": "2024-11-07T02:35:19.907595"
 }

@@ -2,39 +2,96 @@
   "company_info": {
     "name": "Ecareer AB",
     "descriptions": [
-      "IT-konsultfirma som fokuserar på att tillhandahålla högkvalitativa konsulttjänster inom IT- och affärslösningar",
-      "IT consulting firm providing high-quality IT and business solutions"
+      "An IT consulting company",
+      "IT consulting firm providing high-quality consulting services in IT and business solutions",
+      "An IT consulting firm focusing on providing high-quality consulting services in IT and business solutions",
+      "IT consulting firm",
+      "IT-konsultfirma som fokuserar på att tillhandahålla högkvalitativa konsulttjänster inom IT- och affärslösningar"
     ],
     "industries": [
       "IT Consulting"
     ],
     "locations": [
+      "Göteborg",
+      "Stockholm",
       "Sweden"
     ],
     "skills": [
-      "Keras",
-      "CUDA",
-      "PyTorch",
-      "Deep Learning",
-      "TensorFlow",
-      "Simulation",
-      "Python",
-      "Sensor Fusion",
+      "Diagnostics",
+      "Bench Testing",
       "Machine Learning",
-      "AI",
-      "Neural Networks",
-      "OpenAI Gym",
-      "Linux",
-      "C++"
+      "CI/CD Pipelines",
+      "Budget management",
+      "Cloud platforms",
+      "SW/Electrical Testing",
+      "Performance monitoring",
+      "SpaCy",
+      "Technical problem-solving",
+      "AI technologies",
+      "AI system monitoring",
+      "Azure DevOps",
+      "Vehicle Diagnostics",
+      "Vector Tools",
+      "AI frameworks",
+      "Data Infrastructure",
+      "PyTorch",
+      "Scalable AI solutions",
+      "Azure",
+      "Data pipelines",
+      "Deep learning",
+      "TensorFlow",
+      "Automation",
+      "Machine learning",
+      "Automotive Systems",
+      "A-SPICE",
+      "Python",
+      "GPT",
+      "Google Cloud",
+      "CANoe",
+      "Car Testing",
+      "Elektra",
+      "Model optimization",
+      "Functional Safety",
+      "Java",
+      "C++",
+      "NLTK",
+      "Data Analysis",
+      "Project management methodologies",
+      "Transformer-modeller",
+      "Agile methodologies",
+      "AI project management",
+      "Machine learning model management",
+      "OpenStack",
+      "BERT",
+      "HIL Testing",
+      "Data analysis",
+      "Cloud Platforms",
+      "Hugging Face",
+      "Vector/CANoe",
+      "System integration",
+      "Keras",
+      "Scala",
+      "CarWeaver",
+      "NLP",
+      "Scripting",
+      "Brake Systems",
+      "AI solution design",
+      "AWS"
     ],
     "job_titles": [
-      "Deep Learning Specialist",
-      "Senior Mjukvaruutvecklare C++, Python & Machine Learning",
-      "Konsult inom AI/Machine Learning",
-      "Reinforcement Learning Engineer"
+      "Test Engineer",
+      "Cloud Data Engineer",
+      "Natural Language Processing (NLP) Engineer",
+      "AI Program Manager",
+      "DevOps Engineer",
+      "AI Solutions Architect",
+      "Machine Learning Engineer",
+      "Software Engineer",
+      "AI Software Developer",
+      "AI Operations Analyst"
     ]
   },
-  "analysis": "Baserat på den tillgängliga informationen kan jag ge följande sammanfattning:\n\n1. Företagets storlek och antal anställda:\n- Ingen specifik information tillgänglig om exakt antal anställda\n- Verkar vara ett aktivt konsultbolag i IT-branschen med kontor i Sverige\n\n2. Omsättning och finansiell information:\n- Specifik finansiell information är inte offentligt tillgänglig i de givna källorna\n- Företaget är registrerat i Hovås, Sverige [Källa: Northdata]\n\n3. Företagets värdegrund och kultur:\n- Fokus på högkvalitativa konsulttjänster [Källa: Jobbannonser]\n- Inriktning mot avancerad teknisk kompetens inom AI och mjukvaruutveckling\n\n4. Huvudsakliga produkter/tjänster:\n- IT-konsulttjänster\n- Specialisering inom AI/Machine Learning\n- Affärslösningar inom IT\n[Källa: Jobbannonser]\n\n5. Nyliga nyheter eller utveckling:\n- Ingen specifik aktuell information tillgänglig i de givna källorna\n\n6. Teknisk stack och kompetensområden:\n[Källa: Jobbannonser]\n- AI och Machine Learning: TensorFlow, PyTorch, Keras, Deep Learning, Neural Networks\n- Programmering: Python, C++\n- Specialområden: Sensor Fusion, Reinforcement Learning, OpenAI Gym\n- Plattformar: Linux, CUDA\n\nNotera att mycket av informationen är begränsad och kommer huvudsakligen från jobbannonser. En mer komplett bild skulle kräva ytterligare källor eller direkt information från företaget.",
+  "analysis": "Sammanfattning av Ecareer AB:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda kunde inte fastställas från tillgängliga källor\n- Lokaliserad i Göteborg och Stockholm, Sverige [Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Detaljerad finansiell information ej tillgänglig \n- Kommersiellt aktivt inom IT-konsultbranschen\n\n3. Värdegrund och kultur\n- Fokus på högkvalitativa konsulttjänster inom IT och affärslösningar\n- Trolig agil och tekniskt orienterad företagskultur\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulting\n- Specialiserade tekniska konsulttjänster inom:\n  - AI-lösningar\n  - Molnplattformar\n  - Systemintegration\n  - Fordonsdiagnostik\n\n5. Nyliga nyheter/utveckling\n- Aktivt rekryteringsläge inom flera tekniska roller\n- Expansion inom AI och molnteknologier\n\n6. Teknisk stack och kompetensområden\nPrimära teknologier:\n- Programmeringsspråk: Python, Java, C++, Scala\n- AI/ML: TensorFlow, PyTorch, GPT, BERT\n- Molnplattformar: Azure, AWS, Google Cloud\n- DevOps: CI/CD, Azure DevOps\n- Automotive: Vector Tools, CANoe, A-SPICE\n\n[Sammanställt från jobbannonser och webbsökningar]",
   "search_results": [
     {
       "title": "Health eCareers’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
@@ -153,16 +210,17 @@
       }
     },
     {
-      "title": "Ecareer Employment Services Pty Ltd - Company Profile and News - Bloomberg Markets",
-      "url": "https://www.bloomberg.com/profile/company/9743193Z:AU",
+      "title": "What is Revenue Per Employee (Formula & Benchmarks) - Finmark",
+      "url": "https://finmark.com/glossary/revenue-per-employee/",
       "is_source_local": false,
       "is_source_both": false,
-      "description": "<strong>Company</strong> profile page for <strong>Ecareer</strong> Employment Services Pty Ltd including stock price, <strong>company</strong> news, press releases, executives, board members, and contact <strong>information</strong>",
+      "description": "<strong>Revenue</strong> per <strong>employee</strong> is an equation used by <strong>companies</strong> to calculate the amount of <strong>revenue</strong> that each <strong>employee</strong> earns for the business.",
+      "page_age": "2023-07-19T13:35:00",
       "profile": {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/profile/company/9743193Z:AU",
-        "long_name": "bloomberg.com",
-        "img": "https://imgs.search.brave.com/JdflViMvNONX2cNzOInZ7EQWaTzeYAgL8uCSDVicA8Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDJhNjMyMGE1/YzY3MzRjMDAzZDU5/YzJiMWZlZmI4Yjkx/OWQyN2IzYzU1MjYw/ZDQyMjVjYzdjZWRi/ZTM5Njg4ZC93d3cu/Ymxvb21iZXJnLmNv/bS8"
+        "name": "Finmark",
+        "url": "https://finmark.com/glossary/revenue-per-employee/",
+        "long_name": "finmark.com",
+        "img": "https://imgs.search.brave.com/1yJJP-_zIwbt4Lm_SGEp3TOlaAzrVa8C1VgnGBUNyWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTRkM2JhYzcw/MmQxYzA0ZDY1ZDFk/NmRjMjRjMmMzZjY2/M2NmN2NjMDIyYjI5/ZDVmMzdmMDMwZGQ1/NWQ3OWY0OS9maW5t/YXJrLmNvbS8"
       },
       "language": "en",
       "family_friendly": true,
@@ -170,17 +228,13 @@
       "subtype": "generic",
       "meta_url": {
         "scheme": "https",
-        "netloc": "bloomberg.com",
-        "hostname": "www.bloomberg.com",
-        "favicon": "https://imgs.search.brave.com/JdflViMvNONX2cNzOInZ7EQWaTzeYAgL8uCSDVicA8Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDJhNjMyMGE1/YzY3MzRjMDAzZDU5/YzJiMWZlZmI4Yjkx/OWQyN2IzYzU1MjYw/ZDQyMjVjYzdjZWRi/ZTM5Njg4ZC93d3cu/Ymxvb21iZXJnLmNv/bS8",
-        "path": "› profile  › company  › 9743193Z:AU"
+        "netloc": "finmark.com",
+        "hostname": "finmark.com",
+        "favicon": "https://imgs.search.brave.com/1yJJP-_zIwbt4Lm_SGEp3TOlaAzrVa8C1VgnGBUNyWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTRkM2JhYzcw/MmQxYzA0ZDY1ZDFk/NmRjMjRjMmMzZjY2/M2NmN2NjMDIyYjI5/ZDVmMzdmMDMwZGQ1/NWQ3OWY0OS9maW5t/YXJrLmNvbS8",
+        "path": "  › home  › glossary terms  › what is revenue per employee (formula & benchmarks) - finmark"
       },
-      "thumbnail": {
-        "src": "https://imgs.search.brave.com/oAKTaEurLKRurIOD0lVm3oG4cGCk4Wb36Utt6JNM5g4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Ymxvb21iZXJnLmNv/bS9pbWFnZXMvbWFy/a2V0cy1sb2dvLnBu/Zw",
-        "original": "https://www.bloomberg.com/images/markets-logo.png",
-        "logo": true
-      }
+      "age": "July 19, 2023"
     }
   ],
-  "generated_date": "2024-11-07T20:58:35.028214"
+  "generated_date": "2024-11-07T02:37:05.119061"
 }

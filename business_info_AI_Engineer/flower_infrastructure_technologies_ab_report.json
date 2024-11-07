@@ -2,7 +2,8 @@
   "company_info": {
     "name": "Flower Infrastructure Technologies AB",
     "descriptions": [
-      "A tech company specializing in battery storage and energy system solutions with an AI-powered platform"
+      "A company developing world-leading gas turbines for a global market, focusing on sustainable and cost-effective electricity production.",
+      "Battery storage and energy system technology company"
     ],
     "industries": [
       "Energy Technology"
@@ -11,18 +12,26 @@
       "Stockholm"
     ],
     "skills": [
-      "AWS",
       "CI/CD",
-      "MLflow",
-      "Docker",
+      "Machine Learning",
+      "Git",
       "Databricks",
-      "Git"
+      "Cloud services",
+      "Docker",
+      "AWS CloudFormation",
+      "MLflow",
+      "CI/CD pipelines",
+      "Python",
+      "GitHub Actions",
+      "Terraform",
+      "AWS"
     ],
     "job_titles": [
-      "Machine Learning Operations Engineer"
+      "Machine Learning Operations Engineer",
+      "Software Engineer"
     ]
   },
-  "analysis": "Här är en strukturerad sammanfattning baserad på den tillgängliga informationen:\n\n1. Företagets storlek och antal anställda:\n- Exakt antal anställda framgår inte av källorna\n- Företaget verkar vara en växande startup inom energiteknik\n- Beskrivs som \"fast-growing energy start-up\" (källa: Ellevio pressrelease)\n\n2. Omsättning och finansiell information:\n- Ingen specifik finansiell information tillgänglig i källmaterialet\n- Har fått investeringar från Ellevio som förvärvat en del av företaget (källa: Ellevio pressrelease)\n\n3. Företagets värdegrund och kultur:\n- Fokus på hållbar energi och grön omställning\n- Vision: \"Enabling clean energy to power society\" (källa: flower.se)\n- Innovationsfokuserad med betoning på banbrytande teknologi\n\n4. Huvudsakliga produkter/tjänster:\n- AI-driven plattform för energilagring och energisystemlösningar\n- Forecasting, optimering och handelsmjukvara för energitillgångar\n- Fokus på flexibla energilösningar och batteriteknik\n(Källor: LinkedIn-profil, jobbannonser)\n\n5. Nyliga nyheter/utveckling:\n- Ellevios förvärv av en del av företaget (källa: Ellevio pressrelease)\n- Stark tillväxt inom energitekniksektorn\n\n6. Teknisk stack och kompetensområden:\n- AWS\n- CI/CD\n- MLflow\n- Docker\n- Databricks\n- Git\n- AI och maskininlärning\n- Energioptimering och prediktion\n(Källa: jobbannonser)\n\nFlower Technologies framstår som ett innovativt cleantech-företag med fokus på att möjliggöra framtidens energisystem genom AI-driven teknologi och flexibla energilösningar.",
+  "analysis": "Sammanfattning av Flower Infrastructure Technologies AB:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda är oklart, men företaget har 5,825 följare på LinkedIn [LinkedIn]\n- Verkar vara ett relativt ungt och snabbväxande energiteknikföretag\n\n2. Omsättning och finansiell information\n- Ingen specifik omsättningsinformation tillgänglig\n- Har fått investment från Ellevio, en etablerad energiaktör [Ellevio pressmeddelande]\n\n3. Värdegrund och kultur\n- Fokus på hållbar energiteknik\n- Mission: \"Möjliggöra morgondagens energisystem\" [flower.se]\n- Vision om att bidra till ren energiproduktion och systemstabilitet\n\n4. Huvudsakliga produkter/tjänster\n- Utveckling av gasturbiner för global marknad\n- Batteri- och energisystemteknologi\n- Mjukvara för prognostisering, optimering och handel med energitillgångar\n- AI-baserade lösningar för energiflexibilitet [Crunchbase]\n\n5. Teknisk stack och kompetensområden\n- Kompetenser: Machine Learning, Cloud services (AWS), \n- Verktyg: Docker, Databricks, MLflow, Terraform\n- Programmeringsspråk: Python\n- CI/CD-teknologier: GitHub Actions, CI/CD-pipelines\n\n6. Geografisk placering\n- Huvudkontor i Stockholm, Sverige [Jobbannonser]\n\nKällor: LinkedIn, flower.se, Crunchbase, Ellevio pressmeddelande, jobbannonser\n\nNotera: Informationen är baserad på begränsade källor och kan vara ofullständig.",
   "search_results": [
     {
       "title": "Flower | Energizing tomorrow",
@@ -174,5 +183,5 @@
       "age": "November 23, 2023"
     }
   ],
-  "generated_date": "2024-11-07T20:58:07.637099"
+  "generated_date": "2024-11-07T02:49:55.249332"
 }

@@ -5,25 +5,33 @@
       "Engineering, design, digital and advisory services company"
     ],
     "industries": [
-      "Engineering and Technology"
+      "Engineering Services"
     ],
     "locations": [
       "Malmö"
     ],
     "skills": [
-      "Keras",
-      "PyTorch",
-      "MLOps",
-      "Java/Scala",
-      "TensorFlow",
-      "Python",
-      "Cloud platforms"
+      "CI/CD",
+      "Objective-C",
+      "JavaScript",
+      "WebGL",
+      "TypeScript",
+      "CSS",
+      "Metal",
+      "API Design",
+      "Swift",
+      "HTML",
+      "Web Technologies",
+      "React",
+      "Computer Graphics APIs",
+      "OpenGL"
     ],
     "job_titles": [
-      "Machine Learning Engineer"
+      "Software Engineer (Frontend Web)",
+      "Software Engineer Native iOS"
     ]
   },
-  "analysis": "Här är en strukturerad sammanfattning av AFRY baserat på den tillgängliga informationen:\n\n1. Företagets storlek och antal anställda:\n- Cirka 19,000 anställda (enligt afry.com)\n- Verksamhet på 167 olika platser globalt (enligt craft.co)\n- Huvudkontor i Sverige\n\n2. Omsättning och finansiell information:\n- Omsättning 2022: 23.55 miljarder SEK (craft.co)\n- Tillväxt: 14.55% till 26.98 miljarder SEK (enligt Financial Times)\n- Börsnoterat företag på Stockholmsbörsen\n\n3. Företagets värdegrund och kultur:\n- Fokus på hållbara lösningar för framtida generationer\n- International arbetsmiljö\n- Teknologi- och innovationsdriven organisation\n\n4. Huvudsakliga produkter/tjänster:\n- Engineering, design och rådgivningstjänster\n- Projektledning och konstruktionsledning\n- Fokusområden: infrastruktur, industri och energi\n- Konsulttjänster inom kommersiell sektor\n\n5. Teknisk stack och kompetensområden:\n- Machine Learning och AI (Keras, PyTorch, TensorFlow)\n- Programmeringsspråk: Python, Java/Scala\n- MLOps och Cloud platforms\n- Digital transformation\n\n6. Konkurrenter:\n- AECOM\n- Alantra\n- Alcimed\n(enligt Owler)\n\nKällor:\n- afry.com/en/about-us\n- craft.co/afry\n- owler.com\n- markets.ft.com\n\nNotera: Vissa siffror kan ha ändrats sedan senaste uppdateringen av källorna.",
+  "analysis": "Sammanfattning av AFRY\n\n1. Företagets storlek och antal anställda\n- Antal anställda: Cirka 19,000 experter\n- Globalt närvarande med 167 lokationer\n[Källa: afry.com, Craft.co]\n\n2. Omsättning och finansiell information\n- Årsintäkter (2022): 23,55 miljarder SEK\n- Intäktsökning: 14,55% (från 23,55 till 26,98 miljarder SEK)\n[Källa: Financial Times, Craft.co]\n\n3. Värdegrund och kultur\n- Fokus på hållbara lösningar \"for generations to come\"\n- Expertis inom infrastruktur, industri och energi\n\n4. Huvudsakliga produkter/tjänster\n- Engineering, design och rådgivningstjänster\n- Konsulttjänster inom projekt- och konstruktionsledning\n[Källa: Owler, afry.com]\n\n5. Teknisk kompetens och stack\nEftersökta kompetenser inkluderar:\n- Frontend: JavaScript, TypeScript, React, HTML, CSS\n- Mobile: Swift, Objective-C, iOS utveckling\n- Grafik: WebGL, OpenGL, Computer Graphics APIs\n- Utvecklingsmetoder: CI/CD, API Design\n\n6. Konkurrenter\n- AECOM\n- Alantra\n- Alcimed\n[Källa: Owler]\n\nSenaste nyheter\n- Pågående Q2 2024 rapportering\n- Fortsatt tillväxt inom engineering-sektorn",
   "search_results": [
     {
       "title": "AFRY’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
@@ -166,5 +174,5 @@
       }
     }
   ],
-  "generated_date": "2024-11-07T20:57:20.650154"
+  "generated_date": "2024-11-07T03:03:33.212745"
 }

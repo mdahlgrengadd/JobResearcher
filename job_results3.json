@@ -1,0 +1,642 @@
+{
+  "Search query": "Machine-Learning",
+  "Search Engine": "platsbanken",
+  "Total Jobs Found": 27,
+  "Pages Processed": 3,
+  "Jobs": [
+    {
+      "Company": "Aveer",
+      "Company Description": "IT-konsultfirma som fokuserar på att tillhandahålla högkvalitativa konsulttjänster inom IT- och affärslösningar",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "BSc or MSc in computer science, engineering or related field",
+      "Previous Experience": "4+ years professional experience in Machine Learning Engineer roles",
+      "Years of Experience": 4,
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "ML model deployment",
+        "Cloud platforms",
+        "Data infrastructure"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Develop AI/ML software products, explore large datasets, implement algorithms, feature engineering, test and evaluate model output, deploy solutions to production"
+    },
+    {
+      "Company": "GoClimate",
+      "Company Description": "Social enterprise focused on fighting climate change",
+      "Company Size": null,
+      "Company Industry": "Climate Technology",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "MSc or PhD in a quantitative field",
+      "Previous Experience": "2+ years of machine learning in production",
+      "Years of Experience": 2,
+      "Skills": [
+        "Python",
+        "Machine Learning",
+        "Data Cleaning",
+        "Model Development",
+        "Google Cloud"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Develop tool for turning financial data into actionable climate information, work with ML models for data extraction and classification"
+    },
+    {
+      "Company": "AFRY",
+      "Company Description": "Engineering, design, digital and advisory services company",
+      "Company Size": null,
+      "Company Industry": "Engineering and Technology",
+      "Location": "Malmö",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "Degree in Computer Science or Software Engineering",
+      "Previous Experience": "Senior level machine learning experience",
+      "Years of Experience": 5,
+      "Skills": [
+        "Python",
+        "Java/Scala",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "Cloud platforms",
+        "MLOps"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "Develop machine learning solutions, analyze data, build and deploy ML models across various projects"
+    },
+    {
+      "Company": "Modulai",
+      "Company Description": "Machine Learning consultancy working across diverse data domains",
+      "Company Size": null,
+      "Company Industry": "Data and AI",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "MSc or PhD in quantitative field",
+      "Previous Experience": null,
+      "Years of Experience": 0,
+      "Skills": [
+        "Python",
+        "R",
+        "Scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "GCP",
+        "AWS",
+        "Apache Spark"
+      ],
+      "Languages": null,
+      "Job Description": "Work on diverse ML projects across different domains, analyze problems, develop solutions, and deliver ML implementations"
+    },
+    {
+      "Company": "Conmore",
+      "Company Description": "Consulting company prioritizing employee development",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Linköping",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "Degree in Computer Science or Software Engineering",
+      "Previous Experience": null,
+      "Years of Experience": 0,
+      "Skills": [
+        "Python",
+        "C",
+        "C++",
+        "Deep Learning",
+        "Computer Vision",
+        "Embedded Systems"
+      ],
+      "Languages": null,
+      "Job Description": "Develop advanced computer vision solutions, design ML algorithms, optimize models for embedded systems"
+    },
+    {
+      "Company": "Webstep AB",
+      "Company Description": "Part of B3 consulting group with expertise in AI applications",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Uppsala",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": null,
+      "Previous Experience": "5+ years in machine learning",
+      "Years of Experience": 5,
+      "Skills": [
+        "Python",
+        "Scala",
+        "R",
+        "SQL",
+        "Pandas",
+        "Matplotlib",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Help clients in development projects, implement machine learning solutions"
+    },
+    {
+      "Company": "Professional Galaxy AB",
+      "Company Description": null,
+      "Company Size": null,
+      "Company Industry": null,
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "BSc or MSc in computer science, engineering or related field",
+      "Previous Experience": "4+ years professional experience",
+      "Years of Experience": 4,
+      "Skills": [
+        "Python",
+        "Cloud technologies",
+        "MLOps",
+        "ML pipelines",
+        "Data infrastructure"
+      ],
+      "Languages": null,
+      "Job Description": "Develop AI/ML software products, explore datasets, implement algorithms, deploy solutions to production"
+    },
+    {
+      "Company": "GoClimate",
+      "Company Description": "Social enterprise focused on fighting climate change",
+      "Company Size": null,
+      "Company Industry": "Climate Technology",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "MSc or PhD in a quantitative field",
+      "Previous Experience": "2+ years of machine learning in production",
+      "Years of Experience": 2,
+      "Skills": [
+        "Python",
+        "Machine Learning",
+        "Data Cleaning",
+        "Model Development",
+        "Google Cloud"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Develop tool for turning financial data into actionable climate information, work with ML models for data extraction and classification"
+    },
+    {
+      "Company": "Modulai",
+      "Company Description": "Machine Learning consultancy working across diverse data domains",
+      "Company Size": null,
+      "Company Industry": "Data and AI",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "MSc or PhD in quantitative field",
+      "Previous Experience": null,
+      "Years of Experience": 0,
+      "Skills": [
+        "Python",
+        "R",
+        "Scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "GCP",
+        "AWS",
+        "Apache Spark"
+      ],
+      "Languages": null,
+      "Job Description": "Work on diverse ML projects across different domains, analyze problems, develop solutions, and deliver ML implementations"
+    },
+    {
+      "Company": "Aveer",
+      "Company Description": "IT-konsultfirma som fokuserar på att tillhandahålla högkvalitativa konsulttjänster inom IT- och affärslösningar",
+      "Company Size": null,
+      "Company Industry": "IT Consulting",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Engineer",
+      "Education": "BSc or MSc in computer science, engineering or related field",
+      "Previous Experience": "4+ years professional experience in Machine Learning Engineer roles",
+      "Years of Experience": 4,
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "ML model deployment",
+        "Cloud platforms",
+        "Data infrastructure"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Develop AI/ML software products, explore large datasets, implement algorithms, feature engineering, test and evaluate model output, deploy solutions to production"
+    },
+    {
+      "Company": "Flower Infrastructure Technologies AB",
+      "Company Description": "A tech company specializing in battery storage and energy system solutions with an AI-powered platform",
+      "Company Size": "Small to Medium",
+      "Company Industry": "Energy Technology",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning Operations Engineer",
+      "Education": "Master's degree in Computer Science, Machine Learning, or related field",
+      "Previous Experience": "Experience in MLOps, machine learning infrastructure, and model deployment",
+      "Years of Experience": 3,
+      "Skills": [
+        "MLflow",
+        "Databricks",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Git"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Build and maintain robust infrastructure for machine learning model lifecycle, from development to deployment and monitoring in production"
+    },
+    {
+      "Company": "Jobbs On Sweden AB",
+      "Company Description": "Tech consulting company focusing on innovative technology solutions",
+      "Company Size": "Small to Medium",
+      "Company Industry": "IT Consulting",
+      "Location": "Stockholm",
+      "Jobtitle": "Systemarkitekt - Machine Learning / Data Engineering",
+      "Education": "Master's degree in relevant technical field",
+      "Previous Experience": "5+ years of system development experience",
+      "Years of Experience": 5,
+      "Skills": [
+        "Python",
+        "Machine Learning",
+        "Linux",
+        "AI Automation",
+        "System Architecture"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Drive technical strategy and product development for AI-based automation services"
+    },
+    {
+      "Company": "Ecareer AB",
+      "Company Description": "IT consulting firm providing high-quality IT and business solutions",
+      "Company Size": "Small to Medium",
+      "Company Industry": "IT Consulting",
+      "Location": "Sweden",
+      "Jobtitle": "Konsult inom AI/Machine Learning",
+      "Education": "Not specified",
+      "Previous Experience": "Experience with AI and Machine Learning implementations",
+      "Years of Experience": 3,
+      "Skills": [
+        "AI",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "CUDA"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Investigate and optimize machine learning models for local and cloud implementations"
+    },
+    {
+      "Company": "ManoMotion AB",
+      "Company Description": "Technology company specializing in computer vision solutions",
+      "Company Size": "Small",
+      "Company Industry": "Computer Vision",
+      "Location": "Stockholm",
+      "Jobtitle": "Machine Learning / Computer Vision Engineer",
+      "Education": "Master's degree in Computer Science, Electrical Engineering, or related field",
+      "Previous Experience": "3+ years of experience implementing machine learning models",
+      "Years of Experience": 3,
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "OpenCV",
+        "Linux",
+        "Git"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Design neural networks for computer vision applications with focus on low-computational power systems"
+    },
+    {
+      "Company": "Ecareer AB",
+      "Company Description": "IT consulting firm providing high-quality IT and business solutions",
+      "Company Size": "Small to Medium",
+      "Company Industry": "IT Consulting",
+      "Location": "Sweden",
+      "Jobtitle": "Senior Mjukvaruutvecklare C++, Python & Machine Learning",
+      "Education": "Master's degree in relevant field",
+      "Previous Experience": "5+ years of software development experience",
+      "Years of Experience": 5,
+      "Skills": [
+        "C++",
+        "Python",
+        "Machine Learning",
+        "Linux",
+        "Sensor Fusion",
+        "Simulation"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Develop software solutions with expertise in C++, Python, and machine learning technologies"
+    },
+    {
+      "Company": "WEON GALAXY AB",
+      "Company Description": "Technology company",
+      "Company Size": "Small",
+      "Company Industry": "Technology",
+      "Location": "Gothenburg",
+      "Jobtitle": "Machine Learning Engineer in Computer Vision",
+      "Education": "Master's degree in Computer Science or Engineering Physics",
+      "Previous Experience": "3+ years of machine learning model implementation",
+      "Years of Experience": 3,
+      "Skills": [
+        "Python",
+        "Torch",
+        "Cuda",
+        "Linux",
+        "Git"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Implement machine learning solutions with a focus on computer vision"
+    },
+    {
+      "Company": "LanguageWire A/S",
+      "Company Description": "Language services technology company",
+      "Company Size": "Medium",
+      "Company Industry": "Language Technology",
+      "Location": "Denmark",
+      "Jobtitle": "Machine Learning Team Lead (Product & API)",
+      "Education": "Advanced degree preferred",
+      "Previous Experience": "Extensive experience in AI/NLP technologies",
+      "Years of Experience": 5,
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Hugging Face",
+        "Kubernetes",
+        "Docker",
+        "Cloud Platforms"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Lead machine learning team, develop AI/NLP technologies for language services"
+    },
+    {
+      "Company": "Combine Control Systems AB",
+      "Company Description": "Technology innovation company",
+      "Company Size": "Medium",
+      "Company Industry": "Technology Consulting",
+      "Location": "Gothenburg",
+      "Jobtitle": "Data Engineer / Machine Learning / AI / Cloud",
+      "Education": "Master's degree in Computer Science or Information Technology",
+      "Previous Experience": "2+ years working with cloud technologies",
+      "Years of Experience": 2,
+      "Skills": [
+        "Python",
+        "Scala",
+        "SQL",
+        "Cloud Platforms",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Create automated data pipelines, analyze data, and support cross-functional teams"
+    },
+    {
+      "Company": "Interspectral AB",
+      "Company Description": "3D visualization and data analysis company",
+      "Company Size": "Small",
+      "Company Industry": "Advanced Visualization",
+      "Location": "Norrköping",
+      "Jobtitle": "Machine Learning Engineer in Computer Vision",
+      "Education": "University degree in engineering",
+      "Previous Experience": "3+ years of AI solutions in production",
+      "Years of Experience": 3,
+      "Skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "MLOps",
+        "Computer Vision",
+        "Cloud Platforms"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop and optimize AI models for 3D visualization and data analysis"
+    },
+    {
+      "Company": "Ecareer AB",
+      "Company Description": "IT consulting firm providing high-quality IT and business solutions",
+      "Company Size": "Small to Medium",
+      "Company Industry": "IT Consulting",
+      "Location": "Sweden",
+      "Jobtitle": "Deep Learning Specialist",
+      "Education": "Not specified",
+      "Previous Experience": "Experience with deep learning technologies",
+      "Years of Experience": 3,
+      "Skills": [
+        "Neural Networks",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "CUDA",
+        "Python",
+        "C++"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Implement and optimize deep learning models across various domains"
+    },
+    {
+      "Company": "Ecareer AB",
+      "Company Description": "IT-konsultfirma som fokuserar på att tillhandahålla högkvalitativa konsulttjänster inom IT- och affärslösningar",
+      "Company Size": "Not specified",
+      "Company Industry": "IT Consulting",
+      "Location": "Sweden",
+      "Jobtitle": "Reinforcement Learning Engineer",
+      "Education": "Master's degree in relevant technical field",
+      "Previous Experience": "Experience with reinforcement learning algorithms, machine learning, and deep learning",
+      "Years of Experience": 3,
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "OpenAI Gym",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "Languages": [
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Work with reinforcement learning algorithms, develop AI solutions, and collaborate on complex machine learning projects"
+    },
+    {
+      "Company": "Co-Worker Consulting Partner Sweden AB",
+      "Company Description": "Not specified",
+      "Company Size": "Not specified",
+      "Company Industry": "Technology Consulting",
+      "Location": "Gävle",
+      "Jobtitle": "Industrial Machine Vision Engineer",
+      "Education": "Degree in Electronic/Computer Engineering, Information Systems, or Software Engineering",
+      "Previous Experience": "Experience with machine vision, image processing, and software development",
+      "Years of Experience": 3,
+      "Skills": [
+        "C/C++",
+        "Python",
+        "Real-time systems",
+        "Communication protocols",
+        "Image processing"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Collaborate with machine learning experts to design and implement software systems for machine vision applications"
+    },
+    {
+      "Company": "JobBusters AB",
+      "Company Description": "Job consulting platform for junior talents",
+      "Company Size": "Not specified",
+      "Company Industry": "Recruitment",
+      "Location": "Malmö",
+      "Jobtitle": "UX / UI Designer - E-learning",
+      "Education": "Degree in design, interaction design, or related field",
+      "Previous Experience": "5+ years of UX design experience",
+      "Years of Experience": 5,
+      "Skills": [
+        "Figma",
+        "Design systems",
+        "Pedagogical design",
+        "User experience design"
+      ],
+      "Languages": [
+        "English",
+        "Swedish"
+      ],
+      "Job Description": "Design user-focused experiences for learning and development technology platforms"
+    },
+    {
+      "Company": "Axis Communications AB",
+      "Company Description": "Technology company specializing in network cameras and video surveillance",
+      "Company Size": "Large",
+      "Company Industry": "Technology",
+      "Location": "Lund",
+      "Jobtitle": "Embedded Software Engineer with Deep Learning experience",
+      "Education": "Master's degree in computer science, physics, mathematics, or electrical engineering",
+      "Previous Experience": "3-5 years experience with embedded systems, C/C++, and Linux",
+      "Years of Experience": 3,
+      "Skills": [
+        "C/C++",
+        "Linux",
+        "Deep Learning",
+        "Embedded Systems",
+        "Git",
+        "Gerrit",
+        "Jenkins"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop and optimize deep learning platforms for edge devices and video products"
+    },
+    {
+      "Company": "Volvo Group Trucks Technology",
+      "Company Description": "Global transport and infrastructure solutions company",
+      "Company Size": "Large",
+      "Company Industry": "Automotive",
+      "Location": "Gothenburg",
+      "Jobtitle": "Engineering Graduate Program - Human Machine Interface Software Developer",
+      "Education": "Master's degree in engineering physics, mathematics, computer science, or interaction design",
+      "Previous Experience": "Limited professional experience (recent graduate)",
+      "Years of Experience": 0,
+      "Skills": [
+        "C++",
+        "Qt/QML",
+        "Frontend development",
+        "Interaction design",
+        "Software development"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Develop software for truck driver interfaces and digital touchpoints in a cross-functional, agile environment"
+    },
+    {
+      "Company": "Mälardalen University",
+      "Company Description": "Progressive and collaborative university focused on innovation",
+      "Company Size": "Academic Institution",
+      "Company Industry": "Education and Research",
+      "Location": "Västerås",
+      "Jobtitle": "Postdoc in Computer Science with a focus on Deep Learning",
+      "Education": "PhD in Computer Science with Deep Learning focus",
+      "Previous Experience": "Research experience in AI, machine learning, and computer vision",
+      "Years of Experience": 3,
+      "Skills": [
+        "Generative AI",
+        "Deep Learning",
+        "Machine Learning",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "XAI"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Job Description": "Conduct research in AI, generative AI, explainable AI, and develop self-learning systems for critical decision-making"
+    },
+    {
+      "Company": "Tendium",
+      "Company Description": "Rapidly growing tech company working with machine learning technologies",
+      "Company Size": "Small to Medium",
+      "Company Industry": "Technology",
+      "Location": "Stockholm",
+      "Jobtitle": "Finnish Speaking Junior Analyst",
+      "Education": "Bachelor's or Master's degree in law, economics, or engineering",
+      "Previous Experience": "Currently studying, no extensive professional experience required",
+      "Years of Experience": 0,
+      "Skills": [
+        "Data analysis",
+        "Microsoft Office",
+        "G Suite",
+        "Technical analysis",
+        "Business communication"
+      ],
+      "Languages": [
+        "Finnish",
+        "Swedish",
+        "English"
+      ],
+      "Job Description": "Part-time data collection and analysis role, working with public sector data and customer deliveries"
+    }
+  ]
+}

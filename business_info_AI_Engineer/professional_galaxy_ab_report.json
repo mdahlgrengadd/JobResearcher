@@ -1,23 +1,60 @@
 {
   "company_info": {
     "name": "Professional Galaxy AB",
-    "descriptions": [],
-    "industries": [],
+    "descriptions": [
+      "IT consulting company",
+      "A company working on AI/ML software products"
+    ],
+    "industries": [
+      "Automotive",
+      "IT/Technology",
+      "IT-konsult",
+      "Technology",
+      "IT Services"
+    ],
     "locations": [
-      "Stockholm"
+      "Göteborg",
+      "Stockholm",
+      "Jönköping",
+      "Södertälje"
     ],
     "skills": [
-      "MLOps",
+      "Machine Learning",
+      "Bash",
+      "Integration technologies",
+      "Plug-in development",
       "Cloud technologies",
+      "GitLab",
+      "CAD",
+      "PyTorch",
+      "AI/ML techniques",
+      "Data engineering",
+      "Azure",
+      "TensorFlow",
       "Python",
-      "ML pipelines",
-      "Data infrastructure"
+      "MLOps",
+      "Linux",
+      "System testing",
+      "Prompt Engineering",
+      "Solution design",
+      "Test automation",
+      "Jira",
+      "CATIA V5",
+      "Git",
+      "Dynamics 365",
+      "Confluence",
+      "Test case development",
+      "Generativ AI"
     ],
     "job_titles": [
-      "Machine Learning Engineer"
+      "Machine Learning Engineer",
+      "Software Test Engineer",
+      "MS Dynamics 365 Application Engineer",
+      "Generative AI Full stack Developer - Senior",
+      "Senior Test Development Engineer"
     ]
   },
-  "analysis": "Baserat på den tillgängliga informationen kan jag ge följande sammanfattning, men observera att informationen är begränsad och delvis blandad med andra företag:\n\n1. Företagets storlek och antal anställda\n- Ingen specifik information tillgänglig för Professional Galaxy AB\n- (Information om Samsung och andra företag har filtrerats bort då det är irrelevant)\n\n2. Omsättning och finansiell information\n- Ingen specifik information tillgänglig för Professional Galaxy AB\n\n3. Företagets värdegrund och kultur\n- Ingen specifik information tillgänglig\n\n4. Huvudsakliga produkter/tjänster\n- Fokus verkar ligga inom teknisk utveckling, särskilt inom:\n  * Machine Learning\n  * Data infrastructure\n  * Molnteknologi\n(Baserat på jobbannonsinformation)\n\n5. Nyliga nyheter eller utveckling\n- Ingen specifik information tillgänglig\n\n6. Teknisk stack och kompetensområden\nBaserat på jobbannonser:\n- MLOps\n- Cloud technologies\n- Python\n- ML pipelines\n- Data infrastructure\n\nSammanfattningsvis är informationen om Professional Galaxy AB mycket begränsad i det tillgängliga materialet. Det mesta vi kan utläsa kommer från jobbannonserna som indikerar att företaget arbetar med avancerad teknik inom machine learning och datainfrastruktur. För en mer komplett bild skulle ytterligare källor behövas.\n\nOBS: Mycket av den tillgängliga informationen i källmaterialet refererar till andra företag (Samsung, Electrolux Professional, etc.) och har därför inte inkluderats i denna sammanfattning.",
+  "analysis": "Sammanfattning av Professional Galaxy AB\n\n1. Företagets storlek och antal anställda\n- Ingen specifik information om exakt antal anställda tillgänglig\n- Verkar vara ett medelstort IT-konsultföretag med kontor i flera svenska städer (Göteborg, Stockholm, Jönköping, Södertälje)\n\n2. Omsättning och finansiell information\n- Ingen konkret finansiell information tillgänglig\n\n3. Företagets värdegrund och kultur\n- Inriktad på teknologisk innovation, särskilt inom AI/ML och mjukvaruutveckling\n- Fokus på teknisk kompetens och problemlösning\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulttjänster\n- Mjukvaruutveckling inom AI/ML\n- Tekniska lösningar för automotive-branschen\n\n5. Nyliga nyheter eller utveckling\n- Aktiv rekrytering inom områden som:\n  - Machine Learning\n  - Generativ AI\n  - Test automation\n  - Cloud technologies\n\n6. Teknisk stack och kompetensområden\nTeknologier:\n- Programmeringsspråk: Python, Bash\n- AI/ML-verktyg: PyTorch, TensorFlow\n- Molnplattformar: Azure\n- Utvecklingsverktyg: GitLab, Git, Jira, Confluence\n- Designverktyg: CAD, CATIA V5\n\nKompetensområden:\n- Machine Learning\n- Data Engineering\n- MLOps\n- System Testing\n- Cloud Technologies\n- Automotive Software\n\nAnmärkning: Informationen är baserad på begränsade källor och jobbannonser, vilket medför osäkerheter kring vissa detaljer.",
   "search_results": [
     {
       "title": "Samsung - Wikipedia",
@@ -25,7 +62,7 @@
       "is_source_local": false,
       "is_source_both": false,
       "description": "The fine came due to misleading water resistance claims for over 3.1 million smartphones. The commission stated that during 2016–2018 the <strong>company</strong> advertised its <strong>Galaxy</strong> S7, S7 Edge, A5, A7, S8, S8 Plus and Note 8 devices as able to survive short immersion in water.",
-      "page_age": "2024-11-07T04:07:24",
+      "page_age": "2024-11-01T03:16:19",
       "profile": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Samsung",
@@ -48,7 +85,7 @@
         "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Samsung_headquarters.jpg",
         "logo": false
       },
-      "age": "16 hours ago"
+      "age": "6 days ago"
     },
     {
       "title": "Electrolux Professional - Overview, News & Competitors | ZoomInfo.com",
@@ -80,16 +117,17 @@
       }
     },
     {
-      "title": "Samsung’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
-      "url": "https://www.owler.com/company/samsung",
+      "title": "Samsung Electronics - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Electronics",
       "is_source_local": false,
       "is_source_both": false,
-      "description": "Samsung’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. Samsung is a South Korea-based multinational conglomerate that manufactures consumer electronics including televisions, refrigerators, speakers, laptops and smartphones. Samsung’s primary competitors include Apple, LG, Huawei and 18 more.",
+      "description": "As of 2019, Samsung Electronics ... company by revenue, and its market capitalization stood at <strong>US$520.65 billion</strong>, the 12th largest in the world. It ranks as the world&#x27;s largest manufacturer of smartphones since 2011 — starting with the original Samsung Solstice, and most notably its Samsung ...",
+      "page_age": "2024-11-06T00:12:09",
       "profile": {
-        "name": "Owler",
-        "url": "https://www.owler.com/company/samsung",
-        "long_name": "owler.com",
-        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Samsung_Electronics",
+        "long_name": "en.wikipedia.org",
+        "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
       },
       "language": "en",
       "family_friendly": true,
@@ -97,16 +135,17 @@
       "subtype": "generic",
       "meta_url": {
         "scheme": "https",
-        "netloc": "owler.com",
-        "hostname": "www.owler.com",
-        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
-        "path": "› company  › samsung"
+        "netloc": "en.wikipedia.org",
+        "hostname": "en.wikipedia.org",
+        "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+        "path": "› wiki  › Samsung_Electronics"
       },
       "thumbnail": {
-        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
-        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
-        "logo": true
-      }
+        "src": "https://imgs.search.brave.com/3in57xrDeRf10Lk2rhO9-3WykvMB14yhyLlycK5pUms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1NhbXN1bmdf/RGlnaXRhbF9Db21w/bGV4JTJDX1N1d29u/Xy1fcGFub3JhbWlv/LmpwZw",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Samsung_Digital_Complex%2C_Suwon_-_panoramio.jpg",
+        "logo": false
+      },
+      "age": "1 day ago"
     },
     {
       "title": "FAST-FACTS – Samsung Global Newsroom",
@@ -138,16 +177,16 @@
       }
     },
     {
-      "title": "How much do Galaxy Digital Holdings Ltd employees make? | Salary.com",
-      "url": "https://www.salary.com/research/company/galaxy-digital-holdings-ltd-salary",
+      "title": "Samsung’s Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "url": "https://www.owler.com/company/samsung",
       "is_source_local": false,
       "is_source_both": false,
-      "description": "The company&#x27;s revenue is about <strong>$50M - $200M</strong>, and its salary level is estimated to be slightly higher than that of the same industry. In the long run, the future development is better, and the competitiveness is higher compared to companies in the same industry.",
+      "description": "Samsung’s Profile, <strong>Revenue</strong> <strong>and</strong> <strong>Employees</strong>. Samsung is a South Korea-based multinational conglomerate that manufactures consumer electronics including televisions, refrigerators, speakers, laptops and smartphones. Samsung’s primary competitors include Apple, LG, Huawei and 18 more.",
       "profile": {
-        "name": "Salary",
-        "url": "https://www.salary.com/research/company/galaxy-digital-holdings-ltd-salary",
-        "long_name": "salary.com",
-        "img": "https://imgs.search.brave.com/wsAgHBV5K6oO5TEJ8pN5_Z2eNODXUI7lcgNl5-rSb38/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2JmNTMxMzEw/NGRiNGUxYzFhOWQ2/YTNkMjNlZGUyNzdk/ZGJmMzI4NDNkNWQ0/OGU2ODEwNTQ2ODAx/YjZiMzQ4OS93d3cu/c2FsYXJ5LmNvbS8"
+        "name": "Owler",
+        "url": "https://www.owler.com/company/samsung",
+        "long_name": "owler.com",
+        "img": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw"
       },
       "language": "en",
       "family_friendly": true,
@@ -155,12 +194,17 @@
       "subtype": "generic",
       "meta_url": {
         "scheme": "https",
-        "netloc": "salary.com",
-        "hostname": "www.salary.com",
-        "favicon": "https://imgs.search.brave.com/wsAgHBV5K6oO5TEJ8pN5_Z2eNODXUI7lcgNl5-rSb38/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2JmNTMxMzEw/NGRiNGUxYzFhOWQ2/YTNkMjNlZGUyNzdk/ZGJmMzI4NDNkNWQ0/OGU2ODEwNTQ2ODAx/YjZiMzQ4OS93d3cu/c2FsYXJ5LmNvbS8",
-        "path": "  › home  › research  › employer  › galaxy digital holdings ltd salary"
+        "netloc": "owler.com",
+        "hostname": "www.owler.com",
+        "favicon": "https://imgs.search.brave.com/MEuDjxcPZY6_1-F2omHjtpKCbxo1A6kTsNK_SegDBac/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY1YmIwOGVi/ZjA1YmE0MmMxMmI3/NzM3NDRlMjVmNzc2/OGUxNDg5ZmFmZDUx/M2IxNjY3YjIxMjdi/MzU3OTQwNS93d3cu/b3dsZXIuY29tLw",
+        "path": "› company  › samsung"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/wd5qOG0c9luO7HKQwGb8Obpfkv9DM6wzu72hJ4AnpZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZTQub3dsZXIuY29t/L2Fzc2V0cy92Mi9s/b2dvcy9vd2xlci1t/d19sb2dvLXdoaXRl/LWJnLTEyMDB4MTIw/MC5wbmc",
+        "original": "https://image4.owler.com/assets/v2/logos/owler-mw_logo-white-bg-1200x1200.png",
+        "logo": true
       }
     }
   ],
-  "generated_date": "2024-11-07T20:57:57.424645"
+  "generated_date": "2024-11-07T02:38:34.753075"
 }

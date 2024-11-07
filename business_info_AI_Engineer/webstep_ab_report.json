@@ -2,7 +2,7 @@
   "company_info": {
     "name": "Webstep AB",
     "descriptions": [
-      "Part of B3 consulting group with expertise in AI applications"
+      "Part of B3-koncernen, specializing in AI applications and project delivery"
     ],
     "industries": [
       "IT Consulting"
@@ -15,17 +15,17 @@
       "TensorFlow",
       "SQL",
       "Matplotlib",
-      "Scikit-learn",
-      "Pandas",
-      "Python",
+      "Scala",
       "R",
-      "Scala"
+      "Python",
+      "Scikit-learn",
+      "Pandas"
     ],
     "job_titles": [
       "Machine Learning Engineer"
     ]
   },
-  "analysis": "Baserat på den tillgängliga informationen, här är en strukturerad sammanfattning av Webstep AB:\n\n1. Företagets storlek och antal anställda:\n- Del av B3 consulting group\n- Har närvaro i Skandinavien\n- Exakt antal anställda framgår inte av källorna\n\n2. Omsättning och finansiell information:\n- Specifik finansiell information saknas i de tillgängliga källorna\n\n3. Företagets värdegrund och kultur:\n- Motto: \"Vi utvecklar morgondagen\" (LinkedIn)\n- Fokus på högkvalificerad systemutveckling och konsulttjänster\n- Levererar konsulter till marknadsledande företag i Skandinavien\n\n4. Huvudsakliga produkter/tjänster:\n- IT-konsulttjänster med fokus på:\n  * Systemutveckling\n  * Integration\n  * Arkitektur\n  * Kvalitetssäkring\n  * Testhantering\n  * AI-applikationer\n- Betjänar över 250 kunder inom olika branscher (webstep.com)\n\n5. Nyliga nyheter eller utveckling:\n- Ingen specifik aktuell utveckling framgår av källorna\n\n6. Teknisk stack och kompetensområden:\n- AI och maskininlärning med verktyg som:\n  * Python\n  * PyTorch\n  * TensorFlow\n  * SQL\n  * Matplotlib\n  * Scikit-learn\n  * Pandas\n  * R\n  * Scala\n\nKällor:\n- LinkedIn företagsprofil\n- Webstep.com\n- Jobbannonser\n- Glassdoor företagsprofil\n\nNotera att vissa aspekter som exakt antal anställda och finansiell information inte är tillgängliga i de givna källorna.",
+  "analysis": "Sammanfattning av Webstep AB:\n\n1. Företagets storlek och antal anställda\n- Enligt LinkedIn har företaget över 2,727 följare\n- Verkar vara ett medelstort IT-konsultföretag\n- Del av B3-koncernen [Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Specifik omsättningssiffra ej tillgänglig\n- Är ett noterat bolag med aktieinnehav [Källa: PitchBook]\n\n3. Värdegrund och kultur\n- Slogan: \"Vi utvecklar morgondagen\" \n- Fokus på högkvalificerade konsulter\n- Levererar konsulttjänster inom systemutveckling [Källa: LinkedIn]\n\n4. Huvudsakliga produkter/tjänster\n- IT-konsulttjänster\n- Systemutveckling\n- Integration\n- Arkitektur\n- Kvalitetssäkring\n- Testledning\n- Betjänar över 250 kunder inom olika branscher [Källa: Webstep.com]\n\n5. Teknisk stack och kompetensområden\nSpecialistkompetenser inom:\n- Machine Learning\n- AI-applikationer\n- Programmeringsspråk: Python, Scala, R\n- ML-bibliotek: PyTorch, TensorFlow, Scikit-learn\n- Dataanalys: Pandas, Matplotlib\n- Databaser: SQL [Källa: Jobbannonser]\n\n6. Geografisk närvaro\n- Huvudsakligen verksamma i Skandinavien\n- Kontor i Uppsala [Källa: Jobbannonser]\n\nAnmärkning: Vissa detaljer är begränsade p.g.a. bristfälliga källor.",
   "search_results": [
     {
       "title": "Webstep Company Profile: Stock Performance & Earnings | PitchBook",
@@ -175,5 +175,5 @@
       "age": "September 3, 2024"
     }
   ],
-  "generated_date": "2024-11-07T20:57:49.396672"
+  "generated_date": "2024-11-07T02:59:41.987618"
 }

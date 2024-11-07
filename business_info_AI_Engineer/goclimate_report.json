@@ -2,7 +2,7 @@
   "company_info": {
     "name": "GoClimate",
     "descriptions": [
-      "Social enterprise focused on fighting climate change"
+      "A social enterprise focused on fighting climate change through innovative technology solutions"
     ],
     "industries": [
       "Climate Technology"
@@ -11,17 +11,19 @@
       "Stockholm"
     ],
     "skills": [
+      "Machine Learning",
+      "Data Analysis",
       "Data Cleaning",
-      "Model Development",
-      "Google Cloud",
+      "Model Training",
+      "Model Deployment",
       "Python",
-      "Machine Learning"
+      "Google Cloud"
     ],
     "job_titles": [
       "Machine Learning Engineer"
     ]
   },
-  "analysis": "Här är en strukturerad sammanfattning av GoClimate baserat på tillgänglig information:\n\n1. Företagets storlek och antal anställda\n- Verkar vara ett mindre företag, men exakt antal anställda framgår inte från källorna\n- Baserat i Stockholm\n\n2. Omsättning och finansiell information\n- Företaget profilerar sig med \"100% financial transparency\" (goclimate.com/transparency)\n- Specifika finansiella siffror saknas i tillgängliga källor\n\n3. Företagets värdegrund och kultur\n- Social enterprise med fokus på klimatförändring\n- Beskriver sin arbetskultur som \"effective, fun and sustainable\" (jobs.goclimate.com)\n- Informell arbetsmiljö (goclimate.com)\n- Stark mission kring planetens framtid och klimatarbete\n\n4. Huvudsakliga produkter/tjänster\n- Klimatprojekt certifierade enligt Gold Standard\n- Utbildning och inspiration för att minska koldioxidavtryck\n- \"Hållbarhetskollen\" - verktyg för utsläppsspårning\n- Tjänster för både individer och företag för att mäta och minska klimatpåverkan\n\n5. Nyliga nyheter eller utveckling\n- Ingen specifik information tillgänglig från källorna\n\n6. Teknisk stack och kompetensområden\nBaserat på jobbannonser:\n- Google Cloud\n- Python\n- Machine Learning\n- Data Cleaning\n- Model Development\n\nKällor:\n- goclimate.com/transparency\n- goclimate.com/us/faq\n- jobs.goclimate.com\n- goclimate.com\n- Jobbannonser\n\nNotera: Vissa aspekter har begränsad information i de tillgängliga källorna, särskilt gällande företagets storlek, finansiell information och senaste utveckling.",
+  "analysis": "Sammanfattning av GoClimate:\n\n1. Företagets storlek och anställda\n- Specifik information om antal anställda saknas\n- Baserat i Stockholm, Sverige [Källa: Jobbannonser]\n\n2. Omsättning och finansiell information\n- Ingen specifik ekonomisk data tillgänglig\n- Beskrivs som ett socialt företag [Källa: Jobbannonser]\n\n3. Värdegrund och kultur\n- Fokus på klimatförändring och hållbarhet\n- Arbetar för en mer hållbar planet\n- Beskriver sin arbetskultur som informell och meningsfull\n- Motto: \"Varje handling räknas\" [Källa: Webbplats]\n\n4. Produkter/Tjänster\n- Klimatteknologiska lösningar\n- Hållbarhetskollen - verktyg för att mäta företags utsläpp\n- Stöder Gold Standard-certifierade klimatprojekt\n- Utbildning och inspiration för att minska koldioxidavtryck [Källa: Webbplats]\n\n5. Senaste utveckling\n- Ingen specifik ny information identifierad\n\n6. Teknisk kompetens\n- Kompetensområden:\n  - Machine Learning\n  - Data Analysis\n  - Python\n  - Google Cloud\n- Fokus på datadriven klimatlösning [Källa: Jobbannonser]\n\nAnmärkning: Informationen är begränsad och delvis fragmentarisk.",
   "search_results": [
     {
       "title": "100% financial transparency - GoClimate",
@@ -45,35 +47,6 @@
         "hostname": "www.goclimate.com",
         "favicon": "https://imgs.search.brave.com/MtZZ22QGUtd3J13kooLL42_Lc9t1zZesOik3JOEms3A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzc1ZWUwYTc2/M2I3OGNmNTA1OTU2/YTUyYmNiNGU1ZGM5/ZDQ1ZWVmNmFhMmNh/YmFhODRmOWZiMWQz/MDU4ZDY1OC93d3cu/Z29jbGltYXRlLmNv/bS8",
         "path": "› transparency"
-      },
-      "thumbnail": {
-        "src": "https://imgs.search.brave.com/dL3_nS4um5VIpqgpVNxfONa0CL0eJEYSnGad6LJwLTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z29jbGltYXRlLmNv/bS9idW5kbGVzL2lt/YWdlcy9zaGFyZS1p/bWFnZS1mOTBmM2Uy/MWRmMWRhN2E4MTUw/NzYwOTVlMjgwYTNk/YS5qcGc",
-        "original": "https://www.goclimate.com/bundles/images/share-image-f90f3e21df1da7a815076095e280a3da.jpg",
-        "logo": false
-      }
-    },
-    {
-      "title": "FAQ - GoClimate",
-      "url": "https://www.goclimate.com/us/faq",
-      "is_source_local": false,
-      "is_source_both": false,
-      "description": "We also use the figures completely ... that all <strong>companies</strong> can compare themselves to. No <strong>information</strong> will be publicly displayed without your approval. If you give us approval to use your logo and your name, we may use it publicly together with the figure for total emissions or emissions per <strong>employee</strong>...",
-      "profile": {
-        "name": "Goclimate",
-        "url": "https://www.goclimate.com/us/faq",
-        "long_name": "goclimate.com",
-        "img": "https://imgs.search.brave.com/MtZZ22QGUtd3J13kooLL42_Lc9t1zZesOik3JOEms3A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzc1ZWUwYTc2/M2I3OGNmNTA1OTU2/YTUyYmNiNGU1ZGM5/ZDQ1ZWVmNmFhMmNh/YmFhODRmOWZiMWQz/MDU4ZDY1OC93d3cu/Z29jbGltYXRlLmNv/bS8"
-      },
-      "language": "en",
-      "family_friendly": true,
-      "type": "search_result",
-      "subtype": "generic",
-      "meta_url": {
-        "scheme": "https",
-        "netloc": "goclimate.com",
-        "hostname": "www.goclimate.com",
-        "favicon": "https://imgs.search.brave.com/MtZZ22QGUtd3J13kooLL42_Lc9t1zZesOik3JOEms3A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzc1ZWUwYTc2/M2I3OGNmNTA1OTU2/YTUyYmNiNGU1ZGM5/ZDQ1ZWVmNmFhMmNh/YmFhODRmOWZiMWQz/MDU4ZDY1OC93d3cu/Z29jbGltYXRlLmNv/bS8",
-        "path": "› us  › faq"
       },
       "thumbnail": {
         "src": "https://imgs.search.brave.com/dL3_nS4um5VIpqgpVNxfONa0CL0eJEYSnGad6LJwLTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z29jbGltYXRlLmNv/bS9idW5kbGVzL2lt/YWdlcy9zaGFyZS1p/bWFnZS1mOTBmM2Uy/MWRmMWRhN2E4MTUw/NzYwOTVlMjgwYTNk/YS5qcGc",
@@ -107,6 +80,35 @@
       "thumbnail": {
         "src": "https://imgs.search.brave.com/-QvYTP_rmt9FWjYSjbs2d34p-C12ImDv0TpSf5-T-Fc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zY3Jl/ZW5zaG90cy50ZWFt/dGFpbG9yLWNkbi5j/b20vYzdhZjBjZTQt/ZDNiNC00ZWJkLTk3/ZTYtZDdhZmM0NTU0/ZDUxLWZhY2Vib29r/LnBuZz91cGRhdGU9/MTcxNjIxMDgyNA",
         "original": "https://screenshots.teamtailor-cdn.com/c7af0ce4-d3b4-4ebd-97e6-d7afc4554d51-facebook.png?update=1716210824",
+        "logo": false
+      }
+    },
+    {
+      "title": "FAQ - GoClimate",
+      "url": "https://www.goclimate.com/faq",
+      "is_source_local": false,
+      "is_source_both": false,
+      "description": "We also use the figures completely ... that all <strong>companies</strong> can compare themselves to. No <strong>information</strong> will be publicly displayed without your approval. If you give us approval to use your logo and your name, we may use it publicly together with the figure for total emissions or emissions per <strong>employee</strong>...",
+      "profile": {
+        "name": "Goclimate",
+        "url": "https://www.goclimate.com/faq",
+        "long_name": "goclimate.com",
+        "img": "https://imgs.search.brave.com/MtZZ22QGUtd3J13kooLL42_Lc9t1zZesOik3JOEms3A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzc1ZWUwYTc2/M2I3OGNmNTA1OTU2/YTUyYmNiNGU1ZGM5/ZDQ1ZWVmNmFhMmNh/YmFhODRmOWZiMWQz/MDU4ZDY1OC93d3cu/Z29jbGltYXRlLmNv/bS8"
+      },
+      "language": "en",
+      "family_friendly": true,
+      "type": "search_result",
+      "subtype": "generic",
+      "meta_url": {
+        "scheme": "https",
+        "netloc": "goclimate.com",
+        "hostname": "www.goclimate.com",
+        "favicon": "https://imgs.search.brave.com/MtZZ22QGUtd3J13kooLL42_Lc9t1zZesOik3JOEms3A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzc1ZWUwYTc2/M2I3OGNmNTA1OTU2/YTUyYmNiNGU1ZGM5/ZDQ1ZWVmNmFhMmNh/YmFhODRmOWZiMWQz/MDU4ZDY1OC93d3cu/Z29jbGltYXRlLmNv/bS8",
+        "path": "› faq"
+      },
+      "thumbnail": {
+        "src": "https://imgs.search.brave.com/dL3_nS4um5VIpqgpVNxfONa0CL0eJEYSnGad6LJwLTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z29jbGltYXRlLmNv/bS9idW5kbGVzL2lt/YWdlcy9zaGFyZS1p/bWFnZS1mOTBmM2Uy/MWRmMWRhN2E4MTUw/NzYwOTVlMjgwYTNk/YS5qcGc",
+        "original": "https://www.goclimate.com/bundles/images/share-image-f90f3e21df1da7a815076095e280a3da.jpg",
         "logo": false
       }
     },
@@ -164,5 +166,5 @@
       }
     }
   ],
-  "generated_date": "2024-11-07T20:57:12.201684"
+  "generated_date": "2024-11-07T02:53:12.587101"
 }

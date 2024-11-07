@@ -2,28 +2,29 @@
   "company_info": {
     "name": "ManoMotion AB",
     "descriptions": [
-      "Technology company specializing in computer vision solutions"
+      "Teknologiföretag som arbetar med maskininlärning och datorseende"
     ],
     "industries": [
-      "Computer Vision"
+      "Teknologi"
     ],
     "locations": [
       "Stockholm"
     ],
     "skills": [
-      "Keras",
       "PyTorch",
       "TensorFlow",
-      "OpenCV",
+      "Keras",
+      "Cloud Platform",
       "Python",
-      "Git",
-      "Linux"
+      "MLOps",
+      "GCP",
+      "OpenCV"
     ],
     "job_titles": [
       "Machine Learning / Computer Vision Engineer"
     ]
   },
-  "analysis": "Här är en strukturerad sammanfattning av ManoMotion AB:\n\n1. Företagets storlek och antal anställda\n- Mindre företag med cirka 18-20 anställda enligt olika källor\n- Baserat i Stockholm, Sverige\n[Källor: RocketReach, Growjo]\n\n2. Omsättning och finansiell information\n- Rapporterad årlig intäkt varierar mellan källor:\n  * $2M enligt Growjo\n  * $21M enligt RocketReach\n[Notera: Betydande skillnad mellan källorna gör det svårt att fastställa exakt omsättning]\n\n3. Företagets värdegrund och kultur\n- Ingen direkt information tillgänglig från källorna\n\n4. Huvudsakliga produkter/tjänster\n- Specialiserar sig inom:\n  * Gesture technology/gestteknik\n  * Computer vision-lösningar\n  * 3D-teknologi\n  * Mjukvaruutveckling\n[Källor: Crunchbase, jobbannons]\n\n5. Nyliga nyheter eller utveckling\n- Ingen specifik information tillgänglig från källorna\n\n6. Teknisk stack och kompetensområden\nBaserat på jobbannonser söker företaget kompetens inom:\n- Machine Learning-ramverk: Keras, PyTorch, TensorFlow\n- Computer Vision: OpenCV\n- Programmeringsspråk: Python\n- Utvecklingsverktyg: Git\n- Operativsystem: Linux\n\nÖvrig information:\n- Organisationsnummer: 5590171830\n- Adress: Drottninggatan 82, Stockholm\n[Källa: Merit500]\n\nObservera att viss information varierar mellan källorna och bör verifieras ytterligare för full säkerhet.",
+  "analysis": "Sammanfattning av ManoMotion AB\n\n1. Storlek och antal anställda:\n- Omkring 18-20 anställda [Källa: Growjo.com, RocketReach.co]\n\n2. Omsättning och finansiell information:\n- Årlig intäkt varierar mellan rapporter:\n  * $2 miljoner (Growjo.com)\n  * $21 miljoner (RocketReach.co)\n- Osäkerhet kring exakt omsättningssiffra\n\n3. Värdegrund och kultur:\n- Inget specifikt angivet i tillgängliga källor\n\n4. Huvudsakliga produkter/tjänster:\n- Gestteknik som möjliggör manipulation av objekt i 3D-rymd\n- Fokus på maskininlärning och datorseende [Källa: Crunchbase, jobbannonser]\n\n5. Nyliga nyheter/utveckling:\n- Ingen specifik information hittad\n\n6. Teknisk stack och kompetensområden:\nTekniska kompetenser:\n- Programmeringsspråk: Python\n- Maskininlärningsramverk: PyTorch, TensorFlow, Keras\n- Molnplattformar: Google Cloud Platform (GCP)\n- Bildbehandling: OpenCV\n- Specialområden: Maskininlärning, datorseende\n\nÖvrig information:\n- Lokalisering: Stockholm, Sverige\n- Bransch: Teknologi, mjukvaruutveckling, konsumentelektronik\n\nAnmärkning: Informationen är begränsad och delvis motsägelsefull mellan olika källor.",
   "search_results": [
     {
       "title": "Manomotion: Revenue, Competitors, Alternatives",
@@ -156,5 +157,5 @@
       }
     }
   ],
-  "generated_date": "2024-11-07T20:58:43.404540"
+  "generated_date": "2024-11-07T03:09:59.765342"
 }

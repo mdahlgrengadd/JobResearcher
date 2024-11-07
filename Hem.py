@@ -4,6 +4,54 @@ import plotly.express as px
 import plotly.graph_objects as go
 from collections import Counter
 import json
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+from collections import Counter
+import json
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import numpy as np
+from PIL import Image
+import os
+import glob
+
+# Add these functions after the existing load_data function
+
+
+def create_wordcloud(df):
+    """
+    Create a word cloud from skills in job listings
+    """
+    # Flatten the skills list
+    all_skills = []
+    for skills in df['Skills']:
+        if isinstance(skills, list):
+            all_skills.extend(skills)
+
+    # Create text for word cloud
+    text = ' '.join(all_skills)
+
+    # Create and generate a word cloud image
+    wordcloud = WordCloud(
+        width=800,
+        height=400,
+        background_color='black',
+        colormap='viridis',
+        max_words=100,
+        min_font_size=10,
+        max_font_size=150,
+        random_state=42
+    ).generate(text)
+
+    # Create matplotlib figure
+    fig, ax = plt.subplots(figsize=(20, 10), facecolor='k')
+    ax.imshow(wordcloud, interpolation='bilinear')
+    ax.axis('off')
+
+    return fig
+
 
 # Set page config
 st.set_page_config(
@@ -54,9 +102,29 @@ def normalize_language(lang):
 # Function to load and process the data
 
 
+json_files = glob.glob('job_listings/*.json')
+file_names = [os.path.basename(f) for f in json_files]
+selected_file = st.sidebar.selectbox('Välj JSON-fil', file_names)
+
+with open(os.path.join('job_listings', selected_file), 'r') as file:
+    job_data = json.load(file)
+
+
 def load_and_process_data():
-    with open('job_results.json', 'r') as file:
+    # Replace hardcoded filename with selected_file
+    with open(os.path.join('job_listings', selected_file), 'r') as file:
         data = json.load(file)
+
+    # Extract and store metadata
+    search_query = data.get('Search query', 'N/A')
+    search_engine = data.get('Search Engine', 'N/A')
+    total_jobs_found = data.get('Total Jobs Found', 0)
+    pages_processed = data.get('Pages Processed', 0)
+
+    st.sidebar.info(f"**Sökuppgifter:** {search_query}")
+    st.sidebar.info(f"**Sökmotor:** {search_engine}")
+    st.sidebar.info(f"**Totala Jobb Hittade:** {total_jobs_found}")
+    st.sidebar.info(f"**Sidor Bearbetade:** {pages_processed}")
 
     df = pd.DataFrame(data['Jobs'])
 
@@ -132,12 +200,14 @@ def show_dashboard(df, skill_freq):
     # Role Distribution
     st.header("1. Analys av Yrkesroller")
 
+    # Fill missing 'Company Industry' values
+    df['Company Industry'] = df['Company Industry'].fillna('Unknown')
+
     fig_roles = px.treemap(
         df,
         path=['Company Industry', 'Jobtitle'],
         title="Fördelning av Yrkesroller per Bransch",
-        width=800,
-        height=500
+        height=640
     )
     st.plotly_chart(fig_roles)
 
@@ -287,6 +357,11 @@ def show_dashboard(df, skill_freq):
                                  yaxis_title="Term")
 
         st.plotly_chart(fig_titles, use_container_width=True)
+
+    st.subheader("")
+    wordcloud_fig = create_wordcloud(df)
+    st.sidebar.pyplot(wordcloud_fig)
+    plt.close(wordcloud_fig)  # Clean up matplotlib figure
 
 
 def show_dashboard2(df, skill_freq):
@@ -503,7 +578,7 @@ def show_data_explorer(df):
 
 
 def main():
-    with open('job_results.json') as f:
+    with open('job_results3.json') as f:
         job_data = json.load(f)
 
     df, skill_freq = load_data(job_data)

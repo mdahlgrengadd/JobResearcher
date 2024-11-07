@@ -2,26 +2,28 @@
   "company_info": {
     "name": "Jobbs On Sweden AB",
     "descriptions": [
-      "Tech consulting company focusing on innovative technology solutions"
+      "A technology company"
     ],
     "industries": [
-      "IT Consulting"
+      "IT Services"
     ],
     "locations": [
       "Stockholm"
     ],
     "skills": [
-      "Python",
-      "System Architecture",
-      "Machine Learning",
-      "Linux",
-      "AI Automation"
+      "Java",
+      "C++",
+      "Kotlin",
+      "C#",
+      "API Design",
+      "Node.js",
+      "Linux"
     ],
     "job_titles": [
-      "Systemarkitekt - Machine Learning / Data Engineering"
+      "Senior Software Engineer"
     ]
   },
-  "analysis": "Här är en strukturerad sammanfattning baserad på den tillgängliga informationen:\n\n1. Företagets storlek och antal anställda\n- Exakt antal anställda framgår inte av källorna\n- Företaget har 2 099 följare på LinkedIn (enligt LinkedIn-profilen)\n\n2. Omsättning och finansiell information\n- Ingen specifik finansiell information tillgänglig i källmaterialet\n\n3. Företagets värdegrund och kultur\n- Fokuserar på att kombinera teknisk skicklighet med personliga ambitioner\n- Arbetar för att skapa framgångsrika och bestående anställningar\n(Källa: LinkedIn-beskrivning)\n\n4. Huvudsakliga produkter/tjänster\n- IT-rekrytering och konsulttjänster\n- Tech consulting med fokus på innovativa teknologilösningar\n- Specialister på IT-rekrytering\n(Källor: LinkedIn-beskrivning och jobbannonser)\n\n5. Nyliga nyheter eller utveckling\n- Ingen specifik nyhetsinformation tillgänglig i källmaterialet\n\n6. Teknisk stack och kompetensområden\nFokusområden inkluderar:\n- Python\n- System Architecture\n- Machine Learning\n- Linux\n- AI Automation\n(Källa: Jobbannonsinformation)\n\nSammanfattningsvis framstår Jobbs On Sweden AB som ett IT-konsultföretag med fokus på rekrytering och tekniska konsulttjänster, särskilt inom områden som AI, maskininlärning och systemarkitektur. Företaget är baserat i Stockholm och profilerar sig som specialist inom IT-rekrytering. Noterbart är att flera viktiga detaljer som exakt antal anställda och finansiell information inte är tillgängliga i det givna källmaterialet.",
+  "analysis": "Sammanfattning av Jobbs On Sweden AB\n\n1. Företagets storlek och antal anställda\n- Inte exakt antal anställda fastställt\n- Har 2,099 följare på LinkedIn (LinkedIn-källa)\n\n2. Omsättning och finansiell information\n- Begränsad tillgänglig information\n- Specifik finansiell data saknas\n\n3. Företagets värdegrund och kultur\n- IT-rekryteringsföretag som fokuserar på:\n  - Kombination av teknisk skicklighet\n  - Personliga ambitioner\n  - Skapande av framgångsrika anställningar\n\n4. Huvudsakliga produkter/tjänster\n- IT-rekrytering och konsulttjänster\n- Specialiserade inom IT-branschen\n\n5. Nyliga nyheter eller utveckling\n- Inga specifika nyheter identifierade\n\n6. Teknisk stack och kompetensområden\nEftersökta tekniska kompetenser:\n- Programmeringsspråk: Java, C++, Kotlin, C#\n- Teknologier: Node.js, Linux\n- Specialistområden: API Design\n- Bransch: IT Services\n\nPlats: Stockholm\n\nKällor:\n- LinkedIn-profil\n- Jobbannonser\n- Webbsökningar\n\nAnmärkning: Informationen är begränsad och skulle behöva verifieras med ytterligare research.",
   "search_results": [
     {
       "title": "Jobbs On Sweden AB - Company Information, Competitors, News & FAQs",
@@ -164,5 +166,5 @@
       }
     }
   ],
-  "generated_date": "2024-11-07T20:58:16.403615"
+  "generated_date": "2024-11-07T02:59:03.064017"
 }
