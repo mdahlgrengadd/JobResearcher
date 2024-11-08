@@ -19,9 +19,9 @@ def display_company_analysis(company_data):
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            st.subheader("Företagsinfo")
-            st.write(f"**Namn:** {info.get('name', 'N/A')}")
-            st.write("**Beskrivning:**")
+            # st.subheader(f"{info.get('name', 'N/A')}")
+            # st.write(f"**Namn:** {info.get('name', 'N/A')}")
+            st.subheader("**Beskrivning:**")
             for desc in info.get('descriptions', []):
                 st.write(f"- {desc}")
 
@@ -88,14 +88,17 @@ def load_company_reports():
             return {}
 
         company_reports = {}
-        for file_path in business_info_path.glob("*.json"):
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    company_reports[file_path.stem] = data
-            except Exception as e:
-                st.warning(f"Error loading {file_path.name}: {str(e)}")
-                continue
+        # Iterate through group subfolders
+        for group_path in business_info_path.iterdir():
+            if group_path.is_dir():
+                for file_path in group_path.glob("*.json"):
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            company_reports[file_path.stem] = data
+                    except Exception as e:
+                        st.warning(f"Error loading {file_path.name}: {str(e)}")
+                        continue
 
         return company_reports
     except Exception as e:
@@ -152,15 +155,30 @@ def main():
         st.error("No job data available to display.")
         return
 
-    # Company Reports Section
-    st.header("Företagsanalyser")
-
     if not company_reports:
         st.warning(
             "No company reports available. Please add JSON files to the business_info directory.")
     else:
+        # Add group selector
+        groups = sorted([group.name for group in Path(
+            "business_info").iterdir() if group.is_dir()])
+        selected_group = st.sidebar.selectbox(
+            "Välj en grupp av företag:", options=groups)
+
+        # Load companies from selected group
+        company_reports = {}
+        selected_group_path = Path("business_info") / selected_group
+        for file_path in selected_group_path.glob("*.json"):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    company_reports[file_path.stem] = data
+            except Exception as e:
+                st.warning(f"Error loading {file_path.name}: {str(e)}")
+                continue
+
         # Company selector
-        selected_company = st.selectbox(
+        selected_company = st.sidebar.selectbox(
             "Välj ett företag ur listan:",
             options=list(company_reports.keys()),
             format_func=lambda x: x.replace('_', ' ').title()
@@ -168,6 +186,11 @@ def main():
 
         # Display selected company analysis
         if selected_company:
+            # Company Reports Section
+            company_data = company_reports[selected_company]
+            info = company_data['company_info']
+            st.header(f"{info.get('name', 'N/A')}")
+            # st.header("Företagsanalyser")
             display_company_analysis(company_reports[selected_company])
 
 
