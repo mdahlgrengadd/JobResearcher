@@ -578,7 +578,7 @@ def show_data_explorer(df):
 
 
 def main():
-    with open('job_results3.json') as f:
+    with open('job_results.json') as f:
         job_data = json.load(f)
 
     df, skill_freq = load_data(job_data)
